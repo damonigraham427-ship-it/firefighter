@@ -17,6 +17,15 @@
    "chapter": "Reading Comprehension",
    "pie": true,
    "draw": 20
+  },
+  {
+   "file": "ff-numeracy.json",
+   "title": "Numeracy",
+   "note": "Numeracy sets 1–2",
+   "category": "Firefighter",
+   "chapter": "Tables and Numeracy",
+   "pie": true,
+   "draw": 20
   }
  ]
 }

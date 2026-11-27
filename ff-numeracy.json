@@ -1,0 +1,529 @@
+{
+ "questions": [
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the volume of a gas canister that has a density of 5 kg/liter and a mass of 20 kilograms?",
+   "choices": [
+    "0.25",
+    "4",
+    "100",
+    "0.01",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 4\n\nThe formula for calculating density is:\nDensity = Mass/Volume\n\nSince you are required to calculate the volume, isolate it:\nMultiply both sides of the equation by 'Volume':\nVolume*Density = Volume*(Mass/Volume)\nVolume*Density = Mass\nNow, divide by 'Density':",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Density, Mass and Weight",
+   "topic_n": 1
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the area of a trapezoid with an upper base of 16', lower base of 22' and height of 35'?",
+   "choices": [
+    "665",
+    "12,320",
+    "6,160",
+    "1,330",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 665\n\nThe formula for calculating an area of a trapezoid is:\nArea of a trapezoid = [1/2(upper base + lower base)]*height\n\nInsert the given data:\nUpper base = 16'\nLower base = 22'\nHeight = 35'",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nHow many square feet of wood are needed to cut 5 parallelogram shapes if each shape has a base of 2.5 feet and a height of 8 feet?",
+   "choices": [
+    "20",
+    "320",
+    "0.25",
+    "100",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 100\n\nThe formula for calculating an area of a parallelogram is:\nArea of a parallelogram = base*height\n\nInsert the given data:\nBase = 2.5 feet\nHeight = 8 feet\nArea of one parallelogram = 2.5*8 = 2*8 + 0.5*8 = 16 + (1/2)*8 = 16 + 4 = 20 square fe",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf the office of transportation decides to issue a new triangle shaped traffic sign with a base of 2 feet and a height of 1.5 feet, what is the area of the sign?",
+   "choices": [
+    "6",
+    "4",
+    "3",
+    "1.5",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 1.5\n\nThe formula for calculating an area of a triangle is:\nArea of a triangle = 1/2(base*height)\n\nInsert the given data:\nBase = 2 feet\nHeight = 1.5 feet\nArea of the triangle = 1/2(2*1.5) = (1/2)*3 = 1.5 square feet",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nMadison wants to buy 12 slices of pizza, for her and her friends. If each slice is a perfect triangle with a base of 0.75 feet and height of 1.2, how many square feet of pizza does she need to buy?",
+   "choices": [
+    "0.75",
+    "19.2",
+    "5.4",
+    "10.8",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 5.4\n\nGiven that Madison wants to buy 12 slices of pizza, you are asked how many square feet of pizza she is buying. In other words, you are asked how many square feet are 12 slices of pizza. To calculate that first, you must calculate how many square feet are in one slice of pizza, then, multiply that number by 12.\nYou are told that each slice of pizza is a perfect triangle, with a base of 0.75 feet and a height of 1.2 feet.\nThe formula for an area of a triangle is:\nArea of a triangle = 1/2(base*height)\n\nInsert the given data:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nJamie, a contestant on \"America's got gumbo\" cooking show, wants to prepare a chocolate pyramid dessert. If Jamie choses a pyramid mold with a volume of 1/8 cubed feet and a height of 0.5 feet, what would be its base area?",
+   "choices": [
+    "4",
+    "0.25",
+    "1.333",
+    "0.75",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 0.75\n\nThe formula for calculating a pyramid's volume is:\nVolume of a pyramid = 1/3*base area*height = (base area*height)/3\n\nIsolate the 'base area' in the formula:\n1. Multiply both sides of the formula by 3:\n3*Volume of a pyramid = 3*1/3*base area*height\n3*Volume of a pyramid = base area*height\n2. Divide both sides of the formula by 'height':",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf olive oil boils at 300 degrees Celsius, at what Rankine temperature will it boil?",
+   "choices": [
+    "813.15",
+    "1,031.67",
+    "1,031.4",
+    "1,058.2",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 1,031.67\n\nThe formula for calculating Degrees Rankine is:\nDegrees Rankine = (degrees Celsius + 273.15) x 1.8\n\nInsert the given data:\nOlive oil boiling temperature = 300 degrees Celsius\nDegrees Rankine = (300 + 273.15) * 1.8 = 573.15 * 1.8 = 1,031.67\n\nSolving tips: When multiplying two decimals it is sometime easier to turn them into fra",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf Antimony melts at 1,625.67 degrees Rankine, at what Celsius temperature will it melt?",
+   "choices": [
+    "903.15",
+    "751.4",
+    "630",
+    "3,417.876",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 630\n\nThe formula for calculating degrees Rankine is:\nDegrees Rankine = (degrees Celsius + 273.15) x 1.8\n\nIsolate the 'Celsius degrees' in the formula:\n1. Divide both sides of the equation by 1.8\nDegrees Rankine/1.8 = (degrees Celsius + 273.15) x 1.8/1.8\nDegrees Rankine/1.8 = degrees Celsius + 273.15\n2. Subtract 273.15 from both sides of the equation:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the radius of a cylinder shaped building with a volume of 1,004,800 cubic inches and a height of 800 inches?",
+   "choices": [
+    "20",
+    "1,256",
+    "400",
+    "160,000",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 20\n\nThe formula for calculating cylinder's volume is:\nVolume of a cylinder = 3.14 * r² * height\n\nIsolate the 'radius squared' (r²) in the formula:\n1. Divide both sides of the equation by 3.14*height:\nVolume of a cylinder/(3.14*height) = r²*3.14*height/(3.14*height)\nVolume of a cylinder/(3.14*height) = r²",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf a gas vapors at 855.23 degrees Rankine, at what degree Fahrenheit will it vapor?",
+   "choices": [
+    "201.98",
+    "1,314.9",
+    "396.31",
+    "2,031",
+    "N"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E) - N\n\nThe formula for calculating Degrees Rankine is:\nDegrees Rankine = degrees Fahrenheit + 459.67\n\nIsolate the 'Fahrenheit degrees' in the formula:\nSubtract 459.67 from both sides of the formula:\nDegrees Rankine - 459.67 = degrees Fahrenheit + 459.67 - 459.67\nDegrees Rankine - 459.67 = degrees Fahrenheit\nDegrees Fahrenheit = degrees Rankine - 459.67",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nA triangle with a base of 60 inches and a height of 15 inches is placed on a surface. If the triangle covers half of the surface, how much of it will be covered by another triangle, with a base of 50 inches and height of 12 inches?",
+   "choices": [
+    "1.5",
+    "2/3",
+    "0.75",
+    "1/3",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 1/3\n\nThe formula for calculating the area of a triangle is:\nArea of a triangle = 1/2(base*height)\n\nFirst, calculate the area of the first triangle:\nTriangle's base = 60 inches\nTriangle's height = 15 inches\nArea of the first triangle = 1/2(60*15) = 1/2(60*10 + 60*5) = 1/2(600 + 300) = (1/2)*90\nsquare inches",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nAn astronaut is hopping on the moon. How much does he weight if his mass is 70 Kg and the gravitational acceleration on the moon is 0.16 g?\n\n*Neglect the additional mass and weight caused by the astronaut's equipment.",
+   "choices": [
+    "2/875",
+    "5.6",
+    "11.2",
+    "437.5",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 11.2\n\nThe formula for calculating Mass is:\nMass = weight / gravitational acceleration\n\nSince you are required to calculate the weight, isolate it in the formula:\nMultiply both sides of the equation by 'gravitational acceleration':\nGravitational acceleration*mass = gravitational acceleration*weight/gravitational acceleration\nGravitational acceleration*mass = weight\n⇒ Weight = Gravitational acceleration*mass",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Density, Mass and Weight",
+   "topic_n": 1
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nSophia bought three identical ellipse shaped rugs. What is the total area of the rugs if their short radius is 90 cm and their long radius is 160 cm?",
+   "choices": [
+    "43,200",
+    "45,216",
+    "135,648",
+    "651,110,400",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 135,648\n\nThe formula for calculating area of an ellipse is:\nArea of an ellipse = 3.14 × r1 × r2\n\nInsert the given data:\nArea of an ellipse = 3.14 × 90 × 160 = 314 × 9 × 16 = 314 × 144 = 45,216 cm²\nSince you have 3 ellipses, the total area is: 3 × 45,216 = 3*40,000 + 3*5,000 + 3*200\n120,000 + 15,000 + 600 + 30 + 18 = 135,648 cm²\nSolving tip: Use long multiplication to solve this question:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nA Rhombus shaped kite has an area of 0.6 square meters and a 0.8 meters long diagonal. What is the length of the second diagonal?",
+   "choices": [
+    "0.96",
+    "0.24",
+    "2.667",
+    "1.5",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 1.5\n\nThe formula for calculating area of a rhombus is:\nArea of a Rhombus = 1/2(Diagonal1*Diagonal2)\n\nIsolate one of the diagonals in the formula:\n1. Multiply both sides of the formula by 2\n2*Area of a Rhombus = 2*1/2(Diagonal1*Diagonal2)\n2*Area of a Rhombus = Diagonal1*Diagonal2\n2. Divide by Diagonal1",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nThe water temperature in Kentucky Lake is around 300.372 degrees Kelvin in June. What is the water temperature in Celsius?",
+   "choices": [
+    "-133.58",
+    "27.222",
+    "573.522",
+    "-300.558",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 27.222\n\nThe formula for calculating Degrees Kelvin is:\nDegrees Kelvin = degrees Celsius + 273.15\n\nIsolate the Celsius degrees in the formula, by subtracting 273.15 from both sides:\nDegrees Kelvin - 273.15 = degrees Celsius + 273.15 - 273.15\nDegrees Kelvin - 273.15 = degrees Celsius\n⇒ Degrees Celsius = degrees Kelvin - 273.15",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nHarry wants to cut a round cake into identical slices. If the cake has a radius of 15 cm and the angle of the slices is 30 degrees, what is the length of a slice's circular arc?\n\n*Assume all slices meet at the middle of the cake",
+   "choices": [
+    "2.5 π",
+    "0.25 π",
+    "0.4 π",
+    "4 π",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 2.5 π\n\nThe formula for calculating the length of a circular arc is:\nLength of a circular arc = degrees of the angle x (π/180) x r\n\nInsert the given data:\n- Radius = 15 cm\n- slice's angle = 30 degrees\nThe length of a slice's circular arc = 30 x (π/180) x 15 = 450 x (π/180)\nCancel down by 10 and rearrange the equation:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Circular Arc Length",
+   "topic_n": 5
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nIf the forecast for tomorrow is 102 degrees Delisle, how much is it in Celsius?",
+   "choices": [
+    "53",
+    "32",
+    "-3",
+    "-1.333",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 32\n\nThe formula for calculating Degrees Celsius is:\nDegrees Celsius = 100 − degrees Delisle × 2/3\n\nInsert the given data:\n- The forecast for tomorrow is 102 degrees Delisle\nDegrees Celsius = 100 − 102 × 2/3 = 100 − 34 × 2 = 100 − 68 = 32\n⇒ Degrees Celsius = 32",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #1",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the mass of a liquid tank that has a density of 18 kg/liter and a volume of 3 liters?",
+   "choices": [
+    "6",
+    "48",
+    "54",
+    "0.167",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 54\n\nThe formula for calculating Density is:\nDensity = mass/volume\n\nIsolate the 'mass' in the formula:\nMultiply both sides of the formula by 'volume':\nVolume*density = Volume*mass/volume\nVolume*density = mass\nMass = Volume*density",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Density, Mass and Weight",
+   "topic_n": 1
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the height of a trapezoid with an area of 840 square feet, upper base of 15' and lower base of 33'?",
+   "choices": [
+    "8.75",
+    "35",
+    "20,160",
+    "207,900",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 35\n\nThe formula for calculating the area of a trapezoid is:\nArea of a trapezoid = [1/2(upper base + lower base)]*height\n\nIsolate the 'height' in the formula:\nDivide both sides of the formula by [1/2(upper base + lower base)]:\nArea of a trapezoid/[1/2(upper base + lower base)] = [1/2(upper base + lower base)]*height / [1/2(upper base + lower base)]\nArea of a trapezoid/[1/2(upper base + lower base)] = height",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nHow many square feet of glass are needed to cut 6 parallelogram windows panels if each panel has a base of 3 feet and a height of 7.5 feet?",
+   "choices": [
+    "22.5",
+    "15",
+    "135",
+    "2.4",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 135\n\nThe formula for calculating the area of a parallelogram is:\nArea of a parallelogram = base*height\n\nInsert the given data:\nEach parallelogram's base = 3 feet\nEach parallelogram's height = 7.5 feet\nArea of one parallelogram = 3*7.5 = 3*7 + 3*0.5 = 21 + 1.5 = 22.5 square feet",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the size of a parallelogram picture frame base, which has an area of 14 square feet and height of 3.5 feet?",
+   "choices": [
+    "4",
+    "12",
+    "24.5",
+    "49",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 4\n\nThe formula for calculating the area of a parallelogram is:\nArea of a parallelogram = base*height\n\nIsolate the 'base' in the formula:\nDivide both sides of the equation by 'height':\nArea of a parallelogram/height = base*height / height\nArea of a parallelogram/height = base\nBase = Area of a parallelogram/height",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nMatt bought a custom-made chair from a carpenter. If the chair has a triangle shaped back with a base of 1.6 feet and an area of 1.2 square feet, what is the chair's back height?",
+   "choices": [
+    "0.75",
+    "1.5",
+    "0.96",
+    "1.92",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 1.5\n\nThe formula for calculating a triangle's area is:\nArea of a triangle = 1/2(base*height)\n\nIsolate the 'height' in the formula:\n1. Multiply both sides of the formula by 2:\n2*Area of the triangle = 2*1/2(base*height)\n2*Area of the triangle = base*height\n2. Divide both sides of the formula by 'base':",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nArcheologists found a new pyramid that was buried under the sand for centuries. If according to the measurements taken, the pyramid has a base area of 756 square feet and a height of 481 feet, what is the pyramid's volume?",
+   "choices": [
+    "181,818",
+    "121,212",
+    "363,636",
+    "618.5",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 121,212\n\nThe formula for calculating a pyramid's volume is:\nVolume of a pyramid = 1/3*base area*height\n\nInsert the given data:\nPyramid's base area = 756 square feet\nPyramid's height = 481 feet\nVolume of the pyramid = 1/3*756*481 = 252*481 = 121,212 cubed feet\n⇒ Volume of the pyramid = 121,212 cubed feet",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf petrol boils at 662.67 degrees Rankine, at what Fahrenheit temperature will it boil?",
+   "choices": [
+    "203",
+    "-203",
+    "1,222.34",
+    "-1,222.34",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 203\n\nThe formula for calculating Degrees Rankine is:\nDegrees Rankine = degrees Fahrenheit + 459.67\n\nIsolate 'Fahrenheit' in the formula:\nSubtract 459.67 from both sides of the formula:\nDegrees Rankine - 459.67 = degrees Fahrenheit + 459.67 - 459.67\nDegrees Rankine - 459.67 = degrees Fahrenheit\nDegrees Fahrenheit = degrees Rankine - 459.67",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf iron melts at 1,538 degrees Celsius, at what Rankine temperature will it melt?",
+   "choices": [
+    "1,006.19",
+    "1,811.15",
+    "2,768.4",
+    "3,260.07",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 3,260.07\n\nThe formula for calculating degrees Rankine is:\nDegrees Rankine = (degrees Celsius + 273.15) x 1.8\nInsert the given data:\nIron's melting temperature = 1,538 degrees Celsius\nDegrees Rankine = (1,538 + 273.15) x 1.8 = 1,811.15 × 1.8 = 3,260.07\n\nSolving tips: When multiplying two decimals it is sometime easier to turn them into fractions with a denominator (i.e. 10, 100, 1000 etc.), e.g.:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nWhat is the volume of a cylinder shaped candle with a radius of 5 inches and a height of 28 inches?",
+   "choices": [
+    "1,099",
+    "439.6",
+    "2,198",
+    "12,308.8",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 2,198\n\nThe formula for calculating a volume of a cylinder is:\nVolume of a cylinder = 3.14 * r² * height\n\nInsert the given data:\nCylinder's radius = 5 inches\nCylinder's height = 28 inches\nVolume of a cylinder = 3.14 * 5² * 28 = 3.14 * 25 * 28 = 3.14*700 = 3.14*(7*100) = 314*",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf butane freezes at -220 degrees Fahrenheit, at what degree Rankine will it freeze?",
+   "choices": [
+    "95.67",
+    "887.67",
+    "679.67",
+    "239.67",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 239.67\n\nThe formula for calculating density is:\nDegrees Rankine = degrees Fahrenheit + 459.67\n\nInsert the given data:\nbutane's freezing temperature = -220 degrees Fahrenheit\nDegrees Rankine = -220 + 459.67 = 239.67\n⇒ Degrees Rankine = 239.67",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Temperature Conversions",
+   "topic_n": 4
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nIf a quarter of a fabric roll covers a triangle with a base of 25 inches and a height of 40 inches, how much fabric (in roll units) is required to cover a triangle with a base of 160 inches and height of 50 inches?",
+   "choices": [
+    "2",
+    "8",
+    "125",
+    "1,000",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 2\n\nThe formula for calculating an area of a triangle is:\nArea of a triangle = 1/2(base*height)\n\nFirst, calculate the area of the first triangle:\nTriangle's base = 25 inches\nTriangle's height = 40 inches\nArea of the first triangle = 1/2(25*40) = 25*40*1/2 = 25*20 = 20*20 + 5*20 = 400 + 10",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a triangle = 1/2(base*height)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Rankine = degrees Fahrenheit + 459.67\n• Degrees Rankine = (degrees Celsius + 273.15) x 1.8\n• Area of a parallelogram = base*height\n• Density = mass/volume\n• Volume of a cylinder = 3.14 * r² * height\n\nA pyramid jewel was given to the queen for her birthday. What is the height of the pyramid if it has a base area of 3/4 square inches and a volume of 1 cubed inch?",
+   "choices": [
+    "1.333",
+    "0.25",
+    "0.4",
+    "2.25",
+    "N"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E) - N\n\nThe formula for calculating the volume of a pyramid is:\nVolume of a pyramid = 1/3*base area*height\n\nIsolate the height in the formula:\n1. Multiply both sides of the formula by 3:\n3*Volume of a pyramid = 3*(1/3)*base area*height\n3*Volume of a pyramid = base area*height\n2. Divide both sides of the formula by 'base area':",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nWhat is the value of one interior angle of a regular dodecagon (a polygon with 12 sides)?",
+   "choices": [
+    "113",
+    "75",
+    "92",
+    "150",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 150\n\nThe formula for calculating the interior angle of a regular polygon is:\nInterior angle of a regular polygon = 180(n-2)/n\n\nInsert the given data:\n- Dodecagon has 12 sides\nInterior angle of a regular dodecagon = 180(12-2)/12 = 180*10/12 = 15*10 = 150\n⇒ Interior angle of a regular dodecagon = 150",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Polygon Interior Angles",
+   "topic_n": 5
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nIsabella purchased two rectangular toolboxes. If the toolboxes are of 7.78 inches length, 21.65 inches width and 12 inches height, what is their total surface area?",
+   "choices": [
+    "2,086.6",
+    "82.86",
+    "1,010.62",
+    "2,321.24",
+    "N"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) - 2,086.6\n\nA rectangular shape is a type of cuboid, thus the formula we need is:\nSurface area of a cuboid = 2 x (LW + LH + WH)\nWhere:\nL = Length\nW = Width\nH = Height\n\nInsert the given data:",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Cuboid Surface Area",
+   "topic_n": 6
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nWhat is the volume of a pyramid that has a base area of 720 square inches and a height of 210 inches?",
+   "choices": [
+    "1,860",
+    "50,400",
+    "75,600",
+    "151,200",
+    "N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 50,400\n\nThe formula for calculating a volume of a pyramid is:\nVolume of a pyramid = 1/3*base area*height\n\nInsert the given data:\nPyramid's base area = 720 square inches\nPyramid's height = 210 inches\nVolume of a pyramid = 1/3*720*210 = 50,400 cubic inches",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Pyramids and Cylinders",
+   "topic_n": 3
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nJason bought a new computer desk with a flat trapezoid shaped tabletop. If the area of the tabletop is 1,120 square inches, the upper base is 32 inches and the height is 28 inches, what is the size of the lower base?",
+   "choices": [
+    "2.5",
+    "24",
+    "48",
+    "980",
+    "N"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - 48\n\nThe formula for calculating the area of a trapezoid is:\nArea of a trapezoid = [1/2(upper base + lower base)]*height\nwhich can also be written as:\nArea of a trapezoid = 1/2*(upper base + lower base)*height\nIsolate the lower base in the formula:\n1. multiply both sides of the formula by 2 to eliminate the denominator:\n2*Area of a trapezoid = 2*1/2*height*(upper base + lower base)\n2*Area of a trapezoid = height*(upper base + lower base)",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nLenard drew a sketch of a rhombus shaped particle for one of his designs. If the length of the two diagonals is 17 and 32 inches long, what is the area of the rhombus?",
+   "choices": [
+    "544",
+    "230",
+    "1,088",
+    "727",
+    "N"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E) - N\n\nThe formula for calculating an area of a rhombus is:\nArea of a Rhombus = 1/2(Diagonal1*Diagonal2)\n\nInsert the given data:\nDiagonal 1's length = 17 inches\nDiagonal 2's length = 32 inches\nArea of a Rhombus = 1/2(17*32) = 17*32*1/2 = 17*16 = (10*16 + 7*16) = 160 + (7*10 +\n= 1/2 × 544 = 272 square inches",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  },
+  {
+   "question": "Formulas:\n• Area of a Rhombus = 1/2(Diagonal1*Diagonal2)\n• Volume of a pyramid = 1/3*base area*height\n• Area of a trapezoid = [1/2(upper base + lower base)]*height\n• Degrees Kelvin = degrees Celsius + 273.15\n• Degrees Celsius = 100 - degrees Delisle x 2/3\n• Surface area of a cuboid = 2*length + 2*width + 2*height = 2*(length*width + length*height + width*height)\n• Mass = weight / gravitational acceleration\n• Area of an ellipse = 3.14 x r1 x r2\n• Interior angle of a regular polygon = 180(n-2)/n [n = number of sides]\n• Length of a circular arc = degrees of the angle x (π/180) x r\n\nIf Henry has an ellipse shaped monocle with an area of 6.28 square inches and a radius of 0.5 inches, what is the length of the second radius?\n\n*Assume the monocle is flat",
+   "choices": [
+    "78.87",
+    "9.8",
+    "1",
+    "4",
+    "N"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 4\n\nThe formula for calculating an area of an ellipse is:\nArea of an ellipse = 3.14 × r1 × r2\n\nIsolate one of the radii in the formula:\nFor example, when isolating r2, divide both sides of the formula by 3.14 x r1:\nArea of an ellipse/3.14 x r1 = 3.14 × r1 × r2 / (3.14 × r1)\nArea of an ellipse/(3.14 x r1) = r2\n⇒ r2 = area of the ellipse / (3.14 × r1)",
+   "source": "Numeracy Skills — Calculating Areas and Perimeters #2",
+   "topic": "Areas of Shapes",
+   "topic_n": 2
+  }
+ ]
+}
