@@ -274,22 +274,27 @@ const FF3D = (function () {
     }
     return threePromise;
   }
+  // ONE shared WebGL renderer for the whole page (fixed Nov 27, 2026).
+  // The first design gave every figure its own WebGLRenderer; browsers
+  // cap live WebGL contexts, so from the second 3D question on, new
+  // contexts failed and only the scene note showed — even with disposal
+  // between questions. Now each figure owns a plain 2D canvas; the one
+  // shared renderer draws the figure's scene and the pixels are copied
+  // across. Dragging re-draws that figure through the shared renderer.
+  let sharedRenderer = null;
+  function getSharedRenderer(THREE) {
+    if (!sharedRenderer) {
+      sharedRenderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+      sharedRenderer.setSize(320, 240);
+      if (sharedRenderer.setClearColor) sharedRenderer.setClearColor(0xf8fafc);
+    }
+    return sharedRenderer;
+  }
   const active = [];
   function disposeAll() {
-    // Browsers cap live WebGL contexts (~16). Cancelling the animation
-    // frame is NOT enough: each renderer must be disposed and its context
-    // force-lost, or later questions run out of contexts and only the
-    // scene note shows (live bug found Nov 27, 2026 — only Q1 rendered).
-    active.forEach(function (r) {
-      r.dead = true;
-      if (r.raf && typeof cancelAnimationFrame === 'function') cancelAnimationFrame(r.raf);
-      if (r.renderer) {
-        try { r.renderer.dispose(); } catch (e) {}
-        try { if (r.renderer.forceContextLoss) r.renderer.forceContextLoss(); } catch (e) {}
-        try { if (r.renderer.domElement && r.renderer.domElement.parentNode) r.renderer.domElement.parentNode.removeChild(r.renderer.domElement); } catch (e) {}
-        r.renderer = null;
-      }
-    });
+    // The shared context is never disposed — it serves every question.
+    // Just retire the per-figure records so stale drags/draws stop.
+    active.forEach(function (r) { r.dead = true; });
     active.length = 0;
   }
   const DEFAULT_COLORS = { box: '#5b8def', cylinder: '#64748b', pulley: '#475569', prism: '#0ea5e9', pyramid: '#f59e0b', cone: '#f97316', sphere: '#a855f7', gear: '#78716c' };
@@ -340,11 +345,8 @@ const FF3D = (function () {
         return;
       }
       label.textContent = note;
+      const renderer = getSharedRenderer(THREE);
       const descriptors = describeScene(scene);
-      const renderer = new THREE.WebGLRenderer({ antialias: true });
-      renderer.setSize(320, 240);
-      if (renderer.setClearColor) renderer.setClearColor(0xf8fafc);
-      holder.appendChild(renderer.domElement);
       const sc = new THREE.Scene();
       const group = new THREE.Group();
       sc.add(group);
@@ -365,27 +367,31 @@ const FF3D = (function () {
       if (scene && Array.isArray(scene.camera) && scene.camera.length === 3) cam.position.set(scene.camera[0], scene.camera[1], scene.camera[2]);
       else cam.position.set(center[0] + 6, center[1] + 4, center[2] + 9);
       if (cam.lookAt) cam.lookAt(center[0], center[1], center[2]);
-      // Drag to rotate the group.
-      const rec = { dead: false, raf: 0, renderer: renderer };
+      const canvas = document.createElement('canvas');
+      canvas.width = 320; canvas.height = 240;
+      canvas.style.touchAction = 'none';
+      holder.appendChild(canvas);
+      const ctx2d = canvas.getContext('2d');
+      const rec = { dead: false };
       active.push(rec);
+      const draw = function () {
+        if (rec.dead) return;
+        renderer.render(sc, cam);
+        if (ctx2d && renderer.domElement) ctx2d.drawImage(renderer.domElement, 0, 0);
+      };
+      draw();
       let dragging = false, px = 0, py = 0;
-      const el = renderer.domElement;
-      if (el && el.addEventListener) {
-        el.addEventListener('pointerdown', function (ev) { dragging = true; px = ev.clientX; py = ev.clientY; });
-        el.addEventListener('pointermove', function (ev) {
+      if (canvas.addEventListener) {
+        canvas.addEventListener('pointerdown', function (ev) { dragging = true; px = ev.clientX; py = ev.clientY; });
+        canvas.addEventListener('pointermove', function (ev) {
           if (!dragging) return;
           group.rotation.y += (ev.clientX - px) * 0.01;
           group.rotation.x += (ev.clientY - py) * 0.01;
           px = ev.clientX; py = ev.clientY;
+          draw();
         });
-        ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { el.addEventListener(t, function () { dragging = false; }); });
+        ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { canvas.addEventListener(t, function () { dragging = false; }); });
       }
-      // Render once, and again only while dragging — no perpetual
-      // animation loop competing for the GPU across six canvases.
-      const draw = function () { if (!rec.dead) renderer.render(sc, cam); };
-      draw();
-      rec.draw = draw;
-      if (el && el.addEventListener) el.addEventListener('pointermove', function () { if (dragging) draw(); });
     }).catch(function () {
       label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
     });
