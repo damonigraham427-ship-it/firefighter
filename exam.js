@@ -340,6 +340,12 @@ const FF3D = (function () {
     label.textContent = 'Loading 3D figure\u2026';
     holder.appendChild(label);
     loadThree().then(function (THREE) {
+      window.__ff3dDiag = 'THREE type=' + typeof THREE +
+        ' Scene=' + (THREE ? typeof THREE.Scene : '-') +
+        ' Group=' + (THREE ? typeof THREE.Group : '-') +
+        ' WGLRenderer=' + (THREE ? typeof THREE.WebGLRenderer : '-') +
+        ' keys=' + (THREE ? Object.keys(THREE).length : 0) +
+        ' rev=' + (THREE ? THREE.REVISION : '-');
       if (!THREE) {
         label.textContent = '3D unavailable (library failed to load). ' + note;
         return;
@@ -393,7 +399,8 @@ const FF3D = (function () {
         ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { canvas.addEventListener(t, function () { dragging = false; }); });
       }
     }).catch(function (err) {
-      label.textContent = '3D error: ' + (err && err.message ? err.message : String(err)) + ' | ' + note;
+      label.textContent = '3D error: ' + (err && err.message ? err.message : String(err)) +
+        ' || diag: ' + (window.__ff3dDiag || 'none') + ' | ' + note;
     });
   }
   return { describeScene: describeScene, renderInto: renderInto, disposeAll: disposeAll };
