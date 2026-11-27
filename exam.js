@@ -266,10 +266,17 @@ const FF3D = (function () {
   }
   let threePromise = null;
   function loadThree() {
-    if (typeof window !== 'undefined' && window.__THREE__) return Promise.resolve(window.__THREE__);
+    // Fix #3 (Nov 27, 2026): the old window.__THREE__ shortcut (a test
+    // hook from the scaffold) is REMOVED. Live diagnostics proved that
+    // by the second question window.__THREE__ held a 3-character string,
+    // so loadThree returned that string and every THREE.* constructor
+    // failed ("THREE.Scene is not a constructor"). The import promise
+    // is now the only path, and the resolved module is validated.
     if (!threePromise) {
       try {
-        threePromise = import('https://unpkg.com/three@0.158.0/build/three.module.js').catch(function () { return null; });
+        threePromise = import('https://unpkg.com/three@0.158.0/build/three.module.js')
+          .then(function (m) { return (m && typeof m.Scene === 'function') ? m : null; })
+          .catch(function () { return null; });
       } catch (e) { threePromise = Promise.resolve(null); }
     }
     return threePromise;
@@ -340,14 +347,8 @@ const FF3D = (function () {
     label.textContent = 'Loading 3D figure\u2026';
     holder.appendChild(label);
     loadThree().then(function (THREE) {
-      window.__ff3dDiag = 'THREE type=' + typeof THREE +
-        ' Scene=' + (THREE ? typeof THREE.Scene : '-') +
-        ' Group=' + (THREE ? typeof THREE.Group : '-') +
-        ' WGLRenderer=' + (THREE ? typeof THREE.WebGLRenderer : '-') +
-        ' keys=' + (THREE ? Object.keys(THREE).length : 0) +
-        ' rev=' + (THREE ? THREE.REVISION : '-');
       if (!THREE) {
-        label.textContent = '3D unavailable (library failed to load). ' + note;
+        label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
         return;
       }
       label.textContent = note;
@@ -398,9 +399,8 @@ const FF3D = (function () {
         });
         ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { canvas.addEventListener(t, function () { dragging = false; }); });
       }
-    }).catch(function (err) {
-      label.textContent = '3D error: ' + (err && err.message ? err.message : String(err)) +
-        ' || diag: ' + (window.__ff3dDiag || 'none') + ' | ' + note;
+    }).catch(function () {
+      label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
     });
   }
   return { describeScene: describeScene, renderInto: renderInto, disposeAll: disposeAll };
