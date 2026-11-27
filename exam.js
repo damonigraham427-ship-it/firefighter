@@ -341,7 +341,7 @@ const FF3D = (function () {
     holder.appendChild(label);
     loadThree().then(function (THREE) {
       if (!THREE) {
-        label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
+        label.textContent = '3D unavailable (library failed to load). ' + note;
         return;
       }
       label.textContent = note;
@@ -392,8 +392,8 @@ const FF3D = (function () {
         });
         ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { canvas.addEventListener(t, function () { dragging = false; }); });
       }
-    }).catch(function () {
-      label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
+    }).catch(function (err) {
+      label.textContent = '3D error: ' + (err && err.message ? err.message : String(err)) + ' | ' + note;
     });
   }
   return { describeScene: describeScene, renderInto: renderInto, disposeAll: disposeAll };
