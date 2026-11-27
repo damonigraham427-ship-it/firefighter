@@ -1,0 +1,668 @@
+{
+ "questions": [
+  {
+   "question": "FACTS: Doris is twice as old as Emily. Emily is five years older than Francis. Doris is 20 years old.\n\nCONCLUSION: Emily is 40 years old.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. If Doris is 20 years old, as well as twice as old as Emily, then Emily is 10 years old and not 40 years old.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Read the facts and determine if they prove the conclusion or not.\n\nFACTS:\n• A box contains many marbles.\n• Some of the marbles are green.\n• Almost half of the marbles are red.\n• All of the marbles that are neither green nor red are orange.\n\nCONCLUSION: There are more green marbles than orange marbles in the box.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is - (C)\n\nSince we do not know the number of green and orange marbles (some are green, all that are neither green nor red are orange), we have no way of knowing if there are more green marbles than orange marbles or more orange marbles than green marbles, or an equal number of green and orange marbles.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 2
+  },
+  {
+   "question": "FACTS: Mark always jogs around his neighborhood in the morning unless it is raining or snowing outside. When it's raining or snowing outside, Mark always jogs at an indoor track. This morning, Mark jogged around his neighborhood.\n\nCONCLUSION: It did not rain this morning.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. Mark always jogs around his neighborhood unless it is raining or snowing. If Mark jogged around his neighborhood this morning then it must have neither rained nor snowed this morning.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 3
+  },
+  {
+   "question": "FACTS: If Jason is late to the meeting, Kevin will have to work late. Lois will not cook dinner for Kevin unless Kevin gets home from work on time. If Lois does not cook dinner for Kevin, Kevin will order pizza for dinner. Lois cooked dinner for Kevin.\n\nCONCLUSION: Jason was late to the meeting.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. If Jason is late to the meeting then Kevin will not get home from work on time because he will have to work late. Lois will cook dinner for Kevin only if Kevin gets home from work on time Thus, if Lois cooked dinner for Kevin, Jason could not have come late to the meeting.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 4
+  },
+  {
+   "question": "FACTS: Eric works on the third floor of an office building. Fred works two floors below Gary. Gary works on the eighth floor. The office building has ten floors.\n\nCONCLUSION: Fred works in the upper half of the office building.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. If Gary works on the eighth floor and Fred works two floors below Gary, then Fred works on the sixth floor. If the office building has ten floors, then Fred works in the upper half of the office building (floors five to ten).",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 5
+  },
+  {
+   "question": "FACTS: If Roger goes to the concert, Samantha will go with him. If Samantha goes to the concert, she will be tired the next morning. Tom will not go to the concert only if Ursula does go to the concert. Ursula will go to the concert only if Roger goes to the concert. Tom didn't go to the concert.\n\nCONCLUSION: the next morning Samantha is tired.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. Samantha is tired the next morning.\nWe can come to this conclusion because the last sentence states that Tom did not go to the concert, which means Ursula did go. If Ursula went it means Roger went, and roger took Samantha with him. Thus, Samantha is tired the next morning.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 6
+  },
+  {
+   "question": "FACTS: Catherine has $20 in her wallet. Dana has more money than Emily, but less than twice as much as Catherine. Frank has $30 more than Dana.\n\nCONCLUSION: Dana has more money than Catherine.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "C is correct. Dana has less than twice as much money as Catherine, and Catherine has $20. Thus, Dana has less than $40. Dana could have more than $20, such as $25 or $32, but Dana could also have less than $20, such as $18 or $3.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 7
+  },
+  {
+   "question": "FACTS: Four students (Wendy, Irving, Tessa and Sheldon) all took a test. No two students received the same score. Wendy did not get the highest score. The student who received the lowest score was Tessa. Irving got a 93 and Sheldon got a 77. The average score was 82.\n\nCONCLUSION: Wendy's score was not below the average score.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. If the average score for four students is 82, then their total score is 328. Irving got a 93 and Sheldon got a 77 leaving 158 points to be split between Wendy and Tessa. If Tessa got the lowest score, the highest score Tessa could get is 76 which leaves 82 points for Wendy. Therefore, Wendy's score was not below the average score.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 8
+  },
+  {
+   "question": "FACTS: Two men (Al and Ben) and two women (Carol and Denise) are sitting at a square table on all four sides. One of the men and one of the women are married to each other. Al is sitting to the left of the married woman. Denise is sitting between Carol and Ben. The married people are not sitting across from each other.\n\nCONCLUSION: Ben is the married man.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. If Al is sitting to the left of the married woman and Denise is sitting between Carol and Ben, then Carol is the married woman. This means that Al is sitting to Carol's left. Carol is sitting to Denise's left. Denise is sitting to Ben's left. Ben is sitting to Al's left. This means that Al and Denise are sitting across from each other and Carol and Ben are sitting across from each other. If the married people are not sitting across from each other, then Carol must be married to Al. Therefore, Ben is not the married man.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 9
+  },
+  {
+   "question": "FACTS: On Monday, the stock market gained 200 points. On Tuesday, the stock market lost 1% of its value. On Wednesday, the stock market gained 1% of its value. On Thursday, the stock market lost 200 points. On Friday, the stock market gained 1 point.\n\nCONCLUSION: The stock market ended the week higher than it started the week.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "C is correct. We can't know if the stock market ended higher or lower without knowing where it started. For example, assume the stock market started at 1000. On Monday, it closed at 1200. On Tuesday, it closed at 1188. On Wednesday, it closed at 1199.88. On Thursday, it closed at 999.88. On Friday, it closed at 1000.88. In this case, the stock market did end the week higher than it started the week.\n\nNow assume the stock market started at 10000. On Monday, it closed at 10200. On Tuesday, it closed at 10098. On Wednesday, it closed at 10198.98. On Thursday, it closed at 9998.98. On Friday, it closed at 9999.98. In this case, the stock market did not end the week higher than it started the week.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 10
+  },
+  {
+   "question": "FACTS: Andy only likes words that start with vowels. Brad only likes words that start with consonants. Cody only likes words that start with C.\n\nCONCLUSION: Andy and Cody do not both like any of the same words.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. Cody only likes words that start with C and Andy only likes words that start with vowels. Since C is not a vowel, Andy and Cody will not both like any of the same words.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 11
+  },
+  {
+   "question": "FACTS: On the planet Glorp, all male names have an odd number of syllables and all female names have an even number of syllables. A couple gives birth to a child and names the child Angela.\n\nCONCLUSION: The child is female.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. Angela, though a female name on Earth, has three syllables. Only males have names with an odd number of syllables on the planet Glorp. Therefore, Angela is a male.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 12
+  },
+  {
+   "question": "FACTS: Josh's wallet contains $1 and $5 bills. The number of $5 bills is double the number of $1 bills.\n\nCONCLUSION: Josh's wallet contains exact change for a $20 bill.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "C is correct. If Josh's wallet contains only 1 $1 bill, then there are also 2 $5 bills which is not enough to make change for a $20 bill. If Josh's wallet contains 2 $1 bills, then there are 4 $5 bills which is enough to make change for a $20 bill.\n\nSince the amount of bills in his wallet is not specified, we cannot ascertain whether he has exact change for a 20 dollar bill.\n\nNote that the conclusion did not say that Josh's wallet contains exact change for a $20 bill and nothing else. That is, it is possible that Josh has exact change for a $20 bill (for example, four $5 bills) as well as other bills (for example, two $1 bills).",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 13
+  },
+  {
+   "question": "FACTS: Three people (Robert, Sam, Tom) each have a favorite food (cheese, ice cream, steak). No two people share the same favorite food. Robert's favorite food is cheese and Sam's favorite food is not ice cream.\n\nCONCLUSION: Tom's favorite food is ice cream and Sam's favorite food is steak.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "A is correct. If no two people share the same favorite food and Robert's favorite food is cheese and Sam's favorite food is not ice cream, then Sam's favorite food is steak and Tom's favorite food is ice cream.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 14
+  },
+  {
+   "question": "FACTS: Louis wants to ship a package to Mary. Louis has two choices for shipping. One shipper will charge $30 and deliver the package to Mary within three days. The second shipper will charge $50 and deliver the package to Mary the next day. Louis pays $30 to ship the package to Mary.\n\nCONCLUSION: Mary receives the package no later than two days after Louis ships it to her.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "C is correct. If Louis pays $30, then Louis used the first shipper who will deliver the package within three days. Maybe the package reaches Mary within two days but maybe the package takes the full three days to reach her.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 15
+  },
+  {
+   "question": "FACTS: David wants to watch a certain TV show at 8 PM. David's parents will only let him watch the show if he first finishes all of his homework. David immediately starts working on his homework as soon as he gets home from school. David spends 3 hours completing his homework and his parents allow him to watch the TV show.\n\nCONCLUSION: David got home from school at 5:30 PM.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. If the TV show starts at 8 PM, David has to finish all of his homework in order to be allowed to watch the TV show and David spends 3 hours completing his homework, then David had to be home by 5 PM at the very latest.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 16
+  },
+  {
+   "question": "FACTS: Four people (Abbie, Bill, Connie, Dylan) comprise two married couples. Each person has a sport that he or she likes to play. Bill is not married to the woman who likes to play tennis. Connie is married to the man who likes to play basketball. Dylan likes to play squash.\n\nCONCLUSION: Abbie likes to play tennis.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 0,
+   "explanation": "(A) is correct.\nIf Connie is married to the man who likes to play basketball and Dylan likes to play squash, then Bill likes to play basketball, and Connie must be married to Bill. If Bill is not married to the woman who likes to play tennis, and we know that Bill is married to Connie, then Connie doesn't like to play tennis. That leaves Abbie as the one who likes to play tennis.\n\nNote that the mention of \"the woman who likes to play tennis\" means one of the women necessarily likes to play tennis. For this reason, C cannot be the correct answer.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 17
+  },
+  {
+   "question": "FACTS: Al, Edward, Fred, and Jim all play on a basketball team. If Al does not score at least 10 points in the next game, Al will be traded. If Jim is traded, Fred will play Jim's position on the team. Jim will be traded only if both Al and Edward each score at least double the points as Jim in the next game. Jim was not traded after the next game.\n\nCONCLUSION: Al was not traded after the next game.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 2,
+   "explanation": "C is correct. If Jim was not traded, then all we know is that both Al and Edward did not score at least double the number of points as Jim. Al will be traded only if he does not score at least 10 points in the next game. However, we do not know how many points Al scored and so we can't determine if Al was not traded after the game.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 18
+  },
+  {
+   "question": "FACTS: A street has 5 houses arranged from left to right (1-2-3-4-5). Each house has a unique characteristic. One house has a gate to the front yard. The house with the front porch is not house #4. The leftmost house does not have the blue door. The house with the garden is immediately to the left of the house with the wide driveway. The house with the gate to the front yard is two houses to the right of the house with the front porch and one house to the left of the house with the garden.\n\nCONCLUSION: House 2 has the front porch.",
+   "choices": [
+    "The facts prove the conclusion.",
+    "The facts disprove the conclusion.",
+    "The facts neither prove nor disprove the conclusion."
+   ],
+   "answer": 1,
+   "explanation": "B is correct. If the house with the gate to the front yard is two houses to the right of the house with the front porch, then the house with the gate to the front yard can only be house 3, 4 or 5. If the house with the gate to the front yard is also one house to the left of the house with the garden, then the house with the gate to the front yard can only be house 3 or 4 and the house with the garden is house 4 or 5. If the house with the garden is immediately to the left of the house with the wide driveway, then the house with the garden must be house 4. Therefore, the house with the gate to the front yard is house 3 and the house with the wide driveway is house 5. If the leftmost house does not have the blue door, then house 2 must have the blue door which means it does not have the front porch. House 1 has the front porch.",
+   "source": "Logical Reasoning 1",
+   "topic": "Logical Reasoning 1",
+   "topic_n": 19
+  },
+  {
+   "question": "Morning shifts are 7 hours long and after-noon shifts are 8 hours long.\nStella works morning as well as after-noon shifts.\nJane never works morning shifts.\nJane is a saleswoman.\nStella called in sick this morning.\n\nWhich statement must be true?",
+   "choices": [
+    "Salespersons never work seven-hour long shifts.",
+    "Stella sometimes works in the morning, but not Jane.",
+    "Jane had a morning shift earlier this month.",
+    "Stella is a saleswoman.",
+    "Stella woke up with a fever today."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nSince we are told that Stella works morning shifts, and that Jane never works morning shifts, the statement in answer choice B must be true.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – we know that morning shifts last 7 hours, that Jane is a saleswoman and that she does not work morning shifts. However, we cannot deduce that this applies for every other salesperson as well. The fact that Jane does not work morning shifts does not mean salespersons do not work morning shifts as",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 1
+  },
+  {
+   "question": "Staff members of the Foreign Relations unit work nights once a week.\nJessica used to work nights once every week.\nAbby works for the Foreign Relations unit.\n\nWhich statement must be true?",
+   "choices": [
+    "The Foreign Relations unit works 24/7.",
+    "Jessica used to work in the Foreign Relations unit.",
+    "Jessica and Abby used to be co-workers.",
+    "Abby works nights once every week.",
+    "Jessica quit her old job at the Foreign Relations unit."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nWe know that Abby works for the Foreign Relations unit. Since the first statement says people who work there work nights once every week, we can conclude that Abby works nights once every week as well.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – all we know about the Foreign Relations unit is that each worker has to work one night a week. That does not necessarily mean the unit works 24/7. We need more information to make such a conclusion (like the number of people in the unit, or whether or not they can do",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 2
+  },
+  {
+   "question": "Review the facts below.\n\n• Tim lives in a big apartment.\n• Abby lives in a small apartment.\n• There are no big apartments in Tinyville.\n• Small apartments have one bedroom.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "Tim lives in Tinyville.",
+    "Abby lives in Tinyville.",
+    "Big apartments have one bedroom.",
+    "Abby's apartment has one bedroom.",
+    "Tim and Abby live in the same town."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nAbby's apartment has one bedroom.\n\nWe know that Abby lives in a small apartment, and we know that small apartments have one bedroom. Therefore we can conclude that Abby's apartment has one bedroom.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice (A) – since we know Tim lives in a big apartment, and we also know that apartments in Tinyville, the conclusion that Tim lives in is illogical",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 3
+  },
+  {
+   "question": "Six out of eight people – a florist, gardener, historian, inventor, jeweller, locksmith, mailman and optician – introduce their occupation in a two-day career event, three people each day, each in a different time slot: morning, mid-day and afternoon.\n\nThe florist can only speak on day 2.\nThe gardener and the locksmith cannot speak in mid-day.\nIf the gardener speaks on day 1, the optician and the jeweller speak on day 2.\nThe inventor and the mailman will not speak on the same day.\nIf both the inventor and the locksmith are speaking, the inventor speaks sometime before the locksmith.\n\nIf the inventor and the historian both speak in the morning and the gardener speaks on day 1, what is the maximal number of timeslots for the locksmith?",
+   "choices": [
+    "Zero",
+    "One",
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nAccording to the question, I and H are both speaking in the morning. G is speaking on day 1, but cannot speak in mid-day (second condition), which means G is in the afternoon. If G is speaking on day 1, O and J are speaking on day 2 (third condition), and thus get the mid-day and the afternoon of that day. The only slot left for L is mid-day on day 1:",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 4
+  },
+  {
+   "question": "Six out of eight people – a florist, gardener, historian, inventor, jeweler, locksmith, mailman and optician – introduce their occupation in a two-day career event, three people each day, each in a different time slot: morning, mid-day and afternoon.\n\nThe florist can only speak on day 2.\nThe gardener and the locksmith cannot speak during mid-day.\nIf the gardener speaks on day 1, the optician and the jeweler speak on day 2.\nThe inventor and the mailman will not speak on the same day.\nIf both the inventor and the locksmith are speaking, the inventor speaks sometime before the locksmith.\n\nIf both the jeweler and the florist speak, but not on the same day, which of the following CANNOT be true?",
+   "choices": [
+    "The inventor speaks in the afternoon, right after the florist.",
+    "The gardener speaks on day 1.",
+    "If the locksmith speaks in the morning, the inventor speaks in the afternoon.",
+    "If the gardener is selected to appear, he will speak in the morning.",
+    "The historian does not speak on the same day as the gardener."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nFirst, let's see what we can learn from the information provided in the question. F can only speak on day 2 (first condition), so if F and J speak on different days, J must be speaking on day 1.\nSince this is all we can learn for now, we will start going over the answer choices, until we find the one that is not possible.\n\nAnswer choice A – if I speaks in the afternoon and right after F, it follows that I speaks on day 2, and that F speaks during mid-day (of day 2). This scenario does not contradict any of the above be true. For example:",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 5
+  },
+  {
+   "question": "Review the facts below.\n\n• Cleo is a good dog.\n• Colonel is a bull.\n• Good dogs are fast and keep the house safe.\n• Bulls do not make noise.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "Cleo is a quiet dog.",
+    "Colonel can run very fast.",
+    "Colonel moos almost every night.",
+    "Cleo is a fast dog.",
+    "Cleo and Colonel help keep the farm safe."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nSince we know that Cleo is a dog and that dogs are fast, we can conclude that Cleo is a fast dog.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – we know that Cleo is a dog, and we know that bulls do not make noise, but we do not know anything about how noisy dogs get. Therefore we cannot tell whether Cleo is quiet or not.\n\nAnswer choice B – Colonel is a bull. The only thing we know about bulls is that they do",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Review the facts below.\n\n• Apples have grains.\n• Onions have a strong smell.\n• Grains do not smell.\n• Strong smells do not bother David, unless he is running a fever.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "Apples may smell, but it does not come from their grains.",
+    "Apples smell funny.",
+    "Onions are white on the inside.",
+    "David cannot stand onions, because of their strong smell.",
+    "Onions do not have grains."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe second part of this sentence, \"[apples' smell] does not come from their grains\", must be true according to the third fact. The first part, \"Apples may smell\", is a bit different, as it is written in a suggestive manner. It cannot be 'false' as long as it does not contradict any of the facts above, which it does not.\n\nLet's go over the remaining answer choices:\n\nAnswer choice B – since we are not told anything regarding the smell of apples, we can is true or false.",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 7
+  },
+  {
+   "question": "Computer companies are always looking for new employees.\nCompany A is a huge computer company.\nCompany B is a huge food company.\nComputer companies are sometimes small.\n\nWhich statement must be true?",
+   "choices": [
+    "Company B is looking for new employees.",
+    "Company A and Company B are not small companies.",
+    "Company B is a small company.",
+    "Companies A and B are not hiring at the moment.",
+    "Company A is a food company."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nSince we are told that both companies, A and B, are huge, they cannot be small, which makes this statement true.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – the only thing we know about company B is that it is a huge food company. Since we do not know anything else about either huge or food companies, there is no way for us to statement is true or false.",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 8
+  },
+  {
+   "question": "Review the facts below.\n\n• Harry is a nurse.\n• Ruth is a doctor.\n• Nurses are not blond.\n• Some doctors are redheads.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "Harry is blond.",
+    "Harry is not blond.",
+    "Ruth is not blonde.",
+    "Some nurses are redheads.",
+    "Ruth and Harry have the same hair colour."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nWe know that Harry is a nurse, and we know that nurses are not blond. Therefore, Harry cannot be blond.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – as we have just explained, Harry cannot be blond. This contradicts the combination of the first and third facts, and is therefore false.\n\nAnswer choice C – Ruth is a doctor. The only detail we have about doctors' hair is that",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 9
+  },
+  {
+   "question": "Review the facts below.\n\n• Barbara has curly hair.\n• Thomas has long legs.\n• People with curly hair do not like wine.\n• People with long legs either do not like wine or work in finance, never both.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "Barbara works in finance.",
+    "Thomas drinks at work.",
+    "Thomas enjoys drinking wine with his stockbroker boss.",
+    "Thomas has short hands.",
+    "Barbara does not like wine."
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E.\n\nWe know that people with curly hair do not like wine. Since Barbara has curly hair, we deduce that she does not like wine.\n\nLet's go over the rest of the answer choices:\n\nAnswer choice A – we know that some people with long legs work in finance, however we do not know anything about Barbara's legs, and therefore cannot say whether this statement is true",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 10
+  },
+  {
+   "question": "Review the facts below.\n\n• John is a demon.\n• Erica is not a princess.\n• There are no demons who do not have pointed ears.\n• Princesses are always blonde and wear a crown.\n\nBased on the information above, which of the following MUST be true?",
+   "choices": [
+    "John has pointed ears.",
+    "John and Erica have similar looking ears.",
+    "Erica does not have pointed ears.",
+    "There are blond demons with rounded ears.",
+    "Erica is not blonde."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe third fact is a double-negative statement. The easiest way to deal with such statements is to immediately transform them into their positive form (much like multiplying two negative numbers yields a positive product). In this case, if there are no demons who do not have pointed ears, this means that if a demon does exist, he must have pointed ears.\nNow let's rephrase: All demons have pointed ears.\nSince John is a demon, we can deduce that he has pointed ears.\n\nLet's go over the rest of the answer choices:",
+   "source": "Logical Reasoning 2",
+   "topic": "Logical Reasoning 2",
+   "topic_n": 11
+  },
+  {
+   "question": "There are four famous topical pictures in a museum: scenery, a kitchen, a park, and oranges.\n\nThe paintings were painted by Jones, Smith, Hardy, and Lane. The scenery painting is hanging next to Smith's painting. The scenery painting also hangs between the park and Hardy's painting. Jones didn't paint the scenery' or the oranges.\n\nWho painted the kitchen?",
+   "choices": [
+    "Jones",
+    "Smith",
+    "Hardy",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "The scenery painting is hanging next to Smith's painting, and between Hardy's painting and the painting of the park. We can conclude, therefore, that Smith painted the park. Since Jones didn't paint the scenery painting, the oranges painting, or the park painting (done by Smith), then he must have painted the kitchen.\n\nThe answer is Jones.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Henrietta is Emma's daughter and Grace's mom. What is Emma to Grace?",
+   "choices": [
+    "her mother",
+    "her daughter",
+    "her grandmother",
+    "her granddaughter"
+   ],
+   "answer": 2,
+   "explanation": "Emma is Grace's grandmother. The answer is her grandmother.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 2
+  },
+  {
+   "question": "Dan is Joshua's son and Guy's brother. Margaret is Guy's mother and Judy's daughter. Which of the statements below is definitely true?",
+   "choices": [
+    "Judy is Dan's mother-in-law.",
+    "Margaret is Dan's mother.",
+    "Judy is Joshua's grandmother.",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 'None of the above.'\n\nDan and Guy are siblings, however, we do not know whether they are full siblings or half brothers. Margaret, who is Guy's mother, might not be Dan's mother, and Joshua, who is Dan's father, might not be Guy's father.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 3
+  },
+  {
+   "question": "John looked in the mirror and said, \"the father of the person I see in the mirror is Simon's brother\". Which of the statements below are true?",
+   "choices": [
+    "Simon is John's father.",
+    "John is Simon's son.",
+    "John is Simon's uncle.",
+    "Simon is John's uncle."
+   ],
+   "answer": 3,
+   "explanation": "The person John sees in the mirror is himself. This means that John's father is Simon's brother, which makes Simon John's uncle.\n\nThe answer is Simon is John's uncle.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 4
+  },
+  {
+   "question": "All Germans speak Italian. All Italian speakers ride bicycles. Which of the following statements must be true?",
+   "choices": [
+    "All Italians speak German.",
+    "All bicycle riders are German.",
+    "All Germans ride bicycles.",
+    "Some of the Italians riding bicycles are Germans."
+   ],
+   "answer": 2,
+   "explanation": "Based on the illustration, it's clear that all Germans are Italian speakers and that all Italian speakers are bicycle riders. Therefore, all Germans are bicycle riders.\n\nThe answer is 'All Germans ride bicycles'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 5
+  },
+  {
+   "question": "All owls have night vision, and birds that have night vision aren't black. Which of the following statements must be true?",
+   "choices": [
+    "Black ravens don't have night vision.",
+    "All owls are not black.",
+    "Birds that are black lack night vision.",
+    "All of the above"
+   ],
+   "answer": 3,
+   "explanation": "The illustration shows that black ravens don't have night vision, all owls aren't black and finally that black birds lack night vision. All of the statements are true.\n\nThe answer is 'All of the above'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 6
+  },
+  {
+   "question": "All psychologists are scientists. All nice people are psychologists. Which of the following statements must be true?",
+   "choices": [
+    "All psychologists are nice.",
+    "All scientists are psychologists.",
+    "All nice people are scientists.",
+    "Some nice people aren't scientists."
+   ],
+   "answer": 2,
+   "explanation": "The illustration shows that the group of 'nice people' are included in the group of psychologists, which are included in the group of scientists. We can therefore conclude that all nice people are scientists.\n\nThe answer is 'All nice people are scientists'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 7
+  },
+  {
+   "question": "If there are no dancers that aren't slim and no singers that aren't dancers, then which statements are always true?",
+   "choices": [
+    "There is not one slim person that isn't a dancer.",
+    "All singers are slim.",
+    "Anybody slim is also a singer.",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "The tricky part of this question is that it is phrased negatively. This means that we have to identify the nature of each group initially and establish the relationship between the groups. Once the illustration is made, the relationship between the groups becomes clearer. The only true statement is that all singers are slim.\n\nThe answer is 'All singers are slim'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 8
+  },
+  {
+   "question": "All materials are degradable. Some materials are solid. Which of the statements below are true?",
+   "choices": [
+    "solids are degradable.",
+    "Some solids are degradable.",
+    "All solids are materials.",
+    "All degradable products are materials."
+   ],
+   "answer": 1,
+   "explanation": "All materials are degradable and some materials are solid, but this doesn't mean that all materials are solid. Therefore only the solids that are also materials are degradable.\n\nThe answer is 'Some solids are degradable'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 9
+  },
+  {
+   "question": "If there are universal objects that are invisible and all universal objects are in space, then which of the statements below are true?",
+   "choices": [
+    "All objects that are visible are in space.",
+    "All objects in space are universal objects.",
+    "There are no universal objects in space that are invisible.",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "The illustration shows that there may be objects in space that aren't universal, there are universal object in space that are invisible, and it shows nothing about visible objects.\n\nTherefore, the answer is 'None of the above'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 10
+  },
+  {
+   "question": "If a person cannot testify on his/her own behalf and that person is appearing in court, then what is true?",
+   "choices": [
+    "A person can appear in court and not testify on his/her own behalf.",
+    "Anyone who appears in court cannot testify on his/her mother's behalf.",
+    "Anyone testifying on his/her own behalf appears in court.",
+    "Anyone appearing in court testifies on his/her own behalf."
+   ],
+   "answer": 0,
+   "explanation": "According to the diagram, the answer is 'A person can appear in court and not testify on his/her own behalf'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 11
+  },
+  {
+   "question": "Danny discovered the following facts while working on his geography assignment: 30% of Georgia's inhabitants are Indian, 50% of Georgia's inhabitants work in the service industry, 20% work in agriculture and 60% drink Coke. Danny drew four conclusions. Which of the four conclusions must be true?",
+   "choices": [
+    "Half of Georgia's coke-drinking inhabitants are Indian.",
+    "One-third of Georgia's coke-drinking inhabitants work in agriculture.",
+    "In Georgia there are more Indian people working in the service industry than in agriculture.",
+    "Some of Georgia's service industry employees drink Coke."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 'Some of Georgia's service industry employees drink Coke'.\n\nThe key to solving this problem is to figure out the sums (percentages) for each statement. If the results are greater than 100%, we can identify an overlap between categories.\n\nIn addition, if we can find a possible situation where the conclusion is false, that means it is possible that it is not true- and if there is no such situation, the conclusion must be true- and is, therefore, the correct answer.\n\nA. \"Half of Georgia's coke-drinking inhabitants are Indian\".\n\n60% of Georgia's inhabitants drink Coke. In addition, 30% of Georgia's inhabitants are overlap between these groups is 90%, it is possible that the 60% of inhabitants that",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 12
+  },
+  {
+   "question": "This is data supplied by the cabbage growers union report for 2007: 80% of cabbages collected were heavy (over 0.5 lbs.), 10% of cabbages were green, 60% were red and 50% were big (having a diameter of over 10 in). Which of the following statements must be false?",
+   "choices": [
+    "No red cabbages were big.",
+    "30% of red cabbages were big.",
+    "There were no cabbages that were both green and big.",
+    "Half of the cabbages were small."
+   ],
+   "answer": 0,
+   "explanation": "You have to check the authenticity of each statement.\n\nA. No red cabbages were big. We know that 60% of cabbages picked were red and only 50% were big, therefore, there is an overlap (60% + 50% = 110% > 100%). The statement must be false, so this is the correct answer. There's no real need to check the rest of the statements, but we've provided an explanation in any case.\n\nB. 30% of red cabbages were big. We know that 60% of cabbages were red and 50% were big, so there must be an overlap of at least 10% (60% + 50% = 110% > 100%). However, we don't know the extent of the overlap. This statement may be true, but we don't know for sure.\n\nC. There were no cabbages that were both green and big. We know that 10% of",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 13
+  },
+  {
+   "question": "All airplanes that don't stop in Spain fly to India. The first airplane didn't stop in Spain. Which of the following statements are true?",
+   "choices": [
+    "The first airplane didn't fly to India.",
+    "The first airplane flew to India.",
+    "All airplanes flying to India stop in Spain.",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "All airplanes that don't stop in Spain fly to India. Since the first airplane didn't stop in Spain, it must have flown to India.\n\nThe answer is 'The first airplane flew to India'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 14
+  },
+  {
+   "question": "People who play instruments don't sing. All singers play instruments. Which of the following statements must be true?",
+   "choices": [
+    "All singers sing.",
+    "Singers don't sing.",
+    "Some singers don't sing.",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "The answer is B, \"singers don't sing\", as illustrated above.\n\nNote that answer C is incorrect because \"some\" is a word used in existence statements, yet existence is not evident from the premises. we know that if there are singers, they play instruments, and therefore don't sing (the two premises combined) but we cannot deduce that there are actually singers. Answer C claims that there exist some singers and that they don't sing. However, the two premises in the question are theoretical ones and according to formal logic rules, it is impossible to infer existence from a theoretical premise.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 15
+  },
+  {
+   "question": "Read the five statements below.\n\n1. Jennifer runs faster than Robin, but slower than Grace.\n2. Emma is the slowest.\n3. Grace and Harriet run at the same speed.\n4. Harriet runs faster than Emma.\n5. Robin runs faster than Andrea.\n\nWhich of the statements above must be true if it is followed that Harriet runs faster than Andrea?",
+   "choices": [
+    "2, 3, 4",
+    "1, 3, 4",
+    "1, 2, 3",
+    "1, 3, 5"
+   ],
+   "answer": 3,
+   "explanation": "The answer is 1, 3, 5.\n\nWhen addressing this question it is advisable to first take a look at the answers and see just how many statements we are supposed to need: in this case, only three.\nNow we can look at the statements and gather those that are relevant to the conclusion we are presented with. We know that Harriet runs faster than Andrea, therefore it makes sense to figure out the relationships that relate to this information. We can arrange our data in the form of a list.\nStatement 1 gives information about Robin and Grace. We can write it down and move on to the next statement.\nStatement 2 gives us new information but we don't know yet how helpful it is, thus we should continue and see what we can gather from other statements.\nStatement 3 seems relevant since it involves Harriet and Grace, who we encountered in the first statement.\nStatement 4 seems redundant since we already know that Emma is the slowest (statement 2), therefore we can safely rule out statement 4 from our answer, which means answers A (2+3+4) and B (1+3+4) are wrong.\nNow we need only compare answers C and D:\nAnswer C states we need statements 1, 2 and 3, but that means we have information missing since we don't know the relationship between all the characters. Therefore, answer D is the correct one and we can easily assert that it is true by looking at statement 5 and the information it gives us in addition to statements 1 and 3: If Harriet and Grace run at the same pace, Jennifer runs faster than Robyn and slower than Grace, and Robin runs faster than Andrea, it clearly follows that Grace runs faster than Andrea, just as we were told.\nHarriet + Grace > Jennifer > Robyn > Andrea",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 16
+  },
+  {
+   "question": "Short basketball players don't exist. There are short football players. Which statements are true?",
+   "choices": [
+    "There are football players that aren't basketball players.",
+    "All basketball players are football players.",
+    "A short person can't be a football player.",
+    "None of the above"
+   ],
+   "answer": 0,
+   "explanation": "The illustration shows that there are football players that aren't basketball players.\n\nThe answer is 'There are football players that aren't basketball players'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 17
+  },
+  {
+   "question": "All birds with wings fly. There are black birds. Which statement is true?",
+   "choices": [
+    "Anything that isn't black isn't a bird.",
+    "Anything without wings isn't a bird.",
+    "All birds with wings are black.",
+    "None of the above"
+   ],
+   "answer": 3,
+   "explanation": "The illustration clearly shows that there are birds that are black and there are others types of birds as well. There are birds with wings, and black birds (not necessarily with wings). Not every bird with wings is necessarily black. Therefore none of the above statements are true.\n\nThe answer is 'None of the above'.",
+   "source": "Logical Reasoning 3",
+   "topic": "Logical Reasoning 3",
+   "topic_n": 18
+  }
+ ]
+}

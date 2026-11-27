@@ -1,0 +1,737 @@
+{
+ "questions": [
+  {
+   "question": "The New East Side Fire Department of Chicago is recruiting new firefighters for the weekend shifts. The weekend starts at Friday 4:00 PM and ends at Monday 7:00 AM.\nDuring this period of time, there are 3 shifts every day:\nFrom 7:00 AM to 3:00 PM\nFrom 3:00 PM to 11:00 PM\nFrom 10:00 PM to 8:00 AM\nThe standard procedure in the department states that there must be at least 3 teams in each shift. Each team must have at least 10 firefighters.\nThe department manager declared that each firefighter can work only one shift a day, and after completing his shift he must rest for at least the duration of the next two shifts before taking another shift.\n\nWhat is the minimal number of firefighters required to work during the weekend, taking into consideration that each firefighter must rest at least two shifts before taking another shift?",
+   "choices": [
+    "90 firefighters",
+    "125 firefighters",
+    "135 firefighters",
+    "140 firefighters"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C\n\nThere are 3 different shifts every day and we are asked to calculate the minimum number of firefighters required to fulfill the requirement of no more than 1 shift per day for every firefighter who work during the weekend (rest is defined as 2 shifts).\nAlthough the minimum amount of teams in each shift is 3, and at least 10 firefighters are in each team (3*3*10 =90), 90 is not the correct answer.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Please refer to the following information to answer questions 1-2.\n\nTwo fire engines have arrived to the scene of a traffic accident at the intersection of Ocean Parkway and Rosewood Ave. The incident commander has sent two firefighters to gather information from four witnesses about the incident in order to determine the sequence of events. Below are the accounts of the four witnesses:\n\nWitness 1: \"I was crossing Ocean Parkway at the crosswalk near the intersection, heading east. A few seconds before the accident I noticed the suspect was driving his car on Ocean Parkway towards the intersection. When the suspect's car was a few feet away from me, I saw the fire engine approaching the intersection on Rosewood Ave. heading north. The suspect noticed the fire engine and decided to go back. That is when he hit the pedestrian that was crossing Rosewood Ave. behind him. After that I can vaguely remember what happened because of the shock.\"\n\nWitness 2: \"I was driving my car on Rosewood Ave. heading south. I slowed down because the fire engine was crossing Rosewood Ave. from the other side of Ocean Parkway. That is when I noticed the suspect's car on Ocean Parkway. He tried to go in reverse and hit the pedestrian behind him on Rosewood Ave.\"\n\nWitness 3: \"I was in my car on Ocean Parkway heading west, a few cars behind the suspect. The fire engine was on Rosewood Ave. heading north, and wanted to pass through the intersection. The suspect was in the middle of the intersection and tried to go in reverse but hit the pedestrian who was crossing behind him.\"\n\nWitness 4: \"I was walking on the sidewalk of Ocean Parkway heading west. In front of me I noticed the suspect in his car driving east and blocking the intersection. From the other side, I saw the fire engine on Rosewood Ave. trying to cross Ocean Parkway from south to north, but the suspect's car was in the middle of the intersection blocking it. The suspect then tried to reverse and hit the pedestrian behind him who was crossing Rosewood Ave.\"\n\nAccording to the witness accounts, a fire engine was blocking:",
+   "choices": [
+    "Ocean Parkway for both ways",
+    "Rosewood Ave. for both ways",
+    "Ocean Parkway for vehicles heading east",
+    "Rosewood Ave. for vehicles heading north"
+   ],
+   "answer": 3,
+   "explanation": "The right answer is D.\n\nIn this case, you need to consider the unique perspectives of four different individuals and use them to weave together one cohesive picture.\nIn order to answer this question, you have to build a diagram, either mentally or on paper, to reconstruct the traffic accident that took place.\nBased on the account of Witness 2, you know that Rosewood Ave. is a north-south street direction.\nBased on the account of Witness 4, you know that Ocean Parkway runs west.\nBased on the account of Witness 3 you know that Ocean Parkway is a one-way street.\nWith this information, you can construct the intersection in which the suspect has been spotted. By reading each account carefully, you should be able to construct an accurate diagram that includes all the witnesses, the vehicles and the suspect.\nThe following diagram was constructed based on the information contained in the four witness accounts.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 2
+  },
+  {
+   "question": "Please refer to the following information to answer the questions appearing next:\n\nBelow is a patient's information with his medical log in the clinic he is treated in. The clinic documents each visit in codes using Customer Relationship Management (CRM) software.\n\nPatient's information:\nName: Johnny Boye\nSocial Security Number: 667412599\n\nMedical log:\nJanuary 13th: 2,70,500,4000\nFebruary 1st: 1,10,20,60,80,100,1000\nFebruary 4th: 3,30,100,1000\nApril 18th: 1,40,90,400,4000\nJune 25th: 1,80,500,5000\nAugust 2nd: 2,50,500,5000\n\nMedical CRM Codes:\n1 – Patient visited the clinic\n2 – Patient called the clinic\n3 – Doctor called the patient\n10 – Headache\n20 – Sore throat\n30 – General weakness\n40 – A runny nose\n50 – Fracture\n60 – Fatigue\n70 – Insomnia\n80 – Muscular pain\n90 – Nausea\n100 – Viral infection\n200 – Bacterial infection\n300 – Fungal infection\n400 – Autoimmune disease\\Allergy\n500 – Unspecified\\Other\n1000 – Sick leave\n2000 – Antibiotics prescription\n3000 – Anti-inflammatory drugs prescription\n4000 – Referral to a specialist\n5000 – Referral to a ICU\n\nWhen did the patient visit the clinic?",
+   "choices": [
+    "June 25th, February 1st, April 18th",
+    "January 13th, August 2nd",
+    "February 1st, February 4th, April 18th",
+    "August 2nd, February 4th, June 25th, April 18th",
+    "February 4th, January 13th, August 2nd"
+   ],
+   "answer": 0,
+   "explanation": "As seen in the first and second columns, the code stating a patient's visit to the clinic is 1. By looking at the Medical log, we can see that the patient visited the clinic on February 1st, April 18th, and June 25th, as the codes recorded for these dates all begin with 1.\nThus, The answer is A",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 3
+  },
+  {
+   "question": "Please refer to the following information to answer the questions appearing next:\n\nBelow is a patient's information with his medical log in the clinic he is treated in. The clinic documents each visit in codes using Customer Relationship Management (CRM) software.\n\nPatient's information:\nName: Johnny Boye\nSocial Security Number: 667412599\n\nMedical log:\nJanuary 13th: 2,70,500,4000\nFebruary 1st: 1,10,20,60,80,100,1000\nFebruary 4th: 3,30,100,1000\nApril 18th: 1,40,90,400,4000\nJune 25th: 1,80,500,5000\nAugust 2nd: 2,50,500,5000\n\nMedical CRM Codes:\n1 – Patient visited the clinic\n2 – Patient called the clinic\n3 – Doctor called the patient\n10 – Headache\n20 – Sore throat\n30 – General weakness\n40 – A runny nose\n50 – Fracture\n60 – Fatigue\n70 – Insomnia\n80 – Muscular pain\n90 – Nausea\n100 – Viral infection\n200 – Bacterial infection\n300 – Fungal infection\n400 – Autoimmune disease\\Allergy\n500 – Unspecified\\Other\n1000 – Sick leave\n2000 – Antibiotics prescription\n3000 – Anti-inflammatory drugs prescription\n4000 – Referral to a specialist\n5000 – Referral to a ICU\n\nHow many times was the patient referred to a specialist?",
+   "choices": [
+    "4",
+    "3",
+    "1",
+    "0",
+    "2"
+   ],
+   "answer": 4,
+   "explanation": "As seen in the seventh and eighth columns, the code stating a referral to a specialist is 4000. By examining the medical log, we see this code appears twice.\nThus, the answer is E.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 4
+  },
+  {
+   "question": "Please refer to the following information to answer the questions appearing next:\n\nBelow is a patient's information with his medical log in the clinic he is treated in. The clinic documents each visit in codes using Customer Relationship Management (CRM) software.\n\nPatient's information:\nName: Johnny Boye\nSocial Security Number: 667412599\n\nMedical log:\nJanuary 13th: 2,70,500,4000\nFebruary 1st: 1,10,20,60,80,100,1000\nFebruary 4th: 3,30,100,1000\nApril 18th: 1,40,90,400,4000\nJune 25th: 1,80,500,5000\nAugust 2nd: 2,50,500,5000\n\nMedical CRM Codes:\n1 – Patient visited the clinic\n2 – Patient called the clinic\n3 – Doctor called the patient\n10 – Headache\n20 – Sore throat\n30 – General weakness\n40 – A runny nose\n50 – Fracture\n60 – Fatigue\n70 – Insomnia\n80 – Muscular pain\n90 – Nausea\n100 – Viral infection\n200 – Bacterial infection\n300 – Fungal infection\n400 – Autoimmune disease\\Allergy\n500 – Unspecified\\Other\n1000 – Sick leave\n2000 – Antibiotics prescription\n3000 – Anti-inflammatory drugs prescription\n4000 – Referral to a specialist\n5000 – Referral to a ICU\n\nWhat was different between August 2 and June 25?",
+   "choices": [
+    "B+C",
+    "In one the patient visited the clinic and in the other the patient called the clinic",
+    "in one the patient suffered from muscular pain and in the other the patient suffered from a fracture",
+    "In one the patient had a viral infection and in the other the patient had bacterial infection",
+    "In one the patient suffered from a headache and in the other the patient suffered from fatigue"
+   ],
+   "answer": 0,
+   "explanation": "To solve this question, we need to compare the logs on August 2 and June 25.\nAs we can see, 2 codes are identical (500, 5000), while the two other codes are different (1 vs 2, and 80 vs 50).\nLooking at the first and second columns of the table we see that codes 1 and 2 represent correspondingly a patient's visit to the clinic and a patient's call to the clinic.\nBy looking at the third and fourth columns of the table we can see that the code 50 represents a complaint about a fracture while the code 80 states a complaint about muscular pain.\nThus, the correct answer is A.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Please refer to the following information to answer the questions appearing next:\n\nBelow is a patient's information with his medical log in the clinic he is treated in. The clinic documents each visit in codes using Customer Relationship Management (CRM) software.\n\nPatient's information:\nName: Johnny Boye\nSocial Security Number: 667412599\n\nMedical log:\nJanuary 13th: 2,70,500,4000\nFebruary 1st: 1,10,20,60,80,100,1000\nFebruary 4th: 3,30,100,1000\nApril 18th: 1,40,90,400,4000\nJune 25th: 1,80,500,5000\nAugust 2nd: 2,50,500,5000\n\nMedical CRM Codes:\n1 – Patient visited the clinic\n2 – Patient called the clinic\n3 – Doctor called the patient\n10 – Headache\n20 – Sore throat\n30 – General weakness\n40 – A runny nose\n50 – Fracture\n60 – Fatigue\n70 – Insomnia\n80 – Muscular pain\n90 – Nausea\n100 – Viral infection\n200 – Bacterial infection\n300 – Fungal infection\n400 – Autoimmune disease\\Allergy\n500 – Unspecified\\Other\n1000 – Sick leave\n2000 – Antibiotics prescription\n3000 – Anti-inflammatory drugs prescription\n4000 – Referral to a specialist\n5000 – Referral to a ICU\n\nWhat did the doctor diagnose when the patient suffered from a sore throat?",
+   "choices": [
+    "Fungal infection",
+    "Bacterial infection",
+    "Viral infection",
+    "Allergy",
+    "Autoimmune disease"
+   ],
+   "answer": 2,
+   "explanation": "To solve this question, we first need to find the code representing a sore throat in columns 3 and 4 - which is 20. Then, by looking at the Medical log, we find that on February 1st, when the patient suffered from a sore throat he was diagnosed with code 100 - a viral infection (as seen in the fifth and sixth columns).\nThus, the answer is C.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 6
+  },
+  {
+   "question": "Please refer to the following information to answer the questions appearing next:\n\nBelow is a patient's information with his medical log in the clinic he is treated in. The clinic documents each visit in codes using Customer Relationship Management (CRM) software.\n\nPatient's information:\nName: Johnny Boye\nSocial Security Number: 667412599\n\nMedical log:\nJanuary 13th: 2,70,500,4000\nFebruary 1st: 1,10,20,60,80,100,1000\nFebruary 4th: 3,30,100,1000\nApril 18th: 1,40,90,400,4000\nJune 25th: 1,80,500,5000\nAugust 2nd: 2,50,500,5000\n\nMedical CRM Codes:\n1 – Patient visited the clinic\n2 – Patient called the clinic\n3 – Doctor called the patient\n10 – Headache\n20 – Sore throat\n30 – General weakness\n40 – A runny nose\n50 – Fracture\n60 – Fatigue\n70 – Insomnia\n80 – Muscular pain\n90 – Nausea\n100 – Viral infection\n200 – Bacterial infection\n300 – Fungal infection\n400 – Autoimmune disease\\Allergy\n500 – Unspecified\\Other\n1000 – Sick leave\n2000 – Antibiotics prescription\n3000 – Anti-inflammatory drugs prescription\n4000 – Referral to a specialist\n5000 – Referral to a ICU\n\nWhy was the patient referred to the ICU?",
+   "choices": [
+    "Because he had an allergy",
+    "Because he suffered from a fracture",
+    "Because he suffered from insomnia",
+    "Because the doctor called him",
+    "Because he got a sick leave"
+   ],
+   "answer": 1,
+   "explanation": "To solve this question we first need to look at columns seven and eight and see that an ICU refferal is represented by the code 5000. By looking at the Medical log from August 2nd (where we can find the code 5000), we can see that the patient complained about code 50 - which represents a fracture, as seen on columns three and four. Thus, the answer is B.",
+   "source": "Inductive Reasoning — Set 1",
+   "topic": "Inductive Reasoning 1",
+   "topic_n": 7
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nDuring which period in 2015 both Arson incidents and Electrical Fire incidents have steadily decreased?",
+   "choices": [
+    "April–June",
+    "March–May",
+    "February–April",
+    "January–March"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\nBoth the blue and red line's slope decrease from February to March and from March to April, therefore, Arson and Electric Fire incidents are steadily decreasing from February to April.\nTip: When you are asked about upward trends or downward trends of a line chart there is no need to extract the numerical data from the chart, because we can infer the trends by looking at the slope.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 1
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nWhich of the following statements is true with regard to the line chart above?",
+   "choices": [
+    "From January–June the average number of Arson incidents is larger than the average number of Electrical Fire incidents.",
+    "From January–June the average number of Arson incidents is smaller than the average number of Electrical Fire incidents.",
+    "From March–July the average number of Arson incidents is smaller than the average number of Electrical Fire incidents.",
+    "From March–July the average number of Arson incidents is the same as the average number of Electrical Fire incidents."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\nFrom January–June the number of Arson incidents are noticeably larger than the number of Electrical Fire incidents (The exception is February but the difference there is much smaller than the difference in May so it's reduced), therefore Arson's average during this period is also larger.\nTip: Not every average comparison requires you to calculate the average because if the sums are divided in the calculation by the same number (months, years, population etc.), the larger sum also means a larger average.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 2
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nAccording to the line chart, in the first half of 2015:",
+   "choices": [
+    "The number of Arson incidents increased while the number of Electrical Fire incidents decreased.",
+    "The number of Arson incidents decreased while the number of Electrical Fire incidents increased.",
+    "The number of both Arson and Electrical Fire incidents increased.",
+    "The number of both Arson and Electrical Fire incidents decreased."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\nIn June, the dots of Arson and Electrical Fire on the chart are lower in comparison to their respective data in January, thus, both numbers decreased in the first 6 months (half) of 2015.\nComparing the data of July to the one in January is a mistake because the data of July is irrelevant to the question (July doesn't belong to the first half of the year).",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 3
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nIf the number of those fire incidents changed at the same rate from July–September as they did from May–July, what will be the number of Electrical Fire incidents in September?",
+   "choices": [
+    "Less than 10",
+    "Between 10–20",
+    "Between 20–30",
+    "More than 30"
+   ],
+   "answer": 2,
+   "explanation": "The answer is C.\nFrom May to July the number of electrical fires has increased from 15 to 20 (Increased by 5). Another increase by the same amount will make it 25 in total, which is in the range of 20–30.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 4
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nIn ______ the amount of ______ incidents has doubled or more since the previous month.",
+   "choices": [
+    "February, Electrical Fire",
+    "February, Arson",
+    "May, Arson",
+    "July, Electrical Fire"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\nIn July the number of Electrical Fire incidents (20) has doubled its number from June (10).",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 5
+  },
+  {
+   "question": "The line chart \"Fires in Downtown District, Los Angeles, 2015\" shows the number of incidents by month:\n\nMonth | Arson | Electrical Fire\nJanuary | 22 | 18\nFebruary | 25 | 31\nMarch | 24 | 20\nApril | 22 | 17\nMay | 27 | 15\nJune | 13 | 10\nJuly | 8 | 20\n\nIn which month is the ratio between Arson and Electrical Fire is the smallest?",
+   "choices": [
+    "January",
+    "July",
+    "February",
+    "May"
+   ],
+   "answer": 1,
+   "explanation": "The answer is B.\nA ratio compares values, telling us how much of one thing there is compared to another thing. Ratios are frequently expressed using a colon or fractional notation. It is important to note that in months in which the number of arson incidents is bigger than the number of electrical fire incidents, the ratio will be over 1, while in months with more electrical fire incidents than arson incidents–the ratio will be under 1. Therefore, the former options can be eliminated. For example, In January the number of arson incidents is approximately 22 while the number of electrical fire incidents is approximately 18. Therefore, the ratio is 22:18 which is larger than 1. This elimination process leaves us with February and July.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Please refer to the following information to answer the questions below.\n\nFirefighters are at a fire incident at a four-story residential building. Luckily all victims were safely rescued from the building. While several firefighters execute procedures for property conservation, another department member talks to witnesses to try and determine possible clues for the cause of fire. The witnesses gave the following accounts:\n\nWitness 1: \"I live on the 4th floor. Since this morning my apartment was having electricity failures. At 10 o'clock I noticed someone screaming 'Fire, Fire' so I took a look on the corridor and there was smoke coming from the staircase which is very close to my apartment door. I grabbed some of my belongings and walked to the other side of the corridor to the emergency staircase and went down to the garden. I'm happy the fire didn't reach my floor and I have somewhere to sleep tonight.\"\n\nWitness 2: \"I heard screams outside my apartment door this morning. I opened the door and saw some firefighters evacuating people from their houses. I was a bit surprised as there wasn't any apparent smoke or fire. I got out of the building from the entrance lobby and saw many of my neighbors outside. They told me someone was rescued by the fire crews but he had a smoke inhalation injury.\"\n\nWitness 3: \"This morning I went outside of my house and smelled a strong smell of something burning. It came from the staircase so I went to check it out and I saw smoke coming out of the power box. I knew it was very dangerous so I called 911 and simultaneously I tried to warn as many neighbors as I could. I saw Mark and Judy in the hallway so I told them to warn the people upstairs. Then, suddenly there was an explosion, and the power box caught on fire. The next thing I remember is waking up at the ambulance with paramedics around me.\"\n\nWitness 4: \"Gary, my neighbor told me there was a fire in the building and asked me and my sister Judy to worn the other residents. My sister ran up one floor to warn people, while I ran up one floor above it which is the highest one. Later, I wanted to go back to my sister but the fire spread and I couldn't use the staircase. It was all dark because the electricity shut down but I managed to reach the end of the corridor and escape. Downstairs I saw my sister safe and sound. Later I heard the sad news that Gary was injured by the smoke.\"\n\nAccording to the witness accounts, the fire started at the ___ floor and spread to the ___ floor.",
+   "choices": [
+    "1st, 4th",
+    "2nd, 1st",
+    "1st, 3rd",
+    "2nd, 3rd"
+   ],
+   "answer": 3,
+   "explanation": "The right answer is D.\n\nAccording to the accounts of witness 4, he went up 2 floors to the last one which is the 4th. That means he started at the 2nd floor. Witness 4 met witness 3 in the hallway of the 2nd floor, and by the account of witness 3 the fire started there and he couldn't go down to the 3rd later because of the spreading fire. From the account of witness 1 we know that the fire hadn't reached the 4th floor so we can understand it only reached the 3rd floor.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 7
+  },
+  {
+   "question": "Please refer to the following information to answer the questions below.\n\nFirefighters are at a fire incident at a four-story residential building. Luckily all victims were safely rescued from the building. While several firefighters execute procedures for property conservation, another department member talks to witnesses to try and determine possible clues for the cause of fire. The witnesses gave the following accounts:\n\nWitness 1: \"I live on the 4th floor. Since this morning my apartment was having electricity failures. At 10 o'clock I noticed someone screaming 'Fire, Fire' so I took a look on the corridor and there was smoke coming from the staircase which is very close to my apartment door. I grabbed some of my belongings and walked to the other side of the corridor to the emergency staircase and went down to the garden. I'm happy the fire didn't reach my floor and I have somewhere to sleep tonight.\"\n\nWitness 2: \"I heard screams outside my apartment door this morning. I opened the door and saw some firefighters evacuating people from their houses. I was a bit surprised as there wasn't any apparent smoke or fire. I got out of the building from the entrance lobby and saw many of my neighbors outside. They told me someone was rescued by the fire crews but he had a smoke inhalation injury.\"\n\nWitness 3: \"This morning I went outside of my house and smelled a strong smell of something burning. It came from the staircase so I went to check it out and I saw smoke coming out of the power box. I knew it was very dangerous so I called 911 and simultaneously I tried to warn as many neighbors as I could. I saw Mark and Judy in the hallway so I told them to warn the people upstairs. Then, suddenly there was an explosion, and the power box caught on fire. The next thing I remember is waking up at the ambulance with paramedics around me.\"\n\nWitness 4: \"Gary, my neighbor told me there was a fire in the building and asked me and my sister Judy to worn the other residents. My sister ran up one floor to warn people, while I ran up one floor above it which is the highest one. Later, I wanted to go back to my sister but the fire spread and I couldn't use the staircase. It was all dark because the electricity shut down but I managed to reach the end of the corridor and escape. Downstairs I saw my sister safe and sound. Later I heard the sad news that Gary was injured by the smoke.\"\n\nThe person who called 911 did it because:",
+   "choices": [
+    "His neighbor told him to",
+    "He saw a fire upstairs",
+    "He noticed a potentially dangerous fire hazard",
+    "He was surrounded by heavy smoke"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nThe man who called 911 is witness 3. He noticed the smoke from the power box which is considered a fire hazard. The fire started only after he made the call so he didn't call because of the fire or the heavy smoke from the fire.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 8
+  },
+  {
+   "question": "Please refer to the following information to answer the questions below.\n\nFirefighters are at a fire incident at a four-story residential building. Luckily all victims were safely rescued from the building. While several firefighters execute procedures for property conservation, another department member talks to witnesses to try and determine possible clues for the cause of fire. The witnesses gave the following accounts:\n\nWitness 1: \"I live on the 4th floor. Since this morning my apartment was having electricity failures. At 10 o'clock I noticed someone screaming 'Fire, Fire' so I took a look on the corridor and there was smoke coming from the staircase which is very close to my apartment door. I grabbed some of my belongings and walked to the other side of the corridor to the emergency staircase and went down to the garden. I'm happy the fire didn't reach my floor and I have somewhere to sleep tonight.\"\n\nWitness 2: \"I heard screams outside my apartment door this morning. I opened the door and saw some firefighters evacuating people from their houses. I was a bit surprised as there wasn't any apparent smoke or fire. I got out of the building from the entrance lobby and saw many of my neighbors outside. They told me someone was rescued by the fire crews but he had a smoke inhalation injury.\"\n\nWitness 3: \"This morning I went outside of my house and smelled a strong smell of something burning. It came from the staircase so I went to check it out and I saw smoke coming out of the power box. I knew it was very dangerous so I called 911 and simultaneously I tried to warn as many neighbors as I could. I saw Mark and Judy in the hallway so I told them to warn the people upstairs. Then, suddenly there was an explosion, and the power box caught on fire. The next thing I remember is waking up at the ambulance with paramedics around me.\"\n\nWitness 4: \"Gary, my neighbor told me there was a fire in the building and asked me and my sister Judy to worn the other residents. My sister ran up one floor to warn people, while I ran up one floor above it which is the highest one. Later, I wanted to go back to my sister but the fire spread and I couldn't use the staircase. It was all dark because the electricity shut down but I managed to reach the end of the corridor and escape. Downstairs I saw my sister safe and sound. Later I heard the sad news that Gary was injured by the smoke.\"\n\nAccording to the witness accounts, Gary:",
+   "choices": [
+    "Escaped through the emergency exit",
+    "Was rescued by the firefighters",
+    "Escaped using the building staircase",
+    "Suffered from 1st degree burns"
+   ],
+   "answer": 1,
+   "explanation": "The right answer is B.\n\nBy the account of witness 4 we know that Gary is witness 3 and that he was injured from the smoke. According to the account of witness 2 the man who was injured from the smoke was rescued by the firefighters. We don't have information about other injuries so we can assume that they were referring to the same one.\n\nWe know that answer A and C are eliminated because he didn't escape (he woke up in an ambulance), and D is eliminated because his injuries were from smoke inhalation.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 9
+  },
+  {
+   "question": "Please refer to the following information to answer the questions below.\n\nFirefighters are at a fire incident at a four-story residential building. Luckily all victims were safely rescued from the building. While several firefighters execute procedures for property conservation, another department member talks to witnesses to try and determine possible clues for the cause of fire. The witnesses gave the following accounts:\n\nWitness 1: \"I live on the 4th floor. Since this morning my apartment was having electricity failures. At 10 o'clock I noticed someone screaming 'Fire, Fire' so I took a look on the corridor and there was smoke coming from the staircase which is very close to my apartment door. I grabbed some of my belongings and walked to the other side of the corridor to the emergency staircase and went down to the garden. I'm happy the fire didn't reach my floor and I have somewhere to sleep tonight.\"\n\nWitness 2: \"I heard screams outside my apartment door this morning. I opened the door and saw some firefighters evacuating people from their houses. I was a bit surprised as there wasn't any apparent smoke or fire. I got out of the building from the entrance lobby and saw many of my neighbors outside. They told me someone was rescued by the fire crews but he had a smoke inhalation injury.\"\n\nWitness 3: \"This morning I went outside of my house and smelled a strong smell of something burning. It came from the staircase so I went to check it out and I saw smoke coming out of the power box. I knew it was very dangerous so I called 911 and simultaneously I tried to warn as many neighbors as I could. I saw Mark and Judy in the hallway so I told them to warn the people upstairs. Then, suddenly there was an explosion, and the power box caught on fire. The next thing I remember is waking up at the ambulance with paramedics around me.\"\n\nWitness 4: \"Gary, my neighbor told me there was a fire in the building and asked me and my sister Judy to worn the other residents. My sister ran up one floor to warn people, while I ran up one floor above it which is the highest one. Later, I wanted to go back to my sister but the fire spread and I couldn't use the staircase. It was all dark because the electricity shut down but I managed to reach the end of the corridor and escape. Downstairs I saw my sister safe and sound. Later I heard the sad news that Gary was injured by the smoke.\"\n\nBased on the information gathered from the witnesses, what likely happened to cause the fire?",
+   "choices": [
+    "Arson",
+    "Kitchen fire",
+    "Electrical failure",
+    "Hazardous materials"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nBy the account of witness 3, we understand that the power box exploded and then started the fire. The best reasonable cause to that is electrical failure.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 10
+  },
+  {
+   "question": "Please refer to the following information to answer the questions below.\n\nFirefighters are at a fire incident at a four-story residential building. Luckily all victims were safely rescued from the building. While several firefighters execute procedures for property conservation, another department member talks to witnesses to try and determine possible clues for the cause of fire. The witnesses gave the following accounts:\n\nWitness 1: \"I live on the 4th floor. Since this morning my apartment was having electricity failures. At 10 o'clock I noticed someone screaming 'Fire, Fire' so I took a look on the corridor and there was smoke coming from the staircase which is very close to my apartment door. I grabbed some of my belongings and walked to the other side of the corridor to the emergency staircase and went down to the garden. I'm happy the fire didn't reach my floor and I have somewhere to sleep tonight.\"\n\nWitness 2: \"I heard screams outside my apartment door this morning. I opened the door and saw some firefighters evacuating people from their houses. I was a bit surprised as there wasn't any apparent smoke or fire. I got out of the building from the entrance lobby and saw many of my neighbors outside. They told me someone was rescued by the fire crews but he had a smoke inhalation injury.\"\n\nWitness 3: \"This morning I went outside of my house and smelled a strong smell of something burning. It came from the staircase so I went to check it out and I saw smoke coming out of the power box. I knew it was very dangerous so I called 911 and simultaneously I tried to warn as many neighbors as I could. I saw Mark and Judy in the hallway so I told them to warn the people upstairs. Then, suddenly there was an explosion, and the power box caught on fire. The next thing I remember is waking up at the ambulance with paramedics around me.\"\n\nWitness 4: \"Gary, my neighbor told me there was a fire in the building and asked me and my sister Judy to worn the other residents. My sister ran up one floor to warn people, while I ran up one floor above it which is the highest one. Later, I wanted to go back to my sister but the fire spread and I couldn't use the staircase. It was all dark because the electricity shut down but I managed to reach the end of the corridor and escape. Downstairs I saw my sister safe and sound. Later I heard the sad news that Gary was injured by the smoke.\"\n\nFrom which floor was it possible to escape the fire without using the emergency exits?",
+   "choices": [
+    "1st floor",
+    "2nd floor",
+    "3rd floor",
+    "4th floor"
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nWe know that the fire started at the 2nd floor and spread through the staircase to the 3rd floor so the staircase was not accessible from the 2nd floor and up, therefore, the only option of escaping the upper floors was through the emergency exits. By the account of witness 2 we understand that the fire didn't reach his floor so it couldn't be the 2nd or 3rd and he didn't see any smoke, so it couldn't be the 4th floor either. Thus, witness 2 was in the 1st floor and he escaped from the lobby and not from the emergency exit.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 11
+  },
+  {
+   "question": "Conference Room Bookings\n\nDay | Time | Number of Participants\nWednesday | 10:00am-12:00pm | 100\nWednesday | 12:00pm-2:00pm | 150\nWednesday | 2:00pm-4:00pm | 75\nWednesday | 4:00pm-6:00pm | 200\nThursday | 10:00am-12:00pm | 50\nThursday | 12:00pm-2:00pm | 125\nThursday | 2:00pm-4:00pm | 180\nThursday | 4:00pm-6:00pm | 170\n\nIf 3 staff members are required at the conference room for every 25 people, what is the maximum number of staff members needed at any given time?",
+   "choices": [
+    "4",
+    "7",
+    "21",
+    "24"
+   ],
+   "answer": 3,
+   "explanation": "In order to find out the maximum number of staff members needed at any given time we first need to identify the conference with the maximum number of people: Wednesday, between 4:00pm–6:00pm a conference took place with 200 people. Now all that remains is to divide 200 by 25 and multiply by 3 (every 25 people require 3 staff members) in order to arrive at the maximum number of staff needed: 200/25= 8; 8*3= 24.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 12
+  },
+  {
+   "question": "Conference Room Bookings\n\nDay | Time | Number of Participants\nWednesday | 10:00am-12:00pm | 100\nWednesday | 12:00pm-2:00pm | 150\nWednesday | 2:00pm-4:00pm | 75\nWednesday | 4:00pm-6:00pm | 200\nThursday | 10:00am-12:00pm | 50\nThursday | 12:00pm-2:00pm | 125\nThursday | 2:00pm-4:00pm | 180\nThursday | 4:00pm-6:00pm | 170\n\nWhen is the conference least crowded?",
+   "choices": [
+    "Wednesday, 14:00–16:00",
+    "Thursday, 12:00–14:00",
+    "Thursday, 16:00–18:00",
+    "Thursday, 10:00–12:00"
+   ],
+   "answer": 3,
+   "explanation": "As seen in the table, the smallest number of participants booking the conference room is 50, on Thursday, between 10:00–12:00. Thus, the answer is D.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 13
+  },
+  {
+   "question": "Conference Room Bookings\n\nDay | Time | Number of Participants\nWednesday | 10:00am-12:00pm | 100\nWednesday | 12:00pm-2:00pm | 150\nWednesday | 2:00pm-4:00pm | 75\nWednesday | 4:00pm-6:00pm | 200\nThursday | 10:00am-12:00pm | 50\nThursday | 12:00pm-2:00pm | 125\nThursday | 2:00pm-4:00pm | 180\nThursday | 4:00pm-6:00pm | 170\n\nIf 315 of Wednesday's participants felt the conferences contributed to their knowledge, what is the percentage of participants who felt that way?",
+   "choices": [
+    "30%",
+    "6%",
+    "60%",
+    "50%"
+   ],
+   "answer": 2,
+   "explanation": "In order to calculate the percentage of participants who felt the conference contributed to their knowledge, we must first calculate the total number of people who attended a conference on Wednesday:\nTotal number of people on Wednesday: 100+150+75+200= 525\nNow we can calculate the relative amount of 315 out of 525: 315/525= 0.6= 60%",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 14
+  },
+  {
+   "question": "Conference Room Bookings\n\nDay | Time | Number of Participants\nWednesday | 10:00am-12:00pm | 100\nWednesday | 12:00pm-2:00pm | 150\nWednesday | 2:00pm-4:00pm | 75\nWednesday | 4:00pm-6:00pm | 200\nThursday | 10:00am-12:00pm | 50\nThursday | 12:00pm-2:00pm | 125\nThursday | 2:00pm-4:00pm | 180\nThursday | 4:00pm-6:00pm | 170\n\nWhat is the most popular time slot to arrange a conference (in terms of number of participants)?",
+   "choices": [
+    "10:00am-12:00pm",
+    "12:00pm-2:00pm",
+    "2:00pm-4:00pm",
+    "4:00pm-6:00pm"
+   ],
+   "answer": 3,
+   "explanation": "In order to answer this question we need to find the average number of participants at each time slot, across both days:\n\nTime | Wednesday | Thursday | Average\n10:00am-12:00pm | 100 | 50 | 75\n12:00pm-2:00pm | 150 | 125 | 137.5\n2:00pm-4:00pm | 75 | 180 | 127.5\n4:00pm-6:00pm | 200 | 170 | 185\n\nThe most popular time slot is: 4:00pm–6:00pm.",
+   "source": "Inductive Reasoning — Set 2",
+   "topic": "Inductive Reasoning 2",
+   "topic_n": 15
+  },
+  {
+   "question": "Please use the following table to answer questions 1-5:\n\nThe table arranges the pressure produced by the pump engine in PSI according to the hose length and desired rate flow in GPM (gallons per minute) for 4 different handline types.\n\nPump Discharge Pressure Table (hose length: 100 ft. | 150 ft. | 200 ft. | 250 ft. | 300 ft. | 350 ft. | 400 ft.)\n1 3/4\" Handline (100 PSI Fog Nozzle)\n150 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 210 PSI\n180 GPM: 145 PSI | 170 PSI | 180 PSI | 210 PSI | 235 PSI | 260 PSI | 280 PSI\n200 GPM: 155 PSI | 185 PSI | 210 PSI | 240 PSI | 270 PSI | 300 PSI | 330 PSI\n1 3/4\" Handline (Smooth Bore)\n150 GPM: 80 PSI | 100 PSI | 120 PSI | 140 PSI | 160 PSI | 180 PSI | 200 PSI\n180 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n200 GPM: 110 PSI | 140 PSI | 170 PSI | 200 PSI | 230 PSI | 260 PSI | 290 PSI\n2\" Handline (100 PSI Fog Nozzle)\n180 GPM: 120 PSI | 130 PSI | 140 PSI | 150 PSI | 160 PSI | 170 PSI | 180 PSI\n200 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 220 PSI\n250 GPM: 150 PSI | 175 PSI | 200 PSI | 225 PSI | 250 PSI | 275 PSI | 300 PSI\n2\" Handline (Smooth Bore)\n180 GPM: 70 PSI | 80 PSI | 90 PSI | 100 PSI | 110 PSI | 120 PSI | 130 PSI\n220 GPM: 75 PSI | 90 PSI | 100 PSI | 110 PSI | 125 PSI | 135 PSI | 150 PSI\n250 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n\nIf you use a 250 ft. long hose or longer with a 2\" handline and the flow rate is 250 GPM, which of the following statements is true with regard to the table?",
+   "choices": [
+    "The pump discharge pressure is under 200 PSI for sure.",
+    "The pump discharge pressure is above 170 PSI for sure.",
+    "The pump discharge pressure is 225 PSI for sure.",
+    "The pump discharge pressure is above 100 PSI for sure."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nFor a 2\" Fog Nozzle the pressure is 225 PSI\nFor a 2\" Smooth Bar the pressure is 150 PSI\nBoth are higher than 100 PSI.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 1
+  },
+  {
+   "question": "Please use the following table to answer questions 1-5:\n\nThe table arranges the pressure produced by the pump engine in PSI according to the hose length and desired rate flow in GPM (gallons per minute) for 4 different handline types.\n\nPump Discharge Pressure Table (hose length: 100 ft. | 150 ft. | 200 ft. | 250 ft. | 300 ft. | 350 ft. | 400 ft.)\n1 3/4\" Handline (100 PSI Fog Nozzle)\n150 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 210 PSI\n180 GPM: 145 PSI | 170 PSI | 180 PSI | 210 PSI | 235 PSI | 260 PSI | 280 PSI\n200 GPM: 155 PSI | 185 PSI | 210 PSI | 240 PSI | 270 PSI | 300 PSI | 330 PSI\n1 3/4\" Handline (Smooth Bore)\n150 GPM: 80 PSI | 100 PSI | 120 PSI | 140 PSI | 160 PSI | 180 PSI | 200 PSI\n180 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n200 GPM: 110 PSI | 140 PSI | 170 PSI | 200 PSI | 230 PSI | 260 PSI | 290 PSI\n2\" Handline (100 PSI Fog Nozzle)\n180 GPM: 120 PSI | 130 PSI | 140 PSI | 150 PSI | 160 PSI | 170 PSI | 180 PSI\n200 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 220 PSI\n250 GPM: 150 PSI | 175 PSI | 200 PSI | 225 PSI | 250 PSI | 275 PSI | 300 PSI\n2\" Handline (Smooth Bore)\n180 GPM: 70 PSI | 80 PSI | 90 PSI | 100 PSI | 110 PSI | 120 PSI | 130 PSI\n220 GPM: 75 PSI | 90 PSI | 100 PSI | 110 PSI | 125 PSI | 135 PSI | 150 PSI\n250 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n\nThe maximum pressure the pump engine placed in the apparatus under your responsibility can produce is 600 PSI. Based on the table above which of the following combination of pipe lines is possible to use with the apparatus?",
+   "choices": [
+    "Four 100 ft., 2\" Handline (100 PSI Fog Nozzle) with a flow rate of 180 GPM.",
+    "One 400 ft., 1 3/4\" Handline (100 PSI Fog Nozzle) with a flow rate of 200 GPM and two 250 ft., 2\" Handline (Smooth Bore) with a flow rate of 250 GPM.",
+    "Four 300 ft., 1 3/4\" Handline (Smooth Bore) with a flow rate of 150 GPM.",
+    "Three 300 ft., 2\" Handline (100 PSI Fog Nozzle) with a flow rate of 250 GPM."
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nYou are asked to calculate the total PSI of the combination and see if it is under 600.\n\nAnswer A: 120*4=480 <<\nAnswer B: 330+150*2=630\nAnswer C: 160*4=640\nAnswer D: 3*250=750",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 2
+  },
+  {
+   "question": "Please use the following table to answer questions 1-5:\n\nThe table arranges the pressure produced by the pump engine in PSI according to the hose length and desired rate flow in GPM (gallons per minute) for 4 different handline types.\n\nPump Discharge Pressure Table (hose length: 100 ft. | 150 ft. | 200 ft. | 250 ft. | 300 ft. | 350 ft. | 400 ft.)\n1 3/4\" Handline (100 PSI Fog Nozzle)\n150 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 210 PSI\n180 GPM: 145 PSI | 170 PSI | 180 PSI | 210 PSI | 235 PSI | 260 PSI | 280 PSI\n200 GPM: 155 PSI | 185 PSI | 210 PSI | 240 PSI | 270 PSI | 300 PSI | 330 PSI\n1 3/4\" Handline (Smooth Bore)\n150 GPM: 80 PSI | 100 PSI | 120 PSI | 140 PSI | 160 PSI | 180 PSI | 200 PSI\n180 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n200 GPM: 110 PSI | 140 PSI | 170 PSI | 200 PSI | 230 PSI | 260 PSI | 290 PSI\n2\" Handline (100 PSI Fog Nozzle)\n180 GPM: 120 PSI | 130 PSI | 140 PSI | 150 PSI | 160 PSI | 170 PSI | 180 PSI\n200 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 220 PSI\n250 GPM: 150 PSI | 175 PSI | 200 PSI | 225 PSI | 250 PSI | 275 PSI | 300 PSI\n2\" Handline (Smooth Bore)\n180 GPM: 70 PSI | 80 PSI | 90 PSI | 100 PSI | 110 PSI | 120 PSI | 130 PSI\n220 GPM: 75 PSI | 90 PSI | 100 PSI | 110 PSI | 125 PSI | 135 PSI | 150 PSI\n250 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n\nFor a _________, a flow rate of _______ and for every 50 ft. increase in length of the hose, the pump pressure increases by _______.",
+   "choices": [
+    "2\" Handline (Smooth Bore), 220 GPM, 15 PSI",
+    "2\" Handline (100 PSI Fog Nozzle), 250 GPM, 50 PSI",
+    "2\" Handline (100 PSI Fog Nozzle), 250 GPM, 25 PSI",
+    "1 3/4\" Handline (100 PSI Fog Nozzle), 180 GPM, 25 PSI"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nThe PSI values for 2\" Handline (100 PSI Fog Nozzle) increases by 25 PSI for every 50 ft. increase:\nBy looking at the 250 GPM row we can see this constant change.\n\n150 PSI (+25) = 175 PSI (+25) = 200 PSI (+25) = 225 PSI (+25) = 250 PSI (+25) = 275 PSI (+25) = 300 PSI",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Please use the following table to answer questions 1-5:\n\nThe table arranges the pressure produced by the pump engine in PSI according to the hose length and desired rate flow in GPM (gallons per minute) for 4 different handline types.\n\nPump Discharge Pressure Table (hose length: 100 ft. | 150 ft. | 200 ft. | 250 ft. | 300 ft. | 350 ft. | 400 ft.)\n1 3/4\" Handline (100 PSI Fog Nozzle)\n150 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 210 PSI\n180 GPM: 145 PSI | 170 PSI | 180 PSI | 210 PSI | 235 PSI | 260 PSI | 280 PSI\n200 GPM: 155 PSI | 185 PSI | 210 PSI | 240 PSI | 270 PSI | 300 PSI | 330 PSI\n1 3/4\" Handline (Smooth Bore)\n150 GPM: 80 PSI | 100 PSI | 120 PSI | 140 PSI | 160 PSI | 180 PSI | 200 PSI\n180 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n200 GPM: 110 PSI | 140 PSI | 170 PSI | 200 PSI | 230 PSI | 260 PSI | 290 PSI\n2\" Handline (100 PSI Fog Nozzle)\n180 GPM: 120 PSI | 130 PSI | 140 PSI | 150 PSI | 160 PSI | 170 PSI | 180 PSI\n200 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 220 PSI\n250 GPM: 150 PSI | 175 PSI | 200 PSI | 225 PSI | 250 PSI | 275 PSI | 300 PSI\n2\" Handline (Smooth Bore)\n180 GPM: 70 PSI | 80 PSI | 90 PSI | 100 PSI | 110 PSI | 120 PSI | 130 PSI\n220 GPM: 75 PSI | 90 PSI | 100 PSI | 110 PSI | 125 PSI | 135 PSI | 150 PSI\n250 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n\nThe pump engine delivers 180 GPM of water flow and produces 180 PSI for a single pipe line. Which handline should the fire company uses for the pipeline?",
+   "choices": [
+    "1 3/4\" Handline (100 PSI Fog Nozzle)",
+    "1 3/4\" Handline (Smooth Bore)",
+    "1 3/4\" Handline (100 PSI Fog Nozzle) or 2\" Handline (100 PSI Fog Nozzle)",
+    "1 3/4\" Handline (Smooth Bore) or 2\" Handline (100 PSI Fog Nozzle)"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nWe can solve this question by extracting the relevant information from the table. To save time we try to find \"180 PSI\" in the table.\n\n1 – With a 400 ft. hose, 2\" Handline (100 PSI Fog Nozzle) and 180 GPM we get 180 PSI.\n\n2 – With a 200 ft. hose, 1 3/4\" Handline (100 PSI Fog Nozzle) and 180 GPM we also get 180 PSI.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 4
+  },
+  {
+   "question": "Please use the following table to answer questions 1-5:\n\nThe table arranges the pressure produced by the pump engine in PSI according to the hose length and desired rate flow in GPM (gallons per minute) for 4 different handline types.\n\nPump Discharge Pressure Table (hose length: 100 ft. | 150 ft. | 200 ft. | 250 ft. | 300 ft. | 350 ft. | 400 ft.)\n1 3/4\" Handline (100 PSI Fog Nozzle)\n150 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 210 PSI\n180 GPM: 145 PSI | 170 PSI | 180 PSI | 210 PSI | 235 PSI | 260 PSI | 280 PSI\n200 GPM: 155 PSI | 185 PSI | 210 PSI | 240 PSI | 270 PSI | 300 PSI | 330 PSI\n1 3/4\" Handline (Smooth Bore)\n150 GPM: 80 PSI | 100 PSI | 120 PSI | 140 PSI | 160 PSI | 180 PSI | 200 PSI\n180 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n200 GPM: 110 PSI | 140 PSI | 170 PSI | 200 PSI | 230 PSI | 260 PSI | 290 PSI\n2\" Handline (100 PSI Fog Nozzle)\n180 GPM: 120 PSI | 130 PSI | 140 PSI | 150 PSI | 160 PSI | 170 PSI | 180 PSI\n200 GPM: 130 PSI | 145 PSI | 160 PSI | 175 PSI | 190 PSI | 205 PSI | 220 PSI\n250 GPM: 150 PSI | 175 PSI | 200 PSI | 225 PSI | 250 PSI | 275 PSI | 300 PSI\n2\" Handline (Smooth Bore)\n180 GPM: 70 PSI | 80 PSI | 90 PSI | 100 PSI | 110 PSI | 120 PSI | 130 PSI\n220 GPM: 75 PSI | 90 PSI | 100 PSI | 110 PSI | 125 PSI | 135 PSI | 150 PSI\n250 GPM: 90 PSI | 110 PSI | 130 PSI | 150 PSI | 170 PSI | 190 PSI | 210 PSI\n\nA fire pump is capable of producing 100 PSI of pressure. What is the longest hose that can be used with the pump and will still to provide water flow of 150 GPM or more?",
+   "choices": [
+    "150 ft.",
+    "200 ft.",
+    "250 ft.",
+    "300 ft."
+   ],
+   "answer": 2,
+   "explanation": "The answer is C.\n\nAbove 250 ft. none of the handline types produce 100 PSI or less.\n\nTip:\nBy using vertical scanning of the table we can save time. Scan entire columns and look for the last columns which include the desired value (100 PSI or less).",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 5
+  },
+  {
+   "question": "Please use the following pie chart to answer question 1-5:\n\nThe state of California made a grand-scale survey in all of its fire departments. The following pie charts depict the percentage of fire incidents in the region.\n\nFire incidents in 2012: Public buildings 36%, Industrial areas 21%, Office buildings 19%, Residential 12%, Assets and facilities 7%, Wildfires 5%.\nFire incidents in 2013: Public buildings 43%, Industrial areas 25%, Office buildings 16%, Assets and facilities 7%, Residential 6%, Wildfires 3%.\n\nWhich of the following statements is true with regards to those two charts?",
+   "choices": [
+    "The percentages of wildfires and residential fires have increased from 2012-2013.",
+    "Fire incidents in half of the categories have decreased between 2012 and 2013.",
+    "While fires in the \"office buildings\" category have increased from 2012 to 2013 residential fires have decreased.",
+    "The percentage of fires in industrial areas increased more than the percentage of fires in public areas between the years 2012 and 2013."
+   ],
+   "answer": 1,
+   "explanation": "The correct Answer is B.\n\nBetween the years 2012 and 2013 fires in three of the fire incidents categories have decreased: residential – from 12% to 6%, wildfires – from 5% to 3% and office buildings – 19% to 16%. There are six categories in total so three are exactly half.\n\nTips:\nWhen asked to choose a true statement from a list of possible answers, you should compare each statement to the information provided until you reach one statement that fits the charts. There is no need to compare the remaining answers once you find a correct one.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 6
+  },
+  {
+   "question": "Please use the following pie chart to answer question 1-5:\n\nThe state of California made a grand-scale survey in all of its fire departments. The following pie charts depict the percentage of fire incidents in the region.\n\nFire incidents in 2012: Public buildings 36%, Industrial areas 21%, Office buildings 19%, Residential 12%, Assets and facilities 7%, Wildfires 5%.\nFire incidents in 2013: Public buildings 43%, Industrial areas 25%, Office buildings 16%, Assets and facilities 7%, Residential 6%, Wildfires 3%.\n\nIf the percentages of the fire incidents changed at the same rate from 2013-2014 as they did from 2012-2013, what will be the percentage of wildfires in 2014?",
+   "choices": [
+    "7",
+    "1",
+    "3",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": "The correct Answer is B.\n\nFrom 2012-2013 the percentage of wildfires has decreased by 2% - from 5% to 3%. If the percentage changed the following year at the same rate it would have decreased again by 2% - from 3% to 1%.\n\nTips:\nYou are asked about the percentage of wildfires, therefore there is no need to check other types of fire incidents in the chart, as it takes time. In addition, every time you are asked about a change, you should make a comparison between the 2 different charts.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 7
+  },
+  {
+   "question": "Please use the following pie chart to answer question 1-5:\n\nThe state of California made a grand-scale survey in all of its fire departments. The following pie charts depict the percentage of fire incidents in the region.\n\nFire incidents in 2012: Public buildings 36%, Industrial areas 21%, Office buildings 19%, Residential 12%, Assets and facilities 7%, Wildfires 5%.\nFire incidents in 2013: Public buildings 43%, Industrial areas 25%, Office buildings 16%, Assets and facilities 7%, Residential 6%, Wildfires 3%.\n\nIn which location, did the percentage of fire incidents decrease by 50% from 2012 to 2013?",
+   "choices": [
+    "Residential",
+    "Office buildings",
+    "Industrial areas",
+    "Public buildings"
+   ],
+   "answer": 0,
+   "explanation": "The correct Answer is A.\n\nFrom 2012-2013 the percentage of residential fires has decreased from 12% to 6%, exactly by half, meaning by 50%.\n\nTips:\nYour task is to choose among different types of fire incidents, therefore you need to check the change for each type presented in the given answers.\n\nIt's obsolete to calculate the types of incidents where the percentages have increased as you are only asked about decreasing percentage.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 8
+  },
+  {
+   "question": "Please use the following pie chart to answer question 1-5:\n\nThe state of California made a grand-scale survey in all of its fire departments. The following pie charts depict the percentage of fire incidents in the region.\n\nFire incidents in 2012: Public buildings 36%, Industrial areas 21%, Office buildings 19%, Residential 12%, Assets and facilities 7%, Wildfires 5%.\nFire incidents in 2013: Public buildings 43%, Industrial areas 25%, Office buildings 16%, Assets and facilities 7%, Residential 6%, Wildfires 3%.\n\nIf there were 22,000 fire incidents in California in 2012, approximately how many wildfires occurred during that same year?",
+   "choices": [
+    "1100",
+    "2200",
+    "660",
+    "110"
+   ],
+   "answer": 0,
+   "explanation": "The correct Answer is A.\n\nIn 2012 5% of all fire incidents were wildfires. In order to find the actual number of wildfires we need to calculate:\n\n5% of 22,000 = 22,000 X 5/100 = 22,000 / 20 = 1100",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 9
+  },
+  {
+   "question": "Please use the following pie chart to answer question 1-5:\n\nThe state of California made a grand-scale survey in all of its fire departments. The following pie charts depict the percentage of fire incidents in the region.\n\nFire incidents in 2012: Public buildings 36%, Industrial areas 21%, Office buildings 19%, Residential 12%, Assets and facilities 7%, Wildfires 5%.\nFire incidents in 2013: Public buildings 43%, Industrial areas 25%, Office buildings 16%, Assets and facilities 7%, Residential 6%, Wildfires 3%.\n\nIn 2012, 1/3 of all fire incidents at public buildings were in commercial centers. Based on the two pie charts above which of the following is true?",
+   "choices": [
+    "In 2012 more fire incidents occurred in commercial centers than in office buildings.",
+    "In 2012 less fire incidents occurred in residential areas than in commercial centers.",
+    "In 2012 the number of fire incidents occurred in residential areas was the same as in commercial centers.",
+    "In 2012 the number of fire incidents occurred in commercial centers was the same as in assets and facilities."
+   ],
+   "answer": 2,
+   "explanation": "The correct Answer is C.\n\nIn 2012 the percentage of public buildings incidents was 36%, and 1/3 of that is the percentage of commercial centers = 36 X 1/3 = 12%. In the same year the percentage of residential incidents was also 12%. Therefore, both residential and commercial centers had the same percentage in 2012.\n\nTips:\nIt's true that the charts give only information about percentages, and we are asked about the number of incidents, but if we look at the same chart we can say that two sectors that have the same percentage also have the same real size.\n\nWhen asked to choose a true statement from a list of possible answers, you should compare each statement to the information provided until you reach one statement that fits the charts. There is no need to compare the remaining answers once you find a correct one.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 10
+  },
+  {
+   "question": "DETAILS\nAssume that you are in charge of maintaining the inventory of supplies for the office. The table below describes the current status, and use projections for the next quarter (based on previous quarters), of some supplies in several departments in the office.\n\nOffice Supplies\nDepartment | Second Quarter Ending Status (Pencils | Black Pens | Paper*) | Third Quarter Use Projections (Pencils | Black Pens | Paper*)\nAdministration | 2 | 7 | 10 | 6 | 30 | 7\nCreative | 20** | 13 | 7 | 46** | 17 | 8\nManagement | 8 | 24 | 2 | 4 | 26 | 5\n\n*Paper is counted by the ream.\n**Creative uses a different, more expensive pencil type.\n\nAs you are in charge of maintaining the office's inventory, you must make sure all departments have enough supplies for the upcoming quarter. Note that pencils come in packs of 12, pens come in packs of 3, and paper comes in packs of 5 reams. You should order enough to last the next quarter, but nothing more than necessary.\n\nAlso note that packs cannot be divided between departments.\n\nQUESTION\nIf black pens cost $2.80 per pack, how much should the order of black pens for the Administration department cost?",
+   "choices": [
+    "$19.60",
+    "$21.50",
+    "$22.40",
+    "$28.00"
+   ],
+   "answer": 2,
+   "explanation": "The answer is choice C.\n\nFirst we must determine how many units the order should contain. We can do this by using the equation Projected Amount – Current Amount = To-Order Amount (units); 30 – 7 = 23. So Administration is projected to need 23 more Black Pens.\n\nThe next part is to figure out the least amount of packs we would need to order to get 23 units or more. Rounding [To-Order Amount (units) ÷ Pack Size] up to the nearest integer yields the number of packs; round-up (23/3) = 8. So we should order 8 packs of Black Pens. Side note: if you find this equation confusing, you could alternatively just guess at the amount of packs needed, until you reach a number of packs that suffices but one pack less doesn't.\n\nNow we just need to check how much 8 packs cost; 8 * $2.80 = $22.40.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 11
+  },
+  {
+   "question": "DETAILS\nAssume that you are in charge of maintaining the inventory of supplies for the office. The table below describes the current status, and use projections for the next quarter (based on previous quarters), of some supplies in several departments in the office.\n\nOffice Supplies\nDepartment | Second Quarter Ending Status (Pencils | Black Pens | Paper*) | Third Quarter Use Projections (Pencils | Black Pens | Paper*)\nAdministration | 2 | 7 | 10 | 6 | 30 | 7\nCreative | 20** | 13 | 7 | 46** | 17 | 8\nManagement | 8 | 24 | 2 | 4 | 26 | 5\n\n*Paper is counted by the ream.\n**Creative uses a different, more expensive pencil type.\n\nAs you are in charge of maintaining the office's inventory, you must make sure all departments have enough supplies for the upcoming quarter. Note that pencils come in packs of 12, pens come in packs of 3, and paper comes in packs of 5 reams. You should order enough to last the next quarter, but nothing more than necessary.\n\nAlso note that packs cannot be divided between departments.\n\nQUESTION\nOf which of the following should you order exactly two packs?",
+   "choices": [
+    "Black pens for Management.",
+    "Black pens for Creative.",
+    "Paper reams for Administration.",
+    "Pencils for Creative."
+   ],
+   "answer": 1,
+   "explanation": "The answer is choice B.\n\nFirst we should see how many units the order should contain. We can do this by using the equation Projected Amount – Current Amount = To-Order Amount (units). Checking for answer B, 17 – 13 = 4. So Creative is projected to need 4 more Black Pens.\n\nNow we need to figure out if two packs are enough but not too much. Two packs contain 6 Black Pens, which is enough, and one pack contains only 3 Black Pens, which is not enough. So we should indeed order exactly two packs of Black Pens for Creative.\n\nAnswer A is incorrect because Management is projected to need 2 more Black Pens – one pack (3 Black Pens) is already enough.\nAnswer C is incorrect because Administration is projected to need no extra paper at all.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 12
+  },
+  {
+   "question": "DETAILS\nAssume that you are in charge of maintaining the inventory of supplies for the office. The table below describes the current status, and use projections for the next quarter (based on previous quarters), of some supplies in several departments in the office.\n\nOffice Supplies\nDepartment | Second Quarter Ending Status (Pencils | Black Pens | Paper*) | Third Quarter Use Projections (Pencils | Black Pens | Paper*)\nAdministration | 2 | 7 | 10 | 6 | 30 | 7\nCreative | 20** | 13 | 7 | 46** | 17 | 8\nManagement | 8 | 24 | 2 | 4 | 26 | 5\n\n*Paper is counted by the ream.\n**Creative uses a different, more expensive pencil type.\n\nAs you are in charge of maintaining the office's inventory, you must make sure all departments have enough supplies for the upcoming quarter. Note that pencils come in packs of 12, pens come in packs of 3, and paper comes in packs of 5 reams. You should order enough to last the next quarter, but nothing more than necessary.\n\nAlso note that packs cannot be divided between departments.\n\nQUESTION\nAssuming pencils cost $1.20 per pack, how much should the order of pencils for the Management department cost?",
+   "choices": [
+    "$4.8",
+    "No pencils are needed.",
+    "$31.2",
+    "$2.4"
+   ],
+   "answer": 1,
+   "explanation": "To answer this question, we should first calculate how many units of pencils we need to order. We can do this by using the equation Projected Amount – Current Amount = To-Order Amount (units). Checking for management department's pencils, we see that they are not short of pencils, as there are 4 more pencils than needed: 4 – 8 = -4. Thus, the answer is B.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 13
+  },
+  {
+   "question": "DETAILS\nAssume that you are in charge of maintaining the inventory of supplies for the office. The table below describes the current status, and use projections for the next quarter (based on previous quarters), of some supplies in several departments in the office.\n\nOffice Supplies\nDepartment | Second Quarter Ending Status (Pencils | Black Pens | Paper*) | Third Quarter Use Projections (Pencils | Black Pens | Paper*)\nAdministration | 2 | 7 | 10 | 6 | 30 | 7\nCreative | 20** | 13 | 7 | 46** | 17 | 8\nManagement | 8 | 24 | 2 | 4 | 26 | 5\n\n*Paper is counted by the ream.\n**Creative uses a different, more expensive pencil type.\n\nAs you are in charge of maintaining the office's inventory, you must make sure all departments have enough supplies for the upcoming quarter. Note that pencils come in packs of 12, pens come in packs of 3, and paper comes in packs of 5 reams. You should order enough to last the next quarter, but nothing more than necessary.\n\nAlso note that packs cannot be divided between departments.\n\nQUESTION\nIf every pack of pencils costs $1.65 for the Creative department, and $1.30 for Administration and Management departments, how much should the pencil order cost (for all departments combined)?",
+   "choices": [
+    "$4.60",
+    "$6.25",
+    "$7.55",
+    "$7.90"
+   ],
+   "answer": 1,
+   "explanation": "The answer is choice B.\n\nFirst we must determine how many packs are needed for each department.\n\nUsing the equation Projected Amount – Current Amount = To-Order Amount (units), we can say that Administration needs 4 Pencils (6 – 2 = 4), Creative needs 26 Pencils (46 – 20 = 26), and Management needs no Pencils (4 – 8 = -4; a negative To-Order Amount means there is already an excess).\n\n- One pack should be ordered for Administration, since each pack contains more than 4 Pencils.\n- Three packs should be ordered for Creative, since they contain more than 26 Pencils, and two packs contain only 24 which is not enough.\n- As stated before, no packs should be ordered for Management.\n\nIn total, we should order 1 pack of the $1.30 packs, and 3 packs of the $1.65 packs. The price totals at 1 * $1.30 + 3 * $1.65 = $6.25.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 14
+  },
+  {
+   "question": "DETAILS\nAssume that you are in charge of maintaining the inventory of supplies for the office. The table below describes the current status, and use projections for the next quarter (based on previous quarters), of some supplies in several departments in the office.\n\nOffice Supplies\nDepartment | Second Quarter Ending Status (Pencils | Black Pens | Paper*) | Third Quarter Use Projections (Pencils | Black Pens | Paper*)\nAdministration | 2 | 7 | 10 | 6 | 30 | 7\nCreative | 20** | 13 | 7 | 46** | 17 | 8\nManagement | 8 | 24 | 2 | 4 | 26 | 5\n\n*Paper is counted by the ream.\n**Creative uses a different, more expensive pencil type.\n\nAs you are in charge of maintaining the office's inventory, you must make sure all departments have enough supplies for the upcoming quarter. Note that pencils come in packs of 12, pens come in packs of 3, and paper comes in packs of 5 reams. You should order enough to last the next quarter, but nothing more than necessary.\n\nAlso note that packs cannot be divided between departments.\n\nQUESTION\nAssume for this question that it is possible to completely redistribute supplies between departments after ordering. How many paper packs should you order?",
+   "choices": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The answer is choice B.\n\nSince the paper reams can be redistributed, we just need to check how many reams are needed for the office as a whole, and order packs accordingly.\n\nThe total amount of paper reams currently available is 10 + 7 + 2 = 19. The total amount of paper reams that are projected to be used next quarter is 7 + 8 + 5 = 20. Therefore the order should contain at least one paper ream, and one pack of paper reams is indeed enough.",
+   "source": "Inductive Reasoning — Set 3",
+   "topic": "Inductive Reasoning 3",
+   "topic_n": 15
+  },
+  {
+   "question": "Officer Hernandez arrived at the scene of a car crash, and received the following account of events from four different witnesses:\n\nWitness 1 - A white Honda Civic was traveling 30 miles per hour above the speed limit when the light turned yellow. At first the driver tried to increase his speed to make the light, but then realized he would not make it and slammed on the brakes. He didn't stop quickly enough and back ended a gray Acura, which in turn, hit the motorcyclist in front of it. The motorcyclist then fell into oncoming traffic and was run over by a pickup truck.\n\nWitness 2 - A white Honda Civic was traveling 30 miles per hour above the speed limit when the light turned yellow. At first the driver tried to increase his speed to make the light, but then realized he would not make it and slammed on the brakes. He didn't stop quickly enough and back ended a green Acura, which in turn, hit the motorcyclist in front of it. The motorcyclist then fell into the lane on the right and was run over by a pickup truck.\n\nWitness 3 - A white Honda Civic was traveling 65 miles per hour when the light turned yellow. At first the driver tried to increase his speed to make the light, but then realized he would not make it and slammed on the brakes. He didn't stop quickly enough and back ended a gray Acura, which in turn, hit the motorcyclist in front of it. The motorcyclist then fell into the lane on the right and was run over by a pickup truck.\n\nWitness 4 - A white Honda Civic was traveling 30 miles per hour above the speed limit when the light turned yellow. The driver realized that he would not make the light, and slammed on the brakes. He didn't stop quickly enough and back ended a gray Acura, which in turn, hit the motorcyclist in front of it. The motorcyclist then fell into the lane on the right and was run over by a pickup truck.\n\nWhich witnesses report is most likely to be correct?",
+   "choices": [
+    "Witness 1",
+    "Witness 2",
+    "Witness 3",
+    "Witness 4"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nThe statements of all of the witnesses are identical except for a few minor discrepancies in certain details.\n\nThe following is the account of Witness 3; the details that were not unanimously agreed upon are highlighted:\n\nA white Honda Civic was traveling 65 miles per hour when the light turned yellow. At first the driver increased his speed to make the light, but then realized he would not make it and slammed on the brakes. He didn't stop quickly enough and back ended a gray Acura, which in turn, hit the motorcyclist in front of it. The motorcyclist then fell into the lane on the right and was run over by a pickup truck.\n\nWitness 4 is the only one who did not report the fact that the Honda sped up before braking. We can therefore disqualify Witness 4.\n\nWitness 2 reported that the Acura was green while the other three witnesses reported that it was gray. We can therefore disqualify Witness 2.\n\nWitness 1 reported that the motorcyclist fell into oncoming traffic while the other three witnesses reported that he fell into the right lane. Keep in mind that oncoming traffic is always to the left. We can therefore disqualify Witness 1.\n\nIt should be noted that Witness 3 reported that the Honda was traveling 65 miles per hour while the other three witnesses reported that it was traveling 30 miles per hour above the speed limit. These two reports do not necessarily contradict, as the speed limit may have been 35 miles per hour. In such a case someone who is driving 65 miles per hour is driving 30 miles per hour above the speed limit.\n\nIn conclusion, three of the four witnesses agreed that the Honda Civic first sped up before braking, the Acura was gray, and the motorcyclist fell into the right lane. The rest of the details are agreed upon by all four witnesses. The only witness who reported the incident as such is Witness 3.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 1
+  },
+  {
+   "question": "Officer Nadia arrived at the scene of a fire, and received the following account of events from four different witnesses:\n\nWitness 1 – A woman who lives on the corner began burning leaves in her backyard at 5:15 PM. She went inside at 5:30 leaving the fire unattended. At around 5:45 the fire spread to a wood stack in her neighbor's yard. Noticing the fire, the neighbor came out and poured water on the fire to try to extinguish it. This, however, only caused the fire to get larger and spread to his home. Noticing the damage she had caused, the woman quickly moved her bag of leaves into her neighbor's yard.\n\nWitness 2 – A woman who lives on the corner began burning leaves in her backyard at 5:15 PM. She went inside at 5:30 leaving the fire unattended. At around 5:45 the fire spread to a wood stack in her neighbor's yard. Noticing the fire, the neighbor came out and poured water on the fire to try to extinguish it. This, however, only caused the fire to get larger and spread to his home. Noticing the damage she had caused, the woman quickly moved her bag of leaves into the alleyway.\n\nWitness 3 – A woman who lives on the corner began burning leaves in her backyard at 5:15 PM. She went inside at 5:30 leaving the fire unattended. At around 5:45 the fire spread to a wood stack in her yard. Noticing the fire, her neighbor came out and poured water on the fire to try to extinguish it. This, however, only caused the fire to get larger and spread to his home. Noticing the damage she had caused, the woman quickly moved her bag of leaves into her neighbor's yard.\n\nWitness 4 – A woman who lives on the corner began burning leaves in her backyard at 5:15 PM. She went inside at 5:30 leaving the fire unattended. At around 5:45 the fire spread to a wood stack in her neighbor's yard. Noticing the fire, the neighbor came out and used a fire extinguisher in an attempt to extinguish the flames. This, however, only caused the fire to get larger and spread to his home. Noticing the damage she had caused, the woman quickly moved her bag of leaves into her neighbor's yard.\n\nWhich witnesses report is most likely to be correct?",
+   "choices": [
+    "Witness 1",
+    "Witness 2",
+    "Witness 3",
+    "Witness 4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe statements of all of the witnesses are identical except for a few minor discrepancies in certain details.\n\nThe following is the account of Witness 1; the details that were not unanimously agreed upon are highlighted:\n\nA woman who lives on the corner began burning leaves in her backyard at 5:15 PM. She went inside at 5:30 leaving the fire unattended. At around 5:45 the fire spread to a wood stack in her neighbor's yard. Noticing the fire, the neighbor came out and poured water on the fire to try to extinguish it. This however, only caused the fire to get larger and spread to his home. Noticing the damage she had caused, the woman quickly moved her bag of leaves into her neighbor's yard.\n\nWitness 3 reported that the fire spread to a wood stack in the yard of the woman who lit the fire, while the other three witnesses reported that the fire spread to a wood stack in her neighbor's yard. We can therefore disqualify Witness 3.\n\nWitness 4 reported that the neighbor tried to extinguish the fire using a fire extinguisher, while the other three witnesses reported that he poured water on the fire. We can therefore disqualify Witness 4.\n\nWitness 2 reported that the woman moved the bag of leaves into the alleyway, while the other three witnesses reported that she moved the bag into the neighbor's yard. We can therefore disqualify Witness 2.\n\nIn conclusion, three of the four witnesses agreed that the fire had spread to a wood stack in the neighbor's yard, the neighbor tried to extinguish the fire by pouring water on it, and the woman moved the bag of leaves into the neighbor's yard. The rest of the details are agreed upon by all four witnesses. The only witness who reported the incident as such is Witness 1.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 2
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nWhat were the initial missions of teams Alpha and Bravo?",
+   "choices": [
+    "Team Alpha was responsible for extrication and rescue and team Bravo for identification and prevention of hazards.",
+    "Team Alpha and Bravo were both responsible for fire stabilization.",
+    "Team Alpha was responsible for car extrication and team Bravo for evacuation.",
+    "Team Alpha was responsible for evacuation of the area and team Bravo for identification and prevention of hazards."
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nFrom the actions of team Alpha and Bravo we can understand their missions.\n\nTeam Alpha actions:\n-Placed the apparatus close to the SUV\n-Controlled the fire on the SUV\n-Checked the victims inside\n-Removed the car door\n\nThe list of actions implies that their mission was to extricate (and rescue) the passengers from the SUV.\n\nTeam Bravo actions:\n-Scanned for any uncontrolled fire (this is a hazard)\n-Applied Fluoroprotein foam concentrate into the sewage system to prevent explosion\n\nTheir actions imply that their mission was identification and prevention of hazards such as gasoline spill or fire.\n\nTip:\nThere is no need to check every answer as it will consume a lot of time. Once you find an answer that is correct you can select it. Furthermore, elimination can also save us time. We can eliminate answers C and D because evacuation cannot be considered initial mission, as the teams evacuated the area after the incident escalated.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 3
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nAfter the explosion, the civilians at the incident scene moved:",
+   "choices": [
+    "To the nearest shelter",
+    "Behind the apparatus",
+    "To the direction of the intersection with Main Street",
+    "To the direction of the intersection with Park Avenue"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nFrom the first paragraph we know that the intersection of Main Street is north of the incident area. The evacuation was directed against the wind direction which is north (north wind is directed to the south), meaning they were directed towards the intersection of Main Street.\n\nTip:\nDrawing is a very good way to organize the details together:\n\nNorth - Main Street intersection",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nWhy was the incident commander criticized for?",
+   "choices": [
+    "The dangerous placement of the apparatus.",
+    "For not taking into consideration the explosions hazard on time.",
+    "Because he evacuated the civilians to the wrong place.",
+    "Because of the slow and inefficient functioning of his teams."
+   ],
+   "answer": 1,
+   "explanation": "The right answer is B.\n\nIt is mentioned in the text that the commander was criticized for the late decision of the evacuation, \"the incident commander was criticized for his late decision to evacuate the area\". Eventually he did give the order to evacuate, but it should have happened earlier, before the fire approached the tanker. If he took into consideration the hazard of the tanker from the beginning, like he did with the hazard of the gasoline in the sewage he would have ordered the evacuation earlier.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 5
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nWhat in the passage implies that all present in the SUV are alive?",
+   "choices": [
+    "The car was successfully extricated.",
+    "That only one casualty died from smoke inhalation.",
+    "The SUV didn't explode.",
+    "They were taken to the hospital before the explosion."
+   ],
+   "answer": 3,
+   "explanation": "The right answer is D.\n\nFrom the last paragraph we know that the only death was a result of the explosion, \"the incident ended with one death – a man that died from inhaling the thick smoke of the explosion\". We know for sure that all the victims from the SUV were evacuated before the explosion, so it couldn't be one of them, \"the SUV was fully extricated and all the passengers were taken to the near hospital with an ambulance\".",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 6
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nWhich procedure should have been executed in order to prevent the explosion?",
+   "choices": [
+    "Draining the gasoline into the sewage.",
+    "Making sure the fire in the SUV was extinguished.",
+    "Fixing the leak in the tanker.",
+    "Applying fluoroprotein foam concentrate on the gasoline leak and the tanker."
+   ],
+   "answer": 3,
+   "explanation": "The right answer is D.\n\nIn paragraph three, team Bravo applied Fluoroprotein foam concentrate in order to prevent explosion in the sewage. The same could have been done to prevent the explosion of the tanker. There is no need to actually know what Fluoroprotein is because we learn its attribute from the text.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 7
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nWhy did the incident commander order for the fire trucks to be moved?",
+   "choices": [
+    "To be a safe distance from the tanker.",
+    "To let the ambulance reach the victims.",
+    "To get closer to the fire zone.",
+    "To reach the hydrant."
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nAfter the explosion, many actions were executed as safety measures, like evacuation and securing of the area. The apparatus' were moved far away from the incident, 300 ft. or more, as a safety measure.\n\nTip:\nWe can use quick elimination here. Answer C and D are eliminated because the commander ordered to let the fire burn-out, thus getting closer to the fire zone or reaching the hydrant is redundant. Answer B is eliminated because replacing the apparatus 300 ft. is not proportioned to what is need to let the ambulance in. Furthermore, it's mentioned that all emergency teams were evacuated, including medical ones.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 8
+  },
+  {
+   "question": "Please use the following information to answer the next seven questions:\n\nIn May 2015, the New York Fire Department received a call to respond to a reported accident involving a private car and a tanker truck. It was taken into consideration that hazardous materials may be involved or specialized equipment may be needed. The accident took place on Route 30, south of the intersection of Main Street and north of the intersection of Park Avenue. The tanker was an 8,000-gallon-capacity aluminum MC-306, loaded with 7,200 gallons of gasoline. A black SUV, which headed north, made a dangerous overtaking and collided \"head-on\" with the tanker. The tanker overturned, opened up, and began losing its fuel. The SUV crashed on the concrete median strip.\n\nAs the companies approached the scene, radio transmissions from first-due units confirmed that a black SUV, was 100 ft. away from the truck and was fully consumed in a fire. 4 passengers were trapped in the fire, and their life was in danger. The truck's driver managed to escape from the tractor.\n\nAfter the initial size-up of the scene, team Alpha from company 288 placed their apparatus 30 ft. from the SUV. The team took control on the fire, assessed the medical condition of the passengers, stabilized the car and used their tools to disassemble the car door. Simultaneously, the firefighters of team Bravo from the same company placed their apparatus 40 ft. from the tanker and scanned for any uncontrolled fire around it. The team also applied Fluoroprotein foam concentrate into the sewage system to prevent the gasoline that entered the system from exploding. The SUV was fully extricated and all the passengers were taken to the nearby hospital with an ambulance.\n\n20 minutes later, gasoline from the tanker reached the SUV, and a small flame ignited. All the gasoline that filled the street caught fire and an explosion occurred in the tanker. At that moment, the incident commander ordered teams Alpha and Bravo to evacuate the entire road within a radius of 800 meters and to take into consideration the north wind. The teams evacuated the area from all civilians and emergency teams against the wind direction. All engine companies moved their apparatus 300 ft. or more away. The commander decided to not extinguish the fire, but rather let the truck continue to burn until the fire was suppressed and the situation was stabilized.\n\nAlthough it could have ended much worse, the incident ended with one death – a man that died from inhaling the thick smoke from the explosion. The teams were highly praised for the quick evacuation and the professional extrication that saved the lives of many. In contrast, the incident commander was criticized for his late decision to evacuate the area, but the decision to let the fire burn-out put his function in a positive light.\n\nAn appropriate title for this passage would be ______:",
+   "choices": [
+    "\"Vehicle Incident Involving Tanker Hauling Gasoline\"",
+    "\"Car Extrication from a Burning Vehicle\"",
+    "\"Hazardous Materials\"",
+    "\"Evacuation at an Accident Scene\""
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nThe passage describes an accident between a car and a tanker truck filled with gasoline, which later exploded.\n\nAnswer B is eliminated because it's too specific; the car extrication is just one action from many that executed during the incident.\n\nAnswer C is eliminated because it's too general; gasoline was involved in the incident, but the main idea was not dangerous materials.\n\nAnswer D is eliminated because it's too specific; the evacuation was mentioned in the passage and does not represent the main idea.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 9
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nDuring which year did the budget of both police departments first decrease?",
+   "choices": [
+    "2002",
+    "2004",
+    "2005",
+    "2009"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nThe first year in which we can see that both bars, blue and red, are lower than the ones in the previous year is 2005.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 10
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nIn 2001 the city of Chicago initiated a program designed to decrease its police department budget by 25%. All employees were not allowed to work overtime anymore, and many of the old contracts with the suppliers were replaced with low-cost contracts. Based on the information provided in the graph, which of the following statements is MOST likely true?",
+   "choices": [
+    "The program was not effective from 2001-2006.",
+    "The program succeeded in decreasing the budget by 25% from 2001-2003.",
+    "The program was very effective from 2001-2006 but didn't succeed in decreasing the budget by 25%.",
+    "The program was very effective from 2001-2006 and also succeeded in decreasing the budget by 25%."
+   ],
+   "answer": 3,
+   "explanation": "The right answer is D.\n\nFrom 2001-2006 there was a steady decrease in the Chicago budget, which means the program was effective during those years.\n\nIn 2006 the budget was 60m dollars, which is 25% less than 2001 (80m dollars).",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 11
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nFrom __________ the budget of the __________ police department hasn't increased or decreased.",
+   "choices": [
+    "2004-2005, New York",
+    "2005-2007, New York",
+    "2006-2007, Chicago",
+    "2008-2009, Chicago"
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nThe bars in 2005 and 2007 that represent Chicago's budget are at the same height, thus there wasn't any change from 2005-2007.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 12
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nIn 2004 the Chief Officer of the New York police Department was worried by the persisting growth of the budget so he made a long-term reform in the pension plans of all the workers. In the end of 2007 the mayor of New York gave the city's police department a 10-year tax exemption to help reduce the oversized budget. Based on the information provided in the graph, which of the following statements is MOST likely true?",
+   "choices": [
+    "Both acts were successful.",
+    "Both acts were unsuccessful.",
+    "The Chief Officer's act was successful while the mayor' act was unsuccessful.",
+    "The Chief Officer's act was unsuccessful while the mayor' act was successful."
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nBy looking at the bar chart we can understand that the New York Police Department's budget steadily decreased from 2004, therefore the first reform was successful.\n\nWe can also see a drastic decrease from 2007-2008, thus the change in 2007 was successful as well.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 13
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nWhich of the following statements is true with regards to the chart?",
+   "choices": [
+    "The annual budget of the New York Police Department had a steady decrease from 2003-2007.",
+    "The annual budget of the Chicago Police Department had a steady increase from 2003-2007.",
+    "The annual budget of the Chicago Police Department had a steady decrease from 2001-2005.",
+    "The annual budget of the New York Police Department had a steady increase from 2001-2005."
+   ],
+   "answer": 2,
+   "explanation": "The right answer is C.\n\nThe blue bars, which represent the annual budget of the Chicago Police Department, are getting lower every year from 2001-2005 so the budget is steadily decreasing during those years.\n\nTip:\nWhen asked to choose a true statement from a list of possible answers, you should compare each statement to the information provided until you reach one statement that fits the charts. There is no need to compare the remaining answers once you find a correct one.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 14
+  },
+  {
+   "question": "please use the following bar graph to answer question 1-6:\n\nAnnual budget (Millions of US dollars) — Chicago police department / New York police department, by year (values read from the bars, approximate):\n2001: Chicago about 80 | New York about 122\n2002: Chicago about 77 | New York about 134\n2003: Chicago about 73 | New York about 140\n2004: Chicago about 70 | New York about 148\n2005: Chicago about 60 | New York about 140\n2006: Chicago about 60 | New York about 136\n2007: Chicago about 60 | New York about 132\n2008: Chicago about 65 | New York about 97\n2009: Chicago about 76 | New York about 90\n2010: Chicago about 80 | New York about 80\n\nIn which year was the sum of both Police Departments' budgets the highest?",
+   "choices": [
+    "2004",
+    "2005",
+    "2008",
+    "2009"
+   ],
+   "answer": 0,
+   "explanation": "The right answer is A.\n\nIn 2004 the sum of the police departments' budgets was more than 200 million dollars (120+ of New York and 60+ of Chicago). In 2005, 2008 and 2009 it is clearly under 200 million.\n\nTip:\nIn order to save time it is recommended to only compare the data related to the years that appear in the answers.",
+   "source": "Inductive Reasoning — Set 4",
+   "topic": "Inductive Reasoning 4",
+   "topic_n": 15
+  }
+ ]
+}

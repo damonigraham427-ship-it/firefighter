@@ -53,6 +53,42 @@
    "chapter": "Reading Comprehension",
    "pie": true,
    "draw": 20
+  },
+  {
+   "file": "ff-reasoning-deductive.json",
+   "title": "Deductive Reasoning",
+   "note": "60 questions · 1 held out for re-capture",
+   "category": "Firefighter",
+   "chapter": "Reasoning",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-reasoning-inductive.json",
+   "title": "Inductive Reasoning",
+   "note": "52 questions",
+   "category": "Firefighter",
+   "chapter": "Reasoning",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-reasoning-logical.json",
+   "title": "Logical Reasoning",
+   "note": "48 questions",
+   "category": "Firefighter",
+   "chapter": "Reasoning",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-reasoning-ordering-sensitivity.json",
+   "title": "Information Ordering + Problem Sensitivity",
+   "note": "71 questions",
+   "category": "Firefighter",
+   "chapter": "Reasoning",
+   "pie": true,
+   "draw": 20
   }
  ]
 }

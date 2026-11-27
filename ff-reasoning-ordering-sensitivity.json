@@ -1,0 +1,998 @@
+{
+ "questions": [
+  {
+   "question": "The following steps should be followed when rescuing a drowning person. (These steps are not listed in the correct order.)\n1. Place your arm underneath the victim's\n2. Get a flotation device\n3. Apply medical assistance\n4. Swim to the victim\n5. If other people are around, alert them to call for help.\n6. Place the flotation device between yourself and the victim\n7. Bring the victim to safety\nThe most logical order for the steps above is:",
+   "choices": [
+    "5, 2, 4, 6, 1, 7, 3",
+    "3, 2, 4, 1, 6, 7, 5",
+    "5, 4, 2, 1, 6, 7, 3",
+    "2, 4, 6, 7, 1, 4, 3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe first thing you should do when a person is drowning is to call for more help (step 5). Answers B and D can therefore be eliminated.\n\nAccording to answer A, after calling for help you should get a flotation device (step 2) and then swim to the victim (step 4).\n\nAccording to answer C, after calling for help you should swim to the victim (step 4) and then get a flotation device (step 2).",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The following steps should be followed when approaching a crime scene. (These steps are not listed in the correct order.)\n1. Evaluate what kind of physical evidence may be present\n2. Capture the scene photographically\n3. Initiate a preliminary survey of the scene\n4. Prepare a narrative of the scene\n5. Conduct a detailed search of the scene\n6. Secure and protect the scene\n7. Record and collect evidence\nThe most logical order for the steps above is:",
+   "choices": [
+    "6, 1, 3, 7, 5, 2, 4",
+    "3, 6, 4, 7, 5, 1, 2",
+    "6, 3, 1, 2, 5, 7, 4",
+    "1, 2, 6, 3, 5, 7, 4"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nWhen approaching a crime scene, the first step is to secure and protect it (step 6). If the scene is not secured or protected, evidence may be moved or tampered with, which can strongly harm the investigation. Answers B and D can therefore be eliminated.\n\nStep 7 instructs you to record and collect evidence. When investigating a crime scene, the location of evidence can be important and therefore evidence should only be collected after the scene has been captured photographically (step 2), and after a detailed search of the scene has been conducted (step 5). We can therefore eliminate answer A, and conclude that C is the correct answer.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nPOLICE OFFICER GUIDE – CLOSE RANGE ENCOUNTER\nWhen you encounter a person holding a close range weapon with a possible intent to harm themselves or others, you must follow the procedure below:\nFirst, draw your sidearm and shout: “Police! Drop your weapon!”\n• If the person does not surrender nor attempts an attack, call for backup.\n• If the person does surrender, approach with caution, handcuff the person and report in.\n• If the person attacks, shoot in order to stop the person (in torso area).\n\nOfficer Helena encounters one Gina Gales beating a man in his late 50s with a metallic baseball bat. As soon as Helena asks Gina to drop her weapon, Gina starts to flee the scene with the bat still in hand. What should Helena do?",
+   "choices": [
+    "Call for backup.",
+    "Report in the crime.",
+    "Shoot Gina's torso area.",
+    "Chase after Gina."
+   ],
+   "answer": 0,
+   "explanation": "The answer is choice A.\n\n“If the person does not surrender or attempts an attack, call for backup.” – Since Gina did not surrender or attempt an attack (she elected to flee), Helena should call for backup.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nThe following procedure must be followed when watchtower guard duty shifts change.\n1. The incoming officer must check his/her gear: rifle, vest with ammunition, water bottle and food (optional).\n2. The incoming officer must check his/her rifle's chamber. Then he/she must ascend to the watchtower.\n3. The outgoing officer must insure that the incoming officer has settled in and taken over watch duty.\n4. The outgoing officer must exit the tower, check his/her rifle's chamber, and only then return to quarters.\n\nOfficer Brady is about to replace Officer Daniels in Tower #2. Which of these is possible assuming the shift change was done correctly?",
+   "choices": [
+    "Officer Brady checked her rifle's chamber before Officer Daniels did.",
+    "Officer Daniels checked his rifle's chamber before Officer Brady took over watch duty.",
+    "Officer Brady checked her gear after she checked her rifle's chamber.",
+    "Officer Brady ascended to the tower after Officer Daniels checked his rifle's chamber."
+   ],
+   "answer": 0,
+   "explanation": "The answer is choice A.\n\nStep 2 states that “the incoming officer must check his/her rifle's chamber [...];” – Officer Brady is the incoming officer. Step 4 states that “the outgoing officer must [...] check his/her rifle's chamber [...].” – Officer Daniels is the outgoing officer. Therefore, it is correct that Officer Brady checked his rifle's chamber before Officer Daniels did.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The following steps should be followed when taking fingerprints. (These steps are not listed in the correct order).\n1. Ensure that the subject's fingers are free from any lint\n2. Have the subject roll his or her finger onto the fingerprint card\n3. Have the subject fill his personal details in the fingerprint card\n4. Instruct the subject to look away so as not to “help” the roll\n5. Grasp the top of the subject's hand to make sure the finger is fully extended\n6. Have the subject wash his or her hands thoroughly\nThe most logical order for the steps above is:",
+   "choices": [
+    "1, 6, 5, 3, 4, 2",
+    "3, 6, 1, 4, 5, 2",
+    "1, 5, 2, 4, 6, 3",
+    "6, 1, 5, 2, 4, 3"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nYou must instruct the subject to look away so as not to “help” the roll (step 4), before the subject actually rolls his finger onto the fingerprint card (step 2). We can therefore eliminate answers C and D.\n\nIt does not make very much sense to have the subject fill his personal details in the fingerprint card (step 3) immediately after grasping the top of the subject's hand to make sure the finger is fully extended (step 5); step 5 clearly goes together with steps 2 and 4. We can therefore eliminate answer A and conclude that answer B is the correct answer.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The following steps should be followed if you see an elderly person fall. (These steps are not listed in the correct order.)\n1. Help move the person into a kneeling position with both hands on the chair.\n2. Help the person place their stronger leg in front and grab onto the chair.\n3. Help the person move into a position so that they are lying on their side and bending their upper leg.\n4. Hold the person by the hips and help him stand, then turn and sit on the chair.\n5. Help move the person into a seated position on the floor with their legs bent in front of them.\n6. Bring a chair close by.\nThe most logical order for the steps above is:",
+   "choices": [
+    "3, 5, 6, 2, 1, 4",
+    "6, 1, 5, 3, 4, 2",
+    "6, 5, 3, 2, 1, 4",
+    "6, 3, 5, 1, 2, 4"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nStep 4 must come after step 2, as there would be no reason to “help the person place their stronger leg in front and grab onto the chair” (step 2), once they are already seated (step 4). We can therefore eliminate answer B.\n\nAnswer A suggests that we help the person onto their side (step 3), move them into a seated position (step 5), and only then bring the chair close by (step 6). It would make much more sense to first bring the chair close by, as answers C and D suggest, before starting to assist the person to get up; you wouldn't want to leave a person, who is probably having trouble carrying themselves, in a position from which they might fall back down. We can therefore eliminate answer A.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "The following are instructions on how to properly handle toxic waste that needs to be stored before being shipped off site for disposal. (These steps are not listed in the correct order.)\n1. Determine which container is compatible with the type of waste that needs to be stored.\n2. Identify the type of waste.\n3. Using a funnel, pour the waste into the container.\n4. Store the container in a safe place.\n5. Thoroughly rinse and dry the container.\nThe most logical order for the steps above is:",
+   "choices": [
+    "2, 1, 5, 3, 4",
+    "1, 5, 2, 3, 4",
+    "2, 1, 5, 4, 3",
+    "5, 4, 2, 1, 3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe first step in storing waste is to identify the type of waste (step 2). If we do not know what type of waste we are dealing with, we will not be able to determine which containers we can and cannot use. We can therefore eliminate answers B and D.\n\nStep 3 must come before step 4, as we would only store the container (step 4), after the waste has been poured into it (step 3). We can therefore eliminate answer C and conclude that A is the correct answer.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "If someone appears to be choking, the following steps should be taken. (These steps are not listed in the correct order.)\n1. Call a trained medical professional for help.\n2. Get the victim in a standing position.\n3. Using the heel of your hand, hit the victim on their back in between their shoulder blades.\n4. Thrust inwards and upwards into the victim's abdomen with force.\n5. Position yourself behind the victim.\nThe most logical order for the steps above is:",
+   "choices": [
+    "2, 1, 5, 4, 3",
+    "1, 5, 2, 3, 4",
+    "1, 2, 5, 4, 3",
+    "2, 5, 3, 4, 1"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nWhen a person is choking every second is critical and time cannot be wasted to start making phone calls (step 1). Step 1 must therefore only come after immediate care has been provided to the chocking victim. We can therefore eliminate answers B C and A, and conclude that answer D is the correct answer.",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "Read the RULE and SITUATION carefully and answer the question.\n\nRULE\nFire Emergency Plan – Security Offices' Duties\nUpon hearing a fire alarm, you must follow the procedure described below until a firefighter is on scene, to whom you must adhere completely. If you witness a fire or sign of fire, you must activate the fire alarm prior to the procedure.\nGo to your assigned evacuation spot. If reaching your evacuation spot puts you in any danger of serious injury, go as closely as you can to it. Direct all office personnel in your vicinity towards the emergency exits. If a person is injured or in any other way incapable of escaping the facility securely and promptly, assign an able bodied personnel to assist that person. Without delaying them, remind personnel as much as possible about the following precautions taken with fires in buildings: (a) Keep low and walk briskly without running, (b) do not open doors behind which you believe there is a fire, and (c) do not reenter the facility until authorized by a firefighter.\nAssume the role of a Security Officer in the office building in the following situation.\n\nSITUATION\nDuring your coffee break, a personnel member tells you about black smoke coming out of the copy machine room. Upon arrival to the copy machine room, you see indeed that black smoke is escaping through the crack below the door.\n\nQuestion: What do you do first?",
+   "choices": [
+    "Open the door and try to extinguish the fire.",
+    "Activate the fire alarm.",
+    "Direct all office personnel in your vicinity towards the emergency exits.",
+    "Go to your assigned evacuation spot, if possible."
+   ],
+   "answer": 1,
+   "explanation": "The answer is choice B.\n\n“If you witnesses a fire or sign of fire, you must activate the fire alarm prior to the procedure.” Answer choices C and D are part of the procedure. Answer choice A is not mentioned [explanation partly covered by a screen overlay in the capture — rest not readable].",
+   "source": "Information Ordering 1",
+   "topic": "Information Ordering 1",
+   "topic_n": 1
+  },
+  {
+   "question": "When destroying confidential documents, the following steps must be taken. (These steps are not listed in the correct order.)\n1. Receive authorization to destroy the document from the Director of Archives and Records.\n2. Shred and dispose the document.\n3. Ensure that the document is not relevant to a lawsuit, investigation, audit, or any other ongoing matter.\n4. Ensure that the document has been retained for the minimum amount time before it may be disposed of.\n5. Record the document that is being destroyed in the Destruction Record.\nThe most logical order for the steps above is:",
+   "choices": [
+    "4, 3, 1, 5, 2",
+    "1, 4, 3, 2, 5",
+    "3, 4, 5, 1, 2",
+    "5, 1, 3, 2, 4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nSteps 1, 3, and 4 are all preliminary steps to ensure that the document can be destroyed. These all must come before the document is disposed of (step 2). We can therefore eliminate answer D.\n\nYou should not record that a document is being destroyed (step 5) until you have received full authorization to actually do so. We can therefore conclude that step 5 must come after steps 1, 3, and 4, and eliminate answer C.\n\nA record should be made of the document you are destroying (step 5) before actually doing so (step 2). After a document has been destroyed, you will be unable to retrieve any information that may be necessary [explanation continues below the captured frame].",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "The following is a list of offences committed by different Officers:\n1. Officer Gary reported to duty ten minutes late.\n2. Officer Chuck accepting a bribe from a criminal.\n3. Officer Michael went to sleep during a night patrol.\n4. Officer Daniel was spreading gossip about a co-worker.\n5. Officer Alan grew his hair 4″ long, thus violating the dress code.\nRank the above offences in order from the least serious to most serious.",
+   "choices": [
+    "5, 3, 1, 4, 2",
+    "1, 5, 4, 3, 2",
+    "1, 4, 5, 2, 3",
+    "3, 5, 1, 2, 4"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nAccepting a bribe from a criminal (Offence 2) is a felony and corrupt. The other offences represent poor work ethic and may represent behavior, but nonetheless are less grave. We can therefore eliminate answers C and D.\n\nGoing to sleep during a night patrol (offence 3) shows complete disregard for responsibilities, and the citizens of the patrol area in danger. Showing up ten minutes late for duty (offence 1) demonstrates poor work ethic, but does not put the public in danger. We can therefore eliminate answer A, and conclude that B is correct.",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "The following are tasks that should be completed in a hostage situation:\n1. Safely evacuating hostages and innocent bystanders\n2. Keeping security personnel safe\n3. Recovering and protecting property\n4. Apprehending the suspect\n5. Informing the hostages' families of the situation\nList the above tasks in order from least important to most important.",
+   "choices": [
+    "2, 5, 3, 1, 4",
+    "5, 2, 3, 4, 1",
+    "5, 3, 4, 2, 1",
+    "3, 5, 1, 2, 4"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nIn a hostage situation the first priority is to keep hostages and innocent bystanders safe (Task 1). We can therefore eliminate answers A and D.\n\nSecuring all life, including security personnel (Task 2), is always the first priority in hostage situations. We can therefore eliminate answer B and conclude that C is correct.",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "If a person is lying unconscious and CPR needs to be performed, the following steps should be followed. (These steps are not listed in the correct order.)\n1. Move the victim onto his or her back.\n2. Place your one hand on top of the other, palms-down, and interlock your fingers.\n3. Place the heel of one hand on the victim's breastbone, 2 finger widths above the lower ribs.\n4. Position your body over your hands, so that your arms are straight and rigid.\n5. Send someone to call for Emergency Medical Services.\n6. Perform chest compressions.\nThe most logical order for the steps above is:",
+   "choices": [
+    "1, 2, 3, 4, 5, 6",
+    "5, 1, 3, 2, 4, 6",
+    "1, 5, 2, 3, 4, 6",
+    "1, 4, 3, 2, 6, 5"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B\n\nIf a person is lying unconscious, Emergency Medical Services needs to be called immediately (step 5) to ensure that the victim will receive proper care. We can therefore eliminate answers A and D.\n\nYou must first properly position your hands on the victim (steps 2 and 3) before positioning your body over your hands so that your arms are straight and rigid (step 4). We can therefore eliminate answer C and conclude that B is correct. [A further \"Note:\" paragraph follows in the original but is cut off in the capture.]",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "A police officer responds to a call that there was shouting coming from a neighbor, and that they think the husband is abusive. The police arrive to the following scene:\n1. Shattered glass all over the floor\n2. A television on with very high volume\n3. A crying baby\n4. A bruise on the woman's eye and fresh blood on her lip\n5. Empty bottles of alcohol on the floor\n6. Clothes and garbage scattered all over\nRate the order, from weakest to strongest, in which these signs indicate that the husband is in fact abusive.",
+   "choices": [
+    "6, 2, 3, 5, 1, 4",
+    "2, 6, 1, 5, 4, 3",
+    "3, 2, 6, 5, 4, 1",
+    "5, 6, 3, 2, 1, 4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe strongest indicator to the fact that a woman is being abused is seeing actual harm to her body. A bruise to her eye and fresh blood on her lip (Sign 4) is therefore the strongest indicator, and we can eliminate answers B and C.\n\nSeeing a mess in someone's home is not a strong indication of domestic abuse. However, between seeing clothes scattered on the floor (Sign 6), and seeing empty alcohol bottles scattered on the floor (Sign 5), the empty alcohol bottles are a stronger indicator. [Final clause of the explanation is covered by a screen overlay in the capture.]",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "The following steps should be followed in the event of a mercury spill. (These steps are not listed in the correct order.)\n1. Wipe up the powder from the contaminated area with a wet towel.\n2. Section off the area to prevent the mercury from spreading.\n3. Dispose of any contaminated materials in a plastic bag and seal tightly.\n4. Put on protective clothing.\n5. Collect the mercury into a container.\n6. Sprinkle the contaminated area with chemical amalgam.\nThe most logical order for the steps above is:",
+   "choices": [
+    "6, 3, 4, 5, 1, 2",
+    "2, 1, 4, 3, 5, 6",
+    "3, 2, 6, 1, 5, 4",
+    "4, 2, 5, 6, 1, 3"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nWhen dealing mercury, which can be highly toxic, it is important to first take the proper safety precautions. The first step should be to put on protective clothing (step 4), to keep yourself from harm, and then to make sure it does not spread (step 2). Answers A, B, and C can be eliminated, and we can conclude that D is the correct answer.\n\nYou may also have noticed:\n\nYou can only wipe up powder (step 1) after the powder has been sprinkled (step 6). [Rest of this note is cut off by a screen overlay in the capture.]",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When taking in a new inmate to a prison, the following procedures should be followed in the given order:\n1. The county must contact its designated Reception Center Institution, on or before the Thursday prior to the week of transfer, to coordinate the upcoming delivery of the inmates.\n2. In the event the Reception Center is unable to accept delivery of the inmate, the county shall contact Intake Control Unit who will make every effort to direct the county to an alternate Reception Center.\n3. Inmates shall be delivered in the order in which they were notified to the Reception Center.\n4. Inmates must arrive with all of their required documentation, including, but not limited to, a copy of the minute order certified by the clerk of the court or judge and confidential medical documents indicating that the inmate is medically capable for transport.\n5. Immediately upon arrival, the inmate's identity shall be verified by staff.\n6. Upon staff's reception of an inmate's cash and personal property, a CGR 155 shall be completed.\n7. Each inmate shall be photographed and assigned an identification card.\n\nOfficer Williams contacted the Reception Center on Thursday, January 22, to coordinate the delivery of Mark Green to the corrections facility for Monday, January 26. The Reception Center said they were already accepting twenty six inmates on Monday and will be unable to accept any more inmates. What should Officer Williams do?",
+   "choices": [
+    "Arrange for Mark Green to be delivered to the Reception Center at the earliest possible time of the upcoming week.",
+    "Verify that Mark Green is medically capable of transport.",
+    "Request from the Intake Control Unit to tell the Reception to admit Mark Green on Monday.",
+    "Contact the Intake Control Unit to arrange for Mark Green to be delivered to an alternate Reception Center."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\n“In the event the Reception Center is unable to accept delivery of the inmate, the county shall contact Intake Control Unit who will make every effort to direct the county to an alternate Reception Center.”",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When taking in a new inmate to a prison, the following procedures should be followed in the given order:\n1. The county must contact its designated Reception Center Institution, on or before the Thursday prior to the week of transfer, to coordinate the upcoming delivery of the inmates.\n2. In the event the Reception Center is unable to accept delivery of the inmate, the county shall contact Intake Control Unit who will make every effort to direct the county to an alternate Reception Center.\n3. Inmates shall be delivered in the order in which they were notified to the Reception Center.\n4. Inmates must arrive with all of their required documentation, including, but not limited to, a copy of the minute order certified by the clerk of the court or judge and confidential medical documents indicating that the inmate is medically capable for transport.\n5. Immediately upon arrival, the inmate's identity shall be verified by staff.\n6. Upon staff's reception of an inmate's cash and personal property, a CGR 155 shall be completed.\n7. Each inmate shall be photographed and assigned an identification card.\n\nDonald Walker arrived at the Wade Reception Center and handed Officer Kathy all of his documentation, cash, and possessions. What should Officer Kathy do next?",
+   "choices": [
+    "Contact the Intake Control Unit to confirm the imamate's arrival.",
+    "Fill out a CGR 155",
+    "Photograph the inmate.",
+    "Request to see photo identification from the inmate."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nAccording to the procedures, when an inmate arrives, his identity must be verified. We are also told that upon receiving the possessions of an inmate a CGR 155 must be filled out. To answer this question, we must find a word that indicates to us which of these two procedures takes precedence. Procedure 5 states, “Immediately upon arrival, the inmate's identity shall be verified by staff.”\n\nThis tells us that before doing anything else, we must first identify the inmate's identity [explanation continues below the captured frame].",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When an inmate files a complaint the following procedure must be followed:\nThe Prison Counselor will issue a BP-9 form within 48 hours of the time the inmate approached the employee with the problem. The inmate must complete the BP-9 within twenty days of the incident, after which the Counselor will deliver it to the Legal Office. If the situation presented indicates that the inmate's rights have in fact been violated, they will pass the file along to the C&R department. If, based on the BP-9, the Legal Office believes that the inmate behaved in prohibited manner they will contact the Inmate Disciplinary department to investigate the matter. If they believe that the inmate's rights were not violated, nor that the inmate behaved in a prohibited fashion, they must provide a written response to the inmate explaining their decision. The department that receives the file will have thirty days to investigate the incident and to provide a written response to the inmate. If the staff is unable to complete the investigation within the given time limit, they may extend it for an additional thirty days after notifying the inmate.\n\nAn inmate filed a BP-9 claiming that Officer Jones used force on him in the yard unprovoked. In the file he described that Officer Jones was on the phone and seemed very aggravated. When the officer got off the phone, he approached the inmate and shoved him to the ground. Immediately after receiving the report, Officer Jones appeared in the Legal Office and explained that he only shoved the inmate to the ground because the inmate was attempting to steal another officer's firearm. What should the Legal Office do next?",
+   "choices": [
+    "Consult with the Prison Counselor regarding the officer's claim.",
+    "Prepare a written response to the inmate explaining that his rights were not violated.",
+    "Pass the file along to the C&R department.",
+    "Pass the file along to the Inmate Disciplinary department."
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nUpon receiving a complaint, the Legal Office must review it and decide whether they should pass it along to the C&R department, to the Inmate Disciplinary department, or dismiss the claim altogether. [The remainder of this explanation is cut off and partly covered by a screen overlay in the capture — not readable.]",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When an inmate files a complaint the following procedure must be followed:\nThe Prison Counselor will issue a BP-9 form within 48 hours of the time the inmate approached the employee with the problem. The inmate must complete the BP-9 within twenty days of the incident, after which the Counselor will deliver it to the Legal Office. If the situation presented indicates that the inmate's rights have in fact been violated, they will pass the file along to the C&R department. If, based on the BP-9, the Legal Office believes that the inmate behaved in prohibited manner they will contact the Inmate Disciplinary department to investigate the matter. If they believe that the inmate's rights were not violated, nor that the inmate behaved in a prohibited fashion, they must provide a written response to the inmate explaining their decision. The department that receives the file will have thirty days to investigate the incident and to provide a written response to the inmate. If the staff is unable to complete the investigation within the given time limit, they may extend it for an additional thirty days after notifying the inmate.\n\nThe Legal Office received a complaint that Officer Howard had been sexually harassing one of the inmates. Officer Howard had just been temporarily transferred to another unit, therefore the Legal Office believed that the investigation would take more than thirty days to complete. What should they do?",
+   "choices": [
+    "Pass the file along to C&R department.",
+    "Notify the inmate that the investigation will take more than thirty days.",
+    "Inform the Inmate Disciplinary department that they will have sixty days in total to complete the investigation.",
+    "Call Officer Howard and tell him he needs to report as soon as possible to allow the investigations to proceed."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe task of the Legal Office is to review the complaint and decide to which department it should be sent. If the department who receives the complaint (in this case the C&R department, as sexual harassment is a clear violation of an inmate's rights) is unable to complete the investigation in thirty days, they (and not the Legal Office) must notify the inmate. [A few words at the line ends are clipped by a screen overlay in the capture.]",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When extricating entrapped passengers from a vehicle, firefighters must follow the following procedures in the given order:\n1. Control the accident scene and divert traffic away.\n2. Stabilize the vehicle using cribbing and other necessary tools to prevent unexpected movement.\n3. If entry to the vehicle is possible through any of the doors, enter the vehicle accordingly. If this is not possible, enter the vehicle by smashing a window, or by using any other, less dangerous means.\n4. Release any pressure from victims and release them from seatbelts.\n5. Remove a car door, or the roof to allow for safe extrication of the victims.\n6. Remove victims from the vehicle.\n\nFirefighter Josh arrived at an accident scene to find a woman in a car that had overturned. The police had already arrived and had blocked off traffic and stabilized the vehicle. Firefighter Josh was able to enter the vehicle through the passenger door, and deflated the airbag to relieve pressure on the victim. What should he do next?",
+   "choices": [
+    "Extricate the victim",
+    "Unbuckle or cut the seatbelt",
+    "Remove a door from the vehicle",
+    "Remove the roof from the vehicle"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nAfter entering pressure from the victim, the firefighter must release victims from seatbelts to prepare them for extrication.",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "When extricating entrapped passengers from a vehicle, firefighters must follow the following procedures in the given order:\n1. Control the accident scene and divert traffic away.\n2. Stabilize the vehicle using cribbing and other necessary tools to prevent unexpected movement.\n3. If entry to the vehicle is possible through any of the doors, enter the vehicle accordingly. If this is not possible, enter the vehicle by smashing a window, or by using any other, less dangerous means.\n4. Release any pressure from victims and release them from seatbelts.\n5. Remove a car door, or the roof to allow for safe extrication of the victims.\n6. Remove victims from the vehicle.\n\nFirefighter Joe arrived at an accident to find a car that is caught on fire with the doors completely smashed in. The windshield has been completely smashed through and there are two passengers who cannot free themselves from their seatbelts. What is the first thing Firefighter Joe should do?",
+   "choices": [
+    "Divert traffic away from the enflamed vehicle.",
+    "Enter the vehicle through the broken windshield.",
+    "Release the passengers from their seatbelts.",
+    "Stabilize the vehicle."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nWhen arriving to an accident scene the first thing firefighters are instructed to do is to control the scene and divert traffic away.",
+   "source": "Information Ordering 2",
+   "topic": "Information Ordering 2",
+   "topic_n": 2
+  },
+  {
+   "question": "Below are written instructions involving how to position a fire apparatus when responding to a scene. The steps are not in order.\n1. While you drive towards the preferred attack position watch out for possible hazards such as spilling fluids, and fallen power lines.\n2. Once you have an initial understanding of the situation, evaluate the incident as quickly as possible in order to determine the proper position of the apparatus for attack.\n3. Remain with the apparatus, and prepare to make connections to the water supply or sprinkler.\n4. Position the apparatus so that the fire area is 30 ft. away, but close enough to a nearby hydrant.\n5. After you made sure you are far enough from the fire, have the park brake on, wheels chocked, and place traffic cones around the truck.\n6. When arriving to a scene, slow down the fire apparatus and take a good look at the three sides of the incident.\n\nWhat is the correct order of the steps listed above?",
+   "choices": [
+    "6, 2, 1, 4, 5, 3",
+    "2, 6, 4, 1, 5, 3",
+    "6, 2, 5, 3, 4, 1",
+    "2, 4, 1, 6, 5, 3"
+   ],
+   "answer": 0,
+   "explanation": "The right Answer is A.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text as it helps us understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer these kinds of questions, try to locate keywords that provide contextual information about the main idea of each numbered sentence. This will help you determine how the various steps relate to one another.\n\n[The ordered list shown in the original explanation is cut off at the bottom of the capture. The correct order is the checkmarked answer: 6, 2, 1, 4, 5, 3.]",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are written instructions involving how to position a fire apparatus when responding to a scene. The steps are not in order.\n1. While you drive towards the preferred attack position watch out for possible hazards such as spilling fluids, and fallen power lines.\n2. Once you have an initial understanding of the situation, evaluate the incident as quickly as possible in order to determine the proper position of the apparatus for attack.\n3. Remain with the apparatus, and prepare to make connections to the water supply or sprinkler.\n4. Position the apparatus so that the fire area is 30 ft. away, but close enough to a nearby hydrant.\n5. After you made sure you are far enough from the fire, have the park brake on, wheels chocked, and place traffic cones around the truck.\n6. When arriving to a scene, slow down the fire apparatus and take a good look at the three sides of the incident.\n\nAccording to the steps above, what should a firefighter who drives a fire engine do BEFORE he prepares to make connections to the water supply?",
+   "choices": [
+    "Make a full stop",
+    "Place traffic cones",
+    "Block the road to prevent traffic near the fire area",
+    "Position the apparatus near a hydrant"
+   ],
+   "answer": 1,
+   "explanation": "The Answer is B.\n\nBefore the preparation of water supply connections, the firefighter should make a sequence of actions to secure a safe parking spot. The last action of the sequence is placing traffic cones to prevent by passers from getting too close.\n\nWe already know the right order, so we just need to look for the connections of the water supply in the sequence which is in Step No.3. According to the right order, step No.5 – \"place traffic cones\" is placed right before step No. 3.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are written instructions involving how to position a fire apparatus when responding to a scene. The steps are not in order.\n1. While you drive towards the preferred attack position watch out for possible hazards such as spilling fluids, and fallen power lines.\n2. Once you have an initial understanding of the situation, evaluate the incident as quickly as possible in order to determine the proper position of the apparatus for attack.\n3. Remain with the apparatus, and prepare to make connections to the water supply or sprinkler.\n4. Position the apparatus so that the fire area is 30 ft. away, but close enough to a nearby hydrant.\n5. After you made sure you are far enough from the fire, have the park brake on, wheels chocked, and place traffic cones around the truck.\n6. When arriving to a scene, slow down the fire apparatus and take a good look at the three sides of the incident.\n\nAccording to the steps above, what should a firefighter who drives a fire engine do AFTER he evaluates the incident?",
+   "choices": [
+    "Take a good look at the 3 three sides of the incident",
+    "Position the apparatus",
+    "Drive to the best attack position possible",
+    "Prepare to make connections to the hydrant"
+   ],
+   "answer": 2,
+   "explanation": "The Answer is C.\n\nAfter the firefighter evaluates the incident, he should drive to the best attack position he can find.\n\nWe already know the right order, so we just need to look up for the incident evaluation in the sequence. We can find it in Step No.2 – \"evaluate the incident\". According to the order, step No.1 – \"drive towards the preferred attack position\" is placed right after step No. 2.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Officer Allen was involved in a physical altercation with an elderly citizen this afternoon. Officer Allen's account of the incident consists of the six statements below, which are out of order:\n1. He got up from the sofa and started to throw things at me until I told him I'm from the emergency services and he stopped.\n2. After I calmed him down I apologized and promised him he will be compensated for the damage.\n3. After he explained why he called, I started to break into the apartment using a crow bar. Inside, the old man was sitting on a sofa.\n4. He told me about his 92-years old neighbor who lives alone, and has not been responding to calls for few days.\n5. I arrived to a residential building to respond to an emergency call made by one of the residents.\n6. I met him at the hallway of the 5th floor.\n\nWhat happened immediately AFTER the officer broke into the apartment?",
+   "choices": [
+    "He got to the 5th floor.",
+    "The old man got up from the sofa and attacked him.",
+    "He was told about the 92-years old man who lives alone.",
+    "He apologized."
+   ],
+   "answer": 1,
+   "explanation": "The Answer is B.\n\nAfter the officer broke into the old man's apartment, the man attacked him by throwing things.\n\nWe don't have a logical order to choose from, so we need to organize the sentences, and use it to answer the question.\nOther than sentence 5 all other sentences use a referral word like 'he' or 'him' or include the word 'after' – it implies that only sentence No.5 can be the first sentence.\n\nUsing common sense we will find the consecutive order of events. In sentence No.6 the officer met 'him'; it refers to the person who made the call because the other person was on a sofa when he met him. Later, sentence No.4 is refers him again by using 'he' – reasonably the officer arrived to the building, then met the caller and then listened to what he has to say – 5→6→ [rest of the explanation is cut off in the capture].",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Officer Allen was involved in a physical altercation with an elderly citizen this afternoon. Officer Allen's account of the incident consists of the six statements below, which are out of order:\n1. He got up from the sofa and started to throw things at me until I told him I'm from the emergency services and he stopped.\n2. After I calmed him down I apologized and promised him he will be compensated for the damage.\n3. After he explained why he called, I started to break into the apartment using a crow bar. Inside, the old man was sitting on a sofa.\n4. He told me about his 92-years old neighbor who lives alone, and has not been responding to calls for few days.\n5. I arrived to a residential building to respond to an emergency call made by one of the residents.\n6. I met him at the hallway of the 5th floor.\n\nWhat is the most logical order of the above statements?",
+   "choices": [
+    "1, 5, 4, 6, 3, 2",
+    "4, 6, 5, 4, 1, 2",
+    "5, 6, 4, 3, 1, 2",
+    "3, 5, 6, 4, 1, 2"
+   ],
+   "answer": 2,
+   "explanation": "The right Answer is C.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text, it helps us to understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer this kind of question, try to locate keywords that provide contextual information about the main idea of each numbered sentence. This will help you determine how the various steps relate to one another.\n\nRight order: 5) I arrived to a residential building to respond to an emergency call made by one of the residents. 6) I met him at the hallway of the 5th floor. 4) He told me about his 92-years old neighbor who lives alone, and has not been responding to calls for few days. 3) After he explained why he called, I started to break into the apartment using a crow bar. Inside, the old man was sitting on a sofa. 1) He got up from the sofa and started to throw things at me until I told him I'm from the emergency services and he stopped. 2) After I calmed him down I apologized and promised him he will be compensated for the damage.\n\nWe already found the right order so all that is required is to choose the order from the answers.\n\nTip:\nIf possible, start with this type of question as it simpler to answer due to use of elimination. Answering the other questions later will be much faster as we benefit when the right order is in front of us to use.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Officer Allen was involved in a physical altercation with an elderly citizen this afternoon. Officer Allen's account of the incident consists of the six statements below, which are out of order:\n1. He got up from the sofa and started to throw things at me until I told him I'm from the emergency services and he stopped.\n2. After I calmed him down I apologized and promised him he will be compensated for the damage.\n3. After he explained why he called, I started to break into the apartment using a crow bar. Inside, the old man was sitting on a sofa.\n4. He told me about his 92-years old neighbor who lives alone, and has not been responding to calls for few days.\n5. I arrived to a residential building to respond to an emergency call made by one of the residents.\n6. I met him at the hallway of the 5th floor.\n\nWhat happened immediately BEFORE the officer met the resident who called emergency service?",
+   "choices": [
+    "He arrived to a residential building.",
+    "He broke into the apartment.",
+    "He apologized for the incident",
+    "He was told about the 92-years old man who lives alone."
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A.\n\nBefore the officer met with the resident in the hallway of the 5th floor, he first arrived to the residential building.\nWe already know the right order, so we just need to look up the sentence which describes the meeting of the officer and the caller, and that is step No.6.\n\nAccording to the right order, sentence No.5 is placed right before sentence No. 6. [Final words of the explanation are clipped by a screen overlay in the capture.]",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are steps involved in making a window entry for ventilation and search. The steps are not in order.\n1. Enter the room and locate the door.\n2. After clearing the window, sound the floor's surface to confirm its integrity so it can hold your weight when you enter.\n3. Place a portable ladder at the window sill for quick entry.\n4. Make sure you have permission from the incident commander before you start the entry procedure.\n5. Check the hallway for the fire conditions and possible victims.\n6. After placing the ladder on the sill, clear the entire window of glass and remove all obstructions.\n7. Once you get permission wear full personal protective equipment.\n\nWhat is the most logical order of the above statements?",
+   "choices": [
+    "4, 7, 3, 6, 2, 1, 5",
+    "3, 6, 2, 4, 7, 1, 5",
+    "3, 1, 4, 2, 6, 5, 7",
+    "4, 7, 5, 6, 2, 3, 1"
+   ],
+   "answer": 0,
+   "explanation": "The right Answer is A.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text as it helps us understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer these kinds of questions, try to locate keywords that provide contextual information about the main idea of each numbered sentence. This will help you determine how the various steps relate to one another.\n\n[The ordered list shown in the original explanation is cut off at the bottom of the capture. The correct order is the checkmarked answer: 4, 7, 3, 6, 2, 1, 5.]",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are steps involved in making a window entry for ventilation and search. The steps are not in order.\n1. Enter the room and locate the door.\n2. After clearing the window, sound the floor's surface to confirm its integrity so it can hold your weight when you enter.\n3. Place a portable ladder at the window sill for quick entry.\n4. Make sure you have permission from the incident commander before you start the entry procedure.\n5. Check the hallway for the fire conditions and possible victims.\n6. After placing the ladder on the sill, clear the entire window of glass and remove all obstructions.\n7. Once you get permission wear full personal protective equipment.\n\nAccording to the dteps above, what should a firefighter who makes a window entry do right BEFORE he checks the hallway for the fire conditions and potential victims?",
+   "choices": [
+    "Enter the room and locate the door",
+    "Clear the entire window of glass",
+    "Wear full personal protective equipment",
+    "Place a portable ladder"
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A.\n\nBefore a firefighter can check the hallway for possible victims he must enter the room through the window and locate the door.\n\nWe already know the right order, so we just need to look up the inspection of the hallway in the sequence which is in Step No.5.\nAccording to the right order, step No.1 – \"enter the room and locate the door\" is placed right before step No. 5.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are steps involved in making a window entry for ventilation and search. The steps are not in order.\n1. Enter the room and locate the door.\n2. After clearing the window, sound the floor's surface to confirm its integrity so it can hold your weight when you enter.\n3. Place a portable ladder at the window sill for quick entry.\n4. Make sure you have permission from the incident commander before you start the entry procedure.\n5. Check the hallway for the fire conditions and possible victims.\n6. After placing the ladder on the sill, clear the entire window of glass and remove all obstructions.\n7. Once you get permission wear full personal protective equipment.\n\nAccording to the steps above, what should a firefighter do AFTER he confirms the integrity of the floor?",
+   "choices": [
+    "Check the hallway",
+    "Make sure he has permission from the incident commander",
+    "Enter the room",
+    "Clear the entire window of glass and remove all obstructions"
+   ],
+   "answer": 2,
+   "explanation": "The Answer is C.\n\nAfter a firefighter makes sure the floor can hold his weight he can enter the room and proceed.\n\nAgain, we already know the right order, so we just need to look up the place in the sequence where the integrity of the floor is mentioned which is Step No.2. According to the right order, step No.1 – \"enter the room and locate the door\" is placed right after step No. 2.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Below are steps involved in making a window entry for ventilation and search. The steps are not in order.\n1. Enter the room and locate the door.\n2. After clearing the window, sound the floor's surface to confirm its integrity so it can hold your weight when you enter.\n3. Place a portable ladder at the window sill for quick entry.\n4. Make sure you have permission from the incident commander before you start the entry procedure.\n5. Check the hallway for the fire conditions and possible victims.\n6. After placing the ladder on the sill, clear the entire window of glass and remove all obstructions.\n7. Once you get permission wear full personal protective equipment.\n\nIf the window is only about 4 ft above the ground, which of the above steps is unnecessary?",
+   "choices": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": "The Answer is B\n\nIn order to enter a window in a building the firefighter must reach it with a ladder, but if the window is placed low as described in the question, than a ladder is unnecessary and may interrupt the procedure.\n\nIt's required to use common sense here because no one tells you that a height of 4 ft. is accessible without a ladder but it is very reasonable.\n\nTip:\nThis type of question doesn't require you to find the right order, but rather asks you to understand the meaning of new information about the situation and its effect on each step. You are required to go back to the list of steps, check each answer and see if it influenced by the [new information]. The new information can only relate to the use of a ladder which is mentioned on [rest of the explanation is cut off in the capture].",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "You are a coworker of Firefighters Harris and Firefighter Miller, who have not been getting along recently. Harris joined Miller's team last month. The following six statements are part of Firefighter Miller' account of their breach.\n1. Later, I approached him personally and asked him why he made such unfounded claims about my functioning.\n2. I confronted his argument with the other teammates and they all disproved it and said I acted professionally.\n3. Harris replied that his statement was based on the things he heard from other teammates.\n4. Last week our team had an incident debriefing after we came back from a fire incident we responded to.\n5. This morning I asked the District Chief to assign him to another team.\n6. Firefighter Harris, during this briefing, criticized me for not following the procedures despite the fact he wasn't around me the entire incident.\n\nAccording to the account, what did Miller do right AFTER his teammates disproved Harris' claims?",
+   "choices": [
+    "Firefighter Harris criticized Miller.",
+    "Miller asked the District Chief to assign Harris to another team.",
+    "The team had an incident debriefing.",
+    "Miller asked Harris why he criticized him."
+   ],
+   "answer": 1,
+   "explanation": "The Answer is B.\n\nAfter Miller's teammates disproved Harris' claims, Miller asked the District Chief to assign Harris to another team.\n\nAgain, we already know the right order, so we just need to search where in the testimony Miller mentions his team's reaction. We can find it in Step No.2 – \"they all disproved it\". According to the right order, step No.5, which describes Miller's request is placed right after step No. 2.",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nMotor vehicle accidents (MVA) with victims trapped pose a unique challenge to our members. Medical authorities refer to the first hour from the beginning of an accident with critical injuries as the “Golden Hour.” A victim delivered to a surgical team within this first hour has the best chance of survival. Because of this, our operations must be well coordinated in order to achieve efficient victim removal without compromising member safety.\nPersonnel at the scene of a motor vehicle accidents with victim(s) trapped must have a specific strategy for overall safety and efficient victim removal. The first arriving officer must immediately notify the dispatcher when a person is trapped in the vehicle. He would then complete the procedure as follows; protect victim with materials such as a blanket or sheet, stabilize the vehicle by placing step chocks and shutting down the engine, cut the Nader pin off the car door with cutters and remove the door. As an extra safety measure, before any stabilization methods are taken, he should make sure to check under the vehicle for victims.\n\nOn the actions listed below, which would be the one that should be executed last?",
+   "choices": [
+    "Checking under the vehicle for victims",
+    "Removing the door",
+    "Notifying the dispatcher about the situation",
+    "Cutting the Nader pin off the car door with cutters"
+   ],
+   "answer": 1,
+   "explanation": "The right Answer is B.\n\nThe last action an officer should take when he responds to an MVA is removing the door.\n\nIn order to find the right answer you should read the entire passage carefully and identify the continuance of the actions. Usually, in the passage, each event will be placed right before its consecutive step and a statement will help you to determine that – \"He would then complete the procedure as follows...\" so the last step of the sequence is also the last chronologically –\"...and remove the door\" – it's now clear that the removal of the door is the last step.\n\nTip:\nPay attention - sometimes, a previous step will be placed later in the passage, as a reference for an action which is already placed – \"before any stabilization methods...\" [rest of the Tip is cut off in the capture].",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nMotor vehicle accidents (MVA) with victims trapped pose a unique challenge to our members. Medical authorities refer to the first hour from the beginning of an accident with critical injuries as the “Golden Hour.” A victim delivered to a surgical team within this first hour has the best chance of survival. Because of this, our operations must be well coordinated in order to achieve efficient victim removal without compromising member safety.\nPersonnel at the scene of a motor vehicle accidents with victim(s) trapped must have a specific strategy for overall safety and efficient victim removal. The first arriving officer must immediately notify the dispatcher when a person is trapped in the vehicle. He would then complete the procedure as follows; protect victim with materials such as a blanket or sheet, stabilize the vehicle by placing step chocks and shutting down the engine, cut the Nader pin off the car door with cutters and remove the door. As an extra safety measure, before any stabilization methods are taken, he should make sure to check under the vehicle for victims.\n\nDetermine the order in which you would carry out the actions listed below:\n1. Covering the victim with blanket or sheet\n2. Checking under the vehicle for victims\n3. Removing the door\n4. Notifying the dispatcher about the situation\n5. Stabilizing the vehicle\n6. Cutting the Nader pin off the car door with cutters",
+   "choices": [
+    "2, 5, 1, 4, 6, 3",
+    "5, 2, 1, 6, 3, 4",
+    "4, 1, 2, 5, 6, 3",
+    "1, 4, 2, 5, 6, 3"
+   ],
+   "answer": 2,
+   "explanation": "[The explanation for this question is not visible in the captures — only the checkmarked answer (C) was captured.]",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nMotor vehicle accidents (MVA) with victims trapped pose a unique challenge to our members. Medical authorities refer to the first hour from the beginning of an accident with critical injuries as the “Golden Hour.” A victim delivered to a surgical team within this first hour has the best chance of survival. Because of this, our operations must be well coordinated in order to achieve efficient victim removal without compromising member safety.\nPersonnel at the scene of a motor vehicle accidents with victim(s) trapped must have a specific strategy for overall safety and efficient victim removal. The first arriving officer must immediately notify the dispatcher when a person is trapped in the vehicle. He would then complete the procedure as follows; protect victim with materials such as a blanket or sheet, stabilize the vehicle by placing step chocks and shutting down the engine, cut the Nader pin off the car door with cutters and remove the door. As an extra safety measure, before any stabilization methods are taken, he should make sure to check under the vehicle for victims.\n\nAccording to the information listed above, what should an officer who responds to an MVA do right BEFORE he checks under the vehicle for victims?",
+   "choices": [
+    "Protect the victim",
+    "Remove the door",
+    "Stabilize the vehicle",
+    "Notify the dispatcher about trapped victims"
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A.\n\nBefore an officer checks under the vehicle for victims he should protect the victim in the car using a blanket or a sheet.\n\nWe have the right order of the sequence by now: so all we have to find is the action who takes place before checking under the car, which is covering the victim in order to protect him.\n\nTip: [the Tip text is below the captured frame].",
+   "source": "Information Ordering 3",
+   "topic": "Information Ordering 3",
+   "topic_n": 3
+  },
+  {
+   "question": "The following are instructions on how to properly handle toxic waste that needs to be stored before being shipped off site for disposal. (These steps are not listed in the correct order.)\n1. Determine which container is compatible with the type of waste that needs to be stored.\n2. Identify the type of waste.\n3. Using a funnel, pour the waste into the container.\n4. Store the container in a safe place.\n5. Thoroughly rinse and dry the container.\n\nThe most logical order for the steps above is:",
+   "choices": [
+    "2, 1, 5, 3, 4",
+    "1, 5, 2, 3, 4",
+    "2, 1, 5, 4, 3",
+    "5, 4, 2, 1, 3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe first step in storing waste is to identify the type of waste (step 2). If we do not know what type of waste we are dealing with, we will not be able to determine which containers we can and cannot use. We can therefore eliminate answers B and D.\n\nStep 3 must come before step 4, as we would only store the container (step 4), after the waste has been poured into it (step 3). We can therefore eliminate answer C and conclude that A is the correct answer. [The explanation ends with a \"You may also have noticed:\" note that is below the captured frame.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "If a person is lying unconscious and CPR needs to be performed, the following steps should be followed. (These steps are not listed in the correct order.)\n1. Move the victim onto his or her back.\n2. Place your one hand on top of the other, palms-down, and interlock your fingers.\n3. Place the heel of one hand on the victim's breastbone, 2 finger widths above the lower ribs.\n4. Position your body over your hands, so that your arms are straight and rigid.\n5. Send someone to call for Emergency Medical Services.\n6. Perform chest compressions.\n\nThe most logical order for the steps above is:",
+   "choices": [
+    "1, 2, 3, 4, 5, 6",
+    "5, 1, 3, 2, 4, 6",
+    "1, 5, 2, 3, 4, 6",
+    "1, 4, 3, 2, 6, 5"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B\n\nIf a person is lying unconscious, Emergency Medical Services needs to be called immediately (step 5) to ensure that the victim will receive proper care. We can therefore eliminate answers A and D.\n\nYou must first properly position your hands on the victim (steps 2 and 3) before positioning your body over your hands so that your arms are straight and rigid (step 4). We can therefore eliminate answer C and conclude that B is correct. [A further \"Note:\" paragraph follows in the original but is cut off in the capture.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "The following steps should be followed in the event of a mercury spill. (These steps are not listed in the correct order.)\n1. Wipe up the powder from the contaminated area with a wet towel.\n2. Section off the area to prevent the mercury from spreading.\n3. Dispose of any contaminated materials in a plastic bag and seal tightly.\n4. Put on protective clothing.\n5. Collect the mercury into a container.\n6. Sprinkle the contaminated area with chemical amalgam.\n\nThe most logical order for the steps above is:",
+   "choices": [
+    "6, 3, 4, 5, 1, 2",
+    "2, 1, 4, 3, 5, 6",
+    "3, 2, 6, 1, 5, 4",
+    "4, 2, 5, 6, 1, 3"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nWhen dealing mercury, which can be highly toxic, it is important to first take the proper safety precautions. The first step should be to put on protective clothing (step 4), to keep yourself from harm, and then to make sure it does not spread (step 2). Answers A, B, and C can be eliminated, and we can conclude that D is the correct answer.\n\nYou may also have noticed:\n\nYou can only wipe up powder (step 1) after the powder has been sprinkled (step 6). [Rest of this note is cut off by a screen overlay in the capture.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Below are steps involved in dealing with a man who is threatening to commit suicide. The steps are not in order.\n1. Approach the attempter and introduce yourself and your organization to him, using your name and title. Also, ask what they like to be called.\n2. After the crisis is over, reassure the attempter. Tell him that he did the right thing.\n3. Assess the person for need of medical treatment.\n4. Secure the scene and assess the threat to your own safety, the safety of others, and the safety of the suicide attempter before you try to speak to him. In securing the scene, try to keep as many people as possible away from the immediate vicinity.\n5. Try to keep an active conversation in order to keep him cooperative. Take control on the situation in an unobtrusive way by showing your sincere desire to help.\n6. Listen carefully to what the person says, and talk in a calm, accepting and supportive manner.\n\nOn the actions listed below, which would be the one that should be executed last?",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "explanation": "The right Answer is B.\n\nThe last action an officer should make in a suicide threat event, according to the order listed above is reassuring the suicide attempter and telling him that he did the right thing.\n\nIn order to find the rights answer you should read the list carefully and spot clues that will help you find the last step. Step No.2 – “After the crisis is over...” it pointed out that this action takes place after the situation is already solved, and all the other steps are describing the actions taken during the crisis.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Below are steps involved in dealing with a man who is threatening to commit suicide. The steps are not in order.\n1. Approach the attempter and introduce yourself and your organization to him, using your name and title. Also, ask what they like to be called.\n2. After the crisis is over, reassure the attempter. Tell him that he did the right thing.\n3. Assess the person for need of medical treatment.\n4. Secure the scene and assess the threat to your own safety, the safety of others, and the safety of the suicide attempter before you try to speak to him. In securing the scene, try to keep as many people as possible away from the immediate vicinity.\n5. Try to keep an active conversation in order to keep him cooperative. Take control on the situation in an unobtrusive way by showing your sincere desire to help.\n6. Listen carefully to what the person says, and talk in a calm, accepting and supportive manner.\n\nIf the person injured himself purposely, in which step would you most likely notice them?",
+   "choices": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A\n\nIn the process of assessing the person's physical condition you can spot any visible injuries on his body.\n\nThis type of question doesn't require you to find the right order, but rather asks you to understand the meaning of each step. You are required to go back to the list of steps, check each answer and see if it is relevant to what you are asked about. No.3 – “Assess the person for need of medical treatment” is the most relevant for checking injuries because you should inspect his physical condition. Choosing this option doesn't mean you can't see injuries before you asses the need for medical treatment, but it's most likely to happen when you actively search for them.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Below are steps involved in dealing with a man who is threatening to commit suicide. The steps are not in order.\n1. Approach the attempter and introduce yourself and your organization to him, using your name and title. Also, ask what they like to be called.\n2. After the crisis is over, reassure the attempter. Tell him that he did the right thing.\n3. Assess the person for need of medical treatment.\n4. Secure the scene and assess the threat to your own safety, the safety of others, and the safety of the suicide attempter before you try to speak to him. In securing the scene, try to keep as many people as possible away from the immediate vicinity.\n5. Try to keep an active conversation in order to keep him cooperative. Take control on the situation in an unobtrusive way by showing your sincere desire to help.\n6. Listen carefully to what the person says, and talk in a calm, accepting and supportive manner.\n\nWhat is the correct order of the steps listed above?",
+   "choices": [
+    "4, 6, 5, 1, 3, 2",
+    "3, 6, 1, 2, 5, 4",
+    "4, 1, 3, 6, 5, 2",
+    "3, 4, 1, 6, 5, 2"
+   ],
+   "answer": 2,
+   "explanation": "The right Answer is C.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text, it helps us to understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer this kind of question, try to locate the words that give the information about the main idea so you are able to understand the context between steps.\n\n[The ordered list shown in the original explanation is cut off at the bottom of the capture. The correct order is the checkmarked answer: 4, 1, 3, 6, 5, 2.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Below are steps involved in dealing with a man who is threatening to commit suicide. The steps are not in order.\n1. Approach the attempter and introduce yourself and your organization to him, using your name and title. Also, ask what they like to be called.\n2. After the crisis is over, reassure the attempter. Tell him that he did the right thing.\n3. Assess the person for need of medical treatment.\n4. Secure the scene and assess the threat to your own safety, the safety of others, and the safety of the suicide attempter before you try to speak to him. In securing the scene, try to keep as many people as possible away from the immediate vicinity.\n5. Try to keep an active conversation in order to keep him cooperative. Take control on the situation in an unobtrusive way by showing your sincere desire to help.\n6. Listen carefully to what the person says, and talk in a calm, accepting and supportive manner.\n\nAccording to the orders above, what should you do AFTER you secure the scene?",
+   "choices": [
+    "Approach the attempter and introduce yourself",
+    "Tell the suicide attempter that he did the right thing",
+    "Show the person your sincere desire to help",
+    "Asses the person for need of medical treatment"
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A.\n\nAfter an officer has secured the scene and made sure there aren't any people close to the action, he should proceed and approach the suicide attempter and introduce himself.\n\nWe already know the right order, so we just need to look up for the secure of the scene in the sequence. We can find it in Step No.4. According to the right order, step No.1 which orders you to approach the suicide attempter is placed right after step No.4.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Officer Martinez was in a team which responded to a terror attack threat in a public school. The team made an incident briefing right afterwards. Officer Martinez's account of the events consists of the seven statements below, which are out of order:\n1. We made a short summarization with 2 police officers who already responded to the call\n2. Our team was handed the responsibility of keeping civilians away from access routes. We used barricade tape to isolate the area\n3. A 10-60 code was transmitted to all units about a bomb call threat. I joined my team and got on one of the responding vehicles\n4. Our team entered the building and scanned the eastern area for anyone who may have been forgotten.\n5. The incident commander announced 'back to normal' and we returned to base\n6. After we made sure no one was left there, we came back to the school's entrance for a debriefing with the District Chief, who took control over the incident.\n7. Upon arrival we identified the school by the chaos of the crowded civilians.\n\nWhat is the most logical order of the above statements? What is the correct order of the steps listed above?",
+   "choices": [
+    "3, 7, 1, 4, 6, 2, 5",
+    "4, 7, 3, 6, 1, 2, 5",
+    "4, 7, 6, 3, 1, 2, 5",
+    "3, 5, 7, 6, 4, 1, 2"
+   ],
+   "answer": 0,
+   "explanation": "The right Answer is A.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text as it helps us understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer these kinds of questions, try to locate keywords that provide contextual information about the main idea of each numbered sentence. This will help you determine how the various steps relate to one another.\n\n[The ordered list shown in the original explanation is cut off at the bottom of the capture. The correct order is the checkmarked answer: 3, 7, 1, 4, 6, 2, 5.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Officer Martinez was in a team which responded to a terror attack threat in a public school. The team made an incident briefing right afterwards. Officer Martinez's account of the events consists of the seven statements below, which are out of order:\n1. We made a short summarization with 2 police officers who already responded to the call\n2. Our team was handed the responsibility of keeping civilians away from access routes. We used barricade tape to isolate the area\n3. A 10-60 code was transmitted to all units about a bomb call threat. I joined my team and got on one of the responding vehicles\n4. Our team entered the building and scanned the eastern area for anyone who may have been forgotten.\n5. The incident commander announced 'back to normal' and we returned to base\n6. After we made sure no one was left there, we came back to the school's entrance for a debriefing with the District Chief, who took control over the incident.\n7. Upon arrival we identified the school by the chaos of the crowded civilians.\n\nOfficer Martinez's team witnessed the mess gathering around the school right before:",
+   "choices": [
+    "Someone called 911 and said he will detonate an explosive in a school",
+    "They had a short briefing with Officer Allen and Officer Taylor who got there earlier",
+    "They found 3 young students in one of the classrooms",
+    "The team sized up the incident with the District Chief"
+   ],
+   "answer": 1,
+   "explanation": "The answer is B.\n\nImmediately after the team identified the scene by the chaos they saw, they teamed up with 2 officers (Allen and Taylor).\n\nThis type of question is a bit tricky; our goal is to find an event which occurred close (before or after) to another event while the answers we can choose from give extra information to what is written in the original list.\n\nWe already know the right order, so we just need to look up for the sentence which describes the mess around the school or in other words \"the chaos\" as described in sentence [No.7]. [The final paragraph of the explanation is cut off in the capture.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Officer Martinez was in a team which responded to a terror attack threat in a public school. The team made an incident briefing right afterwards. Officer Martinez's account of the events consists of the seven statements below, which are out of order:\n1. We made a short summarization with 2 police officers who already responded to the call\n2. Our team was handed the responsibility of keeping civilians away from access routes. We used barricade tape to isolate the area\n3. A 10-60 code was transmitted to all units about a bomb call threat. I joined my team and got on one of the responding vehicles\n4. Our team entered the building and scanned the eastern area for anyone who may have been forgotten.\n5. The incident commander announced 'back to normal' and we returned to base\n6. After we made sure no one was left there, we came back to the school's entrance for a debriefing with the District Chief, who took control over the incident.\n7. Upon arrival we identified the school by the chaos of the crowded civilians.\n\nIn case of a bomb threat the following procedure should take place in this particular order:\n1. Locate and evaluate where the incident occured\n2. Gather information from people at the scene\n3. Search and evacuate\n4. Prevent entrance of civilians to the scene\n5. Reevaluation of the incident\nMartinez's team didn't followed the right order, as they carried out step _____ before _____: (left to right)",
+   "choices": [
+    "2, 1",
+    "3, 2",
+    "4, 3",
+    "5, 4"
+   ],
+   "answer": 3,
+   "explanation": "The answer is D. [The rest of this explanation is below the captured frame.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nIn today's world of firefighting, the fire service has three objectives; saving lives, conserving property, and protecting our environment. For the fire service to accomplish these objectives as efficiently as possible, a sequence of operational practices has been developed over the years. The sequential order of the firefighting tactics is known as RECEO VS (Rescue, Exposure, Confine, Extinguish, Overhaul and Ventilate, Salvage).\nRescue is, and always should be, a firefighters' first priority. This includes operations which require the removal of human beings from an involved structure or other hazardous situations and convey them to a safe place. Rescue may not be performed at all incidents but there must be an assurance that everyone has been removed to a place of safety. The second most important objective is protecting the exposures, which is the action of preventing a fire from extending to uninvolved areas. Other tactical objectives ordered by their priority are: Incident stabilization confinements, fire extinguishment, overhaul operations and ventilation. Salvage or property conservation is assigned when all other tactical processes have been completed.\n\nOn the objectives listed below, which is prioritized first?",
+   "choices": [
+    "Extinguishment",
+    "Ventilation",
+    "Fire stabilization",
+    "Making sure all humans beings are in a place of safety"
+   ],
+   "answer": 3,
+   "explanation": "The right Answer is D.\n\nIn a fire incident our main objective is saving lives. We have to make sure all human beings are rescued and transferred to a safe place.\n\nIn order to find the right answer you should read the entire passage carefully and identify the prioritization of the objectives. Usually, in the passage it's stated that one action is the most important– \"Rescue is, and always should be, firefighters' first priority\" (line 8) and rescue in other words is moving humans from the danger zone to a place of safety.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nIn today's world of firefighting, the fire service has three objectives; saving lives, conserving property, and protecting our environment. For the fire service to accomplish these objectives as efficiently as possible, a sequence of operational practices has been developed over the years. The sequential order of the firefighting tactics is known as RECEO VS (Rescue, Exposure, Confine, Extinguish, Overhaul and Ventilate, Salvage).\nRescue is, and always should be, a firefighters' first priority. This includes operations which require the removal of human beings from an involved structure or other hazardous situations and convey them to a safe place. Rescue may not be performed at all incidents but there must be an assurance that everyone has been removed to a place of safety. The second most important objective is protecting the exposures, which is the action of preventing a fire from extending to uninvolved areas. Other tactical objectives ordered by their priority are: Incident stabilization confinements, fire extinguishment, overhaul operations and ventilation. Salvage or property conservation is assigned when all other tactical processes have been completed.\n\nDetermine the order in which you would carry out the actions listed below:\n1. Property conservation\n2. Extinguishment\n3. Ventilation\n4. Fire stabilization\n5. Making sure all humans beings are in a place of safety\n6. Exposures\n7. Overhaul operations",
+   "choices": [
+    "2, 5, 6, 3, 4, 7, 1",
+    "5, 6, 4, 2, 7, 3, 1",
+    "3, 2, 6, 7, 4, 5, 1",
+    "5, 3, 7, 1, 2, 6, 4"
+   ],
+   "answer": 1,
+   "explanation": "The right Answer is B.\n\nBelow you can see the right order of priorities. [The ordered list shown in the original explanation is cut off at the bottom of the capture. The right order of priorities, from the checkmarked answer: 1. Making sure all humans beings are in a place of safety; 2. Exposures; 3. Fire stabilization; 4. Extinguishment; 5. Overhaul operations; 6. Ventilation; 7. Property conservation.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Use the following information to answer questions 1-3.\nIn today's world of firefighting, the fire service has three objectives; saving lives, conserving property, and protecting our environment. For the fire service to accomplish these objectives as efficiently as possible, a sequence of operational practices has been developed over the years. The sequential order of the firefighting tactics is known as RECEO VS (Rescue, Exposure, Confine, Extinguish, Overhaul and Ventilate, Salvage).\nRescue is, and always should be, a firefighters' first priority. This includes operations which require the removal of human beings from an involved structure or other hazardous situations and convey them to a safe place. Rescue may not be performed at all incidents but there must be an assurance that everyone has been removed to a place of safety. The second most important objective is protecting the exposures, which is the action of preventing a fire from extending to uninvolved areas. Other tactical objectives ordered by their priority are: Incident stabilization confinements, fire extinguishment, overhaul operations and ventilation. Salvage or property conservation is assigned when all other tactical processes have been completed.\n\nAccording to the information listed, what should a commander of an incident prioritize immediately AFTER rescuing the victims?",
+   "choices": [
+    "Exposures",
+    "Ventilation",
+    "Protecting the environment",
+    "Stabilization"
+   ],
+   "answer": 0,
+   "explanation": "The Answer is A.\n\nProtecting the exposures is placed right after rescue in the order of priorities.\n\nWe already know that rescue is the most important objective, and when we look at line 12 we understand that right after that, the second most important objective is protecting the exposures – \"Second most important objective is protecting the exposures\".",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "You are in charge of collecting testimonies from eyewitnesses of a car accident. The testimony of one of the persons you have interviewed consists of the following six statements:\n1. I got out of my car and walked towards the closest car which was the car that caused the accident. The driver was conscience and his nose was bleeding.\n2. The car crossed the intersection on a red light and hit a white van which drove east.\n3. At 22:30 I was driving south on road 20 towards the main intersection of the highway and stopped because of the red light.\n4. Eventually, a police car also made it to the scene and 2 officers arrested the hitting driver for suspicion of DUI.\n5. 5 minutes later an ambulance arrived at the intersection and paramedics took care of all the victims on scene.\n6. I noticed in my mirror a vehicle moving very fast with the headlights set on full beam.\n\nWhat is the most logical order of the above statements?",
+   "choices": [
+    "5, 6, 1, 2, 3, 4",
+    "3, 6, 2, 1, 5, 4",
+    "2, 1, 6, 3, 5, 4",
+    "3, 5, 1, 2, 6, 4"
+   ],
+   "answer": 1,
+   "explanation": "The right Answer is B.\n\nBelow you can see the right order of the sequence. Pay attention to the highlighted text as it helps us understand the context between sentences. Every step contains a few words that give the sentence its meaning and main idea.\n\nWhen you try to answer these kinds of questions, try to locate keywords that provide contextual information about the main idea of each numbered sentence. This will help you determine how the various steps relate to one another.\n\n[The ordered list shown in the original explanation is cut off at the bottom of the capture. The correct order is the checkmarked answer: 3, 6, 2, 1, 5, 4.]",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "You are in charge of collecting testimonies from eyewitnesses of a car accident. The testimony of one of the persons you have interviewed consists of the following six statements:\n1. I got out of my car and walked towards the closest car which was the car that caused the accident. The driver was conscience and his nose was bleeding.\n2. The car crossed the intersection on a red light and hit a white van which drove east.\n3. At 22:30 I was driving south on road 20 towards the main intersection of the highway and stopped because of the red light.\n4. Eventually, a police car also made it to the scene and 2 officers arrested the hitting driver for suspicion of DUI.\n5. 5 minutes later an ambulance arrived at the intersection and paramedics took care of all the victims on scene.\n6. I noticed in my mirror a vehicle moving very fast with the headlights set on full beam.\n\nWhat happened immediately BEFORE the police car arrived?",
+   "choices": [
+    "The witness looked at his mirror",
+    "The witness stopped at the red light",
+    "Paramedics took care of all the victims on scene",
+    "The car hit a white van"
+   ],
+   "answer": 2,
+   "explanation": "The Answer is C.\n\nRight before the police came and arrested the hitting driver an ambulance got to the scene with paramedics who treated any injured at the scene.\n\nWe already know the right order, so we just need to look up for the sentence which describes the arrival of the police car, which is step No.4.\n\nAccording to the right order, step No.5 which describes the paramedics actions – \"paramedics took care of all the victims\" is placed right before step No. 4.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "You are in charge of collecting testimonies from eyewitnesses of a car accident. The testimony of one of the persons you have interviewed consists of the following six statements:\n1. I got out of my car and walked towards the closest car which was the car that caused the accident. The driver was conscience and his nose was bleeding.\n2. The car crossed the intersection on a red light and hit a white van which drove east.\n3. At 22:30 I was driving south on road 20 towards the main intersection of the highway and stopped because of the red light.\n4. Eventually, a police car also made it to the scene and 2 officers arrested the hitting driver for suspicion of DUI.\n5. 5 minutes later an ambulance arrived at the intersection and paramedics took care of all the victims on scene.\n6. I noticed in my mirror a vehicle moving very fast with the headlights set on full beam.\n\nAccording to the eyewitness a speeding car entered the intersection and hit a white van right before ______:",
+   "choices": [
+    "The witness looked at his mirror",
+    "An ambulance arrived the intersection",
+    "The hitting driver was arrested",
+    "The witness left his car and approached one of the vehicles involved"
+   ],
+   "answer": 3,
+   "explanation": "The Answer is D.\n\nBased on the witness' testimony, immediately after the accident he got out of his car and got closer to the hitting.\n\nAgain, we already know the right order, so we just need to find where in the sequence the car hit the van, and we find it in sentence 2. According to the right order, sentence No.1 is placed right after sentence No. 2 meaning that right after the accident the witness stepped out of his car.",
+   "source": "Information Ordering 4",
+   "topic": "Information Ordering 4",
+   "topic_n": 4
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nA correctional officer whose life is not being threatened may not shoot a violent inmate with a rifle or handgun unless it is a .22 caliber rimfire using rubber, sand, or rock-salt ammunition.\n\nWhich of the following is in violation of the RULE?",
+   "choices": [
+    "Officer Jerry Thomson shot a violent inmate, who was beating another inmate, with a .22 caliber rimfire rifle, using .22 rock-salt ammunition.",
+    "Officer John Adams shot a violent inmate who threatened his life with a shotgun, using rock-salt ammunition.",
+    "Officer James Kelly shot a violent inmate with a .22 caliber rimfire rifle, using .22 sand ammunition.",
+    "Officer Jim Buckley shot a violent inmate who was not threatening his life with a .22 caliber rimfire handgun, using .22 Short ammunition."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\n\"A correctional officer whose life is not being threatened may not shoot a violent inmate with a rifle or handgun unless [...]\" – Buckley shot a violent inmate with a handgun while not under life threat.\"\"[...] unless it is a .22 caliber rimfire using rubber, sand, or rock-salt ammunition.\" – Buckley's handgun is a .22 caliber rimfire, but he used .22 Short ammunition, which does not comply with the RULE.\n\nIn answer (A), just as in (D), Jerry's life was not threatened. However, he used the correct ammunition. [The explanation may continue below the captured frame.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the questions.\n\nRULE\nAn ingredient having a history of use in cosmetics may at any time have its safety brought into question by new information. A warning printed on the product is required for a product containing such an ingredient unless:\n1. The new information does not demonstrate a hazard to human health; and\n2. Adequate studies are currently being conducted to determine the safety of the ingredient.\nIf it is discovered that the safety of the ingredient had not been adequately substantiated prior to development of the new information, the FDA must issue a warrant demanding a recall for all products containing said ingredient.\n\nThe FDA received reports from veterinarians about dogs experiencing severe rashes after being touched by their owners. The owners all wore a perfume named Black Fog. Upon further inspection the FDA found that the creators of the perfume were, according to protocol, already engaging in intensive research to discover which of the new ingredients included in the new perfume causes this phenomenon.\n\nThe creators of the perfume did not print a warning label on the perfume. According to the RULE:",
+   "choices": [
+    "The company would not have violated the RULE even if the ingredients' safety were not adequately substantiated prior to the reports.",
+    "They did not violate the RULE if the ingredients' safety were adequately substantiated prior to the reports.",
+    "They would have violated the RULE for not printing a warning even if the ingredients' safety were adequately substantiated prior to the reports.",
+    "They violated the RULE for not recalling the Black Fog perfume."
+   ],
+   "answer": 1,
+   "explanation": "[The explanation for this question is below the captured frame — only the checkmarked answer (B) was captured.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nREST BREAKS AT WORK\nWorkers over 18 are entitled to 3 types of rest breaks:\n\"Rest breaks at work\" - If they work more than 6 hours a day, they have the right to one uninterrupted rest break of no fewer than 20 minutes during their working day (this could be a tea or lunch break). No worker shall work more than 10 hours a day, including breaks.\n\"Daily rest\" - Workers have the right to no fewer than 11 hours of rest between working days (e.g., if they finish work at 8pm, they should not start work again until 7am the following day).\n\nWhich of the following break patterns demonstrates a violation of the RULE by the employer?",
+   "choices": [
+    "Alice works Tuesday through Friday from 6:00 AM to 1:00 PM. On Mondays, she works from 5:00 PM to 10:00 PM.",
+    "Jacob works Monday through Friday from 1:00 PM to 5:00 PM, and again from 5:10 PM to 6:00 PM. On Thursdays, he also works from 11:00 AM to 12:30 PM.",
+    "Avril works Monday through Saturday from 8:00 AM to 3:00 PM with a one hour nap break starting at noon. She also works Sundays from 5:00 PM to 8:00 PM.",
+    "All patterns comply with the RULE."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nAlice's \"daily rest\" between Monday and Tuesday is violated; she only receives an 8-hour break (10:00 PM to 6:00 AM).\n\nAnswer (B) is incorrect: On Thursdays, Jacob receives a \"rest break at work\" of over 20 minutes (12:30 PM to 1:00 PM). On any other day he works, his total work time amounts to fewer than 6 hours, so he is not entitled to a break. His workday spans fewer than 10 hours and he receives at least 11 hours of \"daily rest\" (starts no earlier than 11:00 AM and finishes no later than 6:00 PM). [The explanation continues below the captured frame with the analysis of answer (C).]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nRaccoons\nA person may take raccoons only in accordance with the following regulations:\n- Hunters must be on foot.\n- Artificial lights may be used to locate, attempt to locate, or shoot a raccoon only if the raccoon has been treed or put at bay by dogs.\n- Handguns used must be .17 or .22 caliber rimfire (including .22 magnum).\nNote: a person may pursue and tree raccoons with dogs during the closed season and without a license.\n\nTom and his daughter ran after a raccoon until it climbed up a tree. While shining a flashlight on it, Tom used a .17 caliber centerfire handgun to take it.\n\nHow did Tom and his daughter violate the RULE?",
+   "choices": [
+    "The should not have shined a flashlight on it.",
+    "Tom should not have shot the raccoon.",
+    "Tom shot the raccoon with the wrong type of gun.",
+    "They should have been on foot."
+   ],
+   "answer": 2,
+   "explanation": "The answer is choice C.\n\nAccording to the RULE, “Handguns used must be .17 or .22 caliber rimfire (including .22 magnum).” – Tom used a centerfire handgun to take the raccoon, and therefore violated the RULE.\n\nAnswer choice A is incorrect. Since the raccoon climbed up a tree the use of artificial light was permitted. [The explanation continues below the captured frame.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nHOLIDAY ENTITLEMENT\nAlmost all workers are legally entitled to 5.6 weeks paid holiday per year.\nFull-time workers must receive 28 days paid annual leave per year. This is calculated by multiplying a normal week (5 days) by the annual entitlement of 5.6 weeks.\nPart-time workers receive fewer actual days of paid holiday because they work fewer days per week than full-time workers.\nThe general notice period for taking leave is at least twice as long as the amount of leave a worker wants to take.\nAn employer can refuse a leave request but he or she must give as much notice as the amount of leave requested.\n\nAndy Sanders works at the Lonely Isle Hotel. On November 5th, he requested a leave of 6 days starting November 15th. His request was rejected on November 7th.\nWhich violations have occurred?",
+   "choices": [
+    "Andy's request violates the RULE.",
+    "The Hotel's rejection violates the RULE.",
+    "Answers (A) and (B) are both correct.",
+    "Answers (A) and (B) are both incorrect."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\n\"The general notice period for taking leave is at least twice as long as the amount of leave a worker wants to take.\" – Andy wishes to take leave on November 15th for 6 days. Therefore, he should have notified the Hotel no later than November 3rd, 12 days prior.\n\n\"An employer can refuse a leave request but he or she must give as much notice as the amount of leave requested.\" – The hotel rejected the request 8 days prior to the requested 6 days leave. Therefore, the hotel complied with the RULE. [A few words at the line ends are clipped by a screen overlay in the capture.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the questions.\n\nRULE\n(SECTION 1) Gradual migration to digital file storage\nThe MI-01 regulations were declared on March 27th, 2005, and are followed to this day. These regulations are stated below and act as the procedure for a gradual migration.\nTimes: Starting July 2005, Fridays will be closed to reception and dedicated solely to the migration process. A Friday shall be called a Migration Day, unless it is the first Friday of any month; in that case it shall be called a Sweep Day.\nLabeling: Append a white labeled MI-12 form to any paper files you access or check that it does not already have one. After every access to a file, mark the date in the MI-12, and sign your name next to the date. If the MI-12 is labeled black, swap it to a white label. Every Sweep Day, all files with a MI-12 not labeled black or red are to be checked for last day of access.\n- If in all three previous months the file was accessed at least once, the MI-12 label must be swapped to blue; unless it was accessed at least five times in every one of these months, in which case it must be swapped to red.\n- Starting October 2005, if the file was not accessed even once in the previous six months, the MI-12 must be marked by a black label.\nMigration: Every Migration Day, files are to be typed into the computer system.\n- Start with files with red-labeled MI-12 forms,\n- If there are none, migrate files with a blue labeled MI-12.\nAfter migrating a file, swap its MI-12 form's label to green.\n\nBased on the RULE, in which of the following is (are) the clerk's action(s) correct?",
+   "choices": [
+    "On Friday, December 30th, 2005, the clerk checked a file last accessed on Thursday, September 15th, 2005, and marked its MI-12 form with a blue label.",
+    "On Friday, November 25th, 2005, the clerk checked a file with a MI-12 form labeled green. The clerk then typed the file into the computer system and returned it.",
+    "On Tuesday, October 18th, 2005, the clerk accessed a file with a MI-12 form labeled red. The clerk returned the file untouched.",
+    "On Tuesday, September 20th, 2005, the clerk accessed a file with a MI-12 form labeled white. The clerk marked the date in the MI-12, and signed his name next to the date."
+   ],
+   "answer": 3,
+   "explanation": "The answer is choice D.\n“After every access to a file, mark the date in the MI-12, and sign your name next to the date.” – This is what the clerk did. Notice that he did not swap the label, which he was not supposed to do either. [The \"Distractors:\" analysis that follows in the original is cut off in the capture.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the questions.\n\nRULE\nAgency Regulation Highlights Regarding Freedom of Information\nFOI-3.2\nRecords that are required to be maintained by the Agency in a public reading room will also be made available electronically on the official website (see FOI-1.3(A) for information about the official website). Each Agency branch will be responsible for determining which of the records it generates are required to be made available and to make those records available either in its own public reading room or in the Agency's central public reading room. Each branch shall maintain a current subject-matter index of its reading room records, available in the reading room and on the official website. Maintaining the index includes updating it regularly, at least quarterly, with respect to newly included records.\nFOI-3.5\nYou may make a request for Agency records not maintained in a public reading room by writing directly to the Agency branch that maintains those records. If you are making a request for records about a case which directly involves yourself, you must attach a copy of your (valid) U.S. passport's front. Attaching a letter explaining the reason(s) for your request will increase the chance of a positive response. If you are making a request for records not involving yourself, attaching such a letter is mandatory. Your request should be sent to the Agency branch's office holding the requested record at its address, which is listed in FOI-1.3(A). If you cannot determine to which branch to send your request, you may send it to the Agency Public Information Office (see FOI-1.3(A) for address), which will in 2-3 business days forward your request to the branch that should hold the records that you want. Your request will be considered received as of the date it is received by the proper Agency branch's office. Responses are sent no more than 5 business days after receiving the request. If the response is positive, it will take between 8 to 10 more business days before the records themselves are sent.\n\nBased on the information given in the RULE, which of the following situations does not comply with the highlighted regulations mentioned?",
+   "choices": [
+    "A record was made available on the official website, but not in any public reading room.",
+    "A non-classified record of the science and technology branch was not made available in any public reading room.",
+    "The information and technology branch decided that a record from the national security branch holds information too sensitive to be made available at a public reading room.",
+    "The index was updated about a removed record 5 months after its removal."
+   ],
+   "answer": 2,
+   "explanation": "The answer is choice C.\n\n“Each Agency branch will be responsible for determining which of the records it generates are required to be made available.” – The information and technology branch cannot decide whether a record from the national security branch should be available at a public reading room.\n\nDistractors:\nAnswer choice A. It is stated that “records that are required to be maintained by the Agency in a public reading room will also be made available electronically on the official website” – not the other way around. [The remaining distractor analysis is below the captured frame.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nThe Inmate and Cells Nighttime* Security Observational Check (henceforth NSOC)\nScheduling of NSOCs:\nNSOCs must be done on an irregular basis, with the time between starting times of NSOCs not exceeding the NSOC Time Frame (a first NSOC of all cells is performed at 11:00 PM by daytime staff). Upon completion of the security check, the NSOC performing officer must enter his or her name, the NSOC starting time, and cell number in the nightly log, along with any findings as described below.\nFindings During an NSOC:\nIn case of finding any injury, death, or escape attempt, if the officer performing the NSOC feels under threat, or in any other case of emergency, the officer must immediately follow the appropriate procedure described in E-05. After the procedure is completed, the Shift Supervisor must enter the event in the ESL, and a reference to the entry in the nightly log.\nIn case of finding anything else disturbing the safety, security, or good order in the facility, the officer performing the NSOC must concisely describe the finding(s) in the nightly log and notify the Shift Supervisor in half an hour's time.\nNSOC Special Inmate Status**:\nIn general, cells are subject to an NSOC Time Frame of 1 hour. If a cell holds an inmate of special status, NSOCs are more severe.\nSpecial Status and Changes to the NSOC:\nAdministrative Segregation – NSOC Time Frame of 30 minutes.\nDisciplinary Status – NSOC Time Frame of 30 minutes.\nSuicide Risk – NSOC Time Frame of 15 minutes.\n* 11:00 PM to 6:00 AM\n\nAn entry in the nightly log reads: A. Pattyn; 2:36 AM; 0062; Inmate Mr. Jerry Underwood found bleeding from gut area. Based on the information given in the RULE, which of the following describes an error in the logging?",
+   "choices": [
+    "The officer's name should be written in full.",
+    "The starting hour written is incorrect.",
+    "The description is lacking information.",
+    "The description should not be in the entry."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\n\"In case of finding any injury, [...] the Shift Supervisor must enter the event in the ESL and a reference to the entry in the nightly log.\" – Since the finding was an injury, the event should be entered in the ESL, and only a reference to that entry should be entered into the nightly log.\n\nDistractors:\nAnswer (A): This is not stated anywhere. [The remaining distractor analysis is below the captured frame.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE and SITUATION carefully and answer the questions.\n\nRULE\nDepartment of Labor – Employer Record Maintenance\nEvery employer shall maintain and preserve records of workweeks containing at least the following information and data with respect to each employee:\n1 Personal information, including:\n1.1 Name in full, as used for Social Security recordkeeping purposes,\n1.2 Home address, including zip code,\n1.3 Date of birth, if under 19,\n1.4 Sex (may be indicated by use of the prefixes Mr., Mrs., Miss., or Ms.)\n2 Occupation in which employed,\n3 Employment Times – Time of day and day of week on which the employee's workweek begins (or for night-time employees, the starting time and length of each employee's work shift). If the employee is part of a workforce, with a workweek beginning at the same time and day, a single notation for the entire workforce of that time and day will suffice,\n4 A record for each workweek of hours worked, including:\n4.1 Total hours worked each workweek,\n4.2 Total week's wage due for all hours worked during each workweek, excluding overtime compensation,\n4.3 Total compensation pay for overtime. This amount excludes the wage for hours recorded under paragraph 4.2 of this section,\n4.4 Total additions to or deductions from the week's wage including employee purchase orders or wage assignments. Also, the dates, amounts (added or deducted), and nature of the items which make up the total additions and deductions.\n\nBased on the information given in the RULE and SITUATION, which of the following describes a violation made when recording the employment of Julie Cecelia Gibbs?",
+   "choices": [
+    "Work shift times were recorded improperly.",
+    "Insufficient personal information was recorded.",
+    "Excessive personal information was recorded.",
+    "The period of time recorded does not comply with regulations."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nJulie's shift on Wednesday included the hours between 3:00AM and 5:30AM (2:30 hours), which is a night-shift. Therefore, Julie is a night-time employee. Paragraph 3 states that \"for night-time employees, the starting time and length of each employee's work shift\" should be recorded. Since the lengths of Julie's shifts were not recorded, the employer is in violation due to improperly recorded work.\n\nDistractors:\nAnswers (B) and (C): Paragraph 1 states that personal information includes: \"Name in full, as used for Social Security record-keeping purposes\" – The name is [rest of the distractor analysis is cut off in the capture]. [Note: the SITUATION record itself is not visible in this question's capture; the facts above are as stated in the original explanation.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Read the RULE and SITUATION carefully and answer the question.\n\nRULE\nDepartment of Criminal Justice (DCJ) - Correctional Staff Employees Regulations - Dress and Attire\nUniforms: Correctional and other uniformed employees' dress shall be governed by JH-42.36, \"Uniformed Staff Policy.\" A uniformed employee shall display a neat, professional, fully dressed appearance in public while wearing the DCJ uniform. Though it is understood that an employee must wear a uniform when traveling to and from work, uniforms shall not be worn during non-duty hours in a casual, unprofessional manner. An employee may not wear the uniform on the employee's day off. An employee may not wear only a part of the uniform (e.g., uniform shirt with jeans, uniform pants with casual shirt), unless doing so enhances the employee's duty performance.\nJewelry: The only jewelry items males may wear while on duty are a wristwatch, a ring, and a golden or gilded bracelet no more than 3/8\" in width. The only jewelry items females may wear while on duty are a wristwatch, rings, and one pair of stud-type earrings worn in the earlobes. No dangling or over-sized earrings shall be worn. Jewelry items shall not be worn on the facial area (e.g., earrings or studs in the nose, tongue, or eyebrow).\nMedical Alert Bracelet: An employee may wear a silver medical alert bracelet. The employee's supervisor may examine the bracelet to determine if it is a medical alert bracelet. A medical alert necklace or ring is not an acceptable substitute for the bracelet.\nSITUATION\nFour correction staff employees accompanied seventeen inmates for an eight-hour session of pothole fixing on state roads.\n\nBased on the information given, which of these employees is in violation of regulations?",
+   "choices": [
+    "R. Anders, who wore a medical alert bracelet on her wrist and a ring on her index finger.",
+    "P. Berry, who wore a wristwatch, two rings, and a gilded bracelet.",
+    "M. Carry, who after two hours switched from his uniform shirts to a plain T-shirt on account of the heat and in order to improve his mobility.",
+    "L. Dillan, who came wearing hiking shoes fit for this kind of hard labor work."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nWe are not told whether P. Berry is male or female.\nIf P. Berry is male, then he is in violation because he is wearing two rings, and by regulation, \"The only jewelry items males may wear while on duty are a wristwatch, a ring, and a golden or gilded bracelet no more than 3/8\" in width.\"\nIf P. Berry is female, the she is in violation because she is wearing a bracelet, and by regulation, \"The only jewelry items females may wear while on duty are a wristwatch, rings, and one pair of stud-type earrings worn in the earlobes.\" Were it a silver medical alert bracelet it would have been in compliance. [The explanation continues below the captured frame.]",
+   "source": "Problem Sensitivity 1",
+   "topic": "Problem Sensitivity 1",
+   "topic_n": 5
+  },
+  {
+   "question": "Officer Richards interviewed four people who were in a gas station while it was being held up. They each described the suspect as follows:\nWitness 1: “He was a White male, rather tall, around 180 pounds. He was wearing pointy black shoes, brown pants, a sleeveless shirt, and gloves.”\nWitness 2: “He was White, in his late forties, about six feet tall and 170 pounds. He was wearing a sleeveless shirt, and dark pants. He was holding a gun in his left hand and was wearing brass knuckles on his right hand.”\nWitness 3: “A White man in his early fifties came in to the gas station waving his gun with his left hand and wearing brass knuckles on his right hand. He was about 5'10” and 180 pounds. He was wearing brown pants, a sleeveless shirt, and black pointy shoes.”\nWitness 4: “I couldn't see the suspect's face because I was ducking behind one the shelves, but I did notice that he was wearing black pointy shoes, brown pants and that he was wearing brass knuckles.”\n\nGiven this information, Officer Richards should realize that there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nWitnesses 2-4 all mentioned the fact that the suspect was wearing brass knuckles, while witness 1 omitted this fact and reported that the suspect was wearing gloves. It should be noted that it is possible for one to wear brass knuckles on top of gloves; however, it is very unlikely that three of the four witnesses did not notice the gloves when it is clear that they were paying attention to the suspect's hands.\n\nOther than this fact, all of the witnesses (aside from witness 4 who did not see the suspect's face) agree that the suspect was a White male, around the age of fifty, about six feet tall, weighing between 170 – 180 pounds. They also all agreed that he was wearing a sleeveless shirt, brown or black pants, and black, pointy shoes.",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Rose interviewed four witnesses to a hit and run. They each described the event as follows:\nWitness 1: “A light blue Ford Focus with a license plate WSY2365 was driving the street at about 20 miles over the speed limit. When he was 3 meters from the bicyclist he slammed on his breaks, but unfortunately it was too late and he hit the bicyclist. He then popped his head out the window, looked around and quickly sped off.”\nWitness 2: “A blue Ford with a license plate starting with YYH was speeding down the street, and then hit a bicyclist. A young blonde man than briefly stopped the car, looked at the bicyclist on the ground and quickly drove on.”\nWitness 3: “A blue sedan with a license plate WYS2365 was driving about 45 miles per hour down the street. I heard the car screech and then saw him hit the bicyclist. A young man with light features then looked out the window said something to the bicyclist, and quickly drove away.”\nWitness 4: “A light blue car with a license plate starting with WSY was driving about 50 miles per hour down the street and hit a bicyclist. I then saw a white looking male with blonde hair stick his head out the window quickly and then speed away.”\n\nGiven this information, Officer Rose should realize that there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nEveryone besides for witness 2 is in agreement that the license plate began with the letters, W, S, and Y. The fact that witness 3 apparently mixed up the order of 'Y' and the 'S' in the license plate is not as crucial, especially since the rest of his report of the license plate directly matches the report of witness 1.\n\nDistractors\nWitness 1 was the only one to mention that the driver began to break three meters away from the bicyclist. Witness 3 however, did report hearing the car screeching – which likely came from the driver slamming on the breaks. Witnesses 2 and 4 may not have noticed the car breaking as [rest of the distractor analysis is below the captured frame].",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "A murder took place on January 12, 2013 at 11:34 PM at the victim's residence on 65th Street, New York City. One of the suspects, Ryan, claimed that at that time he was on the train with four of his friends from Boston at that time. Each of his four friends described that night as follows:\nFriend 1: “I picked up Ryan from the hotel in Boston at 10:30 PM. We arrived at the train station fifteen minutes later and boarded the 11:15 PM train. I listened to music and saw Ryan sleeping across from me on the train until we arrived in New York at 2:30 AM.”\nFriend 2: “I arrived at the train station in Boston at 10:15 PM for our 11:15 PM train. I was with Ryan from the moment he arrived at the train station thirty minutes later until we arrived in New York at around 2:30 AM when I saw Ryan get in a cab home.”\nFriend 3: “When I got to the train station at 11:00 PM, Ryan was already there. We got on the 11:15 PM train and all sat together. I watched a movie and saw Ryan stretched out across two seats eating a big bag of chips and reading a magazine during the ride. We arrived in New York at 2:30 AM and I saw Ryan get in a cab home.”\nFriend 4: “I picked up Ryan to catch our 11:15 PM train from Boston to New York. We arrived at the train station thirty minutes early and Ryan and I went to buy some snacks and a magazine which we ate and read on the train. When arrived in New York at 2:30 AM Ryan and I split a cab home.”\n\nGiven this information, there is a problem with the description given by friend:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThe first thing to notice is that both Friend 1 and Friend 4 claimed to have picked up Ryan to go to the train station in Boston. Since both of them could not have picked him up, there must be a problem with one of their descriptions. Friend 1 said he saw Ryan sleeping on the train, which contradicts what Friend 3 and friend 4 said, that Ryan was snacking and reading a magazine on the train.",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Read the RULE carefully and answer the question.\n\nRULE\nConfidentiality regarding local cases.\nDisclosure: A police officer is forbidden to discuss or disclose any information regarding open cases to family, friends, or any other persons unless authorized (see below); or unless said information is not considered classified and either: that person is a fellow officer, said disclosure could reasonably lead to the discovery of new evidence regarding the case, or said disclosure is likely to prevent an imminent Class B.II crime or higher.\nAuthorizing: Disclosure of classified information can be individually authorized by a lieutenant or a higher ranking officer if one of the following is true according to his or her best judgment: (a) such disclosure will lead to the discovery of new information regarding a case involving a crime of class A.II or above, or (b) such disclosure will prevent a crime of class A.III or above. The Chief of Police can individually authorize any disclosure of information. Any disclosure of classified information must be followed by a full UL-177 report of the particular disclosure signed by the authorizing officer.\nAppendix\nRanks from highest to lowest: 1. Chief of Police; 2. Deputy Chief; 3. Captain; 4. Lieutenant; 5. Sergeant; 6. Officer; 7. Detective.\nCrime Classes from highest to lowest: 1. A.I (murder; rape); 2. A.II (armed theft; theft of over $1 million); 3. A.III (non-armed theft of $20 thousand to $1 million); 4. B.I (non-armed theft of $1 thousand to $20 thousand); 5. B.II (breaking and entering); 6. C (sexual harassment); 7. D.I (speeding); 8. D.II (graffiti writing on public or private property). *Examples in brackets.\n\nLieutenant Brian Sage makes calls to currency exchange stores city-wide, telling them about four recent armed thefts in such stores, and advising them not to make any attempt to resist the criminals' demands. Any information of the case was labeled classified by the Chief of Police.\n\nDid Lieutenant Sage violate the rule?",
+   "choices": [
+    "No, this information was provided to ensure the safety of others.",
+    "No, anyone who is ranked as a lieutenant or higher has the authority to disclose classified information.",
+    "No, armed theft is classified higher than a class B.II crime.",
+    "Yes, this information will not be helpful in discovering new evidence or preventing a future crime."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D. [The rest of this explanation is below the captured frame.]",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Dickens interviewed four people who witnessed a murder. They each described the events as follows:\nWitness 1: “I was driving home at around 9:30 PM and saw a white car pulled over on the side of the road. I then saw a dark skinned bald man; around 5'8” and 150 pounds, dressed in dark clothing approach the car and pull a gun out of his coat pocket. He then reached into the car and I heard two loud gunshots.”\nWitness 2: “I saw a dark skinned man approach a dark car pulled over on the side of the road. He was bald, 5'9” and 140 pounds. He wore a black jacket, black pants, and boots. He reached into his coat pocket, and then into the car, took two shots and quickly fled.”\nWitness 3: “I was walking my dog at 9:40 last night when I suddenly heard two loud bangs. When I turned to see where it came from, I saw a man running away from a white sedan pulled over on the side of the road. He was dark skinned, 5'10” and 150 pounds. He was wearing a black jacket, boots and black pants.”\nWitness 4: “I saw a young dark skinned man dressed in all black clothing approach a white vehicle that was pulled over on the side of the road. He was 5'8” and 150 pounds. He then pulled a gun out of his pocket and took two shots at point – blank range.”\n\nGiven this information, there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nWitness 2 two described the car that was pulled over on the side of the road as dark, while all of the other witnesses described it as being white.",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Higgins interviewed four witnesses to an assault that took place at a busy intersection. They each described the suspect as follows:\nWitness 1: “She was a very pale skinned female, in her late thirties, with long, brown hair. She was wearing a gray top and blue jeans. She was about 5'5” and 130 pounds and had a lot of piercings and a tattoo on the back of her neck.”\nWitness 2: “She was a short and skinny female, about forty years old and around 5'3” and 120 pounds. She had long, thick, brown hair that went down past her shoulders. She was wearing blue jeans, and a gray shirt. She had a lot of piercings and tattoos.”\nWitness 3: “She was a White female around the age of thirty - five. She was wearing a short sleeved gray shirt, and blue jeans. She was slightly over five feet tall and about 120 – 135 pounds. She had very long, thick, brown hair that went down far past her shoulders. Her arms were covered in tattoos, and she must have had at least four different piercings on her face.”\nWitness 4: “She was light skinned, female around forty years old, with very thick dark hair that went down to her back. She was about 5'4” and 125 pounds. She wore blue jeans a gray t – shirt, and had rings on almost all of her fingers. Her eyebrows had piercings, and she had some tattoos.”\n\nGiven this information, there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A.\n\nThere is an agreement between all of the witnesses that the suspect was a White female, between 35 – 40 years old, with long brown hair and was around 5'4” and 125 pounds. They also all reported that the suspect was wearing a gray shirt and blue jeans, and that she had tattoos and piercings.\n\nWitnesses 2 and 4 mentioned that the suspect had tattoos, but did not mention where they were, while witness 1 only reported noticing a tattoo on the back of her neck and witness 3 reported that the suspect's arms were covered in tattoos. This, of course, does not contradict witnesses 1 report, as witness 3 may have simply not seen the back of the suspect's neck. However, notice that all of the witnesses also reported that the suspect had long hair that was down past her shoulders. If her hair was down, witness 1 would not have been able to see the back of the [neck — final words are below the captured frame].",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Read the RULE carefully and answer the questions.\n\nRULE\nDocumentation of Absences\nAbsences, as much as they are encouraged against, still do occur. For this reason, there are procedures for parents to notify the school of student absences and for students to make up for absences in any class during any semester. Parents must understand: a notification by a parent does not absolve the student of the responsibility to make up for his or her absences. Students are held accountable and must make up for all absences.\nAbsences due to illnesses or injuries (of the student) require medical certification. Acceptable documentation includes:\na. A medical doctor/dentist's note or an office visit receipt\nb. Absences excused through the school health office\nc. Chronic illnesses\nMedical certification must be turned in when the student returns to school, or a day after. Upon administrative review of the documentation, a student will be excused from attendance make up requirements.\nAbsences for which proof is required that may be waived are:\na. A death in family\nb. Court appearances\nc. Military appointments\nd. College interviews/visits\nIn case a medical certification or a proof as mentioned above is found to be counterfeit, the student will not be excused from attendance make up requirements and will be punished by after-school detention. [A final line of the RULE is cut off at the bottom of the capture.]\n\nThe following situations describe absences which students did not make up for. Which violates the RULE?",
+   "choices": [
+    "Tommy missed a day at school to attend the funeral of his grandmother.",
+    "Sarah missed three hours at school due to an appointment with her accountant.",
+    "Rachel missed ten days of school due to her repeating migraines.",
+    "Tania missed school once each semester of the year due to a speeding ticket appeal in court."
+   ],
+   "answer": 1,
+   "explanation": "The answer is choice B. An appointment with an accountant is not an absence that justifies being excused.\n\nDistractors:\nAnswer choice A. “Absences for which proof is required that may be waived are: A death in family [...]”\nAnswer choice C. “Absences due to illnesses or injuries (of the student) require medical certification. Acceptable documentation includes [...] Chronic illnesses.”\nAnswer choice D. “Absences for which proof is required that may be waived: [...] [rest of this line is below the captured frame].”",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Noah interviewed four witnesses to a shoplifting. The each described the suspect as follows:\nWitness 1: “She was a White, elderly female woman, probably in her seventies. She was walked with a cane, was around five feet tall, maybe 120 pounds, and had a very short gray hair. She had glasses strung around her neck and was wearing a red shirt with a dark green sweater and brown pants.”\nWitness 2: “She was a short, White woman, no taller than five feet. She had very short gray hair, bright blue eyes and was around 130 pounds. She was wearing a red shirt with a green sweater and dark pants. Her gray hair, big glasses strung around her neck, and cane made her look old, but her face looked very young.”\nWitness 3: “She was a White woman, no older than sixty, slightly under five feet tall and under 130 pounds. She had very short gray hair, was wearing a red shirt with a green sweater and black or brown pants, and walked with a cane.”\nWitness 4: “She was a White female, who looked to be around seventy with gray hair. She was about five and a half feet tall and 115 pounds. She walked with a cane, had glasses around her neck, and was wearing a green sweater and black pants.”\n\nGiven this information, there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D.\n\nAll of the witnesses agreed that the woman was White, had gray hair, and around 120-130 pounds. They also all reported that she had a cane and was wearing a green sweater, and brown or black pants.\n\nWitness 1 reported that the woman was five feet tall, witness 2 said she was no taller than five feet tall and witness 3 sad she was slightly under five feet tall. It is therefore reasonable to assume that the woman is somewhere between 4'9” – 5'1. Witness 4 however reported that the woman was five and a half feet tall. [A \"Distractors\" section follows in the original but is below the captured frame.]",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Harry interviewed four witnesses to a shooting that occurred in a movie theater parking lot. They each described the suspect as follows:\nWitness 1: “He was a Black male, in his late twenties. He was shouting obscenities in what sounded like a South African accent. He was over six feet tall, around 200 pounds, and had short curly hair. He was wearing a red jacket, navy blue or black pants and had a piercing in his left ear.”\nWitness 2: “He was a Black male around 6'3” and 210 pounds. He looked about thirty and was screaming in an accent. He was wearing a maroon jacket, and dark blue pants.”\nWitness 3: “He was a Black man around 6'2” roughly 200 pounds, and looked about 27 years old. He had short, curly dark hair and wore a jacket, and dark pants. He had a crazed look in his eyes, and just stood there silently shooting indiscriminately.”\nWitness 4: “He was a tall; dark skinned male about 6'4” and over 200 pounds. He was in his late twenties and had dark, short hair. He was wearing a red top, and dark blue pants. He kept on screaming that he was sorry in an Australian accent.”\n\nGiven this information, there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nWitnesses 1, 2, and 4 all mentioned that the suspect had an accent and witness 3 said that the suspect “stood there silently shooting indiscriminately.”\n\nDistractors\nWitness 1 said that the suspect had a South African accent, and witness 4 said the suspect had an Australian accent. Many people are not well accustomed to foreign accents, and may therefore easily misplace one accent with another. Further, to many Americans, South African accents and Australian accents sound very similar.\n\nWitness 1 said that the suspect was screaming obscenities, and witness 4 said th[at he was screaming that he was sorry — rest of the distractor analysis is cut off in the capture].",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  },
+  {
+   "question": "Officer Frolics interviewed four witnesses to a car crash on a busy street. They each described the events as follows:\nWitness 1: “A blue sedan inched up past a stop sign on Kedvale to make a right turn onto Church Street. He was sitting there for about ten seconds when a red minivan came down Church and just rammed into him. I'm not sure how the driver of the minivan did not see him there; he clearly wasn't paying attention to the road.”\nWitness 2: “A blue Mitsubishi moved up past a sign to see past a blind spot. The front of his car was slightly sticking out onto Church Street and a red minivan came down Church and crashed into him. I think the driver of the minivan was talking on the phone.”\nWitness 3: “A blue car was sitting on Kedvale pulled up a little too far onto Church Street. A red minivan then came and crashed into him on the passenger side. The blue car probably should not have inched up so much, but if the driver of the red car was paying more attention to the road he definitely could have avoided the crash.”\nWitness 4: “A blue car was at a stop sign on Kedvale when suddenly a red van came down Church Street and crashed into the side of the front of his car. I think the driver of the van thought the blue car was going to make a right in front of him, but he still should have slowed down.”\n\nGiven this information, there is a problem with the description given by witness:",
+   "choices": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C.\n\nThere is a clear consensus among the witnesses that the driver of the blue car was on Kedvale Street, and he inched up slightly onto Church Street, which is where the red minivan came from. Assuming that Church Street is a two way street and that the driver of the red car was driving on the correct side of the road, the red car would have crashed into the driver side of the blue car, not the passenger side.\n\nOf course, in these questions we cannot make assumptions that are not supported by the information given to us. Notice however that all of the witnesses indicated that had the driver of the red car been paying more attention to the road the accident probably could have been avoided. Had the driver of the red car been driving on the wrong side of the road, [a witness would have] reported this instead of saying he seemed distracted. [A few words at the line ends are clipped by a screen overlay in the capture.]",
+   "source": "Problem Sensitivity 2",
+   "topic": "Problem Sensitivity 2",
+   "topic_n": 6
+  }
+ ]
+}
