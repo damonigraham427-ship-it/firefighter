@@ -1,0 +1,1231 @@
+{
+ "questions": [
+  {
+   "passage": "In the past few years, the government has turned to shock tactics in order to fight the battle against smokers and the burden they pose on the country's economy (manifested in sick days and health issues). The latest anti-smoking campaign showed tumors growing on a cigarette. Needless to say, this advert was contentious. On the one hand, the advert has become a viral sensation since its launch and has attracted plenty of attention to the subject. On the other hand, some argue that using a hard-hitting approach doesn't really work because people become very afraid. If someone thinks they might have cancer or a symptom of cancer, they're likely to try to push it out of their mind.",
+   "question": "The government is fighting the battle against smokers because of the burden they pose on the country's economy.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage begins with the sentence: \"In the past few years, the government has turned to shock tactics in order to fight the battle against smokers and the burden they pose on the country's economy.\" In other words, the government is targeting smokers as they pose a burden on the country's economy.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "In the past few years, the government has turned to shock tactics in order to fight the battle against smokers and the burden they pose on the country's economy (manifested in sick days and health issues). The latest anti-smoking campaign showed tumors growing on a cigarette. Needless to say, this advert was contentious. On the one hand, the advert has become a viral sensation since its launch and has attracted plenty of attention to the subject. On the other hand, some argue that using a hard-hitting approach doesn't really work because people become very afraid. If someone thinks they might have cancer or a symptom of cancer, they're likely to try to push it out of their mind.",
+   "question": "What is the possible negative effect of the latest anti-smoking campaign?",
+   "choices": [
+    "Attracting excessive attention to the subject",
+    "Contracting a computer virus",
+    "Increasing the number of smokers",
+    "Encouraging denial of the problem"
+   ],
+   "answer": 3,
+   "explanation": "The passage describes a couple of contrasting outcomes of the latest anti-smoking campaign: (1) \"On the one hand, the advert has become a viral sensation since its launch and has attracted plenty of attention to the subject.\" (2) \"On the other hand, some argue that using a hard-hitting approach doesn't really work because people become very afraid. If someone thinks they might have cancer or a symptom of cancer, they're likely to try to push it out of their mind.\" The first sentence deals with a positive effect of the campaign: attracting attention to the subject, therefore distracter A is eliminated. The second sentence deals with a possible negative effect: the campaign might frighten people, encouraging them to avoid a potential problem, therefore D is the correct answer. As for distracters B and C, they are not even mentioned in the passage.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "In the past few years, the government has turned to shock tactics in order to fight the battle against smokers and the burden they pose on the country's economy (manifested in sick days and health issues). The latest anti-smoking campaign showed tumors growing on a cigarette. Needless to say, this advert was contentious. On the one hand, the advert has become a viral sensation since its launch and has attracted plenty of attention to the subject. On the other hand, some argue that using a hard-hitting approach doesn't really work because people become very afraid. If someone thinks they might have cancer or a symptom of cancer, they're likely to try to push it out of their mind.",
+   "question": "Which one of the following would best replace \"contentious\" while maintaining the meaning of the passage?",
+   "choices": [
+    "problematic",
+    "unpopular",
+    "controversial",
+    "detested"
+   ],
+   "answer": 2,
+   "explanation": "The word \"contentious\" means quarrelsome or debatable. In the context of the passage it can be replaced with the word \"controversial.\" A clue to the meaning of this word can be found in the phrasing of the passage after its use: \"Needless to say, this advert was contentious. On the one hand... On the other hand...\" This phrasing helps us understand that the advert had positive and negative effects, namely, that it was controversial. Also note that all three distracters are very similar in meaning (negative adjectives), which can serve as an additional hint to the correct meaning of the word in question.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "In the past few years, the government has turned to shock tactics in order to fight the battle against smokers and the burden they pose on the country's economy (manifested in sick days and health issues). The latest anti-smoking campaign showed tumors growing on a cigarette. Needless to say, this advert was contentious. On the one hand, the advert has become a viral sensation since its launch and has attracted plenty of attention to the subject. On the other hand, some argue that using a hard-hitting approach doesn't really work because people become very afraid. If someone thinks they might have cancer or a symptom of cancer, they're likely to try to push it out of their mind.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Tumors growing on a cigarette might not be the best anti-smoking campaign.",
+    "Anti-smoking campaigns are important to a nation's economy.",
+    "A hard-hitting approach to fighting the battle against cigarettes isn't efficient.",
+    "Shock tactics have been found to be disputatious."
+   ],
+   "answer": 3,
+   "explanation": "When summarizing a passage, it is important to identify the main subject of the text, as well as the message the author wants to convey to readers. In this case, it seems the subject is shock tactics, with the recent anti-smoking campaign serving as an example. This information can help us eliminate distracter A, which focuses on the campaign itself. Now we should focus on the main message of the passage: is the author pro/against shock tactics? Perhaps the author is ambivalent? Since the author introduces two sides to shock tactics, a positive one (attracting attention to the subject) alongside a negative one (installing fear and promoting avoidance), we can conclude that shock tactics are presented as disputable (distracter D). Distracters B and C offer a more decisive stance towards shock tactics and are thus eliminated.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"Sharing economy\" is on the rise, with millions of people renting beds, cars, boats and other assets directly from each other, coordinating the transaction via the internet. Technology has reduced transaction costs, making sharing assets cheaper and easier than ever, and therefore possible on a much larger scale. The big change is the availability of more data about people and things, which allows physical assets to be disaggregated and consumed as services. Smartphones with GPS let people see where the nearest rentable car is parked; social networks provide a way to check up on people and acquire additional information; and online payment systems handle the billing.",
+   "question": "The main reason \"sharing economy\" is becoming more popular is reduced costs.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 1,
+   "explanation": "This is a tricky question that requires meticulous examination of the statement presented in the question. The statement involves the words \"main reason\" serving as a clue that perhaps there is more than one reason offered in the passage as to why \"sharing economy\" is on the rise. In this question we are asked whether or not reduced costs are the main reason. Although the passage does mention this development as contributing to the popularity of \"sharing economy,\" the main reason is presented later in the text: \"Technology has reduced transaction costs, making sharing assets cheaper and easier than ever, and therefore possible on a much larger scale. The big change is the availability of more data about people...\" It is possible to decipher from these two sentences that although reduced costs have contributed to the rise of \"sharing economy,\" the availability of data about people is the main development that has contributed to its popularity. Thus, the correct answer is B.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"Sharing economy\" is on the rise, with millions of people renting beds, cars, boats and other assets directly from each other, coordinating the transaction via the internet. Technology has reduced transaction costs, making sharing assets cheaper and easier than ever, and therefore possible on a much larger scale. The big change is the availability of more data about people and things, which allows physical assets to be disaggregated and consumed as services. Smartphones with GPS let people see where the nearest rentable car is parked; social networks provide a way to check up on people and acquire additional information; and online payment systems handle the billing.",
+   "question": "Which one of the following probably contributed the most to the rise of \"sharing economy\"?",
+   "choices": [
+    "Information security",
+    "Availability of information",
+    "Reduced transaction fees",
+    "Internet speed"
+   ],
+   "answer": 1,
+   "explanation": "This is a tricky question that requires us to examine the question meticulously. The question asks what \"probably contributed the most,\" serving as a clue that perhaps there is more than one contributing factor; however, we are instructed to choose the one that contributes the most. The passage mentions two of the options suggested above: reduced transaction fees and availability of information. Reduced fees is mentioned in the context of technological developments that made \"sharing economy\" possible on a larger scale, whereas \"availability of more data about people\" is regarded in the passage as the \"big change\" contributing to its popularity. Hence, the correct answer is B.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"Sharing economy\" is on the rise, with millions of people renting beds, cars, boats and other assets directly from each other, coordinating the transaction via the internet. Technology has reduced transaction costs, making sharing assets cheaper and easier than ever, and therefore possible on a much larger scale. The big change is the availability of more data about people and things, which allows physical assets to be disaggregated and consumed as services. Smartphones with GPS let people see where the nearest rentable car is parked; social networks provide a way to check up on people and acquire additional information; and online payment systems handle the billing.",
+   "question": "Which one of the following would best replace \"disaggregated\" while maintaining the meaning of the passage?",
+   "choices": [
+    "accumulated",
+    "collected",
+    "disassembled",
+    "devalued"
+   ],
+   "answer": 2,
+   "explanation": "The meaning of the word \"disaggregated\" is to separate into component parts, or to disassemble (distracter C). In the context of the passage the word serves to explain the essence of \"sharing economy\" – disassembling physical assets and consuming them as services.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"Sharing economy\" is on the rise, with millions of people renting beds, cars, boats and other assets directly from each other, coordinating the transaction via the internet. Technology has reduced transaction costs, making sharing assets cheaper and easier than ever, and therefore possible on a much larger scale. The big change is the availability of more data about people and things, which allows physical assets to be disaggregated and consumed as services. Smartphones with GPS let people see where the nearest rentable car is parked; social networks provide a way to check up on people and acquire additional information; and online payment systems handle the billing.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "\"Sharing economy\" is growing fast due to technology gadgets such as smartphones.",
+    "\"Sharing economy\" is growing fast.",
+    "Technology development has contributed largely to the rise of \"sharing economy\".",
+    "\"Sharing economy\" is the commerce of commodities via the internet."
+   ],
+   "answer": 2,
+   "explanation": "Since the distracters are quite confusing, let's go over them one by one: (A) The first part is true: \"sharing economy\" is growing fast; however, the second part is inaccurate and overly specific. The popularity of \"sharing economy\" is not specifically due to smartphones. (B) \"Sharing economy\" is indeed growing fast but we are left to decide whether this is a sufficient summary of the text or perhaps there is an important aspect that has been excluded from it. We should be a little skeptical when encountering a very general summary and go over all the other options before marking it as the best summary. (C) This seems like an upgrade of distracter B as it offers the same idea (\"sharing economy\" is growing) with an additional explanation, one that is also offered as the key explanation of the \"sharing economy\" phenomenon in the passage. (D) This is basically a dictionary entry to the question \"what is sharing economy?\" and not a summary of the text. Therefore, the best summary is provided in distracter C.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Ryanair and Aer Lingus are by far the most important carriers operating out of Ireland, competing on 46 routes. The vice president of the European Commission has prohibited, on the basis of the EU Merger Regulation, the proposed takeover of the Irish flag carrier Aer Lingus by the low-cost airline Ryanair. The market investigation showed that there was little prospect that any new carrier would enter the Irish market after the merger. Ryanair proposed several remedial arrangements during the process, including the divestiture of Aer Lingus's 43 overlap routes to Flybe and the cession of take-off and landing slots to British Airways at London airports. The commission, however, established that this set of measures wasn't sufficient due to the size of the Flybe Company and their status in the aeronautical industry.",
+   "question": "The main reason the merger was prohibited was to prevent abuse of dominant power.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage mentions first that \"Ryanair and Aer Lingus are by far the most important carriers operating out of Ireland\" and then informs the reader that Ryanair intended to take over Aer Lingus, but was prohibited from doing so, due to the fact that: \"there was little prospect that any new carrier would enter the Irish market after the merger.\" We can understand from this information that Ryanair taking over another big carrier would amount to an accumulation of dominant power in its hands. Consequently, the merger was prohibited.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Ryanair and Aer Lingus are by far the most important carriers operating out of Ireland, competing on 46 routes. The vice president of the European Commission has prohibited, on the basis of the EU Merger Regulation, the proposed takeover of the Irish flag carrier Aer Lingus by the low-cost airline Ryanair. The market investigation showed that there was little prospect that any new carrier would enter the Irish market after the merger. Ryanair proposed several remedial arrangements during the process, including the divestiture of Aer Lingus's 43 overlap routes to Flybe and the cession of take-off and landing slots to British Airways at London airports. The commission, however, established that this set of measures wasn't sufficient due to the size of the Flybe Company and their status in the aeronautical industry.",
+   "question": "Which one of the following solutions was offered by Ryanair to the argument raised by the vice president of the European Commission?",
+   "choices": [
+    "Downsizing the number of routes",
+    "Discontinuing the Dublin-London route",
+    "Sharing certain routes with other airlines",
+    "Instituting some remedial arrangements"
+   ],
+   "answer": 0,
+   "explanation": "The vice president of the European Commission argued that \"there was little prospect that any new carrier would enter the Irish market after the merger\" and therefore \"Ryanair proposed several remedial arrangements... divestiture of Aer Lingus's 43 overlap routes to Flybe and the cession of take-off and landing slots to British Airways at London airports.\" Basically, Ryanair tried to offer remedies in order to alleviate the vice president's concern: (1) transferring routes to Flybe; (2) relinquishing take-off and landing slots. These remedies imply that Ryanair were offering to reduce the number of routes they control. Therefore, the correct answer is (A). Distracter (B) is incorrect since relinquishing slots does not necessarily mean giving up the Dublin-London route all together. Distracter (C) is incorrect since Ryanair offered to surrender some of its routes, not share them with others. Distracter (D) is incorrect because it misses the point of the question: the question asks what specific action was offered as a solution by Ryanair, whereas distracter (D) merely expresses the idea that Ryanair offered solutions.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Ryanair and Aer Lingus are by far the most important carriers operating out of Ireland, competing on 46 routes. The vice president of the European Commission has prohibited, on the basis of the EU Merger Regulation, the proposed takeover of the Irish flag carrier Aer Lingus by the low-cost airline Ryanair. The market investigation showed that there was little prospect that any new carrier would enter the Irish market after the merger. Ryanair proposed several remedial arrangements during the process, including the divestiture of Aer Lingus's 43 overlap routes to Flybe and the cession of take-off and landing slots to British Airways at London airports. The commission, however, established that this set of measures wasn't sufficient due to the size of the Flybe Company and their status in the aeronautical industry.",
+   "question": "Which one of the following would best replace \"cession\" while maintaining the meaning of the passage?",
+   "choices": [
+    "seizing",
+    "compromising",
+    "relinquishment",
+    "resistance"
+   ],
+   "answer": 2,
+   "explanation": "The meaning of the word \"cession\" is \"yielding to another.\" In the context of the passage it means relinquishment (of control) of take-off and landing slots.\nEven without knowing the exact meaning of the word, we can try and work out the meaning using the context. The word appears in the context of remedies offered by Ryanair in order to reduce the threat of becoming a monopoly. Consequently, we can assume that Ryanair are trying to show flexibility and openness to other carriers. Distracters A and D refer to actions that might conflict with the purpose of Ryanair's remedies. Since distracter B is not an action, it does not fit the phrasing of the sentence; and so we are left with distracter C - the correct answer.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Ryanair and Aer Lingus are by far the most important carriers operating out of Ireland, competing on 46 routes. The vice president of the European Commission has prohibited, on the basis of the EU Merger Regulation, the proposed takeover of the Irish flag carrier Aer Lingus by the low-cost airline Ryanair. The market investigation showed that there was little prospect that any new carrier would enter the Irish market after the merger. Ryanair proposed several remedial arrangements during the process, including the divestiture of Aer Lingus's 43 overlap routes to Flybe and the cession of take-off and landing slots to British Airways at London airports. The commission, however, established that this set of measures wasn't sufficient due to the size of the Flybe Company and their status in the aeronautical industry.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Ryanair didn't merge with Aer Lingus because no sufficient remedies were offered.",
+    "Ryanair was prohibited from merging with Aer Lingus.",
+    "Ryanair was prohibited from merging with Aer Lingus due to competition problems.",
+    "Ryanair was prohibited from merging with Aer Lingus due to the problematic status of Flybe."
+   ],
+   "answer": 2,
+   "explanation": "The sequence of events in this passage is as followed: Ryanair was planning to take over Aer Lingus → this action was prohibited by the European Commission because it might lead to a lack of competition (the creation of a monopoly) → Ryanair offered remedies → the European Commission established that this set of measures wasn't sufficient because of Flybe's size and status. Notice that three of the distracters start with the wording \"Ryanair was prohibited from merging with Aer Lingus...\" it is our job to figure out what the passage is trying to convey regarding the prohibition on Ryanair from taking over Aer Lingus. Distracter A, C and D offer an explanation, while distracter B does not. Since the passage does provide an explanation for the prohibition, distracter B is eliminated. The main cause of the prohibition, as presented in the text, is the European Commission's fear that Ryanair will abuse its dominant power. So, the correct answer is C. Distracters A and D offer a related idea, but miss the core reason for prohibition of the take-over: not because of insufficient remedies or Flybe's status, but resistance in principle to a monopoly of flights out of Ireland.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "To deliver secure supplies of high-quality food while protecting the environment better, the new US farm policy must make \"greening\" measures mandatory but flexible and help farmers to cope with market volatility. Members of United States Congress agree that 30% of national budgets for direct payments should be made conditional upon compliance with mandatory greening measures, but stress that these measures must be made more flexible and should be brought in gradually. The three key measures - crop diversification, maintaining permanent pasture and grassland and creating \"ecologically-focused areas\", would remain but with certain exceptions, e.g. to reflect the size of the farm.",
+   "question": "A farmer with a small piece of land will not be required to comply with all of the greening measures",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "Although this statement seems like a plausible exception to the mandatory greening measures, we don't really have enough information to conclude that this statement is true/false. All the passage states is that: \"The three key measures... would remain but with certain exceptions, e.g. to reflect the size of the farm.\" We know that probably small, less profitable farms will enjoy some flexibility in the implementation of the three mandatory greening measures, but we don't know what the exact meaning of \"certain exceptions\" is.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "To deliver secure supplies of high-quality food while protecting the environment better, the new US farm policy must make \"greening\" measures mandatory but flexible and help farmers to cope with market volatility. Members of United States Congress agree that 30% of national budgets for direct payments should be made conditional upon compliance with mandatory greening measures, but stress that these measures must be made more flexible and should be brought in gradually. The three key measures - crop diversification, maintaining permanent pasture and grassland and creating \"ecologically-focused areas\", would remain but with certain exceptions, e.g. to reflect the size of the farm.",
+   "question": "Which one of the following would meet one of the mandatory greening measures?",
+   "choices": [
+    "Create a new species of cucumbers",
+    "Close 10% of active farms",
+    "Enclose tracts of farmland for grazing",
+    "Allocate 10% of farm products to export"
+   ],
+   "answer": 2,
+   "explanation": "This question requires that we focus on the three greening measures mentioned in the passage and try to understand how each measure would be implemented in practice. The three greening measures presented in the text are: (1) crop diversification- from the word \"diversity\" we can deduce that this measure is aimed at creating a greater variety of farm products. In other words, farms should produce a range of products (not only tomatoes, but cucumbers too). (2) Maintaining permanent pasture and grassland – this measure is aimed at preserving the natural pasture of farmland, probably by encouraging farmers to monitor the amount of pasture on their land and making sure it isn't consumed completely. (3) Creating \"ecologically-focused areas\"– this measure probably obligates farmers to keep a certain part of their land free of exploitation, allowing the land to regenerate. Distracter C seems to go well with the second greening measure as it offers a practical method of preserving the natural pasture by enclosing farm areas for grazing, leaving other areas in a natural state. Distracters B and D are not related to the three mandatory greening measures mentioned in the text, while distracter A relates in a way to the first greening measure; however, it is not an accurate translation of that measure.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "To deliver secure supplies of high-quality food while protecting the environment better, the new US farm policy must make \"greening\" measures mandatory but flexible and help farmers to cope with market volatility. Members of United States Congress agree that 30% of national budgets for direct payments should be made conditional upon compliance with mandatory greening measures, but stress that these measures must be made more flexible and should be brought in gradually. The three key measures - crop diversification, maintaining permanent pasture and grassland and creating \"ecologically-focused areas\", would remain but with certain exceptions, e.g. to reflect the size of the farm.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Direct payments should be contingent upon farmers' compliance with mandatory greening measures.",
+    "Greening measures are mandatory yet flexible.",
+    "MEPs agree that protection of the environment is a key to high quality food.",
+    "MEPs agree that there should be certain exceptions to the implementation of greening measures."
+   ],
+   "answer": 0,
+   "explanation": "The first sentence in the passage introduces us to the main focus of the text: EU farm policy must make \"greening\" measures (1) mandatory (2) flexible. The passage then goes on to elaborate on how the MEPs are planning to carry out this new policy. They agree that (1) direct payments should be contingent upon compliance with greening measures; (2) greening measures should include certain exceptions in order to accommodate smaller farms. Seemingly, distracter B is the correct answer. However, notice the wording of the sentence: \"greening measures are...\" The passage does not focus on presenting the idea of greening measures, but of what the policy should be regarding implementing greening measures. Therefore, we are left with distracters A and D. Since distracter A focuses on a slightly more central issue in the passage (which is elaborated on more in the text), it is the correct answer.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "To deliver secure supplies of high-quality food while protecting the environment better, the new US farm policy must make \"greening\" measures mandatory but flexible and help farmers to cope with market volatility. Members of United States Congress agree that 30% of national budgets for direct payments should be made conditional upon compliance with mandatory greening measures, but stress that these measures must be made more flexible and should be brought in gradually. The three key measures - crop diversification, maintaining permanent pasture and grassland and creating \"ecologically-focused areas\", would remain but with certain exceptions, e.g. to reflect the size of the farm.",
+   "question": "Which one of the following would best replace \"volatility\" while maintaining the meaning of the passage?",
+   "choices": [
+    "immobility",
+    "arbitrariness",
+    "hazardousness",
+    "instability"
+   ],
+   "answer": 3,
+   "explanation": "The word \"volatility\" is usually used in the economic world. Mainly, \"volatility\" refers to the amount of uncertainty or risk about the size of changes in a security's value. A higher volatility means that a security's value can potentially be spread out over a larger range of values. This means that the price of the security can change dramatically over a short period in either direction. In other words, \"volatility\" means instability (of the prices of farm products).",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"BMI (body-mass index) is a cheap and cheerful way of getting a handle on whether or not you might be overweight. The alternatives are rather more complicated and expensive. You can go for an MRI scan or a dexa scan and those will measure your whole body fat, but that really is using a sledgehammer to crack a nut. BMI does separate those people who are normal from those who are obese and there is some area of uncertainty in the middle.\"\nTim Cole, Professor of Medical Statistics at University College London\n\n\"The body-mass index that the National Health Service counts on to assess obesity is a bizarre measure. We live in a three-dimensional world, yet the BMI is defined as weight divided by height squared. It was invented in the 1840s, before calculators, when a formula had to be very simple and usable. As a consequence of this ill-founded definition, millions of short people think they are thinner than they are, and millions of tall people think they are fatter.\"\nNick Trefethen, Professor of numerical analysis, University of Oxford",
+   "question": "According to Tim Cole, what are two of the benefits of the BMI?\nA. Cheap\nB. Quick\nC. Accurate\nD. Accessible",
+   "choices": [
+    "A,D",
+    "A,B",
+    "B,D",
+    "C,D"
+   ],
+   "answer": 0,
+   "explanation": "Cole refers to the BMI index as \"cheap and cheerful,\" differentiating it from \"other alternatives\" which are \"complicated and expensive.\" Even without knowing the exact meaning of the idiom \"cheap and cheerful,\" we can comprehend its meaning using the information given later in the sentence: if alternatives are expensive and complicated then the BMI index must be (1) cheap and (2) simple, easy, accessible.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"BMI (body-mass index) is a cheap and cheerful way of getting a handle on whether or not you might be overweight. The alternatives are rather more complicated and expensive. You can go for an MRI scan or a dexa scan and those will measure your whole body fat, but that really is using a sledgehammer to crack a nut. BMI does separate those people who are normal from those who are obese and there is some area of uncertainty in the middle.\"\nTim Cole, Professor of Medical Statistics at University College London\n\n\"The body-mass index that the National Health Service counts on to assess obesity is a bizarre measure. We live in a three-dimensional world, yet the BMI is defined as weight divided by height squared. It was invented in the 1840s, before calculators, when a formula had to be very simple and usable. As a consequence of this ill-founded definition, millions of short people think they are thinner than they are, and millions of tall people think they are fatter.\"\nNick Trefethen, Professor of numerical analysis, University of Oxford",
+   "question": "Which one of the following would best replace \"cheerful\" while maintaining the meaning of the passage?",
+   "choices": [
+    "happy",
+    "amateur",
+    "simple",
+    "worthwhile"
+   ],
+   "answer": 2,
+   "explanation": "Although \"cheerful\" in its more widespread use means \"happy,\" we have to be careful not to judge its meaning prematurely and always try and pay attention to the context in which the word appears. The word \"cheerful\"appears in the context of the idiom \"cheap and cheerful,\" which can perhaps serve as a hint that the meaning of the word has deviated from its popular meaning. \"Cheap and cheerful\" is commonly used to describe something that is \"simple and inexpensive\"; therefore, distracter C is the correct answer. Note that even without knowing the exact meaning of the idiom \"cheap and cheerful,\"we can comprehend its meaning using the information given later in the sentence: if alternatives are expensive and complicated then the BMI index must be (1) cheap and (2) simple, easy, accessible.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"BMI (body-mass index) is a cheap and cheerful way of getting a handle on whether or not you might be overweight. The alternatives are rather more complicated and expensive. You can go for an MRI scan or a dexa scan and those will measure your whole body fat, but that really is using a sledgehammer to crack a nut. BMI does separate those people who are normal from those who are obese and there is some area of uncertainty in the middle.\"\nTim Cole, Professor of Medical Statistics at University College London\n\n\"The body-mass index that the National Health Service counts on to assess obesity is a bizarre measure. We live in a three-dimensional world, yet the BMI is defined as weight divided by height squared. It was invented in the 1840s, before calculators, when a formula had to be very simple and usable. As a consequence of this ill-founded definition, millions of short people think they are thinner than they are, and millions of tall people think they are fatter.\"\nNick Trefethen, Professor of numerical analysis, University of Oxford",
+   "question": "Which one of the following provides the best summary of the common ground between both quotes?",
+   "choices": [
+    "The BMI is a simple-to-use measure of obesity.",
+    "The BMI as a means of assessing obesity is extremely limited.",
+    "There is no good alternative to the BMI.",
+    "Three-dimensional measures are preferred for assessing obesity accurately."
+   ],
+   "answer": 0,
+   "explanation": "When looking for common ground, one should keep in mind that we are looking for a piece of information that appears or is inferred in both passages. Perhaps you have already noticed that Cole and Trefethen have quite opposite ideas regarding the BMI. While Cole considers it to be a simple, cheap and sufficient measure of obesity, Trefethen views it as inaccurate and out dated. This information can help us disqualify distracters B and C, which seem to go hand in hand with Trefethen's opinion of the BMI, yet contradict Cole's viewpoint. Distracter D may also be disqualified, since Cole dismisses MRIs and other scans as a fitting measure for measuring obesity. Distracter A is the correct answer- Cole explicitly speaks of the simplicity of the BMI, while Trefethen speaks of it implicitly, when mentioning the origin of the BMI: \"It was invented in the 1840s, before calculators, when a formula had to be very simple and usable.\"",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "\"BMI (body-mass index) is a cheap and cheerful way of getting a handle on whether or not you might be overweight. The alternatives are rather more complicated and expensive. You can go for an MRI scan or a dexa scan and those will measure your whole body fat, but that really is using a sledgehammer to crack a nut. BMI does separate those people who are normal from those who are obese and there is some area of uncertainty in the middle.\"\nTim Cole, Professor of Medical Statistics at University College London\n\n\"The body-mass index that the National Health Service counts on to assess obesity is a bizarre measure. We live in a three-dimensional world, yet the BMI is defined as weight divided by height squared. It was invented in the 1840s, before calculators, when a formula had to be very simple and usable. As a consequence of this ill-founded definition, millions of short people think they are thinner than they are, and millions of tall people think they are fatter.\"\nNick Trefethen, Professor of numerical analysis, University of Oxford",
+   "question": "Which passage is overtly critical of the BMI?",
+   "choices": [
+    "Tim Cole's quote",
+    "Nick Trefethen's quote",
+    "Both Tim Cole's quote and Nick Trefethen's quote",
+    "Neither Tim Cole's quote nor Nick Trefethen's quote"
+   ],
+   "answer": 1,
+   "explanation": "Cole and Trefethen have quite opposite ideas regarding the BMI. While Cole considers it to be a simple, cheap and sufficient measure for obesity, Trefethen views it as inaccurate and out dated. Trefethen even regards the measure as \"bizarre\" and elaborates on its disadvantages. Therefore, we can conclude that Trefethen is overtly critical of the BMI.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Arcane and beautiful, the Moon has been a source of awe and inspiration to humankind for millennia. Space exploration has long been about reaching far off destinations but now there's a race to exploit new frontiers by mining its minerals. When Neil Armstrong first stepped on the Moon in 1969, it was part of a \"flags and footprints\" strategy to beat the Soviets, a triumph of imagination and innovation, not an attempt to extract precious metals. No-one knew there was water on that dusty, celestial body. What a difference a generation makes.\n\n\"We know that there's water on the Moon, which is a game-changer for the solar system. Water is rocket fuel. It can also support life and agriculture. So exploring the Moon commercially is a first step towards making the Moon part of our world. The most important thing about the Moon is probably the stuff we haven't even discovered. But what we do know is that there could be more platinum-group metals on the surface of the Moon than all of the reserves of Earth. The race is on.\"\nBob Richards, CEO of Silicon Valley-based \"Moon Express\"",
+   "question": "What are two arguments Bob Richards offers in favor of utilizing the moon's resources?\nA. There is no life on the moon.\nB. There is an abundance of resources on the moon.\nC. The Moon's resources can help support life.\nD. Resources on earth are becoming depleted.",
+   "choices": [
+    "A and B",
+    "B and C",
+    "C and D",
+    "A and D"
+   ],
+   "answer": 1,
+   "explanation": "Richards offers two arguments in favor of utilizing the moon's resources: (1) \"Water... can also support life and agriculture.\" Thus, distracter C is correct. (2) \"But what we do know is that there could be more platinum-group metals... than all of the reserves of Earth.\" This argument refers to the abundance of resources on the moon, and so distracter B is correct as well. Note that although distracter D seems plausible, it requires us to make an inference such as: Richards argues in favor of utilizing the Moon's resources because resources on Earth are scarce. Since we are supposed to base our answers on the text and the text alone, this distracter is false.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Arcane and beautiful, the Moon has been a source of awe and inspiration to humankind for millennia. Space exploration has long been about reaching far off destinations but now there's a race to exploit new frontiers by mining its minerals. When Neil Armstrong first stepped on the Moon in 1969, it was part of a \"flags and footprints\" strategy to beat the Soviets, a triumph of imagination and innovation, not an attempt to extract precious metals. No-one knew there was water on that dusty, celestial body. What a difference a generation makes.\n\n\"We know that there's water on the Moon, which is a game-changer for the solar system. Water is rocket fuel. It can also support life and agriculture. So exploring the Moon commercially is a first step towards making the Moon part of our world. The most important thing about the Moon is probably the stuff we haven't even discovered. But what we do know is that there could be more platinum-group metals on the surface of the Moon than all of the reserves of Earth. The race is on.\"\nBob Richards, CEO of Silicon Valley-based \"Moon Express\"",
+   "question": "Which one of the following would best replace \"arcane\" while maintaining the meaning of the passage?",
+   "choices": [
+    "Mysterious",
+    "Impressive",
+    "Odd",
+    "Exquisite"
+   ],
+   "answer": 0,
+   "explanation": "The meaning of the word \"arcane\" is obscure and mysterious. If you don't know its meaning, examine carefully the context in which the word appears: \"Arcane and beautiful, the Moon has been a source of awe and inspiration to mankind for millennia.\" It looks like \"arcane\" is a positive adjective, which helps portray the moon as a source of awe and inspiration. This may not help us solve this question with confidence, but it can provide a lead, by eliminating at least one distracter of a negative adjective (distracter C).",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Arcane and beautiful, the Moon has been a source of awe and inspiration to humankind for millennia. Space exploration has long been about reaching far off destinations but now there's a race to exploit new frontiers by mining its minerals. When Neil Armstrong first stepped on the Moon in 1969, it was part of a \"flags and footprints\" strategy to beat the Soviets, a triumph of imagination and innovation, not an attempt to extract precious metals. No-one knew there was water on that dusty, celestial body. What a difference a generation makes.\n\n\"We know that there's water on the Moon, which is a game-changer for the solar system. Water is rocket fuel. It can also support life and agriculture. So exploring the Moon commercially is a first step towards making the Moon part of our world. The most important thing about the Moon is probably the stuff we haven't even discovered. But what we do know is that there could be more platinum-group metals on the surface of the Moon than all of the reserves of Earth. The race is on.\"\nBob Richards, CEO of Silicon Valley-based \"Moon Express\"",
+   "question": "Which one of the following provides the best summary of the common ground between the paragraph and the quote?",
+   "choices": [
+    "Exploring the moon commercially is a controversial issue.",
+    "The moon has become a feasible object of research.",
+    "Finding natural resources such as water on the moon has changed the objective of space exploration.",
+    "The moon is rich in natural resources."
+   ],
+   "answer": 2,
+   "explanation": "When looking for common ground, one should keep in mind two important guidelines: (1) It is not enough to find a sentence that is true for only one paragraph/passage,; the sentence has to be true for both passages. (2) Summarising the main points in both passages is also insufficient since what is true for one passage may not be true for the other. In both cases, the sentence does not describe the common ground between the passages. Distracter A, for example, is untrue in respect to Richards' quote, which is very enthusiastic about exploring the moon. Distracter B is more prominent in Richards' quote than in the first paragraph. D is not true since it is not mentioned in the passage that the moon is rich in resources - only that they are there. Distracter C is the best summary of the common ground because it offers a solid basis of similarity between Richards' quote and the first paragraph. Richards explicitly talks about water as being a game-changer in space exploration (\"We know that there's water on the Moon, which is a game-changer...\"), while the first paragraph offers this same notion but in a more subtle way. The author talks about space exploration in the past as a romantic notion (\"a triumph of imagination and innovation \"), then talks about space exploration in the present in a critical way (\"a race to exploit new frontiers,\" \"an attempt to extract precious metals\") and sums up by adding: \"No-one knew there was water on that dusty, celestial body. What a difference a generation makes.\" From the phrasing of the passage we can assume that the author is connecting finding water on the moon with a change in the objective of space exploration.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Arcane and beautiful, the Moon has been a source of awe and inspiration to humankind for millennia. Space exploration has long been about reaching far off destinations but now there's a race to exploit new frontiers by mining its minerals. When Neil Armstrong first stepped on the Moon in 1969, it was part of a \"flags and footprints\" strategy to beat the Soviets, a triumph of imagination and innovation, not an attempt to extract precious metals. No-one knew there was water on that dusty, celestial body. What a difference a generation makes.\n\n\"We know that there's water on the Moon, which is a game-changer for the solar system. Water is rocket fuel. It can also support life and agriculture. So exploring the Moon commercially is a first step towards making the Moon part of our world. The most important thing about the Moon is probably the stuff we haven't even discovered. But what we do know is that there could be more platinum-group metals on the surface of the Moon than all of the reserves of Earth. The race is on.\"\nBob Richards, CEO of Silicon Valley-based \"Moon Express\"",
+   "question": "Which one of the following most accurately describes the attitude expressed by the author of the first passage toward the overall argument of Bob Richards?",
+   "choices": [
+    "General ambivalence",
+    "Cautious agreement",
+    "Pointed skepticism",
+    "Subtle disapproval"
+   ],
+   "answer": 3,
+   "explanation": "Richards' quote exudes enthusiasm regarding utilizing the Moon's resources for our own benefit. In contrast, the author of the first paragraph seems to have some issues with this approach. Although very subtly, the author does criticize it, insinuating the current approach emphasizes materialistic benefits (\"race to exploit new frontiers by mining its minerals\", \"attempt to extract precious metals\") over an allegedly purer intellectual gain (\"source of awe and inspiration\", \"triumph of imagination and innovation\"). The words \"but [now there's a...]\" and \"not [an attempt...]\" help convey the contrast between the author's opinion and today's more common approach. The author does not doubt Richards' argument, agree with it or is ambivalent toward it, as he does have an opinion. Although the disapproval isn't so explicit in the text, choice D seems to be the correct answer.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Studies have shown that women and men communicate differently. Women listen more, encourage dialogue, and build consensus. Studies have also shown that women lead differently than men. They're more likely to be collaborative, inclusive and team-oriented, all characteristics that tend to be effective, particularly in today's less-hierarchical, fast-paced, innovation-driven world. Owing to these attributes, there is reason to believe that peace agreements are more likely to take root with women operating in key positions.\n\n\"Not so long ago, the idea that women might rule the world seemed slightly outlandish - like something out of science fiction. But that was then. In recent decades, attitudes and ideas have changed - and fast. That's not to say that every corner of the world has welcomed women moving from the traditional and private into the modern and public. But move they have. Business is more profitable. Governments are more representative. Families are stronger, and communities are healthier. There is less violence and more peace, stability and sustainability.\"\nPolitical analyst and former White House press Secretary Dee Dee Myers",
+   "question": "According to Dee Dee Myers, which of the following two aspects have improved as a result of the progress of women?\nA. Community\nB. Internal affairs\nC. Environmental quality\nD. Economy",
+   "choices": [
+    "A,B",
+    "C,D",
+    "B,D",
+    "A,D"
+   ],
+   "answer": 3,
+   "explanation": "Myers mentions the following improvements as a result of the progress of women: \"Business is more profitable. Governments are more representative. Families are stronger, and communities are healthier",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Studies have shown that women and men communicate differently. Women listen more, encourage dialogue, and build consensus. Studies have also shown that women lead differently than men. They're more likely to be collaborative, inclusive and team-oriented, all characteristics that tend to be effective, particularly in today's less-hierarchical, fast-paced, innovation-driven world. Owing to these attributes, there is reason to believe that peace agreements are more likely to take root with women operating in key positions.\n\n\"Not so long ago, the idea that women might rule the world seemed slightly outlandish - like something out of science fiction. But that was then. In recent decades, attitudes and ideas have changed - and fast. That's not to say that every corner of the world has welcomed women moving from the traditional and private into the modern and public. But move they have. Business is more profitable. Governments are more representative. Families are stronger, and communities are healthier. There is less violence and more peace, stability and sustainability.\"\nPolitical analyst and former White House press Secretary Dee Dee Myers",
+   "question": "Which one of the following provides the best summary of the common ground between the paragraph and the quote?",
+   "choices": [
+    "A change in women's social status has allowed positive change.",
+    "Women's differences from men are what allow them to succeed in the world of business.",
+    "Involving women in business and politics is beneficial to society.",
+    "Women's involvement in the business world has increased in the past years."
+   ],
+   "answer": 2,
+   "explanation": "In order to find the common ground between the two passages, it is recommended that you try and summarize each passage on its own, taking into account the author's viewpoint. The first paragraph focuses on the notion that women are different than men in that they are more efficient in today's world and can (perhaps) contribute to peace. The Myers quote focuses on the notion that women have now (compared to the past) moved to more key positions and that this contributes greatly to society. Distracter A is not correct since the first passage doesn't talk about the change in women's status but rather the differences between men and women. This is also the reason distracter B is disqualified (Myers doesn't talk about the differences between men and women). Distracter C seems plausible since both passages present the notion that involving women in world affairs is beneficial. The first passage claims it is because men and women are biologically different, whereas Myers deals with this idea from a more historical stance (comparing now and then). Distracter D is incorrect since its content is only mentioned in the second passage. Therefore, distracter C is the correct answer.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "Studies have shown that women and men communicate differently. Women listen more, encourage dialogue, and build consensus. Studies have also shown that women lead differently than men. They're more likely to be collaborative, inclusive and team-oriented, all characteristics that tend to be effective, particularly in today's less-hierarchical, fast-paced, innovation-driven world. Owing to these attributes, there is reason to believe that peace agreements are more likely to take root with women operating in key positions.\n\n\"Not so long ago, the idea that women might rule the world seemed slightly outlandish - like something out of science fiction. But that was then. In recent decades, attitudes and ideas have changed - and fast. That's not to say that every corner of the world has welcomed women moving from the traditional and private into the modern and public. But move they have. Business is more profitable. Governments are more representative. Families are stronger, and communities are healthier. There is less violence and more peace, stability and sustainability.\"\nPolitical analyst and former White House press Secretary Dee Dee Myers",
+   "question": "Which passage is overtly critical of men?",
+   "choices": [
+    "Dee Dee Myers' quote",
+    "The first paragraph",
+    "Both the paragraph and Dee Dee Myers' quote",
+    "Neither the paragraph nor Dee Dee Myers' quote"
+   ],
+   "answer": 3,
+   "explanation": "Both passages mention the benefits of women in state, business and community affairs, perhaps hinting that women are somewhat better than men, yet either of them criticizes men explicitly. Therefore, the correct answer is D.",
+   "source": "Reading Comprehension — Practice 01",
+   "topic": "Reading Comprehension — Practice 01",
+   "topic_n": 1
+  },
+  {
+   "passage": "WATSON, an IBM supercomputer, spectacularly beat its human rivals in a 2011 edition of \"Jeopardy!\" an American quiz show; and WATSON has gotten even smarter since. WATSON's components have shrunk from room-size to briefcase-size and its processing speed has more than tripled. The sleeker, faster Watson is now being put to commercial use with its first application to suggest treatments in cancer clinics. Many people fear that Watson exemplifies a trend toward the displacement of human workers by machines.\n\n\"Machines are starting to take over routine tasks like repeated number-crunching or the welding of car parts. Displaced human workers are then reassigned to do more improvisational or intuitive work. At airline check-in counters, say, computers are displacing employees from mundane tasks like printing boarding passes. That makes it easier for humans to respond to unexpected problems like cancelled flights. Nonetheless, research claims that just because a skilled job can be automated does not mean it will be. The relative cost of different types of workers matters for firms as they choose how to deploy new technologies.\"\nDavid Autor (MIT)",
+   "question": "In which vocation are you less likely to find a machine replacing a human worker?",
+   "choices": [
+    "Medicine",
+    "Accounting",
+    "Retail",
+    "Metal industry"
+   ],
+   "answer": 2,
+   "explanation": "Machines replacing humans in different vocations is a notion presented in both passages. The first passage mentions that WATSON has been put into use in cancer clinics. This piece of information eliminates distracter A. Autor mentions at the beginning of the second passage that: \"Machines are starting to take over routine tasks like repeated number-crunching or the welding of car parts.\" Number crunching is associated with accounting, eliminating distracter B, while welding of car parts is associated with the metal industry, eliminating distracter D. therefore, the correct answer is distracter C - retail is not mentioned in either of the passages.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "WATSON, an IBM supercomputer, spectacularly beat its human rivals in a 2011 edition of \"Jeopardy!\" an American quiz show; and WATSON has gotten even smarter since. WATSON's components have shrunk from room-size to briefcase-size and its processing speed has more than tripled. The sleeker, faster Watson is now being put to commercial use with its first application to suggest treatments in cancer clinics. Many people fear that Watson exemplifies a trend toward the displacement of human workers by machines.\n\n\"Machines are starting to take over routine tasks like repeated number-crunching or the welding of car parts. Displaced human workers are then reassigned to do more improvisational or intuitive work. At airline check-in counters, say, computers are displacing employees from mundane tasks like printing boarding passes. That makes it easier for humans to respond to unexpected problems like cancelled flights. Nonetheless, research claims that just because a skilled job can be automated does not mean it will be. The relative cost of different types of workers matters for firms as they choose how to deploy new technologies.\"\nDavid Autor (MIT)",
+   "question": "Which one of the following would best replace \"mundane\" while maintaining the meaning of the passage?",
+   "choices": [
+    "predictable",
+    "temporal",
+    "dull",
+    "simple"
+   ],
+   "answer": 2,
+   "explanation": "The meaning of \"mundane\" is \"lacking interest or excitement,\" or \"dull.\" It is possible to eliminate some of the possible answers by understanding the meaning of the word from its context. Autor mentions that \"machines are starting to take over routine tasks,\" allowing human workers to be reassigned to do \"more improvisational or intuitive work.\" By comparing the type of work machines are assigned to do with the work humans are given we can deduce that the type of tasks machines do is neither intuitive nor creative; rather it is either dull or predictable routine.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "WATSON, an IBM supercomputer, spectacularly beat its human rivals in a 2011 edition of \"Jeopardy!\" an American quiz show; and WATSON has gotten even smarter since. WATSON's components have shrunk from room-size to briefcase-size and its processing speed has more than tripled. The sleeker, faster Watson is now being put to commercial use with its first application to suggest treatments in cancer clinics. Many people fear that Watson exemplifies a trend toward the displacement of human workers by machines.\n\n\"Machines are starting to take over routine tasks like repeated number-crunching or the welding of car parts. Displaced human workers are then reassigned to do more improvisational or intuitive work. At airline check-in counters, say, computers are displacing employees from mundane tasks like printing boarding passes. That makes it easier for humans to respond to unexpected problems like cancelled flights. Nonetheless, research claims that just because a skilled job can be automated does not mean it will be. The relative cost of different types of workers matters for firms as they choose how to deploy new technologies.\"\nDavid Autor (MIT)",
+   "question": "Which one of the following provides the best summary of the common ground between the paragraph and the quote?",
+   "choices": [
+    "Technology has made it possible for machines to replace human workers.",
+    "Machines can replace human workers in simple tasks.",
+    "Human employees are at risk of losing their jobs.",
+    "Machines have lately been put into commercial use."
+   ],
+   "answer": 0,
+   "explanation": "When looking for common ground, sometimes it helps to use the distracters as an anchor and work through them by eliminating options. Distracter A seems like a possible answer since both passages touch upon the subject of technological developments as the reason for the involvement of machines in the vocational world. Distracter B also seems like an option at first glance but further inspection reveals that the first passage does not talk about the nature of the tasks that are being taking over by machines. Thus, distracter B is eliminated. Distracter C is also incorrect since Autor claims the exact opposite. Distracter D is incorrect because while both passages discuss the use of machines in commercial use, they do not say it only happened in the recent year. Consequently, we are left with distracter A as the correct answer.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "WATSON, an IBM supercomputer, spectacularly beat its human rivals in a 2011 edition of \"Jeopardy!\" an American quiz show; and WATSON has gotten even smarter since. WATSON's components have shrunk from room-size to briefcase-size and its processing speed has more than tripled. The sleeker, faster Watson is now being put to commercial use with its first application to suggest treatments in cancer clinics. Many people fear that Watson exemplifies a trend toward the displacement of human workers by machines.\n\n\"Machines are starting to take over routine tasks like repeated number-crunching or the welding of car parts. Displaced human workers are then reassigned to do more improvisational or intuitive work. At airline check-in counters, say, computers are displacing employees from mundane tasks like printing boarding passes. That makes it easier for humans to respond to unexpected problems like cancelled flights. Nonetheless, research claims that just because a skilled job can be automated does not mean it will be. The relative cost of different types of workers matters for firms as they choose how to deploy new technologies.\"\nDavid Autor (MIT)",
+   "question": "Which one of the following best describes the relationship between the two passages?",
+   "choices": [
+    "The first passage downplays the severity of the claim made in the second passage.",
+    "The second passage alleviates a concern expressed in the first passage.",
+    "The first passage presents a specific case and the second passage makes a generalized statement.",
+    "The second passage develops the main issue presented in the first passage"
+   ],
+   "answer": 1,
+   "explanation": "The first passage presents a certain phenomenon: machines, such has WATSON, have become smarter and are now being incorporated into the vocational world. The passage ends with a concern: \"Many people fear that Watson exemplifies a trend toward the displacement of human workers by machines.\" Autor's quote deals with the subject of machines being incorporated into the vocational world, emphasizing that humans will not necessarily be dismissed from their jobs. In other words, Autor alleviates the concern expressed at the end of the first passage. Thus, the correct answer is B.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "To survive and thrive in an era of the digital onslaught of e-books, bookstores of the future should celebrate the book in all its forms: rare, second-hand, digital, self-printed and so on. Digital and hybrid readers should have the option of buying e-books in-store, and novice authors should have access to self-printing book machines. The latter idea has been slower to take off in Britain, but in America bookstores are finding it to be an important source of revenue.\n\nIn response to the growing number of self-published authors seeking shelf space, US bookstores have established programs enabling them to sell their books. The programs clearly define their requirements and streamline the consignment process. Profitable programs range from a no-questions-asked spot in a store's consignment section to an elaborate, tiered event option, including signings, readings, and publicity.",
+   "question": "What is an important source of income for bookstores in the US?",
+   "choices": [
+    "Self-published books",
+    "Printing machines",
+    "Second-hand books",
+    "Consignment agreements"
+   ],
+   "answer": 0,
+   "explanation": "The first passage states that: \"... in America bookstores are finding it to be an important source of revenue.\" The word \"it\" refers to the second part of the previous sentence: \"... and budding authors should have access to self-printing book machines.\" So, the important source of revenue talked about is authors who are given access to self-printing book machines - distracter A. \"Printing machines\" is not the correct answer since they alone are not a source of revenue; they serve as a means to promote authors to self-publish their book.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "To survive and thrive in an era of the digital onslaught of e-books, bookstores of the future should celebrate the book in all its forms: rare, second-hand, digital, self-printed and so on. Digital and hybrid readers should have the option of buying e-books in-store, and novice authors should have access to self-printing book machines. The latter idea has been slower to take off in Britain, but in America bookstores are finding it to be an important source of revenue.\n\nIn response to the growing number of self-published authors seeking shelf space, US bookstores have established programs enabling them to sell their books. The programs clearly define their requirements and streamline the consignment process. Profitable programs range from a no-questions-asked spot in a store's consignment section to an elaborate, tiered event option, including signings, readings, and publicity.",
+   "question": "Which one of the following would best replace \"novice\" while maintaining the meaning of the passage?",
+   "choices": [
+    "promising",
+    "self-published",
+    "prospering",
+    "beginner"
+   ],
+   "answer": 3,
+   "explanation": "The meaning of the word \"novice\" is \"a person who has just started learning or doing something.\" In the context of the passage it may be replaced with the word \"beginner.\"",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "To survive and thrive in an era of the digital onslaught of e-books, bookstores of the future should celebrate the book in all its forms: rare, second-hand, digital, self-printed and so on. Digital and hybrid readers should have the option of buying e-books in-store, and novice authors should have access to self-printing book machines. The latter idea has been slower to take off in Britain, but in America bookstores are finding it to be an important source of revenue.\n\nIn response to the growing number of self-published authors seeking shelf space, US bookstores have established programs enabling them to sell their books. The programs clearly define their requirements and streamline the consignment process. Profitable programs range from a no-questions-asked spot in a store's consignment section to an elaborate, tiered event option, including signings, readings, and publicity.",
+   "question": "On the basis of the two passages, which one of the following statements is not accurate?",
+   "choices": [
+    "Passage B suggests a practical way of fighting the battle against e-books.",
+    "Passage A elaborates on the recommended ways bookstores should be dealing with e-book competition.",
+    "Passage B elaborates on the way bookstores are dealing with the growing number of self-published authors.",
+    "Passage A recommends celebrating the book in all its forms"
+   ],
+   "answer": 0,
+   "explanation": "Looking at the distracters, we may realize that we are required to understand the main points of each passage as well as the differences or similarities between them. The focus of the first passage is recommended methods of surviving the competition with e-books - distracter B is therefore correct. Distracter D also appears in the first passage and so it is also a correct distracter. The second passage deals with the successful way in which the US is dealing with the growing number of self-published authors (note that the focus of the second passage is not fighting the battle against e-books) - distracter C is also correct and so we are left with distracter A.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "To survive and thrive in an era of the digital onslaught of e-books, bookstores of the future should celebrate the book in all its forms: rare, second-hand, digital, self-printed and so on. Digital and hybrid readers should have the option of buying e-books in-store, and novice authors should have access to self-printing book machines. The latter idea has been slower to take off in Britain, but in America bookstores are finding it to be an important source of revenue.\n\nIn response to the growing number of self-published authors seeking shelf space, US bookstores have established programs enabling them to sell their books. The programs clearly define their requirements and streamline the consignment process. Profitable programs range from a no-questions-asked spot in a store's consignment section to an elaborate, tiered event option, including signings, readings, and publicity.",
+   "question": "Which one of the following provides the best summary of the common ground between the two paragraphs?",
+   "choices": [
+    "In the US, bookstores enable self-published authors to sell their books.",
+    "It is imperative to help authors publish their books, in an era of e-book monopoly.",
+    "The two paragraphs have no common ground.",
+    "Bookstores in the UK are less supportive of self-publishing than the US."
+   ],
+   "answer": 0,
+   "explanation": "One should pay attention to the question: \"Which one of the following provides the best summary...\" the wording of the question offers the possibility that more than one answer may seem correct, yet our job is to find the answer that refers to the most central common ground between both passages. Closer inspection of the distracters shows us that: (1) Distracter B is an exaggeration of the notion that self-published authors should be helped (use of the word \"imperative\"). Moreover, the second passage doesn't concern itself with the e-book monopoly; rather it deals with the growing number of self-published authors. (2) Distracter D describes a notion offered in the first paragraph, yet not mentioned in the second paragraph. The correct answer is A - both passages mention that in the US, bookstores enable self-published authors to sell their books.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Work related relocation is not a matter of levity. The decision whether to relocate involves a complex set of variables, mostly of a financial nature. Pay is one of the most important ones. Undoubtedly, the new salary should allow maintenance of the lifestyle the candidate is used to in their current location. It is also advisable to compare the cost of living and real estate prices in the candidate's current city with those of the new one. Beyond housing costs, one should include the price of groceries, restaurant meals and petrol.\n\nWhen considering a work- related relocation, the growth of the candidate's career should be thoughtfully considered. If the new position offers a noteworthy professional promotion, it can be the right long-term move, counter-weighing a possible pay cut or higher cost of living.",
+   "question": "According to the first paragraph, in which case should a candidate clearly refuse work-related relocation?",
+   "choices": [
+    "When the cost of living is higher than the candidate's current city.",
+    "When the price of groceries and gasoline is higher than the candidate's current city.",
+    "When the candidate is not able to maintain his previous lifestyle.",
+    "When the job offer doesn't involve career growth."
+   ],
+   "answer": 2,
+   "explanation": "Distracters A, B and C all appear in some sort of form in the passage, while distracter D may easily be eliminated as it is connected to the second passage. The key sentence to resolving this question is: \"Undoubtedly, the new salary should allow maintenance of the lifestyle the candidate is used to in their current location.\" An understanding of this sentence will allow us to realize that neither a higher cost of living nor the price of gasoline is a reason to refuse a work-related relocation. Cost of living and gasoline prices should be assessed in relation to the new salary. Despite a higher cost of living or higher prices, if the pay is high enough, the candidate can maintain their previous lifestyle, and that is the main point of this passage. Therefore, the correct answer is C.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Work related relocation is not a matter of levity. The decision whether to relocate involves a complex set of variables, mostly of a financial nature. Pay is one of the most important ones. Undoubtedly, the new salary should allow maintenance of the lifestyle the candidate is used to in their current location. It is also advisable to compare the cost of living and real estate prices in the candidate's current city with those of the new one. Beyond housing costs, one should include the price of groceries, restaurant meals and petrol.\n\nWhen considering a work- related relocation, the growth of the candidate's career should be thoughtfully considered. If the new position offers a noteworthy professional promotion, it can be the right long-term move, counter-weighing a possible pay cut or higher cost of living.",
+   "question": "Which one of the following would best replace \"levity\" while maintaining the meaning of the passage?",
+   "choices": [
+    "frivolity",
+    "inconsistency",
+    "inappropriateness",
+    "joke"
+   ],
+   "answer": 0,
+   "explanation": "The meaning of the word \"levity\" is \"lightness of manner\"; therefore the correct answer is A. Distracters C and D don't integrate well in the sentence while distracter B is out of context.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Work related relocation is not a matter of levity. The decision whether to relocate involves a complex set of variables, mostly of a financial nature. Pay is one of the most important ones. Undoubtedly, the new salary should allow maintenance of the lifestyle the candidate is used to in their current location. It is also advisable to compare the cost of living and real estate prices in the candidate's current city with those of the new one. Beyond housing costs, one should include the price of groceries, restaurant meals and petrol.\n\nWhen considering a work- related relocation, the growth of the candidate's career should be thoughtfully considered. If the new position offers a noteworthy professional promotion, it can be the right long-term move, counter-weighing a possible pay cut or higher cost of living.",
+   "question": "Which one of the following provides the best summary of the common ground between the two paragraphs?",
+   "choices": [
+    "The two paragraphs have no common ground.",
+    "Costs of living in the new location should be inspected.",
+    "Pay is a central factor one should consider when offered relocation.",
+    "Work related relocation is something to be considered seriously."
+   ],
+   "answer": 3,
+   "explanation": "When looking for common ground, one should keep in mind that it is not enough to find a sentence that is true for only one passage; the sentence has to be true for both passages. Distracter A states that the paragraphs have nothing in common. It is recommended that you first go over the remaining distracters before marking this one as correct. Remember that even though you might not detect any common ground between the two passages, the distracters may help you see otherwise. Distracter B is related to a notion offered in the first paragraph only and is therefore eliminated. Distracter C states that pay is a central factor when considering relocation. This is the main idea expressed in the first passage; however the second passage deals mostly with the promotion factor while acknowledging that pay is a factor (not necessarily a central factor) to consider as well. Since the word \"central\" appears in distracter C it is no longer true in relation to the second passage and therefore distracter C is eliminated. Distracter D is the correct answer since both passages state that: (1) Work related relocation is not a matter of levity, and (2) When considering a work-related relocation, the growth of the candidate's career should be thoughtfully considered.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Work related relocation is not a matter of levity. The decision whether to relocate involves a complex set of variables, mostly of a financial nature. Pay is one of the most important ones. Undoubtedly, the new salary should allow maintenance of the lifestyle the candidate is used to in their current location. It is also advisable to compare the cost of living and real estate prices in the candidate's current city with those of the new one. Beyond housing costs, one should include the price of groceries, restaurant meals and petrol.\n\nWhen considering a work- related relocation, the growth of the candidate's career should be thoughtfully considered. If the new position offers a noteworthy professional promotion, it can be the right long-term move, counter-weighing a possible pay cut or higher cost of living.",
+   "question": "Which one of the following best describes the relationship between the two passages?",
+   "choices": [
+    "The first passage strengthens the claim made in the second passage.",
+    "The second passage weakens the claim made in the first passage.",
+    "The first passage weakens the claim made in the second passage.",
+    "The second passage strengthens the claim made in the first passage."
+   ],
+   "answer": 1,
+   "explanation": "In order to decide which claim strengthens/weakens the other claim, it is advisable to recognize the claim made in each passage regarding the subject of work-related relocation. Passage 1: Pay is the most important aspect to consider Passage 2: Professional promotion is an aspect to thoughtfully consider. It can reduce the importance of pay (\"counter-weighing a possible pay cut\").\nOne can therefore say that the second paragraph weakens the claim made by the first paragraph, since it argues that pay is not always the most important aspect to consider; so, distracter B is the correct answer.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Directive 77/486 obliges the member states to provide mother tongue teaching for minority students in the grade schools - with the provision that \"minority languages\" as a term refers to the national languages of EU citizens, but with the controversial, not binding, addition that this right could be extended to other minorities.\n\nIt seems that a Swedish initiative taken while Sweden was the chair of the EU had the purpose of automatically extending the directive. However, perhaps as a consequence of a government change in Sweden, it may have become an effort to abrogate the extending of the directive.",
+   "question": "According to Directive 77/486-",
+   "choices": [
+    "Member states will have their language taught in schools.",
+    "Spanish must be taught in German schools.",
+    "There must be integration between all foreign students.",
+    "Facilities to learn foreign languages will be provided to all member states' schools."
+   ],
+   "answer": 0,
+   "explanation": "The first paragraph deals with introducing the directive: (1)\"Directive 77/486 obligates the member states to provide mother tongue teaching for minority students in the grade schools\" (2) \"with the provision that \"minority languages, as a term, refers to the national languages of EU citizens.\" Namely, the directive requires member states to provide mother tongue language teaching, but excludes languages that aren't regarded as national languages of EU citizens. Consequently, the correct answer is (A).\nThe directive requires member states to provide mother tongue language teaching for all children, including immigrants, but excludes languages that aren't regarded as national languages of EU citizens. Consequently, we can deduce that the mother language –the official language– of each state, should be taught in its schools.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Directive 77/486 obliges the member states to provide mother tongue teaching for minority students in the grade schools - with the provision that \"minority languages\" as a term refers to the national languages of EU citizens, but with the controversial, not binding, addition that this right could be extended to other minorities.\n\nIt seems that a Swedish initiative taken while Sweden was the chair of the EU had the purpose of automatically extending the directive. However, perhaps as a consequence of a government change in Sweden, it may have become an effort to abrogate the extending of the directive.",
+   "question": "Which one of the following provides the best summary of the common ground between both quotes?",
+   "choices": [
+    "The directive received ambivalent responses among member states.",
+    "Member states prefer not to extend the directive to include other minorities.",
+    "The two paragraphs have no common ground.",
+    "Extending the directive to other minorities is debatable."
+   ],
+   "answer": 3,
+   "explanation": "When looking for common ground, sometimes it is easier to use the distracters as an anchor and work through the elimination of options. Distracter A sounds accurate yet is tricky: although we can assert that the second passage is in agreement with this claim since it describes Sweden's response as ambivalent (changing its decision regarding the extension of the directive), we have no objective information in the first passage regarding the responses of other member states. All we know is that the author offers an opinion that the extension of the directive is \"controversial,\" but this is insufficient information to deduce the stands of other state members. Therefore distracter A does not offer a summary of common ground between the two passages. Distracter B deals with the preference of state members not to extend the directive. Although the second passage does mention that Sweden decided not to extend the directive in the end, the first passage offers no information in regard to this subject. Distracter C is best dealt with last (after viewing all other distracters) and so we are left with distracter D. Distracter D claims that extending the directive is a debatable matter. Note that as opposed to distracter A, this time the distracter does not elaborate on the identity of the holder of this debatable stand. The first passage relates to this claim by stating that the extension is \"controversial.\" The second passage also relates to this matter by describing the hesitations that the Swedish government was having regarding extension of the directive. Consequently, we can disregard distracter C as D is the correct answer.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Directive 77/486 obliges the member states to provide mother tongue teaching for minority students in the grade schools - with the provision that \"minority languages\" as a term refers to the national languages of EU citizens, but with the controversial, not binding, addition that this right could be extended to other minorities.\n\nIt seems that a Swedish initiative taken while Sweden was the chair of the EU had the purpose of automatically extending the directive. However, perhaps as a consequence of a government change in Sweden, it may have become an effort to abrogate the extending of the directive.",
+   "question": "Which one of the following would best replace \"abrogate\" while maintaining the meaning of the passage?",
+   "choices": [
+    "expand",
+    "approve",
+    "destroy",
+    "revoke"
+   ],
+   "answer": 3,
+   "explanation": "The word \"abrogate\" has many meanings, however, in the context of this text its meaning is \"cancel\" or \"revoke.\" The context of the word may help us understand its meaning without prior knowledge. The sentence in which the word appears is: \"It seems that a Swedish initiative... had the purpose of automatically extending the directive, However...it may have become an effort to abrogate the extending of the directive.\" To simplify the sentence: Sweden wanted to expand the directive, however then the government changed in the country and this decision was discontinued. Distracter C (destroy) has a similar negative meaning, but it is not appropriate when dealing with directives. Therefore the correct answer is D.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Directive 77/486 obliges the member states to provide mother tongue teaching for minority students in the grade schools - with the provision that \"minority languages\" as a term refers to the national languages of EU citizens, but with the controversial, not binding, addition that this right could be extended to other minorities.\n\nIt seems that a Swedish initiative taken while Sweden was the chair of the EU had the purpose of automatically extending the directive. However, perhaps as a consequence of a government change in Sweden, it may have become an effort to abrogate the extending of the directive.",
+   "question": "Which one of the following best describes the relationship between the two passages?",
+   "choices": [
+    "The first passage introduces a topic; the second passage offers further insight into that topic.",
+    "The first passage introduces a topic; the second passage opposes that topic.",
+    "The first passage describes a historical development; the second passage elaborates on the subject.",
+    "The first passage describes a historical development; the second passage describes its implications."
+   ],
+   "answer": 0,
+   "explanation": "The first passage introduces a topic: the directive – its main content and controversial extension, while not elaborating on the controversial element of the directive (what happens when a member state decides to extend the directive?). The second passage deals with one member state's decision to extend this directive. It does not target the directive itself; rather it expresses further developments regarding extension of the directive in a certain country. Thus, the second paragraph offers further insight into the extension of the directive.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Employees working within organisations have a legislative obligation to monitor the content of e-mails sent to external bodies and to eliminate potentially sensitive internal information regardless of the perceived importance of that information. To guarantee that employees fulfil their legislative obligation and to prevent the possible leak of exclusive information, employers have prepared mandatory contracts stipulating this responsibility, to be signed by all employees, and additionally, inserted a copyright section to every external e-mail that emphasises the confidentiality of the information provided. Employees' carelessness in handling information circulated via email may result in serious punitive action.",
+   "question": "Which statement does not follow from the passage?",
+   "choices": [
+    "Supervisors should monitor employees' e-mails.",
+    "Leakage of information may result in punishment.",
+    "Employees are obligated to information confidentiality."
+   ],
+   "answer": 0,
+   "explanation": "In order to answer this question, we must go over each statement and decide whether it follows from the passage or not. Statement A- according to the text: 'employees .... have (an) ... obligation to monitor the content of e-mails...' Nowhere in the text does it say that this is part of the supervisors' role. Therefore, this statement does not follow from the passage. Statement B- according to the text: 'employees' carelessness in handling information circulated via email may result in serious punitive action.' In other words, leakage of information will result in punishment and so statement B is correct. Statement C- according to the text: 'employees working within organisations have a legislative obligation to monitor the content of e-mails... and to eliminate potentially sensitive internal information.' Thus, statement C is also correct.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Employees working within organisations have a legislative obligation to monitor the content of e-mails sent to external bodies and to eliminate potentially sensitive internal information regardless of the perceived importance of that information. To guarantee that employees fulfil their legislative obligation and to prevent the possible leak of exclusive information, employers have prepared mandatory contracts stipulating this responsibility, to be signed by all employees, and additionally, inserted a copyright section to every external e-mail that emphasises the confidentiality of the information provided. Employees' carelessness in handling information circulated via email may result in serious punitive action.",
+   "question": "Which one of the following would best replace 'stipulating' while maintaining the meaning of the passage?",
+   "choices": [
+    "agreeing",
+    "specifying",
+    "promising",
+    "pledging"
+   ],
+   "answer": 1,
+   "explanation": "The word 'to stipulate' means 'to specify', often as a condition of an agreement. In the context, the word is used to express that the contracts prepared by employers specify the responsibility employees have to monitor their e-mails and prevent leakage of classified information. All three remaining distracters don't correspond with the meaning of the sentence.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Employees working within organisations have a legislative obligation to monitor the content of e-mails sent to external bodies and to eliminate potentially sensitive internal information regardless of the perceived importance of that information. To guarantee that employees fulfil their legislative obligation and to prevent the possible leak of exclusive information, employers have prepared mandatory contracts stipulating this responsibility, to be signed by all employees, and additionally, inserted a copyright section to every external e-mail that emphasises the confidentiality of the information provided. Employees' carelessness in handling information circulated via email may result in serious punitive action.",
+   "question": "What is the legislative obligation of an employee working in an organization?",
+   "choices": [
+    "Sign a contract stipulating his responsibilities.",
+    "Prevent leakage of sensitive information.",
+    "Refrain from sending personal e-mails.",
+    "Accept punitive action when necessary."
+   ],
+   "answer": 1,
+   "explanation": "'Legislative obligation' is used in the passage to express the requirement to monitor e-mail content in order to prevent sensitive information from leaking outside of the organization: 'employees working within organizations have a legislative obligation to monitor the content of e-mails... and to eliminate potentially sensitive internal information.' Signing a contract (distracter A) and accepting punitive measures (distracter D) are consequences of enforcing this legislative obligation on employees. Distracter C does not represent the essence of the meaning of 'legislative obligation' in the text, as it does not specify the type of e-mails which are to be monitored; rather it refers to certain content (sensitive information).",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Employees working within organisations have a legislative obligation to monitor the content of e-mails sent to external bodies and to eliminate potentially sensitive internal information regardless of the perceived importance of that information. To guarantee that employees fulfil their legislative obligation and to prevent the possible leak of exclusive information, employers have prepared mandatory contracts stipulating this responsibility, to be signed by all employees, and additionally, inserted a copyright section to every external e-mail that emphasises the confidentiality of the information provided. Employees' carelessness in handling information circulated via email may result in serious punitive action.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Employee discretion policies are invaluable to an organization.",
+    "Employees are obligated to monitor e-mails.",
+    "Legislative obligations should be reinforced.",
+    "Leakage of exclusive information is detrimental to employers."
+   ],
+   "answer": 1,
+   "explanation": "All four distracters appear in the passage or follow from it. The task is to clarify which distracter expresses the essence of the passage. It is usually helpful to examine the first sentence of the passage as well as identify recurring themes throughout it. The passage begins with: 'employees working within organizations have a legislative obligation to monitor the content of e-mails...' The passage continues by conveying the importance of fulfilling this legislative obligation by elaborating on ways to guarantee employees' compliance. Although one can deduce that the reason legislative obligations should be enforced is because of their importance to organizations, it is not explicitly mentioned in the text and so distracters A and D are eliminated. As for the two remaining distracters, although both are salient in the passage, the message conveyed is that 'employees should monitor their e-mails' (distracter B) rather than 'legislative obligations should be reinforced' (distracter C), since the passage specifically focuses on monitoring e-mail content.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Alternative fuels such as biofuels, natural gas or electricity have been pitched as a way to overcome the US's dependence on oil; no less than 94% of transport uses it, of which 84.3% is imported. Alternative fuels might also be the solution to reducing the negative impact of transport on the environment but they are being held back by low consumer demand caused by high prices and a lack of recharging and refueling stations, which in turn deter consumers from buying green cars. The Department of Transportation believes that support is needed if vehicles running on these alternative fuels are to take off. Therefore, it is proposing a package of binding targets on states for a minimum level of infrastructure for clean fuels, arguing that infrastructure needs to be in place to give consumers the confidence to buy non-fossil fuel powered vehicles.",
+   "question": "Which of the following would be the most likely outcome if the DOT's proposal is implemented?",
+   "choices": [
+    "Oil imports will decrease significantly",
+    "Alternative fuel prices will decline",
+    "Consumer demands will rise"
+   ],
+   "answer": 2,
+   "explanation": "The passage states that alternative fuels 'are being held back by low consumer demand caused by...a lack of recharging and refueling stations.' The DOT suggests that states should be obligated to provide a minimum level of infrastructure in order to 'give consumers the confidence to buy non-fossil fuel powered vehicles.' Thus, if the cause for low consumer demands is removed (infrastructure is strengthened), then the likely result is a rise in consumer demands. Answer option A isn't the most likely consequence because we cannot assert that oil imports will be reduces significantly. As for answer option B, we have no information in the passage regarding the connection between the lack of infrastructure and fuel costs. Therefore it is not a likely outcome of infrastructure improvements.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Alternative fuels such as biofuels, natural gas or electricity have been pitched as a way to overcome the US's dependence on oil; no less than 94% of transport uses it, of which 84.3% is imported. Alternative fuels might also be the solution to reducing the negative impact of transport on the environment but they are being held back by low consumer demand caused by high prices and a lack of recharging and refueling stations, which in turn deter consumers from buying green cars. The Department of Transportation believes that support is needed if vehicles running on these alternative fuels are to take off. Therefore, it is proposing a package of binding targets on states for a minimum level of infrastructure for clean fuels, arguing that infrastructure needs to be in place to give consumers the confidence to buy non-fossil fuel powered vehicles.",
+   "question": "Because of low consumer demand, there is a shortage of recharging and refuelling stations.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 1,
+   "explanation": "The statement above is derived from the sentence: 'alternative fuels...are being held back by low consumer demand caused by high prices and a lack of recharging and refuelling stations.' In other words, high prices and lack of recharging and refuelling stations are the cause of low consumer demand, not the other way round.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Alternative fuels such as biofuels, natural gas or electricity have been pitched as a way to overcome the US's dependence on oil; no less than 94% of transport uses it, of which 84.3% is imported. Alternative fuels might also be the solution to reducing the negative impact of transport on the environment but they are being held back by low consumer demand caused by high prices and a lack of recharging and refueling stations, which in turn deter consumers from buying green cars. The Department of Transportation believes that support is needed if vehicles running on these alternative fuels are to take off. Therefore, it is proposing a package of binding targets on states for a minimum level of infrastructure for clean fuels, arguing that infrastructure needs to be in place to give consumers the confidence to buy non-fossil fuel powered vehicles.",
+   "question": "What are one or more possible benefits of using alternative fuels?\nA.Reduce biofuel dependency\nB.Reduce transportation costs\nC.Reduce negative environmental effects\nD.Reduce the use of oil",
+   "choices": [
+    "A,D",
+    "A,B",
+    "C",
+    "C,D"
+   ],
+   "answer": 3,
+   "explanation": "The question deals with the benefits of using alternative fuels, described at the beginning of the passage: (1) 'Alternative fuels...have been pitched as a way to overcome Europe's dependence on oil; no less than 94% of transport uses it, of which 84.3% is imported.' In addition: (2) 'alternative fuels might also be the solution to reducing the negative impact of transport on the environment.' The first part of the sentence deals with Europe's dependency on oil and oil imports. Accordingly, distracter D is correct since reducing oil dependency is mentioned in the sentence as a benefit of using alternative fuels. The second part of the sentence is pretty straightforward in its meaning- alternative fuels are offered as a solution to the negative impact of transport on the environment. Therefore, distracter C is correct. Distracter A isn't correct since biofuels are alternative fuels, and the passage deals with increasing their usage. Distracter B isn't correct because the opposite is true- alternative fuels currently cost more than oil, providing one of the reasons for low consumer demand for them.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Alternative fuels such as biofuels, natural gas or electricity have been pitched as a way to overcome the US's dependence on oil; no less than 94% of transport uses it, of which 84.3% is imported. Alternative fuels might also be the solution to reducing the negative impact of transport on the environment but they are being held back by low consumer demand caused by high prices and a lack of recharging and refueling stations, which in turn deter consumers from buying green cars. The Department of Transportation believes that support is needed if vehicles running on these alternative fuels are to take off. Therefore, it is proposing a package of binding targets on states for a minimum level of infrastructure for clean fuels, arguing that infrastructure needs to be in place to give consumers the confidence to buy non-fossil fuel powered vehicles.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Reducing the US's dependence on oil is important.",
+    "Alternative fuels are the best solution to reducing environmental damage caused by oil usage.",
+    "Infrastructure is essential to encourage consumers to buy green cars.",
+    "Transport has a negative impact on the environment."
+   ],
+   "answer": 2,
+   "explanation": "When summarizing a passage it is useful to scan it in order to study the structure of the text, which usually contains the main point/message. The first sentence in the passage introduces us to alternative fuels and their benefits. The passage then goes on to describe the shortcomings of these fuels and concludes with some recommendations that will encourage the use of these fuels. Distracters A and D offer some important facts that were detailed in the passage but are not the main issue dealt with in the passage, as we can see from its structure. Distracters B and C both seem to deal with central issues presented in the passage. However, upon closer examination of distracter B it is clear that this distracter goes beyond just summarizing the passage and actually offers a piece of information that is not evident in the passage itself (by determining that alternative fuels are \"the best solution\"). Therefore, we are left with distracter C, which encompasses one of the main points of the passage - the popularity of alternative fuels is contingent upon provision of a suitable infrastructure.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "The dramatic increase in the number of nursing students in tertiary education institutes indicates a definite boost in the number of expected graduates in a couple of years, which is in direct contrast to the shrinking trend that characterized the previous decade. The problematic issue of job placement following graduation is expected to get worse over the following years as job demand exceeds supply. Hospitals, the main employer for nursing graduates, will need to become creative in the way they absorb the new recruits to ensure proper experience is gained whilst providing opportunities for most graduates.",
+   "question": "Current graduates have no difficulty finding a nursing job.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 1,
+   "explanation": "According to the text: 'The problematic issue of job placement following graduation is expected to get worse' - meaning job appointments are expected to be harder to come by even more so than the current market situation. In other words, graduates today also find it difficult to get a nursing job.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "The dramatic increase in the number of nursing students in tertiary education institutes indicates a definite boost in the number of expected graduates in a couple of years, which is in direct contrast to the shrinking trend that characterized the previous decade. The problematic issue of job placement following graduation is expected to get worse over the following years as job demand exceeds supply. Hospitals, the main employer for nursing graduates, will need to become creative in the way they absorb the new recruits to ensure proper experience is gained whilst providing opportunities for most graduates.",
+   "question": "Which statement does not follow from the passage?",
+   "choices": [
+    "Hospitals are creative in finding solutions for the high demand.",
+    "Ten years ago there was a decrease in the number of nursing graduates.",
+    "Job placement will become harder."
+   ],
+   "answer": 0,
+   "explanation": "In order to answer this question, we must go over each statement and decide whether it follows from the passage or not.\nStatement A- the passage states that 'hospitals...will need to become creative in the way they absorb the new recruits', yet it does not state that hospitals are currently creative in finding solutions for the high demand. Therefore, statement A does not follow from the passage and is the correct answer.\nStatement B- the passage states that the current boost in the number of expected graduates is in direct contrast to the shrinking trend that characterised the previous decade. Thus, we can conclude that a decade ago there was a decrease in the number of nursing students and so the statement follows from the passage.\nStatement C- the passage states that over the next few years the problematic issue of job placement following graduation is expected to get worse. The number of graduates will increase while the number of job openings will not - job placement will become harder. This means that statement C too follows from the passage.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "The dramatic increase in the number of nursing students in tertiary education institutes indicates a definite boost in the number of expected graduates in a couple of years, which is in direct contrast to the shrinking trend that characterized the previous decade. The problematic issue of job placement following graduation is expected to get worse over the following years as job demand exceeds supply. Hospitals, the main employer for nursing graduates, will need to become creative in the way they absorb the new recruits to ensure proper experience is gained whilst providing opportunities for most graduates.",
+   "question": "Which of the following statements is considered to be 'the problematic issue' mentioned in the passage?",
+   "choices": [
+    "Too many nursing students",
+    "Too few nursing students in the past",
+    "Lack of job opportunities",
+    "Insufficient hospital recruits"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n'The problematic issue' mentioned in the text is that of 'job placement following graduation', which is expected to get worse as there are too many nursing students and not enough work opportunities.\n(A) cannot be correct as it is not clear that there are too many students for the available positions – there could be too many for the population, for example. (B) is not accurate since the text doesn't say there weren't enough students in the past. (D) does not describe the actual problem, which is that there will be too many nursing graduates and too few jobs in hospitals. That leaves us with the correct answer, (C).",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "The dramatic increase in the number of nursing students in tertiary education institutes indicates a definite boost in the number of expected graduates in a couple of years, which is in direct contrast to the shrinking trend that characterized the previous decade. The problematic issue of job placement following graduation is expected to get worse over the following years as job demand exceeds supply. Hospitals, the main employer for nursing graduates, will need to become creative in the way they absorb the new recruits to ensure proper experience is gained whilst providing opportunities for most graduates.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Job placement for nurses is expected to be problematic.",
+    "A dramatic rise in numbers of nursing students has been observed.",
+    "There is a contradictory trend in nursing schools today.",
+    "Hospitals will need to absorb new recruits creatively."
+   ],
+   "answer": 0,
+   "explanation": "The passage focuses on a future, emerging trend: In the next two years there will be a greater amount of nursing school graduates looking for jobs; this will create a problem due to the lack of job opportunities for nurses. The only distracter targeting this trend is distracter A, which is the correct answer. Distracters B, C and D all describe different aspects of this emerging trend but fail to describe the trend itself.",
+   "source": "Reading Comprehension — Practice 02",
+   "topic": "Reading Comprehension — Practice 02",
+   "topic_n": 2
+  },
+  {
+   "passage": "Settling a dispute over something you bought can often seem like a David vs. Goliath battle minus the sling. Legal action might be just a minor inconvenience to multinationals, but small traders or ordinary customers often find it a lengthy and costly process. Nowadays there are other expedient options such as the alternative dispute resolution system. The purpose of this system is to find a solution outside court by using a third party, such as a mediator, to negotiate between consumers and traders.\n\nDuring the conciliation process, both you and the supplier will be asked to give written details of the complaint, including any evidence, and the conciliator will give an opinion on the best solution. Any decision is not binding and won't prevent you from taking court action. If you disagree with the opinion offered, you can then proceed to the arbitration stage or consider suing in court.",
+   "question": "Joshua took part in a conciliation process. This most likely means that he is...",
+   "choices": [
+    "At the end stage of a negotiation process",
+    "Pursuing charges against a supplier",
+    "Involved in a dispute with a supplier",
+    "Prevented from taking court action"
+   ],
+   "answer": 2,
+   "explanation": "Part two describes a conciliation process. We may choose to create a simple diagram that illustrates the sequence of events that occur before, during and after a conciliation process has taken place: dispute between you and a supplier → conciliation (you provide evidence and the conciliator offers solution) → If you disagree then you proceed to either legal action or arbitration. After examining the diagram, we can exclude distracter A as the correct answer- conciliation is not necessarily the end stage of a negotiation process. Distracter B is also incorrect since pursuing charges against the supplier is a possible result at the end of a conciliation process but is not part of the conciliation process itself. Distracter D is also incorrect since Joshua is not prevented from taking court action. The correct answer is: Joshua is involved in a dispute with a supplier.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Settling a dispute over something you bought can often seem like a David vs. Goliath battle minus the sling. Legal action might be just a minor inconvenience to multinationals, but small traders or ordinary customers often find it a lengthy and costly process. Nowadays there are other expedient options such as the alternative dispute resolution system. The purpose of this system is to find a solution outside court by using a third party, such as a mediator, to negotiate between consumers and traders.\n\nDuring the conciliation process, both you and the supplier will be asked to give written details of the complaint, including any evidence, and the conciliator will give an opinion on the best solution. Any decision is not binding and won't prevent you from taking court action. If you disagree with the opinion offered, you can then proceed to the arbitration stage or consider suing in court.",
+   "question": "Which one of the following would best replace 'expedient' while maintaining the meaning of the passage?",
+   "choices": [
+    "positive",
+    "suitable",
+    "timesaving",
+    "clever"
+   ],
+   "answer": 1,
+   "explanation": "The meaning of the word 'expedient' is 'fit or suitable for the purpose'. The word appears in the context of presenting alternative dispute resolutions as an expedient substitute for legal action, despite its disadvantages. The most fitting meaning in this context is 'suitable'.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Settling a dispute over something you bought can often seem like a David vs. Goliath battle minus the sling. Legal action might be just a minor inconvenience to multinationals, but small traders or ordinary customers often find it a lengthy and costly process. Nowadays there are other expedient options such as the alternative dispute resolution system. The purpose of this system is to find a solution outside court by using a third party, such as a mediator, to negotiate between consumers and traders.\n\nDuring the conciliation process, both you and the supplier will be asked to give written details of the complaint, including any evidence, and the conciliator will give an opinion on the best solution. Any decision is not binding and won't prevent you from taking court action. If you disagree with the opinion offered, you can then proceed to the arbitration stage or consider suing in court.",
+   "question": "Why is it probably advisable to use a third party when settling a dispute?",
+   "choices": [
+    "The decision is not binding.",
+    "The process is shorter than a legal process.",
+    "You can stop the process whenever you like.",
+    "A third party is more lenient towards the customer."
+   ],
+   "answer": 1,
+   "explanation": "Using a third party to settle a dispute is mentioned in the passage as a form of 'alternative dispute resolution'. This system is offered as an alternative because legal action is described as lengthy and costly. Therefore, we can deduce from the text that the process of alternative dispute resolution is shorter than the legal process (distracter B). Distracters A and C are incorrect since they apply to the conciliation process and we have insufficient information to deduce their true value for other stages of the process. Distracter D is not mentioned in the text and therefore is also excluded.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Settling a dispute over something you bought can often seem like a David vs. Goliath battle minus the sling. Legal action might be just a minor inconvenience to multinationals, but small traders or ordinary customers often find it a lengthy and costly process. Nowadays there are other expedient options such as the alternative dispute resolution system. The purpose of this system is to find a solution outside court by using a third party, such as a mediator, to negotiate between consumers and traders.\n\nDuring the conciliation process, both you and the supplier will be asked to give written details of the complaint, including any evidence, and the conciliator will give an opinion on the best solution. Any decision is not binding and won't prevent you from taking court action. If you disagree with the opinion offered, you can then proceed to the arbitration stage or consider suing in court.",
+   "question": "Which one of the following best describes the relationship between the two passages?",
+   "choices": [
+    "The first paragraph describes a problem and the second paragraph describes a possible solution.",
+    "The second paragraph describes a problem and the first paragraph describes a possible solution.",
+    "The first paragraph describes a system and the second paragraph describes one of its stages.",
+    "The second paragraph describes a system and the first paragraph describes one of its stages."
+   ],
+   "answer": 2,
+   "explanation": "Part two describes a conciliation process and from the passage we come to understand that it is part of a more general process of settling a dispute. This information alone excludes distracters B and D since part 2 doesn't describe a problem or a system. We can now focus on distracter A and C and the way in which they relate to the first paragraph. Distracter A claims that the first paragraph describes a problem while distracter C states that the first paragraph describes a system. A brief look at part 1 tells us that it does, in fact, describe a system: 'Nowadays there are other options such as the alternative dispute resolution system. The purpose of this system is to find a solution outside court by using a third party, such as a mediator, to negotiate between consumers and traders'. Thus, the correct answer is C.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Admired university lecturers that benefit from a good reputation among students tend to concentrate on core subjects and have a carefully planned and an inflexible developmental trajectory while their teaching methods and class requirements continuously adapt to contemporary themes. Distinguished lecturers differentiate between invulnerable resources and ephemeral themes. They blend topical substances into their long established course material but will never eliminate a focal topic due to low current relevance. Having both the experience to concentrate on the essence and the motivation to stimulate students is what make these lecturers successful.",
+   "question": "A good lecturer should not differentiate between the students' developmental trajectory and class requirements.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 1,
+   "explanation": "This statement makes logical sense, but is not supported by the text. The text stipulates that a good lecturer should have 'an inflexible developmental trajectory', and 'class requirements (that) are continuously adapted to contemporary themes'. That is, the text suggests that a good lecturer differentiates between the students' developmental trajectory and class requirements.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Admired university lecturers that benefit from a good reputation among students tend to concentrate on core subjects and have a carefully planned and an inflexible developmental trajectory while their teaching methods and class requirements continuously adapt to contemporary themes. Distinguished lecturers differentiate between invulnerable resources and ephemeral themes. They blend topical substances into their long established course material but will never eliminate a focal topic due to low current relevance. Having both the experience to concentrate on the essence and the motivation to stimulate students is what make these lecturers successful.",
+   "question": "Which of the following contradicts the content of the passage?",
+   "choices": [
+    "Some lecturers are appreciated by their students.",
+    "Admired lecturers have predetermined course materials.",
+    "Reputable lecturers incorporate current themes in their classes."
+   ],
+   "answer": 1,
+   "explanation": "In order to answer this question it is recommended to examine each distracter individually in order to decide whether it adheres to the passage or contradicts it. Statement A- adheres to the passage as the passage focuses on university lecturers 'that benefit from a good reputation amongst students'. Therefore, we can conclude that some lecturers are admired by their students. Statement B- the passage describes admired lecturers as lecturers that 'blend topical substances into their long established course material'. In other words, they have a degree of inflexibility in their course materials but they do tend to incorporate contemporary themes into their pre-planned course materials. Thus, statement B contradicts the passage. Statement C adheres to the passage as a direct result of the contradictive nature of statement B.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Admired university lecturers that benefit from a good reputation among students tend to concentrate on core subjects and have a carefully planned and an inflexible developmental trajectory while their teaching methods and class requirements continuously adapt to contemporary themes. Distinguished lecturers differentiate between invulnerable resources and ephemeral themes. They blend topical substances into their long established course material but will never eliminate a focal topic due to low current relevance. Having both the experience to concentrate on the essence and the motivation to stimulate students is what make these lecturers successful.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Good lecturers have many traits.",
+    "Good lecturers have a good sense of differentiation.",
+    "Good lecturers are organized yet adaptable.",
+    "Good lecturers have great experience and motivation."
+   ],
+   "answer": 2,
+   "explanation": "The paragraph focuses noticeably on the features of a good lecturer and it is our job to identify the main one/s the author emphasizes in the text. Distracter A is too general, providing very little information about the features of a good lecturer and is therefore eliminated. Distracter D, although providing information given in the text ('Having both the experience to concentrate on the essence and the motivation to stimulate students') focuses on information given solely at the very end of the paragraph, suggesting that perhaps it is an aspect of secondary importance to the subject. In order to choose between distracters B and C, let us try to understand the message of the text: 'Admired university lecturers...have a carefully planned and an inflexible developmental trajectory while their teaching methods and class requirements continuously adapt to contemporary themes... Distinguished lecturers differentiate between invulnerable resources and ephemeral themes'. It seems as though a good lecturer has to be organized and adaptable (distracter C). Although distracter B sounds correct, and even appears in the text, it is not as accurate as distracter C since it is quite general and fails to convey the main idea of the text.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Admired university lecturers that benefit from a good reputation among students tend to concentrate on core subjects and have a carefully planned and an inflexible developmental trajectory while their teaching methods and class requirements continuously adapt to contemporary themes. Distinguished lecturers differentiate between invulnerable resources and ephemeral themes. They blend topical substances into their long established course material but will never eliminate a focal topic due to low current relevance. Having both the experience to concentrate on the essence and the motivation to stimulate students is what make these lecturers successful.",
+   "question": "What is not necessarily a feature of a good lecturer?",
+   "choices": [
+    "concentration",
+    "motivation",
+    "adaptation"
+   ],
+   "answer": 0,
+   "explanation": "Although all the distracters appear in the text, it is important to examine the context in which they appear in order to select the correct answer: Distracter A: 'experience to concentrate on the essence'- concentration appears in this context in a narrow sense (concentrating on the essence), which is different from the wider sense of having 'complete attention'. It is an associative distracter and therefore the correct answer (meaning it is NOT a feature of a good lecturer). Distracter B: 'motivation to stimulate students'- motivation appears in this context in its broad meaning of 'desire to do something', 'interest' or 'drive', and therefore it is a feature of a good lecturer. Distracter C: '...their teaching methods and class requirements continuously adapt to contemporary themes' - a good lecturer needs the ability to adapt in order to incorporate current themes in pre-planned course materials and so adaptation is a feature of a good lecturer.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Companies wishing to increase their growth rate occasionally employed the method of franchising, which provides a new owner with a permit to use their business identity and in return they purchase products exclusively from the company. Today, however, most companies aim to minimize use of this method and often prefer expansion of the companies' own branches. Companies that have previously used franchising have learned the necessity of monitoring the business operation of the franchised branch. Inadequate attention to the monitoring of franchisees on the part of the companies was typically the cause of sundry problems. Difficulties arose from franchisees and companies disagreeing on business policies such as customer care, service delivery efficiency and quality of human interaction.",
+   "question": "Companies are now more aware of the need to monitor franchisees.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage describes a shift from using franchising as a method of company growth to preferring the expansion of the companies' own branches. The reason given for this change in preference is: 'companies who have previously used franchising have learnt the necessity of monitoring the business operation of the franchised branch'. Namely, companies are now more aware of the need to monitor franchisees.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Companies wishing to increase their growth rate occasionally employed the method of franchising, which provides a new owner with a permit to use their business identity and in return they purchase products exclusively from the company. Today, however, most companies aim to minimize use of this method and often prefer expansion of the companies' own branches. Companies that have previously used franchising have learned the necessity of monitoring the business operation of the franchised branch. Inadequate attention to the monitoring of franchisees on the part of the companies was typically the cause of sundry problems. Difficulties arose from franchisees and companies disagreeing on business policies such as customer care, service delivery efficiency and quality of human interaction.",
+   "question": "Which one statement follows from the passage?",
+   "choices": [
+    "The problem with franchising is lack of monitoring.",
+    "In the past, companies used only franchising as a method of expansion.",
+    "Companies today generally avoid franchising."
+   ],
+   "answer": 2,
+   "explanation": "In order to answer this question, we must go over each statement and decide whether it follows from the passage or not. Statement A - according to the passage, the problem with franchising was 'Inadequate attention to the monitoring', not necessarily lack of it. Therefore, statement A is incorrect. Statement B - the passage states that 'companies wishing to increase their growth rate occasionally employed the method of franchising', so we cannot conclude that franchising was the only expansion method used in the past. Statement C - according to the passage, companies in the past used franchising; 'However, today most companies aim to minimise use of this method'. In other words, companies today generally avoid franchising. Statement C is correct.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Companies wishing to increase their growth rate occasionally employed the method of franchising, which provides a new owner with a permit to use their business identity and in return they purchase products exclusively from the company. Today, however, most companies aim to minimize use of this method and often prefer expansion of the companies' own branches. Companies that have previously used franchising have learned the necessity of monitoring the business operation of the franchised branch. Inadequate attention to the monitoring of franchisees on the part of the companies was typically the cause of sundry problems. Difficulties arose from franchisees and companies disagreeing on business policies such as customer care, service delivery efficiency and quality of human interaction.",
+   "question": "Which one of the following reflects a problem related to lack of monitoring?",
+   "choices": [
+    "Deterioration in the quality of products",
+    "Poor customer service",
+    "Supply exceeding demand",
+    "Lack of delivery services"
+   ],
+   "answer": 1,
+   "explanation": "Problems related to lack of monitoring are elaborated at the end of the passage: 'Difficulties arose from franchisees and companies disagreeing on business policies such as customer care, service delivery efficiency and quality of human interaction'. Three problem areas are described in this sentence concerning disagreement over business policies: (1) customer service (2) service delivery efficiency (3) quality of human interaction. Two distracters correspond to one of these three problem areas- distracter B and D; however, distracter D describes a lack of delivery services whereas the passage only states a problem with delivery efficiency and so distracter D is eliminated.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Companies wishing to increase their growth rate occasionally employed the method of franchising, which provides a new owner with a permit to use their business identity and in return they purchase products exclusively from the company. Today, however, most companies aim to minimize use of this method and often prefer expansion of the companies' own branches. Companies that have previously used franchising have learned the necessity of monitoring the business operation of the franchised branch. Inadequate attention to the monitoring of franchisees on the part of the companies was typically the cause of sundry problems. Difficulties arose from franchisees and companies disagreeing on business policies such as customer care, service delivery efficiency and quality of human interaction.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Companies today aim to minimize the use of franchising.",
+    "Franchising has many problems.",
+    "Franchising is no longer considered a method of expansion.",
+    "Disagreement on policies is the downfall of franchising."
+   ],
+   "answer": 0,
+   "explanation": "When summarising a passage, it is important to identify all the main aspects in order to choose the best summary of the text. We can do that by summarising the text in points (this seems like a time-consuming task at first, but with practice you may find it to be an efficient way of dealing with questions of this sort): (1) In the past companies used franchising but now they are minimising the use of it (trend). (2) The reason for this trend (abandoning the use of franchising) is lack of monitoring. Now let us examine the distracters: Distracter B is too general, failing to provide a good summary of the main points of the passage. Distracter C is not true- franchising is still considered a method of expansion; however, companies prefer to minimize its use. Distracter D describes the reason franchising is no longer a popular method of expansion but fails to acknowledge another important aspect presented in the text (the ongoing trend today). Distracter A only describes the ongoing trend, neglecting to mention the reason for it. So, between distracters D and A, both targeting one but not both points emphasized in the text, which one provides a better summary? Although both points are important, one is slightly more relevant than the other and since no other option is available, we have to decide which point is of more significance in the text. Since the text introduces a trend and only then goes on to explain the reasons underlying it, the more important point is the emerging trend itself. Therefore, the correct answer is A.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Major websites have developed a new—and legal—technique to track users' online activities, known as a 'supercookie', a powerful device capable of re-creating user profiles even after people delete the regular cookies and which is impossible for computer users to detect. While many companies have been criticized for selling private data online, some sites that use supercookies said supercookie tracking was inadvertent and they would cease using it. Some websites, which were notified that they had been using supercookies, announced Wednesday they would immediately investigate the technique. Knowing Web-browsing history can provide advertisers with information about people's interests, locations and finances, Parliament has debated ways to protect consumer privacy.",
+   "question": "There are certain privacy laws that protect online activities of users.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The answer is Cannot say.\nWe know that supercookies are legal, and we also know that Parliament has debated ways to protect consumer privacy. However, we cannot infer that there are any specific rules that restrict the use of information tracking technologies, nor rules that protect online user activities.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Major websites have developed a new—and legal—technique to track users' online activities, known as a 'supercookie', a powerful device capable of re-creating user profiles even after people delete the regular cookies and which is impossible for computer users to detect. While many companies have been criticized for selling private data online, some sites that use supercookies said supercookie tracking was inadvertent and they would cease using it. Some websites, which were notified that they had been using supercookies, announced Wednesday they would immediately investigate the technique. Knowing Web-browsing history can provide advertisers with information about people's interests, locations and finances, Parliament has debated ways to protect consumer privacy.",
+   "question": "Why are 'supercookies' supposedly so widespread?",
+   "choices": [
+    "They are hard to detect.",
+    "They are a powerful device.",
+    "They provide useful information.",
+    "They provide private information."
+   ],
+   "answer": 0,
+   "explanation": "Although not explicitly mentioned in the text, we are asked to use information given in it in order to supply a solid reason for the widespread use of 'supercookies'. All distracters present a feature of 'supercookies': distracters C and D explain why 'supercookies' are being used at all (the passage describes them as a 'technique to track users' online activities'). Distracter B presents another prominent feature of 'supercookies', yet it does not offer an explanation as to why 'supercookies' are so widespread. Distracter A, however, offers a sound explanation - 'supercookies' are widespread because they are hard to detect. Moreover, the passage states that 'some sites that use supercookies said supercookie tracking was inadvertent', meaning that some sites use 'supercookies' without even knowing it, contributing to their extensive use.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Major websites have developed a new—and legal—technique to track users' online activities, known as a 'supercookie', a powerful device capable of re-creating user profiles even after people delete the regular cookies and which is impossible for computer users to detect. While many companies have been criticized for selling private data online, some sites that use supercookies said supercookie tracking was inadvertent and they would cease using it. Some websites, which were notified that they had been using supercookies, announced Wednesday they would immediately investigate the technique. Knowing Web-browsing history can provide advertisers with information about people's interests, locations and finances, Parliament has debated ways to protect consumer privacy.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "The use of 'supercookies' is a violation of privacy.",
+    "'Supercookies' recreate user profiles and are impossible to detect.",
+    "'Supercookies' have been targeted by the Parliament.",
+    "'Supercookies' have been criticised for providing private data."
+   ],
+   "answer": 3,
+   "explanation": "The main message of the text can be summarised in points: (1) There is a new legal technique to track online activity (called supercookies). (2) Companies have been criticised for using it. (3) Parliament is trying to prevent violation of customer privacy.\nExamining the distracters we can detect that distracters A and C focus on one aspect described in the text (3), yet neglect to incorporate further important aspects. Distracter B describes how supercookies operate, targeting an insignificant aspect in the passage. Distracter D incorporates all 3 main points: (1) there is a new technique called supercookies (2) it has been criticised (3) it violates costumer privacy by providing private data.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Major websites have developed a new—and legal—technique to track users' online activities, known as a 'supercookie', a powerful device capable of re-creating user profiles even after people delete the regular cookies and which is impossible for computer users to detect. While many companies have been criticized for selling private data online, some sites that use supercookies said supercookie tracking was inadvertent and they would cease using it. Some websites, which were notified that they had been using supercookies, announced Wednesday they would immediately investigate the technique. Knowing Web-browsing history can provide advertisers with information about people's interests, locations and finances, Parliament has debated ways to protect consumer privacy.",
+   "question": "Which one of the following would best replace 'inadvertent' while maintaining the meaning of the passage?",
+   "choices": [
+    "misguided",
+    "deliberate",
+    "random",
+    "unintentional"
+   ],
+   "answer": 3,
+   "explanation": "The meaning of the word 'inadvertent' is 'unintentional'. A hint to the meaning of this word can be found in its context: 'While many companies have been criticized for selling private data online, some sites that use supercookies said supercookie tracking was inadvertent and they would cease using it'. This is a contrast sentence - some companies did X while other did not. In other words, although some companies have knowingly utilized supercookies to make a profit (by selling private information), other companies did not use supercookies deliberately. Therefore, the correct answer is D.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Science reporters today work within an evolving science media ecosystem that is more pluralistic, participatory and social. It is mostly an online environment that has challenged the historically dominant and exceptional role of science reporters as privileged conveyors of specialist information to general audiences. Compared to a decade ago, this occupational group, driven by economic imperatives and technological changes, is performing a wider plurality of roles, including those of curator, convener, and public, intellectual and civic educator, in addition to more traditional journalistic roles. Online science journalists have a more collaborative relationship with their audiences and sources and are generally adopting a more critical and interpretative stance towards the scientific community, industry, and policy-oriented organizations.",
+   "question": "Today's consumer of science-related news tends to take a more active stance than in the past.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The gist of the passage is that the roles of both science reporters and consumers have changed since news has gone online. While the passage describes the new reality from the perspective of the science reporter, words like 'more pluralistic, participatory and social' convey that while science reporters report the news, the audience responds, and so on. The consumer is more active.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Science reporters today work within an evolving science media ecosystem that is more pluralistic, participatory and social. It is mostly an online environment that has challenged the historically dominant and exceptional role of science reporters as privileged conveyors of specialist information to general audiences. Compared to a decade ago, this occupational group, driven by economic imperatives and technological changes, is performing a wider plurality of roles, including those of curator, convener, and public, intellectual and civic educator, in addition to more traditional journalistic roles. Online science journalists have a more collaborative relationship with their audiences and sources and are generally adopting a more critical and interpretative stance towards the scientific community, industry, and policy-oriented organizations.",
+   "question": "Which one of the following sentences corresponds with the emerging trend in the journalistic world described in the last sentence?\nThe answer options are examples of journalistic quotes about gold.",
+   "choices": [
+    "'An ounce of gold costs $1031.51'.",
+    "'Gold is a dense, soft and overly-priced metal'.",
+    "'Gold has traditionally been considered attractive'.",
+    "'Today, gold mining output is declining'."
+   ],
+   "answer": 1,
+   "explanation": "The passage elaborates on a new emerging trend in the journalistic world, namely that: 'Online science journalists (today)... are generally adopting a more critical and interpretative stance towards the scientific community'. Distracter B is the only distracter that offers a subjective critical statement regarding gold by stating that it is 'overly-priced'. Other distracters merely offer an objective description of different aspects of gold.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Science reporters today work within an evolving science media ecosystem that is more pluralistic, participatory and social. It is mostly an online environment that has challenged the historically dominant and exceptional role of science reporters as privileged conveyors of specialist information to general audiences. Compared to a decade ago, this occupational group, driven by economic imperatives and technological changes, is performing a wider plurality of roles, including those of curator, convener, and public, intellectual and civic educator, in addition to more traditional journalistic roles. Online science journalists have a more collaborative relationship with their audiences and sources and are generally adopting a more critical and interpretative stance towards the scientific community, industry, and policy-oriented organizations.",
+   "question": "The job of a 'curator' is most commonly related to:",
+   "choices": [
+    "Museums",
+    "Politics",
+    "Schools",
+    "The police"
+   ],
+   "answer": 0,
+   "explanation": "The meaning of 'curator' is a 'caretaker of collection' or 'conservator', commonly used in the context of museums.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "Science reporters today work within an evolving science media ecosystem that is more pluralistic, participatory and social. It is mostly an online environment that has challenged the historically dominant and exceptional role of science reporters as privileged conveyors of specialist information to general audiences. Compared to a decade ago, this occupational group, driven by economic imperatives and technological changes, is performing a wider plurality of roles, including those of curator, convener, and public, intellectual and civic educator, in addition to more traditional journalistic roles. Online science journalists have a more collaborative relationship with their audiences and sources and are generally adopting a more critical and interpretative stance towards the scientific community, industry, and policy-oriented organizations.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "Reporters today are more critical.",
+    "Technology has contributed to a more pluralistic environment.",
+    "Online media has changed traditional journalistic roles.",
+    "There is a reciprocal relationship between journalists and their audience."
+   ],
+   "answer": 2,
+   "explanation": "The passage describes a development in the journalistic world. Sometimes an examination of the structure of the passage allows us to identify the main points more easily. First, the passage presents the trend: 'Science reporters today work within an evolving science media ecosystem'. Then it goes on to describe the reason for this new development: 'It is mostly an online environment that has challenged the historically dominant and exceptional role of science reporters', concluding with a characteristic of this new development: 'Compared to a decade ago, this occupational group... is performing a wider plurality of roles...'. So, the passage focuses on a new trend in the journalistic world and provides a reason for its emergence. Distracters A and D focus only on the change itself, without providing the reason for it, while distracters B and C focus both on the trend and the reason underlying it. However, between these two distracters, distracter B is more general, mentioning 'technology' as the reason and 'pluralistic environment' as the consequence, while distracter C remains more faithful to the text, stating 'online media' as the reason and 'change in traditional journalist roles' as the consequence.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "A growing body of research suggests that the regular, high-level use of more than one language may actually improve early brain development. According to several different studies, command of two or more languages aggrandizes the ability to focus in the face of distraction, decide between competing alternatives, and disregard irrelevant information. These essential skills are grouped together, known in brain terms as 'executive function' and research suggests they develop ahead of time in bilingual children. While no one has yet identified the exact mechanism by which bilingualism boosts brain development, the advantage likely stems from the bilingual's need to continually select the right language for a given situation.",
+   "question": "The research suggests that 'executive function' increases with the number of languages mastered.",
+   "choices": [
+    "True on the basis of the passage",
+    "False on the basis of the passage",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The passage mentions differences expected in 'executive functions' of the brain between children who have command of a single language and children who have mastered more than one. However, it cannot be inferred that this effect continues as the number of languages continues to grow. For instance, it is not clear whether the difference in executive functions is also present between children who have command of two languages and children who have command of more than two languages.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "A growing body of research suggests that the regular, high-level use of more than one language may actually improve early brain development. According to several different studies, command of two or more languages aggrandizes the ability to focus in the face of distraction, decide between competing alternatives, and disregard irrelevant information. These essential skills are grouped together, known in brain terms as 'executive function' and research suggests they develop ahead of time in bilingual children. While no one has yet identified the exact mechanism by which bilingualism boosts brain development, the advantage likely stems from the bilingual's need to continually select the right language for a given situation.",
+   "question": "Which of the following is most accurate based on the passage?",
+   "choices": [
+    "Language contributes to brain development.",
+    "Bilinguals have difficulties selecting the right language.",
+    "\"Executive functions\" develop earlier in bilingual children."
+   ],
+   "answer": 2,
+   "explanation": "In order to answer this question, we must go over each statement and decide whether (1) it follows from the passage (2) it is accurate. Statement A - the passage does link improvement in brain development and the acquisition of language, so the statement does follow from the passage. However, the passage more specifically links improvement in 'executive functions' with command of two or more languages. Consequently, statement A might not necessarily be the most accurate answer and it is advisable to go over the remaining distracters before making a decision. Statement B - does not follow from the passage, as the passage states that bilinguals 'need to continually select the right language', however, it doesn't state that they have difficulties doing so. Statement C - does follow from the passage and is more accurate than statement A, therefore it is the correct answer.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "A growing body of research suggests that the regular, high-level use of more than one language may actually improve early brain development. According to several different studies, command of two or more languages aggrandizes the ability to focus in the face of distraction, decide between competing alternatives, and disregard irrelevant information. These essential skills are grouped together, known in brain terms as 'executive function' and research suggests they develop ahead of time in bilingual children. While no one has yet identified the exact mechanism by which bilingualism boosts brain development, the advantage likely stems from the bilingual's need to continually select the right language for a given situation.",
+   "question": "What is not an example of an 'executive function'?",
+   "choices": [
+    "Lydia calculated the expected yearly revenue of her store with ease.",
+    "Marvin can easily summarize a complex text.",
+    "Alan weighed his different options before choosing to study Agriculture.",
+    "Despite the fire alarm going off in the midst of taking her test, Maria got an A."
+   ],
+   "answer": 0,
+   "explanation": "'Executive functions', as presented in the passage are: the ability to focus in the face of distraction, decide between competing alternatives, and disregard irrelevant information. After identifying the 'executive functions', we are left to translate the distracters into the corresponding abilities: The ability to summarize a complex text (distracter B) is a practical translation of the ability to disregard irrelevant information. The ability to weigh in different options before making a decision (distracter C) corresponds with the ability to decide between competing alternatives. The ability to continue concentrating during an exam despite background noise accords with the ability to focus in the face of distraction. Distracter A does not correspond with any of the three 'executive functions' mentioned in the text and is therefore the correct answer.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "A growing body of research suggests that the regular, high-level use of more than one language may actually improve early brain development. According to several different studies, command of two or more languages aggrandizes the ability to focus in the face of distraction, decide between competing alternatives, and disregard irrelevant information. These essential skills are grouped together, known in brain terms as 'executive function' and research suggests they develop ahead of time in bilingual children. While no one has yet identified the exact mechanism by which bilingualism boosts brain development, the advantage likely stems from the bilingual's need to continually select the right language for a given situation.",
+   "question": "Which one of the following provides the best summary of the main point of the passage?",
+   "choices": [
+    "It is recommended to know more than one language.",
+    "Bilingualism has significant advantages.",
+    "Alan weighed his different options before choosing to study Agriculture.",
+    "Bilingualism contributes to the development of 'executive functions'."
+   ],
+   "answer": 3,
+   "explanation": "The passage introduces two main themes: bilingualism and 'executive functions', emphasizing how the two are connected. The only distracter that offers an insight into this connection is D. All three remaining distracters focus either on bilingualism or 'executive functions', failing to acknowledge the essence of the passage.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "For the past six months, the National Union of Teachers (NUT) has been engaged in action short of striking in protest over workloads, working hours, pay and pensions. They have refused to supervise children in the playground or attend some meetings after school. Teachers have recently called for the time they spend teaching pupils to be capped at 20 hours a week, a drastic reduction in teachers' hours. In the annual NUT conference, teachers have claimed that in the past year, the number of hours they work has risen dramatically as a result of pressure from the government and the school inspectorate.\n\n'Teachers undermine the respect of the general public by behaving as an old-fashioned trade union and making unrealistic demands. Clearly, teaching depends on good preparation and arduous marking of pupils' work and there needs to be an allowance of time for that, but to attempt to limit the number of teaching hours when there is a great strain on finances is a ridiculous request'.\nSpokesman for the Centre for Education and Employment Research (CEER)",
+   "question": "According to the NUT -",
+   "choices": [
+    "Teachers undermine the respect of the general public.",
+    "Teachers have been engaged in action just short of striking.",
+    "In the past year, the number of work hours has risen dramatically.",
+    "Teachers should refuse to supervise children in the playground."
+   ],
+   "answer": 2,
+   "explanation": "The question deals with the NUT's stand regarding the issue described in the passage. In other words, the question presents the teachers' stand, at the end of the first passage: 'In the annual NUT conference teachers have claimed that in the past year, the number of hours they work has risen dramatically...'. Therefore, the correct answer is C. Distracter A isn't correct since it presents the opinion displayed in the second passage by CEER spokesman. Distracter B isn't correct since it describes objectively the teachers' actions, thus not providing a stand. Distracter D is a combination of an action that took place by the teachers (refusing to supervise children in the playground) and a recommendation that is not mentioned in the text ('should').",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "For the past six months, the National Union of Teachers (NUT) has been engaged in action short of striking in protest over workloads, working hours, pay and pensions. They have refused to supervise children in the playground or attend some meetings after school. Teachers have recently called for the time they spend teaching pupils to be capped at 20 hours a week, a drastic reduction in teachers' hours. In the annual NUT conference, teachers have claimed that in the past year, the number of hours they work has risen dramatically as a result of pressure from the government and the school inspectorate.\n\n'Teachers undermine the respect of the general public by behaving as an old-fashioned trade union and making unrealistic demands. Clearly, teaching depends on good preparation and arduous marking of pupils' work and there needs to be an allowance of time for that, but to attempt to limit the number of teaching hours when there is a great strain on finances is a ridiculous request'.\nSpokesman for the Centre for Education and Employment Research (CEER)",
+   "question": "Which one of the following would best replace 'arduous' while maintaining the meaning of the passage?",
+   "choices": [
+    "brutal",
+    "indifferent",
+    "gruelling",
+    "comprehensive"
+   ],
+   "answer": 2,
+   "explanation": "The meaning of the word 'arduous' is 'requiring great exertion', 'laborious', 'difficult'. Utilizing the context in which the word appears: 'Clearly, teaching depends on good preparation and arduous marking of pupils' work and there needs to be an allowance of time for that', one can notice that distracters A and B do not fit the meaning of the sentence, leaving us to deliberate between two instead of four distracters.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "For the past six months, the National Union of Teachers (NUT) has been engaged in action short of striking in protest over workloads, working hours, pay and pensions. They have refused to supervise children in the playground or attend some meetings after school. Teachers have recently called for the time they spend teaching pupils to be capped at 20 hours a week, a drastic reduction in teachers' hours. In the annual NUT conference, teachers have claimed that in the past year, the number of hours they work has risen dramatically as a result of pressure from the government and the school inspectorate.\n\n'Teachers undermine the respect of the general public by behaving as an old-fashioned trade union and making unrealistic demands. Clearly, teaching depends on good preparation and arduous marking of pupils' work and there needs to be an allowance of time for that, but to attempt to limit the number of teaching hours when there is a great strain on finances is a ridiculous request'.\nSpokesman for the Centre for Education and Employment Research (CEER)",
+   "question": "Which one of the following provides the best summary of the common ground between both quotes?",
+   "choices": [
+    "Teaching depends on good preparation.",
+    "Teachers are attempting to limit the number of teaching hours.",
+    "Teachers are pressured by the government to work more hours.",
+    "Teachers are protesting over workloads."
+   ],
+   "answer": 1,
+   "explanation": "When looking for common ground, one should keep in mind that it is not enough to find a sentence that is true for one paragraph/passage but untrue for the other, or that is true for one passage but not mentioned in the other (although it might be inferred). In neither case would the sentence describe the common ground between the passages. Our task is to find a sentence that represents an idea existing in both passages. Distracter A, for example, is true in respect to the CEER spokesman, but the notion is not mentioned in the first paragraph, although it can perhaps be inferred from it. Distracters C and D are both mentioned in the first paragraph but not in the quotation of the CEER spokesman. Distracter B is the correct answer since the idea that 'Teachers are attempting to limit the number of teaching hours' appears both in the first passage: 'Teachers have recently called for the time they spend teaching pupils to be capped at 20 hours a week', as well as in the second passage: 'but to attempt to limit the number of teaching hours... is a ridiculous request'.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  },
+  {
+   "passage": "For the past six months, the National Union of Teachers (NUT) has been engaged in action short of striking in protest over workloads, working hours, pay and pensions. They have refused to supervise children in the playground or attend some meetings after school. Teachers have recently called for the time they spend teaching pupils to be capped at 20 hours a week, a drastic reduction in teachers' hours. In the annual NUT conference, teachers have claimed that in the past year, the number of hours they work has risen dramatically as a result of pressure from the government and the school inspectorate.\n\n'Teachers undermine the respect of the general public by behaving as an old-fashioned trade union and making unrealistic demands. Clearly, teaching depends on good preparation and arduous marking of pupils' work and there needs to be an allowance of time for that, but to attempt to limit the number of teaching hours when there is a great strain on finances is a ridiculous request'.\nSpokesman for the Centre for Education and Employment Research (CEER)",
+   "question": "Which one of the following most accurately describes the attitude expressed by the CEER spokesman toward the teachers' demands?",
+   "choices": [
+    "Ambivalence",
+    "Misunderstanding",
+    "Skepticism",
+    "Contempt"
+   ],
+   "answer": 3,
+   "explanation": "The CEER spokesman uses quite a few negative adjectives and descriptions when referring to the teachers' demands: 'Teachers undermine the respect of the general public by behaving as an old-fashioned trade union and making unrealistic demands... to attempt to limit the number of teaching hours when there is a great strain on finances is a ridiculous request'. It can be inferred from the spokesman's words that his attitude towards the teachers' demands is neither ambivalent nor skeptical; nor does it lack understanding. It is downright negative; therefore the correct answer is 'contempt'.",
+   "source": "Reading Comprehension — Practice 03",
+   "topic": "Reading Comprehension — Practice 03",
+   "topic_n": 3
+  }
+ ]
+}
