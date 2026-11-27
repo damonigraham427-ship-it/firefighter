@@ -170,6 +170,15 @@
    "chapter": "Spatial Shapes",
    "pie": true,
    "draw": 20
+  },
+  {
+   "file": "ff-3d-solids.json",
+   "title": "3D Solids",
+   "note": "134 questions",
+   "category": "Firefighter",
+   "chapter": "Spatial Shapes",
+   "pie": true,
+   "draw": 20
   }
  ]
 }
