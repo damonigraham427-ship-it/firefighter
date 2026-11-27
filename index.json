@@ -125,6 +125,42 @@
    "chapter": "Scenes & Tools",
    "pie": true,
    "draw": 20
+  },
+  {
+   "file": "ff-itg-a.json",
+   "title": "Tables & Graphs — Sets 1–2",
+   "note": "64 questions",
+   "category": "Firefighter",
+   "chapter": "Tables and Numeracy",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-itg-b.json",
+   "title": "Tables & Graphs — Sets 3–4",
+   "note": "50 questions",
+   "category": "Firefighter",
+   "chapter": "Tables and Numeracy",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-itg-c.json",
+   "title": "Tables & Graphs — Sets 5–6",
+   "note": "43 questions",
+   "category": "Firefighter",
+   "chapter": "Tables and Numeracy",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-floor-plans.json",
+   "title": "Floor Plans",
+   "note": "50 questions · 9 stems pending re-capture",
+   "category": "Firefighter",
+   "chapter": "Scenes & Tools",
+   "pie": true,
+   "draw": 20
   }
  ]
 }
