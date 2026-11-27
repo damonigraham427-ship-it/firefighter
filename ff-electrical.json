@@ -1,0 +1,1351 @@
+{
+ "questions": [
+  {
+   "question": "What is an electric current?",
+   "choices": [
+    "Charge per distance units",
+    "Charge per time units",
+    "Voltage per distance units",
+    "Voltage per time units"
+   ],
+   "answer": 1,
+   "explanation": "An electric current measures the amount of charge flowing in a certain amount of time. The correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the measuring unit for resistance?",
+   "choices": [
+    "Ohm",
+    "Farad",
+    "Watt",
+    "Electron"
+   ],
+   "answer": 0,
+   "explanation": "Resistance is measured in Ohms (Ω). Farad is the measurement unit for electrical capacitance, Watt is the measuring unit for electric power, and Electron is a negative particle; the movement of electrons creates electric currents.\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "The difference in electric potential between two points is called:",
+   "choices": [
+    "Electricity",
+    "Volt",
+    "Voltage",
+    "Electric power"
+   ],
+   "answer": 2,
+   "explanation": "The difference in electric potential between two points is defined as Voltage, and measured with Volts. Electricity is the flow of electric charge, and electric power is the rate at which electric energy is transferred by an electric circuit.\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "Coulomb is the measuring unit for-?",
+   "choices": [
+    "Electric power",
+    "Charge",
+    "Voltage",
+    "resistance"
+   ],
+   "answer": 1,
+   "explanation": "Coulomb is the measuring unit for electric charge. Electric power is measured in watts, Voltage is measured in Volts, and resistance is measured in Ohms (Ω).\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the measuring unit for a magnetic field?",
+   "choices": [
+    "Farad",
+    "Tesla",
+    "Coulomb",
+    "Watt"
+   ],
+   "answer": 1,
+   "explanation": "The size of a magnetic field is measured in Tesla (T). Farad is the measuring unit for electric capacitance, Coulomb is the measuring unit for electric charge, and Watt is the measuring unit for electric power.\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "What instrument is used for measuring electric charge?",
+   "choices": [
+    "Voltmeter",
+    "Ammeter",
+    "Coulometer",
+    "Ohmeter"
+   ],
+   "answer": 2,
+   "explanation": "Electric charge is measured by a coulometer. A voltmeter is used for measuring voltage, an ammeter is used for measuring current, and an ohmmeter is used for measuring resistance.\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "What is expected to happen to a circuit's total resistance when an additional resistor is added in parallel?",
+   "choices": [
+    "It will decrease",
+    "It will increase",
+    "It will remain the same",
+    "Depends on the values of resistance"
+   ],
+   "answer": 0,
+   "explanation": "The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in parallel is:\n\n1/Rₜ = 1/R₁ + 1/R₂ + 1/R₃ ... +1/Rₙ\n\nThe more we increase the right side of the equation, the more Rₜ must decrease. Therefore, when we add more resistors in parallel, we decrease the circuit's total resistance.\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — concepts",
+   "topic_n": 2
+  },
+  {
+   "question": "What is expected to happen to a circuit's total resistance when an additional resistor is added in series?",
+   "choices": [
+    "It will decrease",
+    "It will increase",
+    "It will remain the same",
+    "Depends on the values of resistance"
+   ],
+   "answer": 1,
+   "explanation": "The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in series is:\n\nRₜ = R₁ + R₂ + R₃ ... +Rₙ\n\nTherefore, when we add more resistors in series, we increase the circuit's total resistance.\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — concepts",
+   "topic_n": 2
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The resistors in the image are connected in:",
+   "choices": [
+    "parallel",
+    "series and parallel",
+    "series",
+    "The resistors are not connected"
+   ],
+   "answer": 1,
+   "explanation": "Resistors 1 and 2 are connected in series, and resistors 3, 4, and 5 are connected in parallel. The sum of resistors 1+2 and the sum of resistors 3+4+5 are connected in series.\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the total resistance of the circuit?",
+   "choices": [
+    "22/300 Ω",
+    "50 Ω",
+    "100 Ω",
+    "150 Ω"
+   ],
+   "answer": 3,
+   "explanation": "To calculate the total resistance of the circuit, first calculate the total resistance of the 1+2 block and then calculate the 3+4+5 block.\nThe 1+2 block is connected in series:\n\nR₁ + R₂ = 25 + 75 = 100 Ω.\n\nThe 3+4+5 block is connected in parallel:\n\n1/R₃ + 1/R₄ + 1/R₅ = 1/300 + 1/75 + 1/300\n\nThe common denominator is 300:",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: If resistors 3 and 4 are removed, what would be the total resistance of the circuit?",
+   "choices": [
+    "400 Ω",
+    "300 Ω",
+    "50 Ω",
+    "150 Ω"
+   ],
+   "answer": 0,
+   "explanation": "Removing resistors 3 and 4 would leave the circuit with three resistors connected in series. To calculate their total resistance, just add up the values of resistance:\n\nRₜ = R₁ + R₂ + R₅ = 25 + 75 + 300 = 400 Ω\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the total current flowing through the circuit?",
+   "choices": [
+    "5 A",
+    "0.5 A",
+    "2 A",
+    "4 A"
+   ],
+   "answer": 2,
+   "explanation": "The total resistance of the circuit is 150 Ω, as previously calculated. In order to calculate the current, use Ohm's law:\n\nI = V/R\nI = 300 / 150 = 2 A\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: what is the total current flowing through resistor 3?",
+   "choices": [
+    "6 A",
+    "2 A",
+    "3 A",
+    "1/3 A"
+   ],
+   "answer": 3,
+   "explanation": "When components are connected in series, the current is the same in each of them and equals the general current.\n\nWe can consider block 3+4+5 as a single component connected in series to R₁ and R₂. Also, the general current of the circuit was previously calculated and found to be 2 A; Therefore, we can deduce that the current flowing through block 3+4+5 is 2 A.\n\nA current splits between components connected in parallel, therefore, the 2 A current “splits” between resistors 3, 4, and 5.\nIn order to find the exact current flowing through R₃, we must find the voltage in that resistor.\n\nVoltage, unlike current, splits between components that are connected in series. As pr",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the voltage drop across resistors 1 and 2?",
+   "choices": [
+    "100 V",
+    "50 V",
+    "150 V",
+    "200 V"
+   ],
+   "answer": 3,
+   "explanation": "When components are connected in series, the current is the same in each of them and equals the general current. The general current was previously calculated as 2 A, thus the current flowing through R₁ and through R₂ is 2 A.\n\nUsing Ohm's law (V = I x R), we can calculate the voltage drop across each of these resistors:\n\nThe voltage drop across R₁: V₁ = 2 × 25 = 50 V\nThe voltage drop across R₂: V₂ = 2 × 75 = 150 V\nThe total voltage drop across resistors R₁ and R₂ = V1 + V2 = 50 + 150 = 200 V\n\nThe correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 1 — five resistors, 300 V",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 245\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"120\" x2=\"85\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"132\" x2=\"75\" y2=\"132\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"120\" x2=\"60\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"132\" x2=\"60\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"230\" x2=\"320\" y2=\"230\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"106\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"162\" fill=\"#000\" stroke=\"none\">-</text><text x=\"2\" y=\"143\" fill=\"#000\" stroke=\"none\">V = 300 V</text><line x1=\"60\" y1=\"60\" x2=\"100\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"100,60 107,52 115,68 123,52 131,68 139,52 147,68 154,52 160,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"160\" y1=\"60\" x2=\"190\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"190,60 197,52 205,68 213,52 221,68 229,52 237,68 244,52 250,60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"250\" y1=\"60\" x2=\"320\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"60\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"320\" y2=\"100\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"210\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"100\" x2=\"230\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"230,120 238,127 222,135 238,143 222,151 238,159 222,167 238,174 230,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"230\" y1=\"180\" x2=\"230\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"100\" x2=\"275\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"275,120 283,127 267,135 283,143 267,151 283,159 267,167 283,174 275,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"275\" y1=\"180\" x2=\"275\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"100\" x2=\"320\" y2=\"120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"320,120 328,127 312,135 328,143 312,151 328,159 312,167 328,174 320,180\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"320\" y1=\"180\" x2=\"320\" y2=\"210\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"122\" y=\"36\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"114\" y=\"53\" fill=\"#000\" stroke=\"none\">25 Ω</text><text x=\"212\" y=\"36\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"204\" y=\"53\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"240\" y=\"130\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"240\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text><text x=\"285\" y=\"130\" fill=\"#000\" stroke=\"none\">R₄</text><text x=\"285\" y=\"148\" fill=\"#000\" stroke=\"none\">75 Ω</text><text x=\"330\" y=\"130\" fill=\"#000\" stroke=\"none\">R₅</text><text x=\"330\" y=\"148\" fill=\"#000\" stroke=\"none\">300 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The three resistors in the image are connected in:",
+   "choices": [
+    "Series",
+    "A separate circuit",
+    "Parallel",
+    "Series and parallel"
+   ],
+   "answer": 2,
+   "explanation": "The resistors are connected in parallel. They are not connected in a separate circuit because the electric wire connects them with the power source.\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 2 — three parallel resistors, 100 V",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 175\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"32\" y1=\"85\" x2=\"78\" y2=\"85\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"42\" y1=\"97\" x2=\"68\" y2=\"97\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"0\" y=\"95\" fill=\"#000\" stroke=\"none\">100V</text><text x=\"28\" y=\"72\" fill=\"#000\" stroke=\"none\">-</text><text x=\"28\" y=\"122\" fill=\"#000\" stroke=\"none\">+</text><line x1=\"55\" y1=\"85\" x2=\"55\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"40\" x2=\"200\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"97\" x2=\"55\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"150\" x2=\"170\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"110\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"110,55 118,62 102,70 118,78 102,86 118,94 102,102 118,109 110,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"150,55 158,62 142,70 158,78 142,86 158,94 142,102 158,109 150,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"115\" x2=\"150\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"200,55 208,62 192,70 208,78 192,86 208,94 192,102 208,109 200,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"115\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"96\" y=\"66\" fill=\"#000\" stroke=\"none\">1</text><text x=\"120\" y=\"98\" fill=\"#000\" stroke=\"none\">20Ω</text><text x=\"136\" y=\"66\" fill=\"#000\" stroke=\"none\">2</text><text x=\"160\" y=\"98\" fill=\"#000\" stroke=\"none\">50Ω</text><text x=\"186\" y=\"66\" fill=\"#000\" stroke=\"none\">3</text><text x=\"210\" y=\"98\" fill=\"#000\" stroke=\"none\">25Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the ratio of branch currents 1,2,3 respectively?",
+   "choices": [
+    "5:2:4",
+    "25:15:40",
+    "10:6:8",
+    "2:6:3"
+   ],
+   "answer": 0,
+   "explanation": "Branch currents in a circuit can be calculated by using Ohm's law: I = V/R.\nIn addition, if two or more components are connected in parallel they have the same voltage across their ends. Quickly solving for each branch, we get:\n\nI₁ = 100 / 20 = 5 A\nI₂ = 100 / 50 = 2 A\nI₃ = 100 / 25 = 4 A\n\nTherefore, the ratio is 5:2:4. The correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 2 — three parallel resistors, 100 V",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 175\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"32\" y1=\"85\" x2=\"78\" y2=\"85\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"42\" y1=\"97\" x2=\"68\" y2=\"97\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"0\" y=\"95\" fill=\"#000\" stroke=\"none\">100V</text><text x=\"28\" y=\"72\" fill=\"#000\" stroke=\"none\">-</text><text x=\"28\" y=\"122\" fill=\"#000\" stroke=\"none\">+</text><line x1=\"55\" y1=\"85\" x2=\"55\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"40\" x2=\"200\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"97\" x2=\"55\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"150\" x2=\"170\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"110\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"110,55 118,62 102,70 118,78 102,86 118,94 102,102 118,109 110,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"150,55 158,62 142,70 158,78 142,86 158,94 142,102 158,109 150,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"115\" x2=\"150\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"200,55 208,62 192,70 208,78 192,86 208,94 192,102 208,109 200,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"115\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"96\" y=\"66\" fill=\"#000\" stroke=\"none\">1</text><text x=\"120\" y=\"98\" fill=\"#000\" stroke=\"none\">20Ω</text><text x=\"136\" y=\"66\" fill=\"#000\" stroke=\"none\">2</text><text x=\"160\" y=\"98\" fill=\"#000\" stroke=\"none\">50Ω</text><text x=\"186\" y=\"66\" fill=\"#000\" stroke=\"none\">3</text><text x=\"210\" y=\"98\" fill=\"#000\" stroke=\"none\">25Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the current flowing through R₁?",
+   "choices": [
+    "0.2 A",
+    "5 A",
+    "2 A",
+    "20 A"
+   ],
+   "answer": 1,
+   "explanation": "The voltage in a circuit with resistors connected in parallel is equal in all the resistors. Therefore, the current in R₁ can be calculated through Ohm's law (I = V/R):\n\nI = 100 / 20 = 5 A\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 2 — three parallel resistors, 100 V",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 175\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"32\" y1=\"85\" x2=\"78\" y2=\"85\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"42\" y1=\"97\" x2=\"68\" y2=\"97\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"0\" y=\"95\" fill=\"#000\" stroke=\"none\">100V</text><text x=\"28\" y=\"72\" fill=\"#000\" stroke=\"none\">-</text><text x=\"28\" y=\"122\" fill=\"#000\" stroke=\"none\">+</text><line x1=\"55\" y1=\"85\" x2=\"55\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"40\" x2=\"200\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"97\" x2=\"55\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"150\" x2=\"170\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"110\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"110,55 118,62 102,70 118,78 102,86 118,94 102,102 118,109 110,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"150,55 158,62 142,70 158,78 142,86 158,94 142,102 158,109 150,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"115\" x2=\"150\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"200,55 208,62 192,70 208,78 192,86 208,94 192,102 208,109 200,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"115\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"96\" y=\"66\" fill=\"#000\" stroke=\"none\">1</text><text x=\"120\" y=\"98\" fill=\"#000\" stroke=\"none\">20Ω</text><text x=\"136\" y=\"66\" fill=\"#000\" stroke=\"none\">2</text><text x=\"160\" y=\"98\" fill=\"#000\" stroke=\"none\">50Ω</text><text x=\"186\" y=\"66\" fill=\"#000\" stroke=\"none\">3</text><text x=\"210\" y=\"98\" fill=\"#000\" stroke=\"none\">25Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the current flowing through R₂?",
+   "choices": [
+    "0.2 A",
+    "5 A",
+    "2 A",
+    "20 A"
+   ],
+   "answer": 2,
+   "explanation": "The voltage in a circuit with resistors connected in parallel is equal in all the resistors. Therefore, the current in R₂ can be calculated through Ohm's law (I = V/R):\n\nI = 100 / 50 = 2 A\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 2 — three parallel resistors, 100 V",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 175\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"32\" y1=\"85\" x2=\"78\" y2=\"85\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"42\" y1=\"97\" x2=\"68\" y2=\"97\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"0\" y=\"95\" fill=\"#000\" stroke=\"none\">100V</text><text x=\"28\" y=\"72\" fill=\"#000\" stroke=\"none\">-</text><text x=\"28\" y=\"122\" fill=\"#000\" stroke=\"none\">+</text><line x1=\"55\" y1=\"85\" x2=\"55\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"40\" x2=\"200\" y2=\"40\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"97\" x2=\"55\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"150\" x2=\"170\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"140\" x2=\"110\" y2=\"150\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"40\" x2=\"110\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"110,55 118,62 102,70 118,78 102,86 118,94 102,102 118,109 110,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"110\" y1=\"115\" x2=\"110\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"40\" x2=\"150\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"150,55 158,62 142,70 158,78 142,86 158,94 142,102 158,109 150,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"150\" y1=\"115\" x2=\"150\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"200,55 208,62 192,70 208,78 192,86 208,94 192,102 208,109 200,115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"200\" y1=\"115\" x2=\"200\" y2=\"140\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"96\" y=\"66\" fill=\"#000\" stroke=\"none\">1</text><text x=\"120\" y=\"98\" fill=\"#000\" stroke=\"none\">20Ω</text><text x=\"136\" y=\"66\" fill=\"#000\" stroke=\"none\">2</text><text x=\"160\" y=\"98\" fill=\"#000\" stroke=\"none\">50Ω</text><text x=\"186\" y=\"66\" fill=\"#000\" stroke=\"none\">3</text><text x=\"210\" y=\"98\" fill=\"#000\" stroke=\"none\">25Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The resistors in the image are arranged is:",
+   "choices": [
+    "Parallel",
+    "Series",
+    "Parallel and series",
+    "None of the above"
+   ],
+   "answer": 1,
+   "explanation": "Explanation: The resistors are connected in series.\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the current flowing through R₁?",
+   "choices": [
+    "90 A",
+    "180 A",
+    "2 A",
+    "4 A"
+   ],
+   "answer": 3,
+   "explanation": "To calculate the total current, find the total resistance. The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in series is:\n\nRₜ = R₁ + R₂ + R₃ ... + Rₙ\n\nTherefore, the total resistance is: 20 + 40 + 30 = 90 Ω\n\nTo find the current, use Ohm's law:\n\nI = V/R\nI = 360/90 = 4 A",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the voltage drop across R₃?",
+   "choices": [
+    "360 V",
+    "240 V",
+    "120 V",
+    "There is no voltage drop across R₃"
+   ],
+   "answer": 2,
+   "explanation": "Voltage, unlike current, splits between components that are connected in series. The current remains constant in all of the components connected in series. The current was previously calculated as 4 A, and to find the voltage drop across R₃, use Ohm's law:\n\nV = I x R\nV = 4 × 30 = 120 V\n\nTherefore, the correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the total current flowing through the circuit?",
+   "choices": [
+    "90 A",
+    "4 A",
+    "360 A",
+    "2 A"
+   ],
+   "answer": 1,
+   "explanation": "To calculate the total current, find the total resistance. The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in series is:\n\nRₜ = R₁ + R₂ + R₃ ... +Rₙ\n\nTherefore, the total resistance is: 20 + 40 + 30 = 90 Ω\n\nTo find the current, use Ohm's law:\n\nI = V/R\nI = 360/90 = 4 A",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: If R₃ was removed, what would be the total current flowing through the circuit?",
+   "choices": [
+    "6 A",
+    "60 A",
+    "3 A",
+    "0.3 A"
+   ],
+   "answer": 0,
+   "explanation": "Removing R₃ would affect the total resistance of the circuit. The resistance of components connected in series sums up the circuit's total resistance; Therefore, the new resistance would be the sum of only R₁ and R₂:\n\nNew Rₜ = 20 + 40 = 60 Ω\n\nThe new current can be calculated through Ohm's law:\n\nNew I = 360 / 60 = 6 A\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: If an additional resistor, with a resistance of 30 Ω, was added to the circuit in series - what would be the current flowing through R₂?",
+   "choices": [
+    "6 A",
+    "3 A",
+    "1 A",
+    "2 A"
+   ],
+   "answer": 1,
+   "explanation": "Adding a resistor would change the total resistance of the circuit. Since the resistor is added in series, to find the new resistance simply sum the resistance values of all four resistors:\n\nNew Rₜ = 20 + 40 + 30 + 30 = 120 Ω\n\nNow calculate the new current using Ohm's law:\n\nNew I = 360 / 120 = 3 A\n\nThe current remains constant in all of the components connected in series; for that reason, the current flowing through R₂ will be the same as the general current, 3 A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 3 — three series resistors, 360 V",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 215\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"35\" y1=\"115\" x2=\"85\" y2=\"115\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"45\" y1=\"127\" x2=\"75\" y2=\"127\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"30\" y=\"100\" fill=\"#000\" stroke=\"none\">+</text><text x=\"30\" y=\"157\" fill=\"#000\" stroke=\"none\">-</text><text x=\"0\" y=\"137\" fill=\"#000\" stroke=\"none\">V = 360 V</text><line x1=\"60\" y1=\"115\" x2=\"60\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"55\" x2=\"95\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"95,55 102,47 110,63 118,47 126,63 134,47 142,63 149,47 155,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"155\" y1=\"55\" x2=\"185\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"185,55 192,47 200,63 208,47 216,63 224,47 232,63 239,47 245,55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"245\" y1=\"55\" x2=\"300\" y2=\"55\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"300,95 308,102 292,110 308,118 292,126 308,134 292,142 308,149 300,155\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"300\" y1=\"155\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"195\" x2=\"300\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"60\" y1=\"127\" x2=\"60\" y2=\"195\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"118\" y=\"31\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"110\" y=\"48\" fill=\"#000\" stroke=\"none\">20 Ω</text><text x=\"208\" y=\"31\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"200\" y=\"48\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"272\" y=\"112\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"264\" y=\"130\" fill=\"#000\" stroke=\"none\">30 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "If three resistors, one of 20 Ω, one of 5 Ω, and one of 2 Ω, are in a parallel circuit, their total resistance will be:",
+   "choices": [
+    "3/4 Ω",
+    "20 Ω",
+    "27 Ω",
+    "4/3 Ω"
+   ],
+   "answer": 3,
+   "explanation": "The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in parallel is:\n\n1/Rₜ = 1/R₁ + 1/R₂ + 1/R₃ ... +1/Rₙ\n\nTherefore, to calculate the total resistance of the above circuit, substitute the given resistances in the formula:\n\n1/Rₜ = 1/20 + 1/5 + 1/2\n\n1/Rₜ = (1 + 4 + 10) / 20 = 15/20 = 3/4\n1/Rₜ = 3/4Ω",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "If three resistors of 6, 3, and 2 Ω are in a series circuit, their total resistance will be:",
+   "choices": [
+    "12 Ω",
+    "11 Ω",
+    "1 Ω",
+    "6 Ω"
+   ],
+   "answer": 1,
+   "explanation": "The formula to calculate the total resistance (Rₜ) of a circuit when N resistors are connected in series is:\n\nRₜ = R₁ + R₂ + R₃ ... +Rₙ\n\nTherefore, to calculate the total resistance of the above circuit, simply add all the resistors:\n\n6 + 3 + 2 = 11 Ω\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "A series circuit consists of 3 resistors with the following resistances:\n\nResistor A - 50 Ω;\nResistor B - 40 Ω;\nResistor C - 60 Ω.\n\nThrough which resistor will the current be the highest?",
+   "choices": [
+    "Resistor A",
+    "Resistor B",
+    "Resistor C",
+    "The current will be identical in all resistors"
+   ],
+   "answer": 3,
+   "explanation": "In a series circuit, the current is identical through all components. Therefore, the correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "A parallel circuit consists 4 branches, A, B, C, and D. Branch A has a resistor of 50 Ω, Branch B has a resistor of 30 Ω, branch C has a light bulb with a resistance of 30 Ω, and branch D has a light bulb with a resistance of 10 Ω. Which branch will draw the most current?",
+   "choices": [
+    "Branch A",
+    "Branch B",
+    "Branch C",
+    "Branch D"
+   ],
+   "answer": 3,
+   "explanation": "In a parallel circuit, the currents divides unequally between the branches. A current is drawn to low resistance; thus, the most current will flow through the branch with the least resistance. This is due to Ohm's law: I = V / R. Or: the lower the resistance, the higher the current.\n\nTherefore, the correct answer is D.\n\nNote that for this question, there is no difference between a resistor and a light bulb: both apply their resistance the same.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "In a closed circuit where three resistors are connected in parallel, which of the following would increase the circuit's total current?",
+   "choices": [
+    "Increase ones resistor's resistance",
+    "Reduce battery's voltage",
+    "Add bulb on separate branch",
+    "None of the above"
+   ],
+   "answer": 2,
+   "explanation": "The total current would vary directly with the total voltage and inversely with the total resistance. This is Ohm's law (I=V/R).\n\nDecreasing the total resistance would increase the total current. The total resistance can be decreased by adding another resistor in a separate branch or by decreasing the resistance of any of the branches.\n\nThe correct answer is C.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — concepts",
+   "topic_n": 2
+  },
+  {
+   "question": "In a closed circuit where three resistors are connected in parallel, which of the following would decrease the current in one of the resistors?",
+   "choices": [
+    "Decrease another resistor's resistance",
+    "Increase that resistor's resistance",
+    "Increase the battery's voltage",
+    "All of the above"
+   ],
+   "answer": 1,
+   "explanation": "The current in each resistor depends on the voltage drop across it and its resistance. This is Ohm's law (I=V/R).\n\nAn increase in battery voltage would increase the voltage drop across every resistor and thus provide a greater current through it. In contrast, increasing the resistance of a certain resistor would decrease the current flowing through it.\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — concepts",
+   "topic_n": 2
+  },
+  {
+   "question": "What is the measuring unit of electrical power?",
+   "choices": [
+    "Volt",
+    "Electron",
+    "Ampere",
+    "Watt"
+   ],
+   "answer": 3,
+   "explanation": "Electric power is measured in Watts (W). Volt is the measuring unit for voltage, Ampere is the measuring unit of electric current, and Electron is a negative particle; the movement of electrons creates electric currents.\n\nThe correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "What is the measuring unit for electric capacitance?",
+   "choices": [
+    "Coulomb",
+    "Joule",
+    "Ohm",
+    "Farad"
+   ],
+   "answer": 3,
+   "explanation": "Electric capacitance is measured in Farads (F). Coulomb is the measuring unit for electric charge, Joule is a measuring unit for energy, and Ohm is a measuring unit for resistance.\n\nThe correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Units and instruments",
+   "topic_n": 1
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The three resistors in the image are connected in:",
+   "choices": [
+    "Parallel",
+    "Series",
+    "Parallel and series",
+    "A Row"
+   ],
+   "answer": 0,
+   "explanation": "The resistors are connected in parallel.\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The total resistance of the circuit is:",
+   "choices": [
+    "360 Ω",
+    "1/24 Ω",
+    "24 Ω",
+    "240 Ω"
+   ],
+   "answer": 2,
+   "explanation": "The formula to calculate the total resistance (Rₜ) in a circuit where N resistors are connected in parallel is:\n\n1/Rₜ = 1/R₁ + 1/R₂ + 1/R₃ ... + 1/Rₙ\n\nIf we substitute the values from the figure we get:\n\n1/Rₜ = 1/240 + 1/40 + 1/80\n\nThe common denominator is 240:\n\n1/Rₜ = 1/240 + 6/240 + 3/240 = (1+6+3)/240 = 10/240 = 1/24",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: The voltage of the circuit is:",
+   "choices": [
+    "5/24 V",
+    "120 V",
+    "1800 V",
+    "1200 V"
+   ],
+   "answer": 1,
+   "explanation": "We are given the total current of the circuit (5 A), so that we can calculate the total voltage of the circuit through Ohm's law (V = I x R).\nIn the previous question we found that the total resistance of the circuit is 24 Ω.\n\nThus, the voltage would be:\n\nV = 5 × 24 = 120 V\n\nThe correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the current at R₁?",
+   "choices": [
+    "0.5 A",
+    "2 A",
+    "5 A",
+    "2.5 A"
+   ],
+   "answer": 0,
+   "explanation": "In the previous question, we found that the voltage is 120 V. The voltage in a circuit with resistors connected in parallel is equal in all the resistors. Therefore, the current in R₁ can be calculated through Ohm's law (I = V/R):\n\nI = 120 / 240 = 0.5 A\n\nThe correct answer is A.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: What is the current at R₂?",
+   "choices": [
+    "5 A",
+    "0.3 A",
+    "0.5 A",
+    "3 A"
+   ],
+   "answer": 3,
+   "explanation": "In the previous question, we found that the voltage is 120 V. The voltage in a circuit with resistors connected in parallel is equal in all the resistors. Therefore, the current in R₂ can be calculated through Ohm's law (I = V/R):\n\nI = 120 / 40 = 3 A\n\nThe correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "Base your answer to the following questions on the figure below: what is the current at R₃?",
+   "choices": [
+    "5 A",
+    "0.5 A",
+    "1.5 A",
+    "2/3 A"
+   ],
+   "answer": 2,
+   "explanation": "In the previous question, we found that the voltage is 120 V. The voltage in a circuit with resistors connected in parallel is equal in all the resistors. Therefore, the current in R₃ can be calculated through Ohm's law (I = V/R):\n\nI = 120 / 80 = 1.5 A\n\nThe correct answer is C.\n\nSolving tip: When connected in parallel, the branched of a circuit “split” the total current of the circuit; in other words, the currents flowing through the branches sum up to the general current. Since we calculated the currents flowing through R₁ and R₂, we can calculate the current flowing through R₃ […] Ohm's law, but by subtracting the currents of R₁ and R₂ from the general current:",
+   "source": "Electrical Concepts",
+   "topic": "Circuit block 4 — three parallel resistors, I = 5 A",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 345 185\" font-family=\"sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"40\" y1=\"110\" x2=\"70\" y2=\"110\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"14\" y=\"82\" fill=\"#000\" stroke=\"none\">+</text><text x=\"14\" y=\"134\" fill=\"#000\" stroke=\"none\">-</text><line x1=\"55\" y1=\"95\" x2=\"55\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"45\" x2=\"290\" y2=\"45\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"55\" y1=\"165\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"64\" y=\"64\" font-style=\"italic\" fill=\"#000\" stroke=\"none\">I = 5 A</text><line x1=\"170\" y1=\"45\" x2=\"170\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"170,60 178,67 162,75 178,83 162,91 178,99 162,107 178,114 170,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"170\" y1=\"120\" x2=\"170\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"45\" x2=\"220\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"220,60 228,67 212,75 228,83 212,91 228,99 212,107 228,114 220,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"220\" y1=\"120\" x2=\"220\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"45\" x2=\"290\" y2=\"60\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><polyline points=\"290,60 298,67 282,75 298,83 282,91 298,99 282,107 298,114 290,120\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><line x1=\"290\" y1=\"120\" x2=\"290\" y2=\"165\" stroke=\"#000\" fill=\"none\" stroke-width=\"2\"/><text x=\"180\" y=\"84\" fill=\"#000\" stroke=\"none\">R₁</text><text x=\"180\" y=\"102\" fill=\"#000\" stroke=\"none\">240 Ω</text><text x=\"230\" y=\"84\" fill=\"#000\" stroke=\"none\">R₂</text><text x=\"230\" y=\"102\" fill=\"#000\" stroke=\"none\">40 Ω</text><text x=\"300\" y=\"84\" fill=\"#000\" stroke=\"none\">R₃</text><text x=\"300\" y=\"102\" fill=\"#000\" stroke=\"none\">80 Ω</text></svg>"
+   }
+  },
+  {
+   "question": "A 3 Ω resistor is added in parallel to a series circuit, that consists of three resistors of 2, 3, and 4 Ω. What will be the total resistance of the new circuit?",
+   "choices": [
+    "2 Ω",
+    "7.5 Ω",
+    "12/17 Ω",
+    "Insufficient data"
+   ],
+   "answer": 3,
+   "explanation": "The circuit in discussion is a series-parallel circuit. When calculating the total resistance of a series-parallel circuit, the connective points of the parallel component/s must be explicitly stated. When such a specification is absent, the circuit above can be drawn in more than one way. For example:",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "Electric power depends on which two variables?",
+   "choices": [
+    "Current and resistance",
+    "Voltage and current",
+    "Capacitance and voltage",
+    "A + B"
+   ],
+   "answer": 3,
+   "explanation": "The formula for electric power (P) is:\n\nP = I x V\n\nIn combination with Ohm's law (V = I x R), the formula for electric power can also be:\n\nP = I x I x V = I² x R\n\nTherefore, the electric power can be viewed as depended on both voltage and current, and current and resistance.\n\nThe correct answer is D.",
+   "source": "Electrical Concepts",
+   "topic": "Series and parallel — calculations",
+   "topic_n": 6
+  },
+  {
+   "question": "Which of the following is not a good insulator?",
+   "choices": [
+    "Pure water",
+    "Air",
+    "Glass",
+    "Mineral Water",
+    "Plastic"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D – Mineral Water.\n\nBesides mineral water, all the above serve as rather good insulators:\nAir can conduct electricity to a certain level (lightning does cross the skies), yet if it were a good conductor, we would get electrified all day long, and no battery would be able to preserve its electric charge.\nPlastic and Glass are known common insulators.\n\nPure water is water containing no dissolved substance. The ions in electrolytes conduct electricity, and not the water molecules themselves. Pure water contains no dissolved substance, hence […] doesn't have the means to conduct electricity. Mineral water on the other hand, has an",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "In which direction does the electric current flow in an electric circuit?",
+   "choices": [
+    "In the direction of the closest electric load.",
+    "From the positive terminal to the negative terminal.",
+    "From the negative terminal to the positive terminal.",
+    "In the opposite direction of positive-charge flow.",
+    "In the same direction of negative-charge flow."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B.\n\nConventional current is designed to flow in the same direction of positive charges. In metals, where the charge carriers (electrons) are negative, conventional current flows in the opposite direction of the electrons. In conductors, where the charge carriers are positive, conventional current flows in the same direction of charge carriers.\nOptions D and E present the exact opposite of that reasoning. Option A is plainly false.\n\nIn a common electrical wired circuit, negatively charged electrons flow from the negati[…] positive terminal. According to the above definition, the electric current flows in the op[…]",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "A conducting wire is connected to a cell and completes a circuit.\nDoes a current flow in the circuit even if resistance is absent?\nChoose the best answer.",
+   "choices": [
+    "No. It will create an open circuit.",
+    "No. There must be some sort of resistance (load/resistors) in order for a current to flow.",
+    "Yes, and the cell will last more than it would with the presence of resistance.",
+    "Yes, and the cell will last as long as it would with the presence of resistance.",
+    "Yes, but the cell will last less than it would with the presence of resistance."
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E\n\nElectric circuits usually contain resistors, in the form of either electric loads or resistor components. Nonetheless, resistors are not a condition for a current to flow within the circuit.\nWith the presence of a voltage source and complete circuit, current will start to flow. The implication of the absence of resistance is that there will be no opposition to the passage of electric current, which will cause a rapid exhaustion of the cell's electric potential. The consequence is that the cell's life would be shorter.",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "Which of the following sentences is correct?",
+   "choices": [
+    "An anode is a type of electrode.",
+    "An electrode is a type of cathode.",
+    "An anode is a type of terminal.",
+    "A cathode is a type of anode.",
+    "A terminal is a type of electrode."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A\n\nAn anode and a cathode are both types of electrodes. An electrode is a solid electric conductor through which an electric current enters or leaves an electrolytic cell or other medium.\nA cathode is an electrode through which electric current flows out of a polarized electrical device. An electrode through which current flows the other way (into the device) is termed an anode.",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "Which of the following components restricts the electric current flow to a single direction?",
+   "choices": [
+    "Condenser",
+    "Diode",
+    "Resistor",
+    "Transducer",
+    "Switch"
+   ],
+   "answer": 1,
+   "explanation": "A diode is an electrical component with an asymmetric conductance - it allows the current to flow in one direction only.\n\nA condenser is a device that condenses gas (such as steam) to liquid (such as water); A resistor is a component that resists to the movement of charge, and slows it down; A transducer is a device that transforms a certain type of energy to a different type of energy; and a switch is a device that allows a convenient opening and closing of electric circuits.\n\nTherefore, the correct answer is B.",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "Which of the following is an electric component that can break an electric circuit by interrupting the current or diverting it from one conductor to another?",
+   "choices": [
+    "Condenser",
+    "Diode",
+    "Resistor",
+    "Transducer",
+    "Switch"
+   ],
+   "answer": 4,
+   "explanation": "A condenser is a device that condenses gas (such as steam) to liquid (such as water); A diode is an electrical component with an asymmetric conductance - it allows the current to flow in one direction only. A resistor is a component that resists to the movement of charge, and slows it down; and a transducer is a device that transforms a certain type of energy to a different type of energy.\n\nA switch is a device that allows a convenient opening and closing of electric circuits. If a switch is located in a parallel circuit, its state can determine whether current will flow, and in which branches.\n\nTherefore, the correct answer is E.",
+   "source": "Electrical Concepts",
+   "topic": "Components and current",
+   "topic_n": 8
+  },
+  {
+   "question": "In which of the following circuits will the light bulb light up?",
+   "choices": [
+    "Circuit A",
+    "Circuit B",
+    "Circuits B and D",
+    "In none of the given circuits",
+    "Circuit C"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is 2 (circuit B).\n\nIn order for a light bulb to light up, an electrical current has to flow through the circuit. In order for a current to flow a voltage source, indicated by [battery symbol], is needed.\nOnly circuits B and D have a voltage source, therefore we can dismiss distracters A and C.\n\nIn addition, the circuit must be closed in order for the current to flow. In other words, there cannot be a disconnection between the voltage source and the light bulb. In circuit D we can see that such a disconnection occurs. Thus, answer 2 is the correct one.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Which bulb lights",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><rect x=\"10\" y=\"25\" width=\"150\" height=\"80\" fill=\"none\"/><circle cx=\"85\" cy=\"25\" r=\"22\" fill=\"white\"/><line x1=\"70\" y1=\"10\" x2=\"100\" y2=\"40\"/><line x1=\"70\" y1=\"40\" x2=\"100\" y2=\"10\"/><ellipse cx=\"71\" cy=\"105\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"99\" cy=\"105\" rx=\"7\" ry=\"4\" fill=\"black\"/><text x=\"85\" y=\"93\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">A</text><rect x=\"200\" y=\"25\" width=\"150\" height=\"80\" fill=\"none\"/><circle cx=\"275\" cy=\"25\" r=\"22\" fill=\"white\"/><line x1=\"260\" y1=\"10\" x2=\"290\" y2=\"40\"/><line x1=\"260\" y1=\"40\" x2=\"290\" y2=\"10\"/><rect x=\"196\" y=\"53\" width=\"8\" height=\"34\" fill=\"white\" stroke=\"none\"/><line x1=\"186\" y1=\"70\" x2=\"214\" y2=\"70\"/><line x1=\"192\" y1=\"60\" x2=\"208\" y2=\"60\"/><ellipse cx=\"261\" cy=\"105\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"289\" cy=\"105\" rx=\"7\" ry=\"4\" fill=\"black\"/><text x=\"275\" y=\"93\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">B</text><rect x=\"10\" y=\"135\" width=\"150\" height=\"80\" fill=\"none\"/><circle cx=\"85\" cy=\"135\" r=\"22\" fill=\"white\"/><line x1=\"70\" y1=\"120\" x2=\"100\" y2=\"150\"/><line x1=\"70\" y1=\"150\" x2=\"100\" y2=\"120\"/><ellipse cx=\"71\" cy=\"215\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"99\" cy=\"215\" rx=\"7\" ry=\"4\" fill=\"black\"/><line x1=\"71\" y1=\"215\" x2=\"93\" y2=\"205\"/><text x=\"85\" y=\"203\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">C</text><rect x=\"200\" y=\"135\" width=\"150\" height=\"80\" fill=\"none\"/><circle cx=\"275\" cy=\"135\" r=\"22\" fill=\"white\"/><line x1=\"260\" y1=\"120\" x2=\"290\" y2=\"150\"/><line x1=\"260\" y1=\"150\" x2=\"290\" y2=\"120\"/><rect x=\"196\" y=\"163\" width=\"8\" height=\"34\" fill=\"white\" stroke=\"none\"/><line x1=\"186\" y1=\"180\" x2=\"214\" y2=\"180\"/><line x1=\"192\" y1=\"170\" x2=\"208\" y2=\"170\"/><ellipse cx=\"261\" cy=\"215\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"289\" cy=\"215\" rx=\"7\" ry=\"4\" fill=\"black\"/><line x1=\"261\" y1=\"215\" x2=\"283\" y2=\"205\"/><text x=\"275\" y=\"203\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">D</text></svg>"
+   }
+  },
+  {
+   "question": "In which of the following options will the light bulb light up?",
+   "choices": [
+    "Option A",
+    "Option B",
+    "Option C",
+    "Option D",
+    "In none of the shown Options"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4.\n\nIn order for the light bulb to light up an electrical current must flow through the circuit, i.e. a closed circuit.\n\nIn option A, both wires are connected to the same side of the light bulb, rendering the circuit unclosed; thus, no current flows through the light bulb.\n\nIn option B, both wires are connected to the same side of the battery which means no electrical potential difference (electric tension) can occur and therefore no electrical current flows in the circuit.\n\nIn option C, the filament is torn which means the circuit is not closed; thus, no current flows through the light bulb.\nIn option D, all of the necessary requirements for a current to flow through the light bulb exist and therefore it will light up.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Which bulb lights",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"90\" y=\"15\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">A: both wires to bulb side; filament intact</text><text x=\"270\" y=\"15\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">B: both wires to same battery side</text><text x=\"90\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">C: side + tip, but filament torn</text><text x=\"270\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">D: side to one battery end, tip to other; intact</text><circle cx=\"60\" cy=\"55\" r=\"22\" fill=\"white\"/><line x1=\"45\" y1=\"40\" x2=\"75\" y2=\"70\"/><line x1=\"45\" y1=\"70\" x2=\"75\" y2=\"40\"/><circle cx=\"240\" cy=\"55\" r=\"22\" fill=\"white\"/><line x1=\"225\" y1=\"40\" x2=\"255\" y2=\"70\"/><line x1=\"225\" y1=\"70\" x2=\"255\" y2=\"40\"/><circle cx=\"60\" cy=\"155\" r=\"22\" fill=\"white\"/><line x1=\"45\" y1=\"140\" x2=\"75\" y2=\"170\"/><line x1=\"45\" y1=\"170\" x2=\"75\" y2=\"140\"/><circle cx=\"240\" cy=\"155\" r=\"22\" fill=\"white\"/><line x1=\"225\" y1=\"140\" x2=\"255\" y2=\"170\"/><line x1=\"225\" y1=\"170\" x2=\"255\" y2=\"140\"/><text x=\"90\" y=\"85\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">A</text><text x=\"270\" y=\"85\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">B</text><text x=\"90\" y=\"185\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">C</text><text x=\"270\" y=\"185\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">D</text></svg>"
+   },
+   "choiceFigs": [
+    "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 165\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><ellipse cx=\"50\" cy=\"50\" rx=\"30\" ry=\"42\" fill=\"white\"/><path d=\"M35 45 q10 -18 20 0\" fill=\"none\"/><rect x=\"33\" y=\"90\" width=\"34\" height=\"30\" fill=\"white\"/><path d=\"M67 95 C90 80 95 60 115 50 M67 110 C95 105 115 95 130 95\" fill=\"none\" stroke-width=\"3\"/><rect x=\"115\" y=\"40\" width=\"45\" height=\"65\" transform=\"rotate(25 137 72)\" fill=\"white\"/><text x=\"90\" y=\"155\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">A — both wires to side of bulb</text></svg>",
+    "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 165\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><ellipse cx=\"50\" cy=\"50\" rx=\"30\" ry=\"42\" fill=\"white\"/><path d=\"M35 45 q10 -18 20 0\" fill=\"none\"/><rect x=\"33\" y=\"90\" width=\"34\" height=\"30\" fill=\"white\"/><path d=\"M67 95 C90 80 95 60 115 50 M55 128 C90 120 110 70 125 48\" fill=\"none\" stroke-width=\"3\"/><rect x=\"115\" y=\"40\" width=\"45\" height=\"65\" transform=\"rotate(25 137 72)\" fill=\"white\"/><text x=\"90\" y=\"155\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">B — both wires to same side of battery</text></svg>",
+    "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 165\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><ellipse cx=\"50\" cy=\"50\" rx=\"30\" ry=\"42\" fill=\"white\"/><line x1=\"35\" y1=\"45\" x2=\"46\" y2=\"32\"/><line x1=\"65\" y1=\"45\" x2=\"56\" y2=\"32\"/><rect x=\"33\" y=\"90\" width=\"34\" height=\"30\" fill=\"white\"/><path d=\"M67 95 C90 80 95 60 115 50 M55 128 C90 115 115 105 132 100\" fill=\"none\" stroke-width=\"3\"/><rect x=\"115\" y=\"40\" width=\"45\" height=\"65\" transform=\"rotate(25 137 72)\" fill=\"white\"/><text x=\"90\" y=\"155\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">C — filament torn</text></svg>",
+    "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 180 165\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><ellipse cx=\"50\" cy=\"50\" rx=\"30\" ry=\"42\" fill=\"white\"/><path d=\"M35 45 q10 -18 20 0\" fill=\"none\"/><rect x=\"33\" y=\"90\" width=\"34\" height=\"30\" fill=\"white\"/><path d=\"M67 95 C90 80 95 60 115 50 M55 128 C90 115 115 105 132 100\" fill=\"none\" stroke-width=\"3\"/><rect x=\"115\" y=\"40\" width=\"45\" height=\"65\" transform=\"rotate(25 137 72)\" fill=\"white\"/><text x=\"90\" y=\"155\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">D — side + bottom tip, filament intact</text></svg>",
+    null
+   ]
+  },
+  {
+   "question": "A circuit is shown in the diagram below. If a light bulb is added to socket B, what will happen to the light produced by light bulb A?",
+   "choices": [
+    "The light will turn off",
+    "The light will dim",
+    "The light will become brighter",
+    "The light will remain the same"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4.\n\nThe lights are connected to the voltage source in parallel.\nWhen electrical appliances are connected in parallel, each acts independently as though it was the only appliance connected to the voltage source. Therefore, when adding an extra light bulb in parallel to the circuit the current and the intensity of illumination of the already existing bulb (in this case, bulb A) will remain unchanged.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Brightness and power",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 220\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M30 70 L110 70 M210 70 L290 70 M30 70 L30 190 M290 70 L290 190 M30 130 L110 130 M210 130 L290 130 M30 190 L110 190 M210 190 L290 190\" fill=\"none\"/><rect x=\"110\" y=\"55\" width=\"100\" height=\"30\" fill=\"white\"/><text x=\"160\" y=\"75\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">A</text><circle cx=\"160\" cy=\"30\" r=\"24\" fill=\"white\"/><text x=\"160\" y=\"36\" text-anchor=\"middle\" font-size=\"16\" fill=\"black\" stroke=\"none\">☀ bulb</text><rect x=\"110\" y=\"115\" width=\"100\" height=\"30\" fill=\"white\"/><text x=\"160\" y=\"135\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">B (empty socket)</text><rect x=\"105\" y=\"175\" width=\"110\" height=\"34\" fill=\"white\"/><text x=\"160\" y=\"197\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">Battery</text><text x=\"35\" y=\"45\" font-size=\"12\" fill=\"black\" stroke=\"none\">bulb → (arrow to socket B)</text></svg>"
+   }
+  },
+  {
+   "question": "Which fan, in the diagrams below, will revolve faster?",
+   "choices": [
+    "Diagram A",
+    "Diagram B",
+    "The fans in both diagrams will revolve at the same speed.",
+    "The fans will not revolve"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is 2.\n\nIn order to solve this question we need to examine the diagrams and consider the difference(s) between them:\n\nIn diagram A the circuit contains a voltage source, a fan and a resistor whilst diagram B contains only a voltage source and a fan.\n\nWhen there is a resistor in the circuit, part of the energy produced by the voltage source becomes \"wasted\" by the resistor that converts it into heat energy. In other words, a circuit that contains resistors is left with less energy to operate the electrical appliance(s).\n\nThus, the fan in diagram 2 will revolve faster.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Brightness and power",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 190\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M10 110 L25 95 L65 95 L65 70 M80 95 L135 95 L135 160 L10 160 Z\" fill=\"none\"/><rect x=\"50\" y=\"80\" width=\"45\" height=\"20\" fill=\"white\"/><g fill=\"#dbeafe\" stroke=\"black\"><polygon points=\"72,45 54,23 74,37\"/><polygon points=\"72,45 92,25 80,47\"/><polygon points=\"72,45 94,60 76,55\"/><polygon points=\"72,45 56,63 68,49\"/></g><line x1=\"31\" y1=\"160\" x2=\"59\" y2=\"160\"/><line x1=\"37\" y1=\"150\" x2=\"53\" y2=\"150\"/><path d=\"M85 160 q5 -14 10 0 q5 -14 10 0 q5 -14 10 0\" fill=\"none\"/><text x=\"100\" y=\"178\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">R</text><text x=\"72\" y=\"135\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">A</text><path d=\"M160 110 L175 95 L215 95 L215 70 M230 95 L285 95 L285 160 L160 160 Z\" fill=\"none\"/><rect x=\"200\" y=\"80\" width=\"45\" height=\"20\" fill=\"white\"/><g fill=\"#dbeafe\" stroke=\"black\"><polygon points=\"222,45 204,23 224,37\"/><polygon points=\"222,45 242,25 230,47\"/><polygon points=\"222,45 244,60 226,55\"/><polygon points=\"222,45 206,63 218,49\"/></g><line x1=\"181\" y1=\"160\" x2=\"209\" y2=\"160\"/><line x1=\"187\" y1=\"150\" x2=\"203\" y2=\"150\"/><text x=\"222\" y=\"135\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">B</text></svg>"
+   }
+  },
+  {
+   "question": "In which of the circuits shown in the diagrams below will the intensity of illumination be the lowest?",
+   "choices": [
+    "Circuit A",
+    "Circuit B",
+    "Circuit C",
+    "The intensity of illumination in all three circuits is the same"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nIn order to solve this question we need to distinguish between components connected in parallel and components connected in series.\n\nWhen the bulbs are connected to the voltage source in parallel, each bulb is \"unaware\" of the other bulbs. Thus the intensity of illumination in circuit A (for each bulb independently) and in circuit B are equal.\n\nWhen the bulbs are connected to the voltage source in series, the voltage potential decreases with each additional electrical component added due to the energy consumption each component requires.\n\nIt follows, that connecting the bulbs in series (circuit C) causes a decrease in illumination [explanation truncated in capture — final words below the visible area].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Brightness and power",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 220\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"90\" y=\"12\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">A: two bulbs in parallel</text><rect x=\"10\" y=\"25\" width=\"150\" height=\"85\" fill=\"none\"/><circle cx=\"85\" cy=\"25\" r=\"18\" fill=\"white\"/><line x1=\"72\" y1=\"12\" x2=\"98\" y2=\"38\"/><line x1=\"72\" y1=\"38\" x2=\"98\" y2=\"12\"/><circle cx=\"85\" cy=\"68\" r=\"18\" fill=\"white\"/><line x1=\"72\" y1=\"55\" x2=\"98\" y2=\"81\"/><line x1=\"72\" y1=\"81\" x2=\"98\" y2=\"55\"/><line x1=\"-4\" y1=\"68\" x2=\"24\" y2=\"68\"/><line x1=\"2\" y1=\"58\" x2=\"18\" y2=\"58\"/><ellipse cx=\"71\" cy=\"110\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"99\" cy=\"110\" rx=\"7\" ry=\"4\" fill=\"black\"/><text x=\"85\" y=\"100\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">A</text><rect x=\"200\" y=\"25\" width=\"150\" height=\"85\" fill=\"none\"/><circle cx=\"275\" cy=\"25\" r=\"18\" fill=\"white\"/><line x1=\"262\" y1=\"12\" x2=\"288\" y2=\"38\"/><line x1=\"262\" y1=\"38\" x2=\"288\" y2=\"12\"/><line x1=\"186\" y1=\"68\" x2=\"214\" y2=\"68\"/><line x1=\"192\" y1=\"58\" x2=\"208\" y2=\"58\"/><ellipse cx=\"261\" cy=\"110\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"289\" cy=\"110\" rx=\"7\" ry=\"4\" fill=\"black\"/><text x=\"275\" y=\"70\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">B</text><rect x=\"200\" y=\"130\" width=\"150\" height=\"80\" fill=\"none\"/><circle cx=\"245\" cy=\"130\" r=\"18\" fill=\"white\"/><line x1=\"232\" y1=\"117\" x2=\"258\" y2=\"143\"/><line x1=\"232\" y1=\"143\" x2=\"258\" y2=\"117\"/><circle cx=\"305\" cy=\"130\" r=\"18\" fill=\"white\"/><line x1=\"292\" y1=\"117\" x2=\"318\" y2=\"143\"/><line x1=\"292\" y1=\"143\" x2=\"318\" y2=\"117\"/><line x1=\"186\" y1=\"170\" x2=\"214\" y2=\"170\"/><line x1=\"192\" y1=\"160\" x2=\"208\" y2=\"160\"/><ellipse cx=\"261\" cy=\"210\" rx=\"7\" ry=\"4\" fill=\"black\"/><ellipse cx=\"289\" cy=\"210\" rx=\"7\" ry=\"4\" fill=\"black\"/><text x=\"275\" y=\"175\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">C: two bulbs in series</text></svg>"
+   }
+  },
+  {
+   "question": "A radio that operates with a potential voltage of 5 Volts is given. In which of the following circuits, shown in the diagrams below, will the radio work?",
+   "choices": [
+    "Circuits A and D",
+    "Circuit B",
+    "Circuits C and D",
+    "Circuits B and C"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nIn order for the radio to work the voltage in the circuit has to be 5 Volts.\nIn circuit A, the voltage sources are identical in value and opposite in direction to one another; therefore, the electrical potential difference (electric tension) in the circuit is zero.\n\nIn circuit B, the voltage sources are connected in the same direction and each with a value of 5 volts; i.e. the total electrical potential difference (electric tension) in the circuit is 10 volts.\n\nIn circuit C, the voltage sources are opposite in direction but different in value. When totaling the electrical potential difference (electric tension) in the circuit we receive 5 volts.\n\nIn circuit D, the voltage sources are connected in the same direction and each with a value of 2.5 volts; i.e. the total electrical potential difference (electric tension) in the circuit is 5 volts.\n\nThus, the radio will work with both circuits C and D.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Voltage, current and resistance calculations",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 230\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><rect x=\"10\" y=\"25\" width=\"150\" height=\"85\" fill=\"none\"/><rect x=\"50\" y=\"11\" width=\"70\" height=\"28\" fill=\"#dbeafe\"/><text x=\"85\" y=\"29\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Radio</text><text x=\"85\" y=\"63\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Circle A</text><line x1=\"55\" y1=\"110\" x2=\"55\" y2=\"85\"/><line x1=\"65\" y1=\"110\" x2=\"65\" y2=\"93\"/><line x1=\"105\" y1=\"110\" x2=\"105\" y2=\"85\"/><line x1=\"115\" y1=\"110\" x2=\"115\" y2=\"93\"/><text x=\"48\" y=\"83\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">2.5 V</text><text x=\"98\" y=\"83\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">2.5 V</text><text x=\"85\" y=\"127\" text-anchor=\"middle\" font-size=\"9\" fill=\"black\" stroke=\"none\">opposite, equal</text><rect x=\"200\" y=\"25\" width=\"150\" height=\"85\" fill=\"none\"/><rect x=\"240\" y=\"11\" width=\"70\" height=\"28\" fill=\"#dbeafe\"/><text x=\"275\" y=\"29\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Radio</text><text x=\"275\" y=\"63\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Circle B</text><line x1=\"245\" y1=\"110\" x2=\"245\" y2=\"85\"/><line x1=\"255\" y1=\"110\" x2=\"255\" y2=\"93\"/><line x1=\"295\" y1=\"110\" x2=\"295\" y2=\"85\"/><line x1=\"305\" y1=\"110\" x2=\"305\" y2=\"93\"/><text x=\"238\" y=\"83\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">5 V</text><text x=\"288\" y=\"83\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">5 V</text><text x=\"275\" y=\"127\" text-anchor=\"middle\" font-size=\"9\" fill=\"black\" stroke=\"none\">same direction</text><rect x=\"10\" y=\"135\" width=\"150\" height=\"85\" fill=\"none\"/><rect x=\"50\" y=\"121\" width=\"70\" height=\"28\" fill=\"#dbeafe\"/><text x=\"85\" y=\"139\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Radio</text><text x=\"85\" y=\"173\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Circle C</text><line x1=\"55\" y1=\"220\" x2=\"55\" y2=\"195\"/><line x1=\"65\" y1=\"220\" x2=\"65\" y2=\"203\"/><line x1=\"105\" y1=\"220\" x2=\"105\" y2=\"195\"/><line x1=\"115\" y1=\"220\" x2=\"115\" y2=\"203\"/><text x=\"48\" y=\"193\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">10 V</text><text x=\"98\" y=\"193\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">5 V</text><text x=\"85\" y=\"237\" text-anchor=\"middle\" font-size=\"9\" fill=\"black\" stroke=\"none\">opposite, different</text><rect x=\"200\" y=\"135\" width=\"150\" height=\"85\" fill=\"none\"/><rect x=\"240\" y=\"121\" width=\"70\" height=\"28\" fill=\"#dbeafe\"/><text x=\"275\" y=\"139\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Radio</text><text x=\"275\" y=\"173\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">Circle D</text><line x1=\"245\" y1=\"220\" x2=\"245\" y2=\"195\"/><line x1=\"255\" y1=\"220\" x2=\"255\" y2=\"203\"/><line x1=\"295\" y1=\"220\" x2=\"295\" y2=\"195\"/><line x1=\"305\" y1=\"220\" x2=\"305\" y2=\"203\"/><text x=\"238\" y=\"193\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">2.5 V</text><text x=\"288\" y=\"193\" text-anchor=\"end\" font-size=\"10\" fill=\"black\" stroke=\"none\">2.5 V</text><text x=\"275\" y=\"237\" text-anchor=\"middle\" font-size=\"9\" fill=\"black\" stroke=\"none\">same direction</text></svg>"
+   }
+  },
+  {
+   "question": "A light bulb with the following information is given: 10V, 4W. What is the current flowing through the light bulb?",
+   "choices": [
+    "2.5 amps",
+    "2.5 watts",
+    "0.4 amps",
+    "0.4 watts"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nFirstly, we will consider the information provided in the question:\n4W = The power indicated as P and measured in watts.\n10V = The voltage indicated as V and measure in volts.\n\nThis data allows us to easily calculate the current using the following formula:\n\nP=V*I\n\nNote, I represents the current and is measures in ampere (amps) units.\nWe will isolate I and insert the given data:\n\nI=P/V=4[W]/10[v]=0.4[A]\n\nThus, the current is: 0.4 amps.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Voltage, current and resistance calculations",
+   "topic_n": 3
+  },
+  {
+   "question": "A light bulb with the following information is given: 10V, 4W. What is the resistance (Ohm) of the light bulb?",
+   "choices": [
+    "25 ohms",
+    "40 ohms",
+    "0.04 ohms",
+    "0.4 ohms"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is 1.\n\nIn order to calculate the resistance we will use the following formulas:\n\nV = R × I\n\nP = V × I\n\nWhere:\n\nR = Resistance [Ohm]\n\nI = Current [A]\n\nV = Voltage [Volt] [explanation truncated in capture — remainder below the visible area].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Voltage, current and resistance calculations",
+   "topic_n": 3
+  },
+  {
+   "question": "A circuit with an unknown resistance R is shown in the diagram below. In addition it is given that: V1 < V2. At which point in the circuit would it be desirable to connect the wire in order to provide the light bulb with maximum protection?",
+   "choices": [
+    "Point A",
+    "Point B",
+    "Point C",
+    "All points lead to the same protection"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is 1.\n\nWe are informed that the V2 voltage (provided by the voltage source) is greater than the V1 voltage permitted by the light bulb; thus, we are interested in connecting the wire to the point that will provide the light bulb with the least voltage. The resistance of the lightbulb is a constant, so according to Ohm's law (V=I*R), the voltage is directly related to the current. To have the current decrease, we must increase the resistance of the circuit (this is again due to Ohm's law - this time since the voltage of the circuit is a constant). We require then that our resistor R provides the greatest resistance possible. The longer the resistor, the greater the resistance, so to achieve the greatest resistance, we connect the wire to point A.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Protecting the bulb — required resistance",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 160\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M20 60 L110 60 M170 60 L260 60 L285 72 L310 72 M310 115 L310 135 L55 135 L55 85 L20 85 M55 60 L55 85\" fill=\"none\"/><line x1=\"24\" y1=\"78\" x2=\"52\" y2=\"78\"/><line x1=\"30\" y1=\"68\" x2=\"46\" y2=\"68\"/><text x=\"18\" y=\"78\" text-anchor=\"end\" font-size=\"13\" fill=\"black\" stroke=\"none\">V2</text><circle cx=\"140\" cy=\"60\" r=\"28\" fill=\"white\"/><line x1=\"120\" y1=\"40\" x2=\"160\" y2=\"80\"/><line x1=\"120\" y1=\"80\" x2=\"160\" y2=\"40\"/><text x=\"140\" y=\"28\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">V1</text><rect x=\"310\" y=\"35\" width=\"28\" height=\"85\" fill=\"#fca5a5\"/><text x=\"324\" y=\"55\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">A</text><text x=\"324\" y=\"80\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">B R</text><text x=\"324\" y=\"105\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">C</text><polygon points=\"310,72 300,68 300,76\" fill=\"black\"/></svg>"
+   }
+  },
+  {
+   "question": "A circuit with an unknown resistance is shown in the diagram below. What amount of resistance is required in order for the light bulb to work in accordance with the voltage written on it? It is known that the required current is 4 Amps and the light bulb's resistance is negligible.",
+   "choices": [
+    "2.5 ohms",
+    "7.5 ohms",
+    "15 ohms",
+    "0 Ohms (no resistance)"
+   ],
+   "answer": 0,
+   "explanation": "We need to find the resistance that will cause a voltage over the light bulb to be 10(V).\nIn order to calculate the required resistance we will use the following formula:\n\nV' = Σε − ΣIR\n\nWhere:\nV' is the voltage on the light bulb\nΣ IR is the voltage drop on the resistor, according to Ohm's Law (I – Current, R – Resistance)\nΣ ε is the source voltage\n\nWe know that:\nV' = 10V\nΣ ε = 20V [explanation truncated in capture — remainder below the visible area].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Protecting the bulb — required resistance",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 150\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M45 55 L140 55 M200 55 L285 55 L285 125 L45 125 L45 80\" fill=\"none\"/><line x1=\"31\" y1=\"68\" x2=\"59\" y2=\"68\"/><line x1=\"37\" y1=\"58\" x2=\"53\" y2=\"58\"/><text x=\"30\" y=\"68\" text-anchor=\"end\" font-size=\"13\" fill=\"black\" stroke=\"none\">20V</text><circle cx=\"170\" cy=\"55\" r=\"28\" fill=\"white\"/><line x1=\"150\" y1=\"35\" x2=\"190\" y2=\"75\"/><line x1=\"150\" y1=\"75\" x2=\"190\" y2=\"35\"/><text x=\"170\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">10V,40W</text><rect x=\"270\" y=\"55\" width=\"30\" height=\"55\" fill=\"white\"/><text x=\"285\" y=\"88\" text-anchor=\"middle\" font-size=\"14\" fill=\"black\" stroke=\"none\">R</text></svg>"
+   }
+  },
+  {
+   "question": "At which point will the current be the greatest in the circuit shown below?",
+   "choices": [
+    "Point A",
+    "Point B",
+    "Impossible to answer",
+    "The current is the same in both points"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4.\nAccording to Kirchhoff's current law¹, the total current at a junction (node) equals zero. That is, the sum of currents flowing into a junction equals the sum of currents flowing out of it (essentially, no accumulation of charge can occur).\nBetween points A and B, there are two junctions. At the first, the current coming from A will split out to the two branches. At the second junction, these two currents will arrive at the junction and reunite. So the current passing through A and the current passing through B are identical.\n¹ Also known as Kirchhoff's point rule, junction rule or nodal rule.",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Current in the circuit",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 150\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M55 70 L115 70 M245 70 L300 70 M115 45 L245 45 M115 95 L245 95 M115 45 L115 95 M245 45 L245 95 M340 95 L340 135 L55 135 L55 85\" fill=\"none\"/><line x1=\"41\" y1=\"78\" x2=\"69\" y2=\"78\"/><line x1=\"47\" y1=\"68\" x2=\"63\" y2=\"68\"/><text x=\"35\" y=\"78\" text-anchor=\"end\" font-size=\"13\" fill=\"black\" stroke=\"none\">10 V</text><circle cx=\"130\" cy=\"70\" r=\"10\" fill=\"#fca5a5\"/><text x=\"130\" y=\"74\" text-anchor=\"middle\" font-size=\"10\" fill=\"black\" stroke=\"none\">A</text><circle cx=\"262\" cy=\"70\" r=\"10\" fill=\"#fca5a5\"/><text x=\"262\" y=\"74\" text-anchor=\"middle\" font-size=\"10\" fill=\"black\" stroke=\"none\">B</text><rect x=\"155\" y=\"32\" width=\"50\" height=\"22\" fill=\"white\"/><text x=\"180\" y=\"47\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">2 ohm</text><rect x=\"155\" y=\"88\" width=\"50\" height=\"22\" fill=\"white\"/><text x=\"180\" y=\"98\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">1.5 ohm</text><circle cx=\"322\" cy=\"70\" r=\"24\" fill=\"white\"/><line x1=\"305\" y1=\"53\" x2=\"339\" y2=\"87\"/><line x1=\"305\" y1=\"87\" x2=\"339\" y2=\"53\"/></svg>"
+   }
+  },
+  {
+   "question": "A circuit is given as shown below: In which point will the current be the greatest?",
+   "choices": [
+    "Point A",
+    "Point B",
+    "Impossible to answer",
+    "The current is the same at both points"
+   ],
+   "answer": 1,
+   "explanation": "What we have here is a connection in parallel of two resistors, and we are asked through which resistor does more current pass (note that the fact that A is located after the resistor and B is located before the resistor has no effect on the current measured at these points).\nWe will solve this by finding the voltage between the intersections (the places where the wire splits and joins) in two different ways, both using Ohm's law V = IR, each following a different path.\nFirst we find the voltage via the upper path, through the Ru = 2Ω resistor: V = IuRu\nSecond we find the voltage via the lower path, through the Rl = 1.5Ω resistor: V = IlRl\nNow these are two ways to find the same voltage, and therefore the quantities we found are equal. Then IuRu = IlRl, or after substituting the resistance values, 2Iu = 1.5Il. We conclude that Iu < Il.\nIntuitively, what happens here is that more current flows through the path of least resistance (when the voltage, or \"driving force\", is the same).",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Current in the circuit",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 150\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M55 70 L115 70 M245 70 L300 70 M115 45 L245 45 M115 95 L245 95 M115 45 L115 95 M245 45 L245 95 M340 95 L340 135 L55 135 L55 85\" fill=\"none\"/><line x1=\"41\" y1=\"78\" x2=\"69\" y2=\"78\"/><line x1=\"47\" y1=\"68\" x2=\"63\" y2=\"68\"/><text x=\"35\" y=\"78\" text-anchor=\"end\" font-size=\"13\" fill=\"black\" stroke=\"none\">10 V</text><circle cx=\"132\" cy=\"45\" r=\"10\" fill=\"#fca5a5\"/><text x=\"132\" y=\"49\" text-anchor=\"middle\" font-size=\"10\" fill=\"black\" stroke=\"none\">A</text><rect x=\"145\" y=\"32\" width=\"50\" height=\"22\" fill=\"white\"/><text x=\"170\" y=\"47\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">2 ohm</text><rect x=\"145\" y=\"88\" width=\"50\" height=\"22\" fill=\"white\"/><text x=\"170\" y=\"98\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">1.5 ohm</text><circle cx=\"212\" cy=\"95\" r=\"10\" fill=\"#fca5a5\"/><text x=\"212\" y=\"99\" text-anchor=\"middle\" font-size=\"10\" fill=\"black\" stroke=\"none\">B</text><circle cx=\"322\" cy=\"70\" r=\"24\" fill=\"white\"/><line x1=\"305\" y1=\"53\" x2=\"339\" y2=\"87\"/><line x1=\"305\" y1=\"87\" x2=\"339\" y2=\"53\"/><text x=\"322\" y=\"35\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">1.5 ohm</text></svg>"
+   }
+  },
+  {
+   "question": "A set of point charges is given as shown in the diagram below. In which direction will the point charge q1 move?",
+   "choices": [
+    "Left",
+    "Right",
+    "Up",
+    "Down",
+    "It will not move at all"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is 2.\n\nAccording to Coulomb's law:\n\nF = k (q1*q2 / r²)\n\nThe force a point charge applies on another point charge equals the multiple of the point charges (multiplied by Coulomb's constant k) divided by the square of the distance between them.\n\nThe point charges in this question are: q1, q2, q3.\nThe electrostatic force q2 applies to q1 is a repulsion (since both of them are positively charged) and the direction of the force is along the dotted line between them.\n\nThe electrostatic force q3 applies to q1 is an attraction (since q1 is positively charged and q3 is negatively charged) and the direction of the force is along the dotted line between them.\n\nTotalling the forces acting on q1 shows that the vertical components cancel out each o[ther — explanation truncated in capture].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Point charges",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 220\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><line x1=\"110\" y1=\"75\" x2=\"65\" y2=\"135\" stroke-dasharray=\"6 5\"/><line x1=\"190\" y1=\"75\" x2=\"235\" y2=\"135\" stroke-dasharray=\"6 5\"/><line x1=\"85\" y1=\"170\" x2=\"215\" y2=\"170\" stroke-dasharray=\"6 5\"/><circle cx=\"150\" cy=\"50\" r=\"38\" fill=\"#dbeafe\"/><text x=\"150\" y=\"55\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">q1=+2 C</text><circle cx=\"50\" cy=\"170\" r=\"38\" fill=\"#dbeafe\"/><text x=\"50\" y=\"175\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">q2=+1 C</text><circle cx=\"250\" cy=\"170\" r=\"38\" fill=\"#dbeafe\"/><text x=\"250\" y=\"175\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">q3=-1 C</text></svg>"
+   }
+  },
+  {
+   "question": "A resistor of length L, cross- sectional area A and a resistance R are represented below. What will be the resistance after doubling the length of the resistor?",
+   "choices": [
+    "0.5R",
+    "R",
+    "2R",
+    "4R"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nGiven that the length of the resistor is double, we can consider the question as though we now have two resistor of length L connected in series:\n\nWe will calculate the new value of the resistor according to the sum of resistors in series:\n\nRtotal = Σ Ri = R1 + R2.... [explanation truncated in capture — remainder below the visible area].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Resistance and geometry",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 190\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><rect x=\"20\" y=\"20\" width=\"150\" height=\"38\" rx=\"18\" fill=\"#dbeafe\"/><ellipse cx=\"170\" cy=\"39\" rx=\"10\" ry=\"19\" fill=\"white\"/><text x=\"95\" y=\"44\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">Resistance</text><text x=\"170\" y=\"44\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">A</text><line x1=\"20\" y1=\"70\" x2=\"170\" y2=\"70\"/><polygon points=\"20,70 28,66 28,74\" fill=\"black\"/><polygon points=\"170,70 162,66 162,74\" fill=\"black\"/><text x=\"95\" y=\"86\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">L</text><rect x=\"20\" y=\"105\" width=\"280\" height=\"38\" rx=\"18\" fill=\"#dbeafe\"/><ellipse cx=\"300\" cy=\"124\" rx=\"10\" ry=\"19\" fill=\"white\"/><text x=\"160\" y=\"129\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">Resistance ?</text><text x=\"300\" y=\"129\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">A</text><line x1=\"20\" y1=\"155\" x2=\"300\" y2=\"155\"/><polygon points=\"20,155 28,151 28,159\" fill=\"black\"/><polygon points=\"300,155 292,151 292,159\" fill=\"black\"/><text x=\"160\" y=\"171\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">2L</text></svg>"
+   }
+  },
+  {
+   "question": "A resistor of length L, radius of cross- section r and resistance of 20Ω are represented below. What will be the resistance of a new resistor of 2r radius?",
+   "choices": [
+    "20Ω",
+    "40Ω",
+    "5Ω",
+    "10Ω"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nWe can consider the enlargement of the cross section (radius) of the resistor as though another resistor was connected in parallel:\n\nWe will calculate the new value of the resistor according to the sum of resistors in parallel:\n\n1/Rtotal = 1/R1 + 1/R2....\n\nFirstly, we will calculate the number of resistors in parallel using the cross- section of t[he resistor — explanation truncated in capture].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Resistance and geometry",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 190\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><rect x=\"20\" y=\"20\" width=\"140\" height=\"36\" rx=\"18\" fill=\"#dbeafe\"/><circle cx=\"160\" cy=\"38\" r=\"18\" fill=\"white\"/><line x1=\"160\" y1=\"38\" x2=\"176\" y2=\"38\"/><polygon points=\"178,38 170,34 170,42\" fill=\"black\"/><text x=\"168\" y=\"30\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">r</text><line x1=\"20\" y1=\"68\" x2=\"178\" y2=\"68\"/><text x=\"95\" y=\"84\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">L</text><rect x=\"20\" y=\"100\" width=\"140\" height=\"55\" rx=\"24\" fill=\"#dbeafe\"/><circle cx=\"160\" cy=\"127\" r=\"27\" fill=\"white\"/><line x1=\"160\" y1=\"127\" x2=\"184\" y2=\"127\"/><polygon points=\"187,127 179,123 179,131\" fill=\"black\"/><text x=\"175\" y=\"118\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">2r</text><line x1=\"20\" y1=\"165\" x2=\"187\" y2=\"165\"/><text x=\"95\" y=\"181\" text-anchor=\"middle\" font-size=\"12\" fill=\"black\" stroke=\"none\">L</text></svg>"
+   }
+  },
+  {
+   "question": "What is the capacitance of the equivalent capacitor (condenser) of the circuit shown in the diagram below?",
+   "choices": [
+    "4mF",
+    "3mF",
+    "12mF",
+    "5mF",
+    "Impossible to answer"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3.\n\nIn order to solve this question it will be easier to look at the circuit as though it is made up of two parts:\n\n(I)Capacitors 3 and 4 connected in parallel.\n(II)The equivalent capacitance of (I) and capacitor 5 connected in parallel.\n\nConnecting capacitors in parallel is based on the fact that the voltage potential on the capacitors is equal and is also equal to voltage potential on the equivalent capacitor.\nThus:\n\nCequivalent = C1 + C2 + ...\n\nBy inserting the data for capacitors 3 and 4 we will receive the following equivalent value:\n\nC equivalent of the upper two capacitors = 3mF + 4mF = 7mF [explanation truncated in capture — remainder below the visible area; 7mF + 5mF = 12mF follows from the visible method].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Capacitors",
+   "topic_n": 8,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 170\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M10 85 L70 85 L70 45 L120 45 M190 45 L260 45 L260 85 L330 85 M70 85 L70 135 L260 135 L260 85 M120 45 L120 85 M190 85 L190 45 M70 45\" fill=\"none\"/><line x1=\"148\" y1=\"30\" x2=\"148\" y2=\"60\"/><line x1=\"158\" y1=\"30\" x2=\"158\" y2=\"60\"/><text x=\"153\" y=\"22\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">3 mF</text><line x1=\"148\" y1=\"70\" x2=\"148\" y2=\"100\"/><line x1=\"158\" y1=\"70\" x2=\"158\" y2=\"100\"/><text x=\"153\" y=\"66\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">4 mF</text><path d=\"M70 105 L70 135 L148 135 M168 135 L260 135\" fill=\"none\"/><line x1=\"148\" y1=\"120\" x2=\"148\" y2=\"150\"/><line x1=\"158\" y1=\"120\" x2=\"158\" y2=\"150\"/><text x=\"153\" y=\"115\" text-anchor=\"middle\" font-size=\"11\" fill=\"black\" stroke=\"none\">5 mF</text><text x=\"170\" y=\"165\" text-anchor=\"middle\" font-size=\"10\" fill=\"black\" stroke=\"none\">3 mF and 4 mF in parallel (top); that pair in parallel with 5 mF (bottom)</text></svg>"
+   }
+  },
+  {
+   "question": "A circuit in which V1 < V2 is given in the diagram below. Which of the following actions should be taken in order to protect the light bulb and have it on?",
+   "choices": [
+    "Connecting a capacitor parallel to the light bulb.",
+    "Connecting a capacitor in series with the light bulb.",
+    "Connecting a resistor parallel to the light bulb.",
+    "Connecting a resistor in series with the light bulb.",
+    "No action is needed."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4.\n\nThe light bulb can only withstand a voltage of V1. If no change is implemented, the light bulb will be under a voltage of V2. Thus an action is needed.\n\nIn short, adding a resistor in series will cause a voltage drop, thus reducing the voltage [explanation truncated in capture — remainder below the visible area].",
+   "source": "Mechanical Reasoning 6 — Electrical Drill",
+   "topic": "Protecting the bulb — series resistor",
+   "topic_n": 9,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 140\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><path d=\"M45 55 L125 55 M185 55 L265 55 L265 115 L45 115 L45 80\" fill=\"none\"/><line x1=\"31\" y1=\"68\" x2=\"59\" y2=\"68\"/><line x1=\"37\" y1=\"58\" x2=\"53\" y2=\"58\"/><text x=\"28\" y=\"68\" text-anchor=\"end\" font-size=\"13\" fill=\"black\" stroke=\"none\">V2</text><circle cx=\"155\" cy=\"55\" r=\"26\" fill=\"white\"/><line x1=\"137\" y1=\"37\" x2=\"173\" y2=\"73\"/><line x1=\"137\" y1=\"73\" x2=\"173\" y2=\"37\"/><text x=\"155\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" fill=\"black\" stroke=\"none\">V1</text></svg>"
+   }
+  },
+  {
+   "question": "What is the ratio of currents through the resistors?",
+   "choices": [
+    "1:1:1",
+    "5:1",
+    "3:2:1",
+    "6:3:2",
+    "1:1:3"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nWhen three resistors are in parallel, they develop the same potential difference regardless of their individual resistances. As such, and by using Ohm's law, we can deduce that the current flowing through resistor R will be V/R, the current flowing through resistor 2R will be V/2R, and the current flowing through resistor 3R will be V/3R.\nWe will calculate the ratio:\nI1 = V/R\nI2 = V/2R\nI3 = V/3R\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Currents and voltage",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 200\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"18\" y=\"100\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"46\" y=\"70\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"46\" y=\"122\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"82\" y1=\"30\" x2=\"82\" y2=\"92\"/><line x1=\"82\" y1=\"92\" x2=\"128\" y2=\"92\"/><line x1=\"92\" y1=\"107\" x2=\"118\" y2=\"107\"/><line x1=\"82\" y1=\"107\" x2=\"82\" y2=\"170\"/><line x1=\"82\" y1=\"30\" x2=\"320\" y2=\"30\"/><line x1=\"320\" y1=\"30\" x2=\"320\" y2=\"60\"/><line x1=\"215\" y1=\"60\" x2=\"320\" y2=\"60\"/><line x1=\"215\" y1=\"110\" x2=\"320\" y2=\"110\"/><polyline points=\"235,60 235,64.1667 229,68.3333 235,72.5 241,76.6667 235,80.8333 229,85 235,89.1667 241,93.3333 235,97.5 229,101.667 235,105.833 241,110 235,114.167 235,110\"/><polyline points=\"270,60 270,64.1667 264,68.3333 270,72.5 276,76.6667 270,80.8333 264,85 270,89.1667 276,93.3333 270,97.5 264,101.667 270,105.833 276,110 270,114.167 270,110\"/><polyline points=\"305,60 305,64.1667 299,68.3333 305,72.5 311,76.6667 305,80.8333 299,85 305,89.1667 311,93.3333 305,97.5 299,101.667 305,105.833 311,110 305,114.167 305,110\"/><line x1=\"270\" y1=\"110\" x2=\"270\" y2=\"170\"/><line x1=\"82\" y1=\"170\" x2=\"270\" y2=\"170\"/><text x=\"226\" y=\"90\" fill=\"black\" stroke=\"none\" text-anchor=\"end\">1Ω</text><text x=\"278\" y=\"90\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">2Ω</text><text x=\"313\" y=\"90\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">3Ω</text></svg>"
+   }
+  },
+  {
+   "question": "If read clockwise, what is the ratio of voltage drop on the resistors?",
+   "choices": [
+    "1:1:1",
+    "5:1",
+    "2:3:1",
+    "1:2:3",
+    "1:1:3"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nWhen three resistors are in series (their opposite ends are directly connected), the same current (I) flows through each of them regardless of their individual resistances.\nAs such, and by using Ohm's law, we can deduce that the voltage drop on resistor R will be RI, the voltage drop on resistor 2R will be 2RI, and the voltage drop on resistor 3R will be 3RI.\nTherefore, a voltage drop twice as strong will occur on resistor R compared to 2R, and three times as strong compared to 3R.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Currents and voltage",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 205\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"18\" y=\"100\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"46\" y=\"70\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"46\" y=\"122\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"82\" y1=\"30\" x2=\"82\" y2=\"92\"/><line x1=\"82\" y1=\"92\" x2=\"128\" y2=\"92\"/><line x1=\"92\" y1=\"107\" x2=\"118\" y2=\"107\"/><line x1=\"82\" y1=\"107\" x2=\"82\" y2=\"170\"/><line x1=\"82\" y1=\"30\" x2=\"192\" y2=\"30\"/><polyline points=\"192,30 195.833,30 199.667,24 203.5,30 207.333,36 211.167,30 215,24 218.833,30 222.667,36 226.5,30 230.333,24 234.167,30 238,36 241.833,30 238,30\"/><line x1=\"238\" y1=\"30\" x2=\"320\" y2=\"30\"/><line x1=\"320\" y1=\"30\" x2=\"320\" y2=\"77\"/><polyline points=\"320,77 320,80.8333 314,84.6667 320,88.5 326,92.3333 320,96.1667 314,100 320,103.833 326,107.667 320,111.5 314,115.333 320,119.167 326,123 320,126.833 320,123\"/><line x1=\"320\" y1=\"123\" x2=\"320\" y2=\"170\"/><line x1=\"320\" y1=\"170\" x2=\"238\" y2=\"170\"/><polyline points=\"192,170 195.833,170 199.667,164 203.5,170 207.333,176 211.167,170 215,164 218.833,170 222.667,176 226.5,170 230.333,164 234.167,170 238,176 241.833,170 238,170\"/><line x1=\"192\" y1=\"170\" x2=\"82\" y2=\"170\"/><text x=\"215\" y=\"20\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">1R</text><text x=\"330\" y=\"105\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">2R</text><text x=\"215\" y=\"192\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">3R</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following materials is considered a good conductor?",
+   "choices": [
+    "Glass",
+    "Copper",
+    "Wood",
+    "Pure water",
+    "Plastic"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nCopper is one of the most commonly used conductors. Pure water is water containing no dissolved substance. Water itself is not conductive; rather, it is the ions in electrolytes that conduct electricity. Thus, pure water is not a good conductor. Wood, plastic, and glass are all considered good insulators, not conductors.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Conductors and insulators",
+   "topic_n": 2
+  },
+  {
+   "question": "Which of the following is correct if we add a third, parallel, bulb to the circuit with the same resistance?",
+   "choices": [
+    "Bulb A's current will decrease",
+    "Bulb A's current will increase",
+    "Bulb A's current will stay the same",
+    "Bulb A's current will increase and then decrease",
+    "Cannot tell"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to Ohm's law, the current in bulb A is dependent upon the voltage drop across it as well as the bulb's resistance. In equation form, I=V/R.\n\nIn a parallel circuit:\n1. The voltage on all elements is equal to the total voltage V\n2. The total resistance RT is the sum of reciprocals of each resistor's resistance.\n3. The total current is the sum of currents on each resistor.\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Switches and bulbs",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 370\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"10\" y=\"20\" fill=\"black\" stroke=\"none\" text-decoration=\"underline\">Before:</text><text x=\"18\" y=\"87\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"40\" y=\"62\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"40\" y=\"108\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"72\" y1=\"45\" x2=\"72\" y2=\"75\"/><line x1=\"72\" y1=\"75\" x2=\"118\" y2=\"75\"/><line x1=\"82\" y1=\"90\" x2=\"108\" y2=\"90\"/><line x1=\"72\" y1=\"90\" x2=\"72\" y2=\"165\"/><line x1=\"72\" y1=\"45\" x2=\"350\" y2=\"45\"/><text x=\"150\" y=\"35\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">I₀</text><line x1=\"240\" y1=\"45\" x2=\"240\" y2=\"105\"/><line x1=\"350\" y1=\"45\" x2=\"350\" y2=\"105\"/><line x1=\"190\" y1=\"105\" x2=\"240\" y2=\"105\"/><circle cx=\"203\" cy=\"105\" r=\"10\" fill=\"white\"/><line x1=\"195.93\" y1=\"97.93\" x2=\"210.07\" y2=\"112.07\"/><line x1=\"195.93\" y1=\"112.07\" x2=\"210.07\" y2=\"97.93\"/><text x=\"217\" y=\"97\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A</text><line x1=\"300\" y1=\"105\" x2=\"350\" y2=\"105\"/><circle cx=\"313\" cy=\"105\" r=\"10\" fill=\"white\"/><line x1=\"305.93\" y1=\"97.93\" x2=\"320.07\" y2=\"112.07\"/><line x1=\"305.93\" y1=\"112.07\" x2=\"320.07\" y2=\"97.93\"/><text x=\"327\" y=\"97\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">B</text><line x1=\"190\" y1=\"105\" x2=\"190\" y2=\"165\"/><line x1=\"300\" y1=\"105\" x2=\"300\" y2=\"165\"/><line x1=\"72\" y1=\"165\" x2=\"300\" y2=\"165\"/><text x=\"10\" y=\"205\" fill=\"black\" stroke=\"none\" text-decoration=\"underline\">After:</text><text x=\"18\" y=\"272\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"40\" y=\"247\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"40\" y=\"293\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"72\" y1=\"230\" x2=\"72\" y2=\"260\"/><line x1=\"72\" y1=\"260\" x2=\"118\" y2=\"260\"/><line x1=\"82\" y1=\"275\" x2=\"108\" y2=\"275\"/><line x1=\"72\" y1=\"275\" x2=\"72\" y2=\"350\"/><line x1=\"72\" y1=\"230\" x2=\"350\" y2=\"230\"/><text x=\"150\" y=\"220\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">I</text><line x1=\"190\" y1=\"230\" x2=\"190\" y2=\"290\"/><line x1=\"275\" y1=\"230\" x2=\"275\" y2=\"290\"/><line x1=\"350\" y1=\"230\" x2=\"350\" y2=\"290\"/><line x1=\"140\" y1=\"290\" x2=\"190\" y2=\"290\"/><circle cx=\"153\" cy=\"290\" r=\"10\" fill=\"white\"/><line x1=\"145.93\" y1=\"282.93\" x2=\"160.07\" y2=\"297.07\"/><line x1=\"145.93\" y1=\"297.07\" x2=\"160.07\" y2=\"282.93\"/><text x=\"167\" y=\"282\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A</text><line x1=\"225\" y1=\"290\" x2=\"275\" y2=\"290\"/><circle cx=\"238\" cy=\"290\" r=\"10\" fill=\"white\"/><line x1=\"230.93\" y1=\"282.93\" x2=\"245.07\" y2=\"297.07\"/><line x1=\"230.93\" y1=\"297.07\" x2=\"245.07\" y2=\"282.93\"/><text x=\"252\" y=\"282\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">B</text><line x1=\"310\" y1=\"290\" x2=\"350\" y2=\"290\"/><circle cx=\"318\" cy=\"290\" r=\"10\" fill=\"white\"/><line x1=\"310.93\" y1=\"282.93\" x2=\"325.07\" y2=\"297.07\"/><line x1=\"310.93\" y1=\"297.07\" x2=\"325.07\" y2=\"282.93\"/><text x=\"332\" y=\"282\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">C</text><line x1=\"140\" y1=\"290\" x2=\"140\" y2=\"350\"/><line x1=\"225\" y1=\"290\" x2=\"225\" y2=\"350\"/><line x1=\"310\" y1=\"290\" x2=\"310\" y2=\"350\"/><line x1=\"72\" y1=\"350\" x2=\"310\" y2=\"350\"/></svg>"
+   }
+  },
+  {
+   "question": "In the circuit below, how many bulbs will light when switch II and III are closed, but switch I is open?",
+   "choices": [
+    "Bulbs A, B and D",
+    "Bulbs D and A",
+    "Bulbs A, B and C",
+    "Bulbs B and C",
+    "None"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E).\n\nAccording to the circuit shown in the figure above, the inner, left, branch of the circuit containing switches II, III is connected in series to bulbs \"D\", \"C\".\nThe inner, right, branch containing switches III, I, is connected in series to bulbs \"c\", \"b\" and \"A\" and the power source.\nWhen switches II, III are closed but switch I is open, the right branch is an open circuit. The left branch creates a closed circuit with no power source, and, thus, no current flows through the bulbs.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Switches and bulbs",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 245\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><line x1=\"40\" y1=\"40\" x2=\"100\" y2=\"40\"/><circle cx=\"110\" cy=\"40\" r=\"10\" fill=\"white\"/><line x1=\"102.93\" y1=\"32.93\" x2=\"117.07\" y2=\"47.07\"/><line x1=\"102.93\" y1=\"47.07\" x2=\"117.07\" y2=\"32.93\"/><line x1=\"120\" y1=\"40\" x2=\"275\" y2=\"40\"/><text x=\"110\" y=\"20\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">D</text><circle cx=\"298\" cy=\"40\" r=\"2.5\" fill=\"black\"/><line x1=\"275\" y1=\"40\" x2=\"256\" y2=\"26\"/><line x1=\"298\" y1=\"40\" x2=\"340\" y2=\"40\"/><text x=\"264\" y=\"16\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">1</text><line x1=\"340\" y1=\"40\" x2=\"340\" y2=\"110\"/><circle cx=\"340\" cy=\"120\" r=\"10\" fill=\"white\"/><line x1=\"332.93\" y1=\"112.93\" x2=\"347.07\" y2=\"127.07\"/><line x1=\"332.93\" y1=\"127.07\" x2=\"347.07\" y2=\"112.93\"/><line x1=\"340\" y1=\"130\" x2=\"340\" y2=\"200\"/><text x=\"356\" y=\"125\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">B</text><line x1=\"340\" y1=\"200\" x2=\"265\" y2=\"200\"/><circle cx=\"255\" cy=\"200\" r=\"10\" fill=\"white\"/><line x1=\"247.93\" y1=\"192.93\" x2=\"262.07\" y2=\"207.07\"/><line x1=\"247.93\" y1=\"207.07\" x2=\"262.07\" y2=\"192.93\"/><line x1=\"245\" y1=\"200\" x2=\"138\" y2=\"200\"/><text x=\"255\" y=\"228\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"118\" y1=\"158\" x2=\"118\" y2=\"242\"/><line x1=\"138\" y1=\"178\" x2=\"138\" y2=\"222\"/><line x1=\"40\" y1=\"200\" x2=\"118\" y2=\"200\"/><text x=\"100\" y=\"238\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"146\" y=\"238\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"148\"/><circle cx=\"40\" cy=\"152\" r=\"2.5\" fill=\"black\"/><line x1=\"40\" y1=\"200\" x2=\"27\" y2=\"160\"/><text x=\"12\" y=\"140\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">2</text><line x1=\"40\" y1=\"200\" x2=\"148\" y2=\"107\"/><line x1=\"148\" y1=\"107\" x2=\"166\" y2=\"90\"/><circle cx=\"176\" cy=\"82\" r=\"2.5\" fill=\"black\"/><line x1=\"176\" y1=\"82\" x2=\"275\" y2=\"40\"/><circle cx=\"214\" cy=\"63\" r=\"10\" fill=\"white\"/><line x1=\"204\" y1=\"63\" x2=\"224\" y2=\"63\"/><line x1=\"214\" y1=\"53\" x2=\"214\" y2=\"73\"/><text x=\"230\" y=\"84\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">C</text><text x=\"158\" y=\"84\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">3</text></svg>"
+   }
+  },
+  {
+   "question": "In which of the circuits will electrical current flow?",
+   "choices": [
+    "Circuit 1",
+    "Circuit 2",
+    "Both circuits",
+    "None",
+    "Cannot tell"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nA diode is a two-terminal electronic component that conducts primarily in one direction. (The vertex and vertical line of a triangle symbolize the direction the diode conducts in.) It has very low resistance to the flow of current in one direction and very high resistance in the other direction. Since according to conventional current flow notation current flows from higher to lower potential, or from the positive to the negative terminal in a circuit with a power source, an electrical current will flow in circuit 1 but not in circuit 2.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Diodes and current direction",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 185\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"105\" y=\"28\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">Circuit 1</text><text x=\"320\" y=\"28\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">Circuit 2</text><line x1=\"45\" y1=\"60\" x2=\"45\" y2=\"85\"/><line x1=\"45\" y1=\"85\" x2=\"85\" y2=\"85\"/><line x1=\"45\" y1=\"100\" x2=\"75\" y2=\"100\"/><line x1=\"45\" y1=\"100\" x2=\"45\" y2=\"150\"/><text x=\"28\" y=\"80\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"28\" y=\"116\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"45\" y1=\"60\" x2=\"105\" y2=\"60\"/><rect x=\"105\" y=\"52\" width=\"42\" height=\"16\" fill=\"white\"/><polyline points=\"109,60 113.25,60 117.5,56 121.75,60 126,64 130.25,60 134.5,56 138.75,60 143,64 147.25,60 143,60\"/><line x1=\"147\" y1=\"60\" x2=\"195\" y2=\"60\"/><line x1=\"195\" y1=\"60\" x2=\"195\" y2=\"150\"/><line x1=\"195\" y1=\"150\" x2=\"45\" y2=\"150\"/><polygon points=\"186,92 204,92 195,108\" fill=\"black\"/><line x1=\"184\" y1=\"112\" x2=\"206\" y2=\"112\"/><line x1=\"260\" y1=\"60\" x2=\"260\" y2=\"85\"/><line x1=\"260\" y1=\"85\" x2=\"300\" y2=\"85\"/><line x1=\"260\" y1=\"100\" x2=\"290\" y2=\"100\"/><line x1=\"260\" y1=\"100\" x2=\"260\" y2=\"150\"/><text x=\"243\" y=\"80\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"243\" y=\"116\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"260\" y1=\"60\" x2=\"320\" y2=\"60\"/><rect x=\"320\" y=\"52\" width=\"42\" height=\"16\" fill=\"white\"/><polyline points=\"324,60 328.25,60 332.5,56 336.75,60 341,64 345.25,60 349.5,56 353.75,60 358,64 362.25,60 358,60\"/><line x1=\"362\" y1=\"60\" x2=\"410\" y2=\"60\"/><line x1=\"410\" y1=\"60\" x2=\"410\" y2=\"150\"/><line x1=\"410\" y1=\"150\" x2=\"260\" y2=\"150\"/><line x1=\"399\" y1=\"92\" x2=\"421\" y2=\"92\"/><polygon points=\"401,112 419,112 410,96\" fill=\"black\"/></svg>"
+   }
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric power ?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nPower is defined as energy per time. The watt is defined as joule per second, another way of stating energy per time.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Units and components",
+   "topic_n": 5
+  },
+  {
+   "question": "Which of the following is an electrical component used to temporarily store electrical energy in an electric field ?",
+   "choices": [
+    "Capacitor",
+    "Transducer",
+    "Switch",
+    "Diode",
+    "Resistor"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Units and components",
+   "topic_n": 5
+  },
+  {
+   "question": "In the circuit below, Rx is a potentiometer (resistor with a changeable resistance), while r is a resistor connected in series to the potentiometer.\n\nWhere should the mobile contact be placed (on the potentiometer) in order for the bulb to illuminate the strongest?",
+   "choices": [
+    "N",
+    "O",
+    "M",
+    "All give the same result",
+    "Cannot tell"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nThe power on the bulb equals: p = IV = I^2*R.\nWhere:\nI - current the circuit [Amp]\nR - bulb's resistance [Ohm]\n\nUsing the fact that r and Rx are connected in series, Ohm's law yields:\nI = V/(r+Rx).\nV - the battery voltage\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Resistance",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 225\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><line x1=\"60\" y1=\"60\" x2=\"90\" y2=\"60\"/><line x1=\"90\" y1=\"33\" x2=\"90\" y2=\"87\"/><line x1=\"110\" y1=\"47\" x2=\"110\" y2=\"73\"/><line x1=\"110\" y1=\"60\" x2=\"300\" y2=\"60\"/><text x=\"70\" y=\"50\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"118\" y=\"50\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><text x=\"130\" y=\"42\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><line x1=\"300\" y1=\"60\" x2=\"300\" y2=\"78\"/><line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"103\"/><polyline points=\"60,103 60,106.833 54,110.667 60,114.5 66,118.333 60,122.167 54,126 60,129.833 66,133.667 60,137.5 54,141.333 60,145.167 66,149 60,152.833 60,149\"/><line x1=\"60\" y1=\"149\" x2=\"60\" y2=\"192\"/><text x=\"40\" y=\"130\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">r</text><line x1=\"60\" y1=\"192\" x2=\"140\" y2=\"192\"/><circle cx=\"150\" cy=\"192\" r=\"10\" fill=\"white\"/><line x1=\"142.93\" y1=\"184.93\" x2=\"157.07\" y2=\"199.07\"/><line x1=\"142.93\" y1=\"199.07\" x2=\"157.07\" y2=\"184.93\"/><line x1=\"160\" y1=\"192\" x2=\"212\" y2=\"192\"/><text x=\"150\" y=\"174\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">L</text><line x1=\"212\" y1=\"192\" x2=\"212\" y2=\"126\"/><line x1=\"212\" y1=\"126\" x2=\"276\" y2=\"126\"/><rect x=\"292\" y=\"78\" width=\"17\" height=\"90\" fill=\"white\"/><polyline points=\"300,86 300,90.625 296,95.25 300,99.875 304,104.5 300,109.125 296,113.75 300,118.375 304,123 300,127.625 296,132.25 300,136.875 304,141.5 300,146.125 296,150.75 300,155.375 304,160 300,164.625 300,160\"/><polygon points=\"278,119 292,126 278,133\" fill=\"black\"/><text x=\"258\" y=\"96\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">Rx</text><text x=\"317\" y=\"90\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">M</text><text x=\"317\" y=\"131\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">O</text><text x=\"317\" y=\"172\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">N</text></svg>"
+   }
+  },
+  {
+   "question": "Ammeters measure the amount of current in a circuit. In the circuit below all the ammeters are identical. If Ammeter A1 reads 0.75A, what will Ammeter A3 read?",
+   "choices": [
+    "1.5",
+    "1",
+    "0",
+    "0.25",
+    "0.5"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E).\n\nSince all the ammeters are identical, let's denote their resistance as r. A1 and A2 are connected in parallel and thus share the same voltage drop. If A1 reads 0.75A, then A2, with the same resistance, should also read 0.75A. Thus, the current in the main circuit, which flows through resistor R, is 0.75A*2 = 1.5A.\nA3, A4 and A5 are connected in parallel and thus share the same voltage drop. They are identical, and thus the same current flows through each: 1.5A/3 = 0.5A.\n\nImportant note: The resistance of ammeters is negligible compared to a regular resistor [words hidden in capture] account for them in calculations. However, in this case, we have no choice as compare\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Ammeters",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 415 255\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><line x1=\"40\" y1=\"65\" x2=\"70\" y2=\"65\"/><line x1=\"70\" y1=\"35\" x2=\"70\" y2=\"95\"/><line x1=\"90\" y1=\"50\" x2=\"90\" y2=\"80\"/><line x1=\"90\" y1=\"65\" x2=\"152\" y2=\"65\"/><text x=\"50\" y=\"48\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"98\" y=\"48\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><polyline points=\"152,65 155.833,65 159.667,59 163.5,65 167.333,71 171.167,65 175,59 178.833,65 182.667,71 186.5,65 190.333,59 194.167,65 198,71 201.833,65 198,65\"/><text x=\"175\" y=\"45\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">R</text><line x1=\"198\" y1=\"65\" x2=\"250\" y2=\"65\"/><line x1=\"250\" y1=\"40\" x2=\"250\" y2=\"90\"/><line x1=\"348\" y1=\"40\" x2=\"348\" y2=\"90\"/><line x1=\"250\" y1=\"40\" x2=\"279\" y2=\"40\"/><circle cx=\"290\" cy=\"40\" r=\"11\" fill=\"white\"/><text x=\"290\" y=\"45\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"301\" y1=\"40\" x2=\"348\" y2=\"40\"/><line x1=\"250\" y1=\"65\" x2=\"279\" y2=\"65\"/><circle cx=\"290\" cy=\"65\" r=\"11\" fill=\"white\"/><text x=\"290\" y=\"70\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"301\" y1=\"65\" x2=\"348\" y2=\"65\"/><line x1=\"250\" y1=\"90\" x2=\"279\" y2=\"90\"/><circle cx=\"290\" cy=\"90\" r=\"11\" fill=\"white\"/><text x=\"290\" y=\"95\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"301\" y1=\"90\" x2=\"348\" y2=\"90\"/><text x=\"306\" y=\"33\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A3</text><text x=\"306\" y=\"58\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A4</text><text x=\"306\" y=\"83\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A5</text><line x1=\"348\" y1=\"90\" x2=\"348\" y2=\"200\"/><line x1=\"348\" y1=\"200\" x2=\"185\" y2=\"200\"/><line x1=\"185\" y1=\"200\" x2=\"185\" y2=\"178\"/><line x1=\"185\" y1=\"178\" x2=\"161\" y2=\"178\"/><circle cx=\"150\" cy=\"178\" r=\"11\" fill=\"white\"/><text x=\"150\" y=\"183\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"139\" y1=\"178\" x2=\"115\" y2=\"178\"/><line x1=\"115\" y1=\"178\" x2=\"115\" y2=\"200\"/><line x1=\"185\" y1=\"200\" x2=\"185\" y2=\"226\"/><line x1=\"185\" y1=\"226\" x2=\"161\" y2=\"226\"/><circle cx=\"150\" cy=\"226\" r=\"11\" fill=\"white\"/><text x=\"150\" y=\"231\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"139\" y1=\"226\" x2=\"115\" y2=\"226\"/><line x1=\"115\" y1=\"226\" x2=\"115\" y2=\"200\"/><text x=\"166\" y=\"168\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A1</text><text x=\"166\" y=\"216\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A2</text><line x1=\"115\" y1=\"200\" x2=\"40\" y2=\"200\"/><line x1=\"40\" y1=\"200\" x2=\"40\" y2=\"65\"/></svg>"
+   }
+  },
+  {
+   "question": "In the circuit shown below, a resistor, R, is connected in series to an ammeter. Which of the following statements is correct?",
+   "choices": [
+    "A and B are anodes",
+    "A and B are cathodes",
+    "B is the anode and A is the cathode",
+    "A is the anode and B is the cathode",
+    "Cannot tell"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nA cathode is an electrode from which electric current flows out of a polarized electrical device. An anode is an electrode from which current flows the other way (into the device). Convention dictates that current flows from the positive to the negative terminal in a circuit with a power source. Thus, A denotes the cathode and B the anode.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Diodes and current direction",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 205\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><line x1=\"45\" y1=\"60\" x2=\"75\" y2=\"60\"/><line x1=\"75\" y1=\"33\" x2=\"75\" y2=\"87\"/><line x1=\"95\" y1=\"47\" x2=\"95\" y2=\"73\"/><line x1=\"95\" y1=\"60\" x2=\"300\" y2=\"60\"/><text x=\"75\" y=\"22\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><text x=\"75\" y=\"44\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">+</text><text x=\"95\" y=\"22\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">B</text><text x=\"97\" y=\"44\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"300\" y1=\"60\" x2=\"300\" y2=\"94\"/><polyline points=\"300,94 300,97.8333 294,101.667 300,105.5 306,109.333 300,113.167 294,117 300,120.833 306,124.667 300,128.5 294,132.333 300,136.167 306,140 300,143.833 300,140\"/><line x1=\"300\" y1=\"140\" x2=\"300\" y2=\"172\"/><text x=\"312\" y=\"122\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">R</text><line x1=\"300\" y1=\"172\" x2=\"181\" y2=\"172\"/><circle cx=\"170\" cy=\"172\" r=\"11\" fill=\"white\"/><text x=\"170\" y=\"177\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"159\" y1=\"172\" x2=\"45\" y2=\"172\"/><line x1=\"45\" y1=\"172\" x2=\"45\" y2=\"60\"/></svg>"
+   }
+  },
+  {
+   "question": "What would the total resistance be if a resistor was added in series to the following circuit?",
+   "choices": [
+    "R",
+    "2R",
+    "3R",
+    "2R/3",
+    "3R/2"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E).\n\nSeries Connection:\nResistors are said to be connected in series if the currents through each of the resistors are equal. If resistors R1, R2 are connected in series, then their total resistance Rt can be calculated using the formula:\nRt = R1 + R2\n\nParallel Connection:\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Resistance",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 415\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"10\" y=\"20\" fill=\"black\" stroke=\"none\" text-decoration=\"underline\">Before:</text><text x=\"16\" y=\"113\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"40\" y=\"87\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"40\" y=\"133\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"75\" y1=\"55\" x2=\"75\" y2=\"97\"/><line x1=\"75\" y1=\"97\" x2=\"121\" y2=\"97\"/><line x1=\"85\" y1=\"112\" x2=\"111\" y2=\"112\"/><line x1=\"75\" y1=\"112\" x2=\"75\" y2=\"197\"/><line x1=\"75\" y1=\"55\" x2=\"300\" y2=\"55\"/><line x1=\"300\" y1=\"55\" x2=\"300\" y2=\"75\"/><line x1=\"238\" y1=\"75\" x2=\"322\" y2=\"75\"/><line x1=\"238\" y1=\"127\" x2=\"322\" y2=\"127\"/><polyline points=\"256,75 256,79.3333 250,83.6667 256,88 262,92.3333 256,96.6667 250,101 256,105.333 262,109.667 256,114 250,118.333 256,122.667 262,127 256,131.333 256,127\"/><polyline points=\"304,75 304,79.3333 298,83.6667 304,88 310,92.3333 304,96.6667 298,101 304,105.333 310,109.667 304,114 298,118.333 304,122.667 310,127 304,131.333 304,127\"/><text x=\"246\" y=\"107\" fill=\"black\" stroke=\"none\" text-anchor=\"end\">R</text><text x=\"314\" y=\"107\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">R</text><line x1=\"280\" y1=\"127\" x2=\"280\" y2=\"197\"/><line x1=\"280\" y1=\"197\" x2=\"75\" y2=\"197\"/><text x=\"10\" y=\"228\" fill=\"black\" stroke=\"none\" text-decoration=\"underline\">After:</text><text x=\"16\" y=\"321\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">V</text><text x=\"40\" y=\"295\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"40\" y=\"341\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><line x1=\"75\" y1=\"263\" x2=\"75\" y2=\"305\"/><line x1=\"75\" y1=\"305\" x2=\"121\" y2=\"305\"/><line x1=\"85\" y1=\"320\" x2=\"111\" y2=\"320\"/><line x1=\"75\" y1=\"320\" x2=\"75\" y2=\"405\"/><line x1=\"75\" y1=\"263\" x2=\"300\" y2=\"263\"/><line x1=\"300\" y1=\"263\" x2=\"300\" y2=\"283\"/><line x1=\"238\" y1=\"283\" x2=\"322\" y2=\"283\"/><line x1=\"238\" y1=\"335\" x2=\"322\" y2=\"335\"/><polyline points=\"256,283 256,287.333 250,291.667 256,296 262,300.333 256,304.667 250,309 256,313.333 262,317.667 256,322 250,326.333 256,330.667 262,335 256,339.333 256,335\"/><polyline points=\"304,283 304,287.333 298,291.667 304,296 310,300.333 304,304.667 298,309 304,313.333 310,317.667 304,322 298,326.333 304,330.667 310,335 304,339.333 304,335\"/><text x=\"246\" y=\"315\" fill=\"black\" stroke=\"none\" text-anchor=\"end\">R</text><text x=\"314\" y=\"315\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">R</text><line x1=\"280\" y1=\"335\" x2=\"280\" y2=\"405\"/><line x1=\"280\" y1=\"405\" x2=\"198\" y2=\"405\"/><polyline points=\"152,405 155.833,405 159.667,399 163.5,405 167.333,411 171.167,405 175,399 178.833,405 182.667,411 186.5,405 190.333,399 194.167,405 198,411 201.833,405 198,405\"/><line x1=\"152\" y1=\"405\" x2=\"75\" y2=\"405\"/><text x=\"175\" y=\"427\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">R</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric charge ?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Units and components",
+   "topic_n": 5
+  },
+  {
+   "question": "A light bulb's power is given as 4W. The bulb's resistance is 16Ω. What will the current flowing through the light bulb be if put under the optimal voltage ?",
+   "choices": [
+    "0.5A",
+    "0.25A",
+    "2A",
+    "1.5A",
+    "1A"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nTo calculate the resistance, we will use the following formulas:\nV=R*I\nP=V*I\n\nWhere:\nI = current [A]\nV = Voltage [V]\nP = Power [W]\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Power and current",
+   "topic_n": 8
+  },
+  {
+   "question": "A resistor of length L, cross- sectional area A and a resistance R are represented below. What will the resistance be after doubling the cross-sectional area of the resistor?",
+   "choices": [
+    "0.25R",
+    "0.5R",
+    "R",
+    "2R",
+    "4R"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe resistance of a resistor is inversely proportional to its surface area - double the surface - half the resistance. You may think of it, intuitively, as a flow of water going through a pipe - the wider the pipe, the smaller is its resistance.\n\nTo exemplify this, we can consider the question as though instead of one resistor with cross-section 2A, we now have two resistors with cross section A, connected in parallel.\nWe will calculate the new value of the resistor according to the sum of the resistors in\n[explanation truncated in capture]",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Resistance",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 215\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><text x=\"10\" y=\"56\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">Before</text><rect x=\"95\" y=\"28\" width=\"195\" height=\"42\" rx=\"21\" fill=\"white\"/><ellipse cx=\"290\" cy=\"49\" rx=\"13\" ry=\"21\" fill=\"white\"/><text x=\"185\" y=\"54\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">Resistance</text><text x=\"290\" y=\"54\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">A</text><line x1=\"100\" y1=\"88\" x2=\"285\" y2=\"88\"/><polyline points=\"112,82 100,88 112,94\"/><polyline points=\"273,82 285,88 273,94\"/><text x=\"192\" y=\"110\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">L</text><text x=\"10\" y=\"148\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">After</text><rect x=\"95\" y=\"118\" width=\"195\" height=\"50\" rx=\"25\" fill=\"white\"/><ellipse cx=\"290\" cy=\"143\" rx=\"13\" ry=\"25\" fill=\"white\"/><text x=\"185\" y=\"148\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">Resistance</text><text x=\"290\" y=\"148\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">2A</text><line x1=\"100\" y1=\"186\" x2=\"285\" y2=\"186\"/><polyline points=\"112,180 100,186 112,192\"/><polyline points=\"273,180 285,186 273,192\"/><text x=\"192\" y=\"208\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">L</text></svg>"
+   }
+  },
+  {
+   "question": "What is the direction of the electrical current in the circuit below?",
+   "choices": [
+    "From D to C to B to A",
+    "From A to B to C to D",
+    "From A to B to C to A",
+    "Either direction is possible",
+    "No current will flow"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is (E).\n\nThe main idea behind this question is the difference between the batteries (power suppliers) connected to the circuit. By definition, charge moves from the + terminal to the - terminal.\n\nHere we have three batteries and the direction of voltage drop they create equals the sum of each:\n\nV_total = 5V + (-3V) + (-2V) = 5V + (- 5V) = 0V. Thus, there is no voltage drop and no current flows in this circuit.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Diodes and current direction",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 235\" fill=\"none\" stroke=\"black\" stroke-width=\"2\" font-family=\"sans-serif\" font-size=\"13\"><circle cx=\"50\" cy=\"90\" r=\"3\" fill=\"black\"/><text x=\"36\" y=\"84\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">A</text><line x1=\"50\" y1=\"90\" x2=\"95\" y2=\"90\"/><polyline points=\"95,90 98.8333,90 102.667,84 106.5,90 110.333,96 114.167,90 118,84 121.833,90 125.667,96 129.5,90 133.333,84 137.167,90 141,96 144.833,90 141,90\"/><line x1=\"141\" y1=\"90\" x2=\"150\" y2=\"90\"/><line x1=\"150\" y1=\"90\" x2=\"150\" y2=\"55\"/><circle cx=\"150\" cy=\"55\" r=\"3\" fill=\"black\"/><text x=\"138\" y=\"46\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">B</text><line x1=\"150\" y1=\"55\" x2=\"215\" y2=\"55\"/><polyline points=\"215,55 218.833,55 222.667,49 226.5,55 230.333,61 234.167,55 238,49 241.833,55 245.667,61 249.5,55 253.333,49 257.167,55 261,61 264.833,55 261,55\"/><line x1=\"261\" y1=\"55\" x2=\"340\" y2=\"55\"/><line x1=\"340\" y1=\"55\" x2=\"340\" y2=\"150\"/><text x=\"238\" y=\"43\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">R</text><text x=\"117\" y=\"78\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">R</text><circle cx=\"340\" cy=\"150\" r=\"3\" fill=\"black\"/><text x=\"350\" y=\"168\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">C</text><line x1=\"340\" y1=\"150\" x2=\"291\" y2=\"150\"/><polyline points=\"245,150 248.833,150 252.667,144 256.5,150 260.333,156 264.167,150 268,144 271.833,150 275.667,156 279.5,150 283.333,144 287.167,150 291,156 294.833,150 291,150\"/><line x1=\"245\" y1=\"150\" x2=\"225\" y2=\"150\"/><line x1=\"225\" y1=\"150\" x2=\"225\" y2=\"180\"/><text x=\"268\" y=\"138\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">R</text><circle cx=\"225\" cy=\"180\" r=\"3\" fill=\"black\"/><text x=\"236\" y=\"198\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">D</text><line x1=\"225\" y1=\"180\" x2=\"50\" y2=\"180\"/><line x1=\"50\" y1=\"180\" x2=\"50\" y2=\"90\"/><line x1=\"85\" y1=\"155\" x2=\"85\" y2=\"205\"/><line x1=\"105\" y1=\"165\" x2=\"105\" y2=\"195\"/><text x=\"74\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"110\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><text x=\"95\" y=\"226\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">5V</text><line x1=\"130\" y1=\"155\" x2=\"130\" y2=\"205\"/><line x1=\"150\" y1=\"165\" x2=\"150\" y2=\"195\"/><text x=\"119\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><text x=\"155\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"140\" y=\"226\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">3V</text><line x1=\"175\" y1=\"165\" x2=\"175\" y2=\"195\"/><line x1=\"195\" y1=\"155\" x2=\"195\" y2=\"205\"/><text x=\"164\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">-</text><text x=\"200\" y=\"170\" fill=\"black\" stroke=\"none\" text-anchor=\"start\">+</text><text x=\"185\" y=\"226\" fill=\"black\" stroke=\"none\" text-anchor=\"middle\">2V</text></svg>"
+   }
+  },
+  {
+   "question": "An electric circuit consists of a battery and a copper thread which is connected in parallel to a rubber thread. What will happen ?",
+   "choices": [
+    "The current will flow through the copper thread but not the rubber thread",
+    "The current will flow through the rubber thread but not the copper thread",
+    "The current will flow through both threads",
+    "No current will flow through the circuit",
+    "Cannot tell"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nRubber is a known insulator and copper is a known conductor. Thus, the current will flow through the copper thread but not the rubber thread.",
+   "source": "Mechanical Reasoning 7 — Electrical Drill",
+   "topic": "Conductors and insulators",
+   "topic_n": 2
+  }
+ ]
+}

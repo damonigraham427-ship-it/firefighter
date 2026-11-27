@@ -1,0 +1,3785 @@
+{
+ "questions": [
+  {
+   "question": "Three axes are turning each other using straps. Which axis will turn faster?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Note the setup: three wheels, each on its own axis, linked by two belts. 2. Recall the rule: when wheels of different sizes are connected, the larger wheel turns more slowly, because it covers more distance per turn while a smaller wheel must turn more often to cover the same distance. 3. Compare the wheels: wheel 2 is smaller than wheels 1 and 3. 4. Conclude: the smallest wheel turns fastest, so wheel 2 is the fastest. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 1,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -3,
+        0,
+        0
+       ],
+       "size": [
+        3.2,
+        3.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0.5,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        1.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2.8,
+        0,
+        0
+       ],
+       "size": [
+        2.0,
+        2.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Three belt pulleys side by side, all turning clockwise (curved arrows on top). Wheel 1 on the left is largest, wheel 2 in the middle is smallest, wheel 3 on the right is medium. An open belt connects wheel 1 to wheel 2, and a second open belt connects wheel 2 to wheel 3, so all turn the same way; the smallest pulley (2) spins fastest."
+    }
+   }
+  },
+  {
+   "question": "In which figure does one need to exert more force to lift the weight ? If the force exerted is equal please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Recall what a pulley is: a wheel on an axle with a rope running over it. 2. Recall the fixed pulley rule: it gives no force advantage; it only changes the direction of the force. 3. Recall the movable pulley rule: it lets you use less force, because the rope pulls it upward on both sides at once, so the weight is shared equally and the pulley puts half the load on the ceiling. 4. Extend the idea: with three supporting rope sections, only one third of the force is needed, and so on. 5. Compare the options: option 1 has a single fixed pulley, while option 2 adds a movable pulley, and both pull in the same direction. 6. Conclude: option 1 has no force advantage, so it needs more force. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 2,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2.5,
+        1.5,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -2.5,
+        -1.5,
+        0
+       ],
+       "size": [
+        1.4,
+        1.0,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        1.2,
+        1.5,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2.2,
+        0.2,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.2,
+        -1.5,
+        0
+       ],
+       "size": [
+        1.4,
+        1.0,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two ceiling pulley rigs lifting identical weights. Figure 1 (left): one fixed pulley on the ceiling, rope from the weight up over it, free end pulled down — no mechanical advantage. Figure 2 (right): one fixed ceiling pulley plus one movable pulley attached above the weight, rope sharing the load on both sides of the movable pulley — half the force needed."
+    }
+   }
+  },
+  {
+   "question": "On which pole does the weight press harder? If equal, choose 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Identify the pivot: the rectangle turns about its point of contact with the floor. 2. Recall the lever principle: the farther a pole is from the pivot, the less force it needs to produce the same torque. 3. Compare the poles: pole 2 is farther from the point of contact than pole 1, so pole 2 applies less force. 4. Apply Newton's third law: the rectangle pushes back on pole 2 with equally less force. 5. Conclude: the weight presses harder on pole 1. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 3,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "box",
+       "pos": [
+        -2.5,
+        0.8,
+        0
+       ],
+       "size": [
+        2.6,
+        1.2,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        -0.6
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -2.0,
+        -0.6,
+        0
+       ],
+       "size": [
+        0.4,
+        1.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.5,
+        0.8,
+        0
+       ],
+       "size": [
+        2.6,
+        1.2,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        -0.6
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1.6,
+        -0.6,
+        0
+       ],
+       "size": [
+        0.4,
+        1.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two identical tilted rectangular blocks, each resting with its lower right corner on the floor (the pivot) and propped from below by a short vertical pole. In figure 1 the pole is close to the floor contact point; in figure 2 the pole is farther left, farther from the pivot. The block presses harder on the nearer pole (1)."
+    }
+   }
+  },
+  {
+   "question": "What changes to the electrical circuit would increase the current measurement at point D?",
+   "choices": [
+    "Add additional bulb",
+    "Reduce battery's voltage",
+    "Reduce one bulb's resistance",
+    "Neither option"
+   ],
+   "answer": 2,
+   "explanation": "The current is in a series circuit, both total current and current through individual resistors, is directly dependent upon the battery voltage and inversely dependent upon the total circuit resistance. The current can be increased by increasing the battery voltage or by decreasing the total resistance. The correct answer is Reduce one bulb's resistance.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"15\" width=\"110\" height=\"80\" fill=\"none\" stroke=\"black\"/><circle cx=\"65\" cy=\"40\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M61 34 L69 46 M69 34 L61 46\" stroke=\"black\"/><circle cx=\"125\" cy=\"15\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M121 9 L129 21 M129 9 L121 21\" stroke=\"black\"/><circle cx=\"140\" cy=\"70\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M136 64 L144 76 M144 64 L136 76\" stroke=\"black\"/><line x1=\"62\" y1=\"95\" x2=\"68\" y2=\"95\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"70\" y1=\"91\" x2=\"70\" y2=\"99\" stroke=\"black\"/><text x=\"72\" y=\"90\" font-size=\"9\">A</text><text x=\"148\" y=\"62\" font-size=\"9\">B</text><text x=\"112\" y=\"12\" font-size=\"9\">C</text><text x=\"38\" y=\"62\" font-size=\"9\">D</text><text x=\"58\" y=\"108\" font-size=\"8\">+ -</text></svg>"
+   }
+  },
+  {
+   "question": "Which shelf can carry more weight? (If equal, choose 3.)",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Break the cable's force into two parts: a vertical part and a horizontal part. 2. Recognize which part matters: only the vertical part actually holds the load up. 3. See the effect of the angle: the smaller the angle between the cable and the shelf, the larger the horizontal part and the smaller the vertical part, so the cable must pull harder overall. 4. Picture the extremes: a fully vertical cable is the most efficient, while a fully horizontal cable can't hold the shelf at all. 5. Conclude: the shelf with the larger cable angle carries more weight. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 210 120\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"25\" y1=\"10\" x2=\"25\" y2=\"110\" stroke=\"black\" stroke-width=\"4\"/><line x1=\"25\" y1=\"80\" x2=\"95\" y2=\"80\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"25\" y1=\"20\" x2=\"88\" y2=\"80\" stroke=\"black\"/><rect x=\"30\" y=\"68\" width=\"16\" height=\"12\" fill=\"gray\"/><text x=\"72\" y=\"76\" font-size=\"9\">30°</text><text x=\"22\" y=\"8\" font-size=\"10\" fill=\"orange\">1</text><line x1=\"125\" y1=\"10\" x2=\"125\" y2=\"110\" stroke=\"black\" stroke-width=\"4\"/><line x1=\"125\" y1=\"80\" x2=\"195\" y2=\"80\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"125\" y1=\"20\" x2=\"188\" y2=\"80\" stroke=\"black\"/><rect x=\"130\" y=\"68\" width=\"16\" height=\"12\" fill=\"gray\"/><text x=\"168\" y=\"76\" font-size=\"9\">60°</text><text x=\"122\" y=\"8\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Which car should travel faster to keep up the pace when taking the turn? Please select answer option '3' if both cars should travel at the same speed.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Car one is on the outer side of the bend, which is a longer path than car two's inner side. 2. To stay level with car two, car one must cover that greater distance in the same time. 3. So car one must travel faster. The correct answer is option one.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M30 110 Q20 60 45 15\" fill=\"none\" stroke=\"black\"/><path d=\"M165 110 Q175 60 150 15\" fill=\"none\" stroke=\"black\"/><rect x=\"62\" y=\"50\" width=\"22\" height=\"38\" rx=\"6\" fill=\"silver\" stroke=\"black\" transform=\"rotate(8 73 69)\"/><rect x=\"108\" y=\"50\" width=\"22\" height=\"38\" rx=\"6\" fill=\"silver\" stroke=\"black\" transform=\"rotate(-6 119 69)\"/><text x=\"66\" y=\"44\" font-size=\"10\" fill=\"orange\">1</text><text x=\"112\" y=\"44\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "On which weight does one need to exert more force in order to pull it in the direction of the arrow? If the amount of force exerted on both weights is equal please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Recall the fixed pulley rule: no force advantage, only a change in direction. 2. Recall the movable pulley rule: it halves the force needed to lift the load. 3. Identify the setups: Figure 1 uses a pulley arrangement that makes pulling easier. 4. Conclude: without that advantage, Figure 2 needs more force. The answer is 2.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 7,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2.2,
+        0,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -0.6,
+        0,
+        0
+       ],
+       "size": [
+        1.4,
+        1.4,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.6,
+        0,
+        0
+       ],
+       "size": [
+        1.4,
+        1.4,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two 100 kg blocks pulled to the left. Block 1 (left): a movable pulley is attached to the block, one rope end fixed to a wall post on the left and the free end pulled up-left, so two rope sections share the pull and less force is needed. Block 2 (right): pulled directly by a single horizontal arrow to the left with no pulley, so full force is needed."
+    }
+   }
+  },
+  {
+   "question": "Which ventilator needs a stronger engine to make the blades spin at a certain speed? If equal, choose '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Compare the blades: ventilator 2 has more blades than ventilator 1. 2. Note the effect: more blades meet more air resistance. 3. Conclude: ventilator 2 needs a stronger engine to spin its blades at the same speed. The answer is 2.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 8,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 210 110\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"60\" cy=\"45\" r=\"28\" fill=\"#cfeef2\" stroke=\"black\"/><path d=\"M60 45 Q74 35 78 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(0 60 45)\"/><path d=\"M60 45 Q74 35 78 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(90 60 45)\"/><path d=\"M60 45 Q74 35 78 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(180 60 45)\"/><path d=\"M60 45 Q74 35 78 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(270 60 45)\"/><line x1=\"60\" y1=\"73\" x2=\"60\" y2=\"95\" stroke=\"black\" stroke-width=\"4\"/><path d=\"M48 100 L72 100 L67 95 L53 95 Z\" fill=\"gray\"/><text x=\"22\" y=\"48\" font-size=\"10\" fill=\"orange\">1</text><circle cx=\"150\" cy=\"45\" r=\"28\" fill=\"#cfeef2\" stroke=\"black\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(0 150 45)\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(60 150 45)\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(120 150 45)\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(180 150 45)\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(240 150 45)\"/><path d=\"M150 45 Q164 35 168 25\" fill=\"white\" stroke=\"black\" transform=\"rotate(300 150 45)\"/><line x1=\"150\" y1=\"73\" x2=\"150\" y2=\"95\" stroke=\"black\" stroke-width=\"4\"/><path d=\"M138 100 L162 100 L157 95 L143 95 Z\" fill=\"gray\"/><text x=\"112\" y=\"48\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Which wheel will turn faster? If both wheels turn at the same speed please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Recall the rule: when wheels of different sizes are connected, the larger wheel turns more slowly, because a smaller wheel must turn more often to cover the same distance. 2. Compare the wheels: wheel 1 is smaller than wheel 2. 3. Conclude: the smaller wheel turns faster, so wheel 1 is faster. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 9,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -1.8,
+        -0.8,
+        0
+       ],
+       "size": [
+        1.2,
+        1.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        1.6,
+        -0.5,
+        0
+       ],
+       "size": [
+        2.4,
+        2.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0.9,
+        0
+       ],
+       "size": [
+        5.5,
+        0.5,
+        2.0
+       ],
+       "rot": [
+        0,
+        0,
+        0.12
+       ]
+      }
+     ],
+     "note": "A flat board/plank rests on top of two rollers/wheels on the ground, shown in perspective. Wheel 1 on the left is small; wheel 2 on the right is much larger. Both are driven by the same board movement, so the smaller wheel 1 must rotate faster."
+    }
+   }
+  },
+  {
+   "question": "The three cogwheels are joined and are moving very quickly. Which wheel is moving faster than the others?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) – 3. Wheel 3 is the smallest in diameter, so it will move faster than the others.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 10,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -2.4,
+        0.3,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0.2,
+        0,
+        0
+       ],
+       "size": [
+        3.0,
+        3.0,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2.6,
+        0.3,
+        0
+       ],
+       "size": [
+        1.5,
+        1.5,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 8
+      }
+     ],
+     "note": "Three meshed cogwheels in a row. Wheel 1 on the left is medium, wheel 2 in the middle is the largest, wheel 3 on the right is the smallest. All mesh directly, so the smallest wheel (3) rotates fastest."
+    }
+   }
+  },
+  {
+   "question": "Complete the following: If 4 Coulombs of charge flow past point A in 2 seconds, then ___ Coulombs of charge flow through point B in 4 seconds.",
+   "choices": [
+    "Less than 4",
+    "4",
+    "More than 4",
+    "Insufficient information"
+   ],
+   "answer": 2,
+   "explanation": "For a steady flow of charge through a surface, the current can be calculated with the formula: I=Q/t , with I indicating current, Q the electric charge transferred through the surface and t the duration of the transfer. I is measured in Amperes, Q in Coulombs and t in seconds. Therefore, if 4 coulombs pass through point A in 2 seconds, the current is: I = 4 Q / 2 s, or: I = 2 Q / s, which is 2 Amperes.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 11,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"45\" y=\"20\" width=\"120\" height=\"70\" fill=\"none\" stroke=\"black\"/><rect x=\"70\" y=\"12\" width=\"16\" height=\"14\" fill=\"white\" stroke=\"black\"/><circle cx=\"64\" cy=\"19\" r=\"5\" fill=\"white\" stroke=\"black\"/><rect x=\"148\" y=\"48\" width=\"16\" height=\"14\" fill=\"white\" stroke=\"black\"/><circle cx=\"156\" cy=\"41\" r=\"5\" fill=\"white\" stroke=\"black\"/><rect x=\"95\" y=\"84\" width=\"16\" height=\"14\" fill=\"white\" stroke=\"black\"/><circle cx=\"89\" cy=\"91\" r=\"5\" fill=\"white\" stroke=\"black\"/><line x1=\"40\" y1=\"90\" x2=\"46\" y2=\"90\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"48\" y1=\"86\" x2=\"48\" y2=\"94\" stroke=\"black\"/><text x=\"30\" y=\"55\" font-size=\"9\">A (+ -)</text><text x=\"94\" y=\"22\" font-size=\"9\">B</text><text x=\"118\" y=\"94\" font-size=\"9\">C</text></svg>"
+   }
+  },
+  {
+   "question": "Which figure depicts the right trajectory of the bomb being dropped?",
+   "choices": [
+    "1",
+    "2"
+   ],
+   "answer": 1,
+   "explanation": "1. When a bomb is dropped, two influences act on it at once: its forward motion and the constant downward pull of gravity. 2. The bomb's forward speed gradually decreases over time, while gravity stays constant, so gravity's relative influence grows. 3. Because of this, the bomb's path bends into a curved, ballistic trajectory rather than a straight line. 4. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 12,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 100\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"8\" y=\"38\" width=\"52\" height=\"14\" rx=\"7\" fill=\"silver\" stroke=\"black\"/><path d=\"M60 38 L68 30 L68 52 L60 46\" fill=\"silver\" stroke=\"black\"/><line x1=\"30\" y1=\"52\" x2=\"14\" y2=\"86\" stroke=\"black\"/><text x=\"26\" y=\"30\" font-size=\"10\" fill=\"orange\">1</text><rect x=\"118\" y=\"38\" width=\"52\" height=\"14\" rx=\"7\" fill=\"silver\" stroke=\"black\"/><path d=\"M170 38 L178 30 L178 52 L170 46\" fill=\"silver\" stroke=\"black\"/><path d=\"M140 52 Q136 72 142 88\" fill=\"none\" stroke=\"black\"/><text x=\"136\" y=\"30\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Which cart is more likely to flip over during a turn? If both carts have the same chance of flipping over then please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Compare the loads: cart 1's load sits higher than cart 2's. 2. Note the effect: a higher load means a higher center of gravity. 3. Conclude: a higher center of gravity makes cart 1 more likely to flip. The answer is 1.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 13,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 100\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"25\" y=\"22\" width=\"55\" height=\"34\" fill=\"#cfeef2\" stroke=\"black\"/><rect x=\"22\" y=\"56\" width=\"62\" height=\"10\" fill=\"silver\" stroke=\"black\"/><circle cx=\"42\" cy=\"72\" r=\"8\" fill=\"gray\" stroke=\"black\"/><circle cx=\"64\" cy=\"72\" r=\"8\" fill=\"gray\" stroke=\"black\"/><text x=\"46\" y=\"92\" font-size=\"10\" fill=\"orange\">1</text><rect x=\"120\" y=\"34\" width=\"55\" height=\"22\" fill=\"#cfeef2\" stroke=\"black\"/><rect x=\"117\" y=\"56\" width=\"62\" height=\"10\" fill=\"silver\" stroke=\"black\"/><circle cx=\"137\" cy=\"72\" r=\"8\" fill=\"gray\" stroke=\"black\"/><circle cx=\"159\" cy=\"72\" r=\"8\" fill=\"gray\" stroke=\"black\"/><text x=\"141\" y=\"92\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "If the small weight balances the bigger weight and the two small weights in both figures are equal in weight, which of the bigger weights is heavier? If the bigger weights weigh the same please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Recall the balance rule: the heavier the big weight, the farther out the small weight must sit to balance it. 2. Look at Figure 2: its small weight sits fairly close to the axis yet still balances the big weight, so that big weight must be lighter. 3. Conclude: the heavier weight is in Figure 1. The answer is 1.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 14,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        -2.6,
+        0.6,
+        0
+       ],
+       "size": [
+        4.2,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -4.2,
+        -0.6,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -1.2,
+        1.1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        2.6,
+        0.6,
+        0
+       ],
+       "size": [
+        4.2,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1.0,
+        -0.6,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        3.4,
+        1.1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two balance beams on triangular fulcrums, each with a large hanging weight (blue block) on the left and a small weight on top of the right arm. Figure 1 (left): the small weight sits far out near the end of the right arm to balance. Figure 2 (right): the small weight sits close to the fulcrum yet still balances. Equal small weights, so Figure 1's big weight is heavier."
+    }
+   }
+  },
+  {
+   "question": "Which rope can hold the weight on its own?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The weight is pulling the axis down and lifting the opposite side up. For the rope to hold the weight it must exert the same amount of force the weight is exerting but in the opposite direction. The only rope that does this is rope 2. The answer is 2",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 15,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        0.5,
+        5.0,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        1.2,
+        1.0,
+        0
+       ],
+       "size": [
+        4.5,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.6,
+        1.7,
+        0
+       ],
+       "size": [
+        1.6,
+        1.0,
+        1.0
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "A vertical post with a horizontal beam crossing it near the top, pivoting on the post; a weight sits on the right end of the beam, pulling that side down and lifting the left side up. Three diagonal ropes are candidates: rope 1 runs from the top of the post down-left to the left end of the beam (upper left), rope 2 runs from lower on the post up-left to the left end of the beam (lower left), rope 3 runs from the post down-right under the beam. Only rope 2 pulls opposite to the weight's torque and can hold it alone."
+    }
+   }
+  },
+  {
+   "question": "If the left cogwheel rotates in the direction of the arrow, in which direction does the right wheel rotate? Please select answer option '3' if the wheel doesn't turn.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – 1. The cogwheels turn in opposite directions. When the left wheel turns in the direction of the arrow (counterclockwise), the middle wheel will turn to the right (clockwise). This will cause the right wheel to turn counterclockwise.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 16,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -2.4,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2.4,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      }
+     ],
+     "note": "Three equal meshed cogwheels in a row. The left wheel has a counterclockwise arrow. Two direction options are marked over the right wheel: 1 = counterclockwise (same sense as the left wheel), 2 = clockwise. Meshing reverses direction at each contact, so the right wheel turns counterclockwise, option 1."
+    }
+   }
+  },
+  {
+   "question": "Which side of the road will the car slide towards when it takes the turn? If the car won't slide please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. When a car takes a turn, the centrifugal force pushes it outward, away from the centre. 2. So the car slides toward the outer rim. The correct answer is option one.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 17,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M40 105 Q28 60 52 15\" fill=\"none\" stroke=\"black\"/><path d=\"M160 105 Q172 60 148 15\" fill=\"none\" stroke=\"black\"/><rect x=\"88\" y=\"48\" width=\"24\" height=\"40\" rx=\"7\" fill=\"silver\" stroke=\"black\" transform=\"rotate(6 100 68)\"/><text x=\"24\" y=\"62\" font-size=\"10\" fill=\"orange\">1</text><text x=\"166\" y=\"62\" font-size=\"10\" fill=\"orange\">2</text></svg>"
+   }
+  },
+  {
+   "question": "The three cog-wheels are joint and in motion. If the wheel in the middle is moving in the direction of the arrow, which of the other two wheels will turn in the same direction? If neither wheel will turn in the same direction then please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "1. Cogwheels that touch must turn in opposite directions. 2. So neither outer wheel can turn the same way as the middle wheel. 3. The answer is option three, neither of them.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 18,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -2.4,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -0.2,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2.4,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        2.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      }
+     ],
+     "note": "Three equal meshed cogwheels in a row, left labelled 1 and right labelled 2. A curved clockwise arrow is over the middle wheel. Both outer wheels touch the middle wheel, so both must turn opposite to it; neither turns in the same direction (option 3)."
+    }
+   }
+  },
+  {
+   "question": "If the ball follows the arrow on the billiard table, which ball will it hit?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. When a ball bounces off a cushion, the angle at which it arrives equals the angle at which it leaves. 2. Because of this equal-angle rule, the ball's path after bouncing off the far side runs parallel to its original approach line. 3. In this example, the geometry shows the two angles adding up to one hundred eighty degrees, which confirms the before and after lines are parallel. 4. The only target that lies along this parallel path is ball two, so the correct answer is option two. 5. Note that the picture may look slightly inaccurate, but these tests deliberately draw images loosely, so the answer must come from the physical principle rather than the exact drawing.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 19,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 115\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10\" y=\"15\" width=\"180\" height=\"90\" fill=\"none\" stroke=\"black\" stroke-width=\"2\"/><circle cx=\"100\" cy=\"60\" r=\"6\" fill=\"white\" stroke=\"black\"/><line x1=\"82\" y1=\"76\" x2=\"96\" y2=\"64\" stroke=\"black\" stroke-width=\"3\"/><path d=\"M105 55 L128 34\" stroke=\"black\"/><path d=\"M128 34 L124 40 M128 34 L121 35\" stroke=\"black\"/><circle cx=\"152\" cy=\"52\" r=\"6\" fill=\"white\" stroke=\"black\"/><text x=\"146\" y=\"68\" font-size=\"9\" fill=\"orange\">1</text><circle cx=\"160\" cy=\"72\" r=\"6\" fill=\"white\" stroke=\"black\"/><text x=\"154\" y=\"88\" font-size=\"9\" fill=\"orange\">2</text><circle cx=\"172\" cy=\"82\" r=\"6\" fill=\"white\" stroke=\"black\"/><text x=\"168\" y=\"98\" font-size=\"9\" fill=\"orange\">3</text><path d=\"M152 52 L178 38 M160 72 L178 38\" stroke=\"black\" stroke-dasharray=\"3 3\"/></svg>"
+   }
+  },
+  {
+   "question": "Which point on the wheel will travel faster when the wheel is in motion? If both points will rotate at the same rate then please select answer option '3'.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Recall that in circular motion the angular velocity is the same at every point on the wheel. 2. Recall that the linear velocity changes with distance from the center: points farther out cover more distance in the same time. 3. Compare the points: point 2 is farther from the center than point 1. 4. Conclude: point 2 has the greater linear velocity.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 20,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"100\" cy=\"60\" r=\"42\" fill=\"#666\" stroke=\"black\"/><circle cx=\"100\" cy=\"60\" r=\"20\" fill=\"silver\" stroke=\"black\"/><circle cx=\"100\" cy=\"60\" r=\"4\" fill=\"black\"/><line x1=\"100\" y1=\"60\" x2=\"84\" y2=\"34\" stroke=\"black\"/><text x=\"72\" y=\"28\" font-size=\"10\" fill=\"orange\">1</text><line x1=\"142\" y1=\"60\" x2=\"158\" y2=\"60\" stroke=\"black\"/><text x=\"162\" y=\"63\" font-size=\"10\" fill=\"orange\">2</text><path d=\"M52 44 Q46 60 52 76\" fill=\"none\" stroke=\"black\"/></svg>"
+   }
+  },
+  {
+   "question": "If the electrical switch is turned on, which light bulb will light up?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3. When switching the electrical switch on, the electrical circuit will be closed and bulb 3 will light up. Bulb 2 is dysfunctional so it cannot light up; thus, it breaks the electrical circuit and thereby blocks the electric current from reaching bulb 1. Therefore, bulb 1 will not light up as well.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 21,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 230 110\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"35\" y=\"20\" width=\"110\" height=\"70\" fill=\"none\" stroke=\"black\"/><line x1=\"90\" y1=\"20\" x2=\"90\" y2=\"90\" stroke=\"black\"/><circle cx=\"90\" cy=\"20\" r=\"7\" fill=\"white\" stroke=\"black\"/><path d=\"M86 16 L94 24 M94 16 L86 24\" stroke=\"black\"/><text x=\"62\" y=\"12\" font-size=\"8\">Burnt Light Bulb</text><text x=\"92\" y=\"34\" font-size=\"9\" fill=\"orange\">2</text><circle cx=\"35\" cy=\"55\" r=\"7\" fill=\"white\" stroke=\"black\"/><path d=\"M31 51 L39 59 M39 51 L31 59\" stroke=\"black\"/><text x=\"18\" y=\"58\" font-size=\"9\" fill=\"orange\">1</text><circle cx=\"90\" cy=\"55\" r=\"7\" fill=\"white\" stroke=\"black\"/><path d=\"M86 51 L94 59 M94 51 L86 59\" stroke=\"black\"/><text x=\"76\" y=\"58\" font-size=\"9\" fill=\"orange\">3</text><line x1=\"148\" y1=\"42\" x2=\"154\" y2=\"42\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"156\" y1=\"38\" x2=\"156\" y2=\"46\" stroke=\"black\"/><text x=\"160\" y=\"48\" font-size=\"8\">Electricity Generator</text><line x1=\"100\" y1=\"90\" x2=\"112\" y2=\"80\" stroke=\"black\"/><text x=\"96\" y=\"104\" font-size=\"8\">Switch</text></svg>"
+   }
+  },
+  {
+   "question": "What is the direction of the conventional electrical current in the external circuit?",
+   "choices": [
+    "From D to C to B to A",
+    "From A to B to C to D",
+    "Either direction is possible",
+    "No current will flow"
+   ],
+   "answer": 0,
+   "explanation": "The main idea of this question is the difference between the internal and external circuits. The external circuit refers to the wires and neon bulbs that comprise the circuit. In the external circuit, charge moves from the + terminal to the – terminal, meaning From D to C to B to A. The battery is referred to as the internal circuit, and within it the charge from the - terminal [partly obscured in capture] terminal, meaning from A to D.",
+   "source": "Mechanical Reasoning — Drill 1",
+   "topic": "Drill 1",
+   "topic_n": 22,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 200 120\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"15\" width=\"110\" height=\"80\" fill=\"none\" stroke=\"black\"/><circle cx=\"65\" cy=\"40\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M61 34 L69 46 M69 34 L61 46\" stroke=\"black\"/><circle cx=\"125\" cy=\"15\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M121 9 L129 21 M129 9 L121 21\" stroke=\"black\"/><circle cx=\"140\" cy=\"70\" r=\"8\" fill=\"white\" stroke=\"black\"/><path d=\"M136 64 L144 76 M144 64 L136 76\" stroke=\"black\"/><line x1=\"62\" y1=\"95\" x2=\"68\" y2=\"95\" stroke=\"black\" stroke-width=\"3\"/><line x1=\"70\" y1=\"91\" x2=\"70\" y2=\"99\" stroke=\"black\"/><text x=\"72\" y=\"90\" font-size=\"9\">A</text><text x=\"148\" y=\"62\" font-size=\"9\">B</text><text x=\"112\" y=\"12\" font-size=\"9\">C</text><text x=\"38\" y=\"62\" font-size=\"9\">D</text><text x=\"58\" y=\"108\" font-size=\"8\">+ -</text></svg>"
+   }
+  },
+  {
+   "question": "Which fisherman has to pull his fishing rod with more force in order to lift the caught fish?",
+   "choices": [
+    "1",
+    "2",
+    "Both have to apply equal forces",
+    "Insufficient data"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – 1. The difference between the two fishermen is the gripping point in which they hold the rod. Fisherman 1 holds the rod at the bottom end, and therefore, the total weight he must pull is greater: the fish and the entire length of the rod. Fisherman 2 holds the rod in the middle, and therefore, the total weight he must pull is smaller: the fish and only half of the rod's length. Moreover, the weight of the rod below the gripping point will assist in the pulling of the fish.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 1,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        4,
+        0.1,
+        0.1
+       ],
+       "rot": [
+        0,
+        0,
+        -0.6
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        5,
+        1,
+        0
+       ],
+       "size": [
+        4,
+        0.1,
+        0.1
+       ],
+       "rot": [
+        0,
+        0,
+        -0.6
+       ]
+      }
+     ],
+     "note": "Two fishermen each holding a fishing rod (lever) with a fish hanging from the tip. Fisherman 1 (left) grips the rod at its bottom end; fisherman 2 (right) grips his rod in the middle. Fish hangs from the far tip of each rod."
+    }
+   }
+  },
+  {
+   "question": "A dynamometer is used for measuring force. What can be assumed about dynamometers A and B in the following figures?",
+   "choices": [
+    "A will show a lower reading",
+    "Both will show equal readings",
+    "B will show a lower reading",
+    "Both will show zero readings"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – A will show a lower reading. In this question, the lever is a class 2 lever in which the load is between the fulcrum and the effort. The fulcrum is the fixed pivot at the left side of the lever, the load is the mass weighing 10Kg and the effort is the force required to balance the weight of the mass which is measured by the dynamometer. Here, it is the position of the load that changes between the two figures. Since the work, or more precisely torque, is constant, the shorter the distance between the load and the fulcrum, the lighter the load, the smaller the force required to lift it, and the lower the reading of the dynamometer. Therefore, dynamometer A will show a lower reading is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 2,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        4,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -0.5,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        6,
+        2,
+        0
+       ],
+       "size": [
+        4,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        8,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two horizontal lever arms, each pivoted at the left end (fulcrum) and held up at the right end by a dynamometer. A: a 10kg mass hangs close to the fulcrum (near the middle-left of the arm). B: an identical 10kg mass hangs at the far right end of the arm, farther from the fulcrum."
+    }
+   }
+  },
+  {
+   "question": "Complete the following: Should the resistance of the bell located between points A and B increase, the current going through the second bell will ___.",
+   "choices": [
+    "Increase",
+    "Decrease",
+    "Remain the same",
+    "Cannot say"
+   ],
+   "answer": 1,
+   "explanation": "Increasing the resistance of a bell, or any resistor, for a series of consecutive resistors will increase the overall resistance of the circuit and cause the current throughout the entire circuit to decrease. The correct answer is Decrease.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><rect x='30' y='20' width='140' height='70' fill='none' stroke='#000'/><rect x='55' y='12' width='16' height='16' fill='#fff' stroke='#000'/><text x='40' y='24' font-size='10'>A</text><text x='76' y='24' font-size='10'>B</text><rect x='150' y='45' width='16' height='16' fill='#fff' stroke='#000'/><rect x='85' y='82' width='16' height='16' fill='#fff' stroke='#000'/><text x='112' y='94' font-size='10'>C</text><text x='18' y='60' font-size='10'>+</text><text x='18' y='72' font-size='10'>-</text><text x='60' y='115' font-size='9'>Series loop: battery, bell between A and B, second bell, bell at C</text></svg>"
+   }
+  },
+  {
+   "question": "Two weights are placed on the right side of a lever, as shown in the picture below. What mass would you place 20 cm to the left of the fulcrum, in order to balance the lever?",
+   "choices": [
+    "6.5 kg",
+    "7 kg",
+    "7.5 kg",
+    "8 kg"
+   ],
+   "answer": 2,
+   "explanation": "For the scale to balance, the total of torques on either side of the scale must be equal. Assigning the numbers 1, 2, and 3 to the weights of 5kg, 6kg, and the \"?\" weight respectively, we have our torque equation: T₁ + T₂ = T₃. Each torque is by definition T = W x L, where W is the weight and L is the distance from the fulcrum. Recall that W = M x g, where M is the mass and g is the gravitational constant. M₁ x g x L₁ + M₂ x g x L₂ = M₃ x g x L₃ We can simplify by dividing both sides by g: M₁ x L₁ + M₂ x L₂ = M₃ x L₃ Our givens are M₁ = 5kg, L₁ = 12cm, M₂ = 6kg, L₂ = 15cm, M₃ = ?, L₃ = 20cm. Substituting the values given in the question in the equation: 5kg x 12cm + 6kg x 15cm = M₃ x 20cm [explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 4,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        8,
+        0.2,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.2,
+        2.6,
+        0
+       ],
+       "size": [
+        0.6,
+        1,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.9,
+        2.6,
+        0
+       ],
+       "size": [
+        0.6,
+        1,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Lever beam on a central triangular fulcrum. On the right side: a 5 kg weight 12 cm from the fulcrum and a 6 kg weight 15 cm from the fulcrum. An unknown mass (?) is to be placed 20 cm to the left of the fulcrum."
+    }
+   }
+  },
+  {
+   "question": "At what distance from the left weight does the fulcrum have to be placed to balance the following lever if the distance between the weights is 15 cm?",
+   "choices": [
+    "3 cm",
+    "5 cm",
+    "7 cm",
+    "10 cm"
+   ],
+   "answer": 3,
+   "explanation": "The lever is also a class 1 in which the fulcrum is between the load and the effort. It is given in the question that the distance between the two masses is 15 cm. In order to solve the question the distance between the mass weighing 4 kg and the fulcrum will be marked as the variable d and the distance between the mass weighing 8 kg and the fulcrum as 15 cm - d. The answer is calculated by substituting the values given in the question in the below equation: M₁ × L₁ = M₂ × L₂ 4 kg × d = 8 kg × (15 cm - d) 4d = 120 - 8d Therefore: d = 10 cm Therefore, 10 cm is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 5,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        8,
+        0.2,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -3,
+        2.6,
+        0
+       ],
+       "size": [
+        0.8,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        3,
+        2.6,
+        0
+       ],
+       "size": [
+        0.8,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Lever beam with a 4kg weight at the left end and an 8kg weight at the right end; the two weights are 15 cm apart. A triangular fulcrum sits under the beam between them, at an unknown distance (?) from the left (4kg) weight."
+    }
+   }
+  },
+  {
+   "question": "Approximately how much force is required to lift the mass weighting 800 N?",
+   "choices": [
+    "25 N",
+    "50 N",
+    "160 N",
+    "400 N"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is 50N. Let's first observe a simpler system. Instead of 4 movable pulleys, we try solving for only 1. Any force we apply will be carried across the rope. The rope wraps around the pulley, pulling it upward twice (once from each side). Therefore, any force we apply will be applied twofold to the weight. If this was the system in question, the answer would have been 800N / 2 = 400N. Now we extend this logic. If we put another movable pulley before the weight, the force we apply will double once more before reaching the load. Each pulley we add doubles the force we apply. Thus, 4 pulleys will double the force we apply 4 times, so we need only apply a force 2*2*2*2=16 times less than the load. 800N / 16 = 50N, which is the answer. Note that the rightmost pulley is not taken into account because it is a fixed pulley, and does not divide force, only changes its direction.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 6,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "pulley",
+       "pos": [
+        2,
+        5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0,
+        4,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0,
+        3,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Pulley system hanging from a ceiling beam: a chain of 4 movable pulleys in series above a Weight, plus 1 fixed pulley at the top right that only redirects the rope. The free rope end is pulled downward (marked ?). Load weighs 800 N."
+    }
+   }
+  },
+  {
+   "question": "How far does the mass rise when the rope is pulled for 6 cm? (All pulleys are fixed except for the pulley supporting the mass directly)",
+   "choices": [
+    "1 cm",
+    "3 cm",
+    "24 cm",
+    "36 cm"
+   ],
+   "answer": 1,
+   "explanation": "1. Recall the rule: lifting force equals the load divided by the number of rope sections supporting it. 2. Count the supporting sections: the load is supported by two, so the force is halved. The rope sections on the last two pulleys don't support the load. 3. Recall the trade-off: less force means the rope must be pulled farther than the load moves, in exact inverse proportion. 4. Apply it: the rope is pulled 6 centimeters, so the mass rises 6 divided by 2. 5. Conclude: the mass rises 3 centimeters. The correct answer is 3 centimeters.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 7,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "pulley",
+       "pos": [
+        -2,
+        5,
+        0
+       ],
+       "size": [
+        0.7,
+        0.7,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        2,
+        5,
+        0
+       ],
+       "size": [
+        0.7,
+        0.7,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        -2,
+        3,
+        0
+       ],
+       "size": [
+        0.7,
+        0.7,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        1,
+        1.5,
+        0
+       ],
+       "size": [
+        0.7,
+        0.7,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -2,
+        2,
+        0
+       ],
+       "size": [
+        1.2,
+        0.6,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Four pulleys: two fixed pulleys on the top beam, one movable pulley directly under the left top pulley supporting the Weight, and one fixed pulley resting on the floor at bottom centre. One rope runs through all of them; the free end leaves the top-right pulley diagonally downward (pull direction arrow). Only the pulley supporting the mass is movable; the mass is held by 2 rope sections."
+    }
+   }
+  },
+  {
+   "question": "Approximately how much force is required to hold a mass weighing 360 N?",
+   "choices": [
+    "120 N",
+    "80 N",
+    "72 N",
+    "60 N"
+   ],
+   "answer": 3,
+   "explanation": "In this case, all three movable pulleys are connected to the mass, and the same rope is wrapped around all three, so the rope pulls the mass six times. Since the tension is equal along the entire rope, the weight is divided equally between the six parts of the rope. (Again, if you do not feel comfortable with this explanation try to draw a simple force diagram) In this question the load is a mass weighting 360N, therefore, a force of 360 N/ 6 = 60 N is required to lift the load and 60 N is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 8,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "pulley",
+       "pos": [
+        -3,
+        5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0,
+        5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        3,
+        5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        -2,
+        2,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        0.5,
+        2,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        3,
+        2,
+        0
+       ],
+       "size": [
+        0.6,
+        0.6,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        7,
+        0.6,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Three fixed pulleys on a top beam alternating with three movable pulleys attached to a long horizontal load bar labelled 360N below. A single rope zigzags over the fixed and under the movable pulleys (6 supporting rope sections); the free end exits the last movable pulley diagonally up-right (marked ?)."
+    }
+   }
+  },
+  {
+   "question": "A force of 10 N(Newton) compresses two identical springs in parallel for 8 cm. What will be the total distance that four identical springs in series are compressed?",
+   "choices": [
+    "32 cm",
+    "16 cm",
+    "4 cm",
+    "64 cm"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - 64 cm An external force exerted on a spring causes it to compress or extend. The distance of compression or extension is directly and linearly proportional to the force exerted on the spring, i.e., doubling the force causes the spring to stretch or compress twice as much. When identical springs are connected in parallel, the applied force is divided equally between them. Consider the image below: Each of the two springs connected in parallel is subjected to a force of 5 N that compresses each spring by 8 cm (1). On the other hand, had only one spring been subjected to a 10N force, it would compress by 16 cm (2). When identical springs are connected in series, the entire force is applied to each spring separately. Consider the image below: Each of the four springs in series is subjected to a force of 10 N, and therefore resembles the case in image (2), compressing 16 cm. [explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 9,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><text x='5' y='15' font-size='10'>1: two springs in parallel</text><path d='M20 30 l5 -6 l5 12 l5 -12 l5 6' fill='none' stroke='#000'/><path d='M20 50 l5 -6 l5 12 l5 -12 l5 6' fill='none' stroke='#000'/><text x='55' y='45' font-size='10'>&lt;- F=10N, 8cm</text><text x='5' y='80' font-size='10'>2: four springs in series</text><path d='M20 95 l5 -6 l5 12 l5 -12 l5 6 M45 95 l5 -6 l5 12 l5 -12 l5 6 M70 95 l5 -6 l5 12 l5 -12 l5 6 M95 95 l5 -6 l5 12 l5 -12 l5 6' fill='none' stroke='#000'/><text x='130' y='100' font-size='10'>&lt;- F=10N, ?</text></svg>"
+   }
+  },
+  {
+   "question": "What is the ratio of branch currents 1,2,3, respectively?",
+   "choices": [
+    "5:2:4",
+    "25:15:40",
+    "10:6:8",
+    "2:6:3"
+   ],
+   "answer": 0,
+   "explanation": "Branch currents in the circuit can be computed by using Ohm's law: I=V/R. In addition, if two or more components are connected in parallel they have the same potential difference, meaning voltage, across their ends. Quickly solving for each branch, we get: I1=100/20=5 I2=100/50=2 I3=100/25=4 Therefore the ratio is 5:2:4.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 10,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><text x='15' y='65' font-size='10'>100V</text><line x1='40' y1='30' x2='40' y2='90' stroke='#000'/><line x1='40' y1='30' x2='160' y2='30' stroke='#000'/><line x1='40' y1='90' x2='160' y2='90' stroke='#000'/><path d='M70 30 l4 8 l-8 8 l8 8 l-8 8 l4 8' fill='none' stroke='#000'/><text x='52' y='55' font-size='9'>1: 20Ω</text><path d='M110 30 l4 8 l-8 8 l8 8 l-8 8 l4 8' fill='none' stroke='#000'/><text x='92' y='55' font-size='9'>2: 50Ω</text><path d='M150 30 l4 8 l-8 8 l8 8 l-8 8 l4 8' fill='none' stroke='#000'/><text x='132' y='55' font-size='9'>3: 25Ω</text><text x='40' y='110' font-size='9'>100V source, three resistors in parallel</text></svg>"
+   }
+  },
+  {
+   "question": "In the circuit below, how many bulbs would be lit up if switch I were closed and switch II were open?",
+   "choices": [
+    "Two",
+    "Three",
+    "Four"
+   ],
+   "answer": 1,
+   "explanation": "A simpler way to draw the circuit is: [redrawn circuit: switch II in series with bulb d, in parallel with the branch of switch I with bulbs b and c; bulb a in series with the battery] According to the circuit shown in the figure above, the branch of the circuit containing switch II and bulb \"d\" is connected in parallel to the branch containing switch I and bulbs \"b\" and \"c\". If switch I were closed, the circuit containing bulbs \"a\", \"b\", \"c\" would be complete and current would flow through it, and those three bulbs would be lit. When switch II is open, the branch containing bulb \"d\" is disconnected from the circuit causing zero current to flow through it and thus, this bulb does not light up. In conclusion, if switch I were closed but switch II were open, three bulbs (a,b,c) would be lit up and therefore, Three is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 11,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 125' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='25' r='7' fill='#ff9' stroke='#000'/><text x='92' y='14' font-size='9'>d</text><circle cx='155' cy='60' r='7' fill='#ff9' stroke='#000'/><text x='166' y='64' font-size='9'>b</text><circle cx='100' cy='95' r='7' fill='#ff9' stroke='#000'/><text x='96' y='112' font-size='9'>a</text><circle cx='50' cy='75' r='7' fill='#ff9' stroke='#000'/><text x='58' y='70' font-size='9'>c</text><path d='M50 25 L100 25 L140 25 M155 35 L155 95 L100 95 M50 95 L50 75 M50 25 L50 55 M107 25 L155 95 M93 32 L50 82' fill='none' stroke='#000'/><text x='140' y='18' font-size='9'>switch I (top right)</text><text x='8' y='60' font-size='9'>switch II (left)</text><text x='55' y='100' font-size='9'>battery (bottom)</text><text x='10' y='118' font-size='8'>Bulbs a (bottom), b (right), c (lower left), d (top); battery bottom-left</text></svg>"
+   }
+  },
+  {
+   "question": "Regarding the same circuit as in the previous question, how many bulbs will light when the two switches are closed but bulb c is removed (without connecting the ends that were connected to bulb c)?",
+   "choices": [
+    "Two",
+    "One",
+    "None"
+   ],
+   "answer": 0,
+   "explanation": "Below is the circuit after modified as described: [modified circuit with bulb c removed; intersections marked A (after bulb d) and B (bottom right)] Current will definitely flow through bulbs d and a, since the circuit is closed only though them (all paths between the ends of the battery go through both). Regarding bulb b, observe the intersections marked A and B in the drawing above and the paths that connect them. All the current will flow through the path with no resistance, and therefore bulb b will not light up. If you wish, this can be calculated formally with Ohm's law (V=I*R). We first calculate the voltage between A and B over the path without a bulb. Since the total resistance is 0 on that path, we have V(AB)=I*0=0, so that the voltage between A and B is 0. Then we calculate the same voltage over the path which includes bulb b. Since the voltage is zero V(AB)=0 but the resistance is not (the bulb has resistance), then [explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 12,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 125' xmlns='http://www.w3.org/2000/svg'><circle cx='100' cy='25' r='7' fill='#ff9' stroke='#000'/><text x='92' y='14' font-size='9'>d</text><circle cx='155' cy='60' r='7' fill='#ff9' stroke='#000'/><text x='166' y='64' font-size='9'>b</text><circle cx='100' cy='95' r='7' fill='#ff9' stroke='#000'/><text x='96' y='112' font-size='9'>a</text><circle cx='50' cy='75' r='7' fill='#ff9' stroke='#000'/><text x='58' y='70' font-size='9'>c</text><path d='M50 25 L100 25 L140 25 M155 35 L155 95 L100 95 M50 95 L50 75 M50 25 L50 55 M107 25 L155 95 M93 32 L50 82' fill='none' stroke='#000'/><text x='140' y='18' font-size='9'>switch I (top right)</text><text x='8' y='60' font-size='9'>switch II (left)</text><text x='55' y='100' font-size='9'>battery (bottom)</text><text x='10' y='118' font-size='8'>Bulbs a (bottom), b (right), c (lower left), d (top); battery bottom-left</text></svg>"
+   }
+  },
+  {
+   "question": "Following is a set of four questions, all based on the same data. Their individual solutions are crucial for answering the whole question set. It is best to write down your answers, so you can easily use them for the following question. What is the approximate area of the shape in units of cm²?",
+   "choices": [
+    "2400",
+    "1232",
+    "1828",
+    "2128"
+   ],
+   "answer": 2,
+   "explanation": "The component shown in the figure above consists of three parts marked in red (half a circle), purple (a triangle), and pink (a rectangle minus a triangle). Thus, the area of the shape is the sum of these three. We can calculate each using simple geometrical identities. purple = (30 cm × 20 cm)/2 red = (π × 20² cm²)/2 pink = (pink + lime) - lime = (30 cm × 40 cm) − (40 cm × 15 cm)/2 shape = red + purple + pink = 1828 cm². Therefore, 1828 is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 13,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg'><path d='M70 60 L30 90 L70 120 L70 75 A20 20 0 0 1 110 75 L110 120 L90 105 L70 120 Z' fill='#cfe8f7' stroke='#000'/><rect x='70' y='60' width='40' height='60' fill='none' stroke='#000'/><path d='M70 75 A20 20 0 0 1 110 75' fill='none' stroke='#000'/><text x='88' y='55' font-size='9'>r</text><text x='8' y='95' font-size='9'>30cm</text><text x='150' y='95' font-size='9'>50cm</text><text x='125' y='115' font-size='9'>15cm</text><text x='38' y='135' font-size='9'>20cm</text><text x='85' y='135' font-size='9'>40cm</text><text x='20' y='160' font-size='9'>Rectangle 40x30, semicircle r=20 on top,</text><text x='20' y='170' font-size='9'>triangle notch 40x15 below, triangle 20 long at left</text></svg>"
+   }
+  },
+  {
+   "question": "This shape is stamped out of a continuous stainless steel coil with a width of 55 cm in order to create components for airplanes. The stamping process requires a gap of 20 mm between each two adjacent components. The coil is supplied in lengths of 40 meters costing 400$ each. Assuming minimal wastage, how many components can be produced from each 40 m coil?",
+   "choices": [
+    "50",
+    "55",
+    "65",
+    "64"
+   ],
+   "answer": 3,
+   "explanation": "According to the sketch given above the length of the component is 50 cm and its width is: 20 cm + 40 cm = 60 cm. As mentioned above the width of the stainless steel coil is 55 cm and its length is 4000 cm (remember that 1 m equals 100 cm). The width of a single component is longer than that of the coil and therefore each component is stamped out of the coil in an angle of 90⁰ clockwise compared to the sketch of the component given above. Thus, the width and length of the component are switched so that the width of a single component is now 50 and its length is 60 cm. Taking into account the gap of 20 mm between each two adjacent component the length of a single unit for stamping is: 60 cm + 2 cm = 62 cm (remember that 1 cm equals 10 mm). Thus, If the length of the coil is 4000 cm and the length of a single unit is 62 cm, under the assumption of minimal wastage the number of components produced is: 4000 cm /62 cm = 64.5 ~ 64 components. Therefore, 64 is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 14,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg'><path d='M70 60 L30 90 L70 120 L70 75 A20 20 0 0 1 110 75 L110 120 L90 105 L70 120 Z' fill='#cfe8f7' stroke='#000'/><rect x='70' y='60' width='40' height='60' fill='none' stroke='#000'/><path d='M70 75 A20 20 0 0 1 110 75' fill='none' stroke='#000'/><text x='88' y='55' font-size='9'>r</text><text x='8' y='95' font-size='9'>30cm</text><text x='150' y='95' font-size='9'>50cm</text><text x='125' y='115' font-size='9'>15cm</text><text x='38' y='135' font-size='9'>20cm</text><text x='85' y='135' font-size='9'>40cm</text><text x='20' y='160' font-size='9'>Rectangle 40x30, semicircle r=20 on top,</text><text x='20' y='170' font-size='9'>triangle notch 40x15 below, triangle 20 long at left</text></svg>"
+   }
+  },
+  {
+   "question": "These components are stamped out of a continuous stainless steel coil with a width of 55 cm. The stamping process requires a gap of 20 mm between each two adjacent components. The coil is supplied in lengths of 40 meters costing 400$ each. What is the approximate percentage of stainless steel wasted?",
+   "choices": [
+    "53%",
+    "47%",
+    "62%",
+    "38%"
+   ],
+   "answer": 1,
+   "explanation": "The area of the stainless steel coil is: 55 cm × 4000 cm = 220000 cm². According to the first in this question set, the area of each component is 1828 cm² and according to the second question, the number of components stamped out of the coil is 64. Thus, the area of all components is: 64 × 1828 cm² = 116992 cm². The percentage of stainless steel used for producing the components is: 116992 cm² / 220000 cm² × 100 ~ 53%. Therefore, the percentage of stainless steel wasted is 100% - 53% = 47% and 47% is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 15,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg'><path d='M70 60 L30 90 L70 120 L70 75 A20 20 0 0 1 110 75 L110 120 L90 105 L70 120 Z' fill='#cfe8f7' stroke='#000'/><rect x='70' y='60' width='40' height='60' fill='none' stroke='#000'/><path d='M70 75 A20 20 0 0 1 110 75' fill='none' stroke='#000'/><text x='88' y='55' font-size='9'>r</text><text x='8' y='95' font-size='9'>30cm</text><text x='150' y='95' font-size='9'>50cm</text><text x='125' y='115' font-size='9'>15cm</text><text x='38' y='135' font-size='9'>20cm</text><text x='85' y='135' font-size='9'>40cm</text><text x='20' y='160' font-size='9'>Rectangle 40x30, semicircle r=20 on top,</text><text x='20' y='170' font-size='9'>triangle notch 40x15 below, triangle 20 long at left</text></svg>"
+   }
+  },
+  {
+   "question": "What is the approximate cost of a component if the scrap is sold at 50% of cost?",
+   "choices": [
+    "4.8$",
+    "5.6$",
+    "4.6$",
+    "5.8$"
+   ],
+   "answer": 0,
+   "explanation": "As mentioned previously, the cost of a single stainless steel coil is 400$. Thus, the value of the scrap is 400$ × 50/100 = 200$ per coil. We shall calculate the percentage of stainless steel wasted: Waste(%) = 100 - Used(%) Used(%) = ((Components made) X (Component Area) / (Coil Area)) X 100 = ((64 X 1828) / (4000 X 55)) X 100 = (116,992 / 220,000) X 100 = 53% Waste(%) = 100 - 53 = 47% The waste percentage is 47%. Thus, the cost of all the components is: 400$ - (47/100 × 200$) = 306$. Therefore, the cost of a single component is: 306$/64 ~ 4.8$ and 4.8$ is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 16,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 170' xmlns='http://www.w3.org/2000/svg'><path d='M70 60 L30 90 L70 120 L70 75 A20 20 0 0 1 110 75 L110 120 L90 105 L70 120 Z' fill='#cfe8f7' stroke='#000'/><rect x='70' y='60' width='40' height='60' fill='none' stroke='#000'/><path d='M70 75 A20 20 0 0 1 110 75' fill='none' stroke='#000'/><text x='88' y='55' font-size='9'>r</text><text x='8' y='95' font-size='9'>30cm</text><text x='150' y='95' font-size='9'>50cm</text><text x='125' y='115' font-size='9'>15cm</text><text x='38' y='135' font-size='9'>20cm</text><text x='85' y='135' font-size='9'>40cm</text><text x='20' y='160' font-size='9'>Rectangle 40x30, semicircle r=20 on top,</text><text x='20' y='170' font-size='9'>triangle notch 40x15 below, triangle 20 long at left</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following changes will decrease the current in bulb C?",
+   "choices": [
+    "Decrease Bulb A´s resistance",
+    "Increase Bulb C's resistance",
+    "Increase battery's voltage",
+    "Either option"
+   ],
+   "answer": 1,
+   "explanation": "The current in bulb C is dependent upon the voltage drop across it and its resistance. In equation form, I=V/R. An increase in battery voltage would increase the voltage drop across bulb C and thus provide a greater current through the bulb. In contrast, increasing the resistance of bulb C would decrease the current through it. Note that making a change in bulb A or B would have no effect on the V/R ratio on bulb C. The correct answer is Increase Bulb C's resistance.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 17,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><line x1='30' y1='25' x2='170' y2='25' stroke='#000'/><line x1='30' y1='85' x2='170' y2='85' stroke='#000'/><line x1='30' y1='25' x2='30' y2='85' stroke='#000'/><line x1='75' y1='25' x2='75' y2='85' stroke='#000'/><circle cx='75' cy='55' r='8' fill='#fff' stroke='#000'/><text x='84' y='59' font-size='9'>C</text><line x1='115' y1='25' x2='115' y2='85' stroke='#000'/><circle cx='115' cy='55' r='8' fill='#fff' stroke='#000'/><text x='124' y='59' font-size='9'>B</text><line x1='155' y1='25' x2='155' y2='85' stroke='#000'/><circle cx='155' cy='55' r='8' fill='#fff' stroke='#000'/><text x='164' y='59' font-size='9'>A</text><text x='18' y='50' font-size='10'>+</text><text x='18' y='66' font-size='10'>-</text><text x='70' y='100' font-size='9'>Y</text><text x='30' y='115' font-size='9'>Battery at left; bulbs C, B, A in parallel branches</text></svg>"
+   }
+  },
+  {
+   "question": "Gear A rotates at 10 rpm. How does gear B rotate? (Note: Digits on the gears represent the number of cut teeth in each gear.)",
+   "choices": [
+    "Clockwise at 25 rpm",
+    "Anticlockwise at 25 rpm",
+    "Clockwise at 4 rpm",
+    "Anticlockwise at 4 rpm",
+    "Anticlockwise at 10 rpm"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) – Anticlockwise at 4 rpm. When gears are meshed with one another, adjacent gears rotate in opposite directions. Thus, when a system contains an odd number of meshed gears, the first and last gears rotate in the same direction, and when a system contains an even number of meshed gears, the first and last gears rotate in opposite directions. In this question, the system consists of 5 meshed gears. Thus the first (A) and last (B) gears will rotate in the same direction of anti-clockwise. This eliminates answers A and C. When two gears have of equal number of teeth or are meshed they rotate at the same velocity. When two gears of unequal number of teeth are combined the gear with the greater number of teeth rotates slower. The ratio of the number of teeth on the two gears, called the gear ratio, is inversely proportional to the ratio [explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 18,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.3,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 8
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1.2,
+        0.6,
+        0
+       ],
+       "size": [
+        1.6,
+        0.3,
+        1.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 20
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2.6,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.3,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 8
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3.8,
+        0.6,
+        0
+       ],
+       "size": [
+        0.8,
+        0.3,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 8
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        5,
+        0,
+        0
+       ],
+       "size": [
+        1.6,
+        0.3,
+        1.6
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 20
+      }
+     ],
+     "note": "A train of 5 meshed gears in an arc: gear A (8 teeth, far left, arrow showing anticlockwise rotation), then 20 teeth, 8 teeth, 8 teeth, and gear B (20 teeth, far right). Gear A rotates at 10 rpm."
+    }
+   }
+  },
+  {
+   "question": "How does raft B move if raft A moves left at constant velocity? (The digit in the circle represents the number of cogs of the gear)",
+   "choices": [
+    "Left with a greater velocity",
+    "Right with the same velocity",
+    "Left with the same velocity",
+    "Right with a greater velocity",
+    "Right with a lower velocity"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) – Left with the same velocity. When raft A moves left it applies a force on the 5-toothed gear attached to it, causing [explanation continues past the bottom of the captured shot] Since the system given above consists of an even number of 4 meshed gears, the 5-to[othed gear... explanation cut off in the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 19,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 5
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        0.7,
+        0
+       ],
+       "size": [
+        1.3,
+        0.3,
+        1.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2.2,
+        1.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 5
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3.2,
+        1.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 5
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1,
+        2.2,
+        0
+       ],
+       "size": [
+        6,
+        0.4,
+        1
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1,
+        -1.2,
+        0
+       ],
+       "size": [
+        6,
+        0.4,
+        1
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Bottom rack (raft A, arrow pointing left) drives a diagonal chain of 4 meshed gears: 5 teeth (on raft A), 10 teeth, 5 teeth, 5 teeth (top, engaging the top rack). Top rack is raft B, teeth on its underside."
+    }
+   }
+  },
+  {
+   "question": "How does wheel B rotate if wheel A rotates clockwise at a constant velocity?",
+   "choices": [
+    "Anti clockwise, lower velocity",
+    "Clockwise, greater velocity",
+    "Anti clockwise, greater velocity",
+    "Clockwise, lower velocity",
+    "Clockwise, same velocity"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – Clockwise, greater velocity. When gears such as wheels are connected by a belt or a rolling chain they rotate in the same direction. However, if the belt or chain is crossed the gears rotate in opposite directions. In this question, the initial three wheels are connected by a single belt. Since wheel A rotates clockwise, all three wheels rotate clockwise. The upper right wheel is connected to the fourth wheel by a crossed belt and thus, it rotates anti-clockwise. The fifth greater wheel is connected to the fourth wheel by a straight belt and hence they both rotate anti-clockwise. Finally, the sixth smaller wheel B is connected to the fifth wheel by a crossed belt and therefore it rotates clockwise as the first greater wheel. This eliminates answers A and C. When two wheels (or gears) of equal diameters are combined they rotate at the same velocity. When two wheels of unequal diameters are combined the wheel with the greater diameter rotates slower. The ratio of their diameters (or equivalently, the ratio of their radii) is directly proportional to the gear ratio and is inversely proportional to the ratio of wheel velocities. In this question wheel B has a smaller diameter than wheel A. Therefore, Clockwise at a greater velocity is the correct answer.",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 20,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.4,
+        0.3,
+        1.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1.5,
+        1.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1.2,
+        -1,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3.8,
+        1,
+        0
+       ],
+       "size": [
+        1.4,
+        0.3,
+        1.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        4.8,
+        -0.3,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      }
+     ],
+     "note": "Six belt-connected wheels (not meshed): large wheel A at left with a rotation arrow, two small wheels linked to A by one belt, then a small wheel, a large wheel (upper right), and small wheel B at far right (marked with direction arrows 1 and 2). Belts between later wheels are a mix of straight and crossed. Wheel B is smaller than wheel A."
+    }
+   }
+  },
+  {
+   "question": "How does wheel B rotate if wheel A rotates anti-clockwise at a constant velocity?",
+   "choices": [
+    "Clockwise, same velocity",
+    "Clockwise, greater velocity",
+    "Anti clockwise, same velocity",
+    "Anti clockwise, greater velocity",
+    "Anti clockwise, lower velocity"
+   ],
+   "answer": 0,
+   "explanation": "In this question, the initial two wheels are connected by a crossed belt. Since wheel A rotates anti-clockwise, the second, smaller wheel will rotate clockwise. The third wheel is again co[nnected to the] second wheel by a crossed belt and thus, will rotate anti-clockwise. The fourth, upper [wheel is] connected to the third smaller wheel by a straight belt and hence they both rotate anti[-clockwise... explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 21,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.4,
+        0.3,
+        1.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1.8,
+        -0.3,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3,
+        -0.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.3,
+        0.7
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 6
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        4,
+        0.8,
+        0
+       ],
+       "size": [
+        1.2,
+        0.3,
+        1.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        4,
+        -0.8,
+        0
+       ],
+       "size": [
+        1.2,
+        0.3,
+        1.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      }
+     ],
+     "note": "Five belt-connected wheels in a row: large wheel A at left (arrow showing anti-clockwise rotation), two small wheels in the middle, a large wheel upper right, and large wheel B at lower right (marked with direction arrows 1 and 2). Belts between wheels are a mix of crossed and straight; wheel B is the same size as wheel A."
+    }
+   }
+  },
+  {
+   "question": "All three bulbs depicted in the circuit are identical. Between which two points is the electrical potential difference the greatest?",
+   "choices": [
+    "D and C",
+    "C and A",
+    "A and B",
+    "Either option"
+   ],
+   "answer": 1,
+   "explanation": "The electric potential difference V across a resistor (like these neon bulbs), is given by Ohm's law V=IR; the product of the current I at that resistor multiplied by its resistance R. Each bulb here has the same resistance (since all bulbs are identical). In addition, this circuit has no intersections of wire, therefore the same current passes through every component. Since the current is the same through every bulb, and the bulbs' resistances are identi[cal... explanation continues past the bottom of the captured shot]",
+   "source": "Mechanical Reasoning — Drill 2",
+   "topic": "Drill 2",
+   "topic_n": 22,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox='0 0 200 120' xmlns='http://www.w3.org/2000/svg'><line x1='40' y1='90' x2='40' y2='30' stroke='#000'/><text x='28' y='62' font-size='9'>D</text><circle cx='55' cy='30' r='8' fill='#fff' stroke='#000'/><line x1='63' y1='30' x2='110' y2='30' stroke='#000'/><text x='95' y='22' font-size='9'>C</text><circle cx='118' cy='30' r='8' fill='#fff' stroke='#000'/><line x1='126' y1='30' x2='160' y2='30' stroke='#000'/><line x1='160' y1='30' x2='160' y2='75' stroke='#000'/><text x='164' y='55' font-size='9'>B</text><circle cx='140' cy='75' r='8' fill='#fff' stroke='#000'/><line x1='132' y1='75' x2='95' y2='75' stroke='#000'/><line x1='95' y1='75' x2='95' y2='90' stroke='#000'/><line x1='95' y1='90' x2='40' y2='90' stroke='#000'/><text x='70' y='86' font-size='9'>A</text><text x='52' y='100' font-size='9'>battery (+ -)</text><text x='30' y='115' font-size='9'>Series loop: battery, then three identical bulbs; points A, B, C, D marked</text></svg>"
+   }
+  },
+  {
+   "question": "Which fluid is heavier? If there is no difference, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Both containers show a boat floating in an unspecified liquid, and the task is to decide which liquid is heavier. 2. The heavier a liquid is, the greater its density, meaning it has more particles packed into the same volume. 3. A denser, heavier liquid pushes up more strongly, so a boat floats higher on it. 4. As an everyday example, oil is less dense than water, which is why oil floats on top of water. 5. In this example the boat sits higher in option two, so liquid two must be the heavier liquid. 6. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 130\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"30\" y=\"60\" width=\"100\" height=\"55\" fill=\"#cfeef2\" stroke=\"#333\"/><rect x=\"170\" y=\"60\" width=\"100\" height=\"55\" fill=\"#cfeef2\" stroke=\"#333\"/><polygon points=\"60,62 100,62 92,78 68,78\" fill=\"#999\" stroke=\"#333\"/><line x1=\"80\" y1=\"62\" x2=\"80\" y2=\"30\" stroke=\"#333\"/><polygon points=\"80,30 80,52 94,52\" fill=\"#ddd\" stroke=\"#333\"/><text x=\"42\" y=\"52\" font-size=\"12\">1</text><polygon points=\"200,56 240,56 232,70 208,70\" fill=\"#999\" stroke=\"#333\"/><line x1=\"220\" y1=\"56\" x2=\"220\" y2=\"24\" stroke=\"#333\"/><polygon points=\"220,24 220,46 234,46\" fill=\"#ddd\" stroke=\"#333\"/><text x=\"182\" y=\"46\" font-size=\"12\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Assuming both are made from the same material and contain the same volume, which container will keep the ice cream cold longer? If there is no difference between the containers, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "In two dimensions, a circle has a smaller area to perimeter ratio than a polygon. This is also true for 3-dimensional shapes, where the volume to surface area ratio is smaller for a cylinder. Both containers have the same volume of ice cream, but the surface area of container 1 is smaller. Therefore, Container 1 will keep the ice cream cold longer. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 130\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"45\" y=\"35\" width=\"70\" height=\"70\" fill=\"#ddd\" stroke=\"#333\"/><ellipse cx=\"80\" cy=\"35\" rx=\"35\" ry=\"8\" fill=\"#cfeef2\" stroke=\"#333\"/><text x=\"30\" y=\"70\" font-size=\"12\">1</text><polygon points=\"185,45 255,45 245,105 195,105\" fill=\"#eee\" stroke=\"#333\"/><polygon points=\"185,45 205,30 275,30 255,45\" fill=\"#ccc\" stroke=\"#333\"/><rect x=\"195\" y=\"48\" width=\"50\" height=\"10\" fill=\"#cfeef2\"/><text x=\"170\" y=\"70\" font-size=\"12\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Which object is the heaviest? To clarify, both shapes are hollow and have their tops and bottoms removed, and the faces on the sides of each shape are identical.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "As both objects are hollow, the difference between their weights can be assessed by calculating their individual surface areas. All faces are identical, so we can calculate one and multiply by the number of faces for simplicity. Object: [length of a face]*[height of a face]*[number of faces] = [total area] The first shape is a cylinder with a regular hexagon as its base. The big diagonal of a regular hexagon is twice the length of its side (explanation below). Therefore, it's side's length is 2/2=1. The height is given explicitly. Object 1: 1*2*6 = 12",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 320 150\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"70\" y=\"14\" font-size=\"12\">1</text><polygon points=\"50,30 110,30 125,45 110,120 50,120 35,45\" fill=\"#eee\" stroke=\"#333\"/><polygon points=\"50,30 110,30 110,120 50,120\" fill=\"#cfeef2\" stroke=\"#333\"/><text x=\"130\" y=\"80\" font-size=\"12\">2cm</text><text x=\"65\" y=\"140\" font-size=\"12\">2cm</text><text x=\"215\" y=\"14\" font-size=\"12\">2</text><polygon points=\"190,40 260,25 290,40 290,110 220,125 190,110\" fill=\"#eee\" stroke=\"#333\"/><polygon points=\"190,40 260,40 260,125 190,110\" fill=\"#cfeef2\" stroke=\"#333\"/><text x=\"295\" y=\"75\" font-size=\"12\">2cm</text><text x=\"225\" y=\"142\" font-size=\"12\">2cm</text><text x=\"268\" y=\"122\" font-size=\"12\">2cm</text></svg>"
+   }
+  },
+  {
+   "question": "Which object is the lightest?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "As all three objects are hollow, the difference between their weights can be assessed by calculating their individual surface areas. For Object 1 and Object 3, all faces are identical, so we can calculate one and multiply by the number of faces for simplicity. Object: [length of a face]*[height of a face]*[number of faces] = [total area] Object 1: 2*2*3 = 12 Object 3: 2*2*4 = 16",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 4,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 340 140\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"55\" y=\"14\" font-size=\"12\">1</text><polygon points=\"30,35 85,20 85,110 30,110\" fill=\"#cfeef2\" stroke=\"#333\"/><polygon points=\"30,35 85,20 60,35\" fill=\"#ccc\" stroke=\"#333\"/><text x=\"8\" y=\"25\" font-size=\"11\">2cm</text><text x=\"90\" y=\"70\" font-size=\"11\">2cm</text><text x=\"45\" y=\"128\" font-size=\"11\">2cm</text><text x=\"165\" y=\"14\" font-size=\"12\">2</text><rect x=\"140\" y=\"35\" width=\"60\" height=\"75\" fill=\"#cfeef2\" stroke=\"#333\"/><ellipse cx=\"170\" cy=\"35\" rx=\"30\" ry=\"8\" fill=\"#ccc\" stroke=\"#333\"/><text x=\"150\" y=\"128\" font-size=\"11\">2cm</text><text x=\"265\" y=\"14\" font-size=\"12\">3</text><polygon points=\"235,40 295,30 295,105 235,115\" fill=\"#cfeef2\" stroke=\"#333\"/><polygon points=\"295,30 320,42 320,110 295,105\" fill=\"#ccc\" stroke=\"#333\"/><text x=\"322\" y=\"75\" font-size=\"11\">2cm</text><text x=\"255\" y=\"132\" font-size=\"11\">2cm</text><text x=\"305\" y=\"128\" font-size=\"11\">2cm</text></svg>"
+   }
+  },
+  {
+   "question": "Which switches must be closed so that exactly three bulbs would light up?",
+   "choices": [
+    "Switch 1 only",
+    "Switches 2 and 3",
+    "Switches 1 and 2",
+    "All of them"
+   ],
+   "answer": 2,
+   "explanation": "The answer is C. Leaving switch 1 open will prevent any current from flowing, thus no bulbs will light up. Therefore, we know we must have switch 1 closed, marking option B as incorrect. Leaving switches 2 and 3 open does not allow for a completed circuit in the bulbs above 2 and beneath 3. Therefore they will not light up, only the middle one, so option A is incorrect. Closing switch 2 will allow the current to flow through the left bulb, and closing switch 3 will allow current through the right bulb. Therefore, closing switch 1 and 2, or closing switch 1 and 3, will allow current through exactly 3 bulbs, as required, marking option C correct. Closing all switches will allow current through all 4 bulbs, marking option D incorrect.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 220\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M40 200 L40 40 L105 40 M155 40 L215 40 L240 40 L240 200 L40 200\" fill=\"none\" stroke=\"#333\"/><line x1=\"30\" y1=\"110\" x2=\"50\" y2=\"110\" stroke=\"#333\"/><line x1=\"35\" y1=\"122\" x2=\"45\" y2=\"122\" stroke=\"#333\"/><circle cx=\"130\" cy=\"40\" r=\"14\" fill=\"none\" stroke=\"#333\"/><path d=\"M122 50 Q130 30 138 50\" fill=\"none\" stroke=\"#333\"/><circle cx=\"218\" cy=\"40\" r=\"3\" fill=\"none\" stroke=\"#333\"/><line x1=\"218\" y1=\"40\" x2=\"238\" y2=\"28\" stroke=\"#333\"/><circle cx=\"240\" cy=\"40\" r=\"3\" fill=\"none\" stroke=\"#333\"/><text x=\"228\" y=\"22\" font-size=\"12\">1</text><path d=\"M150 80 L240 80 M150 80 L150 200 M195 80 L195 200\" fill=\"none\" stroke=\"#333\"/><circle cx=\"150\" cy=\"115\" r=\"13\" fill=\"none\" stroke=\"#333\"/><circle cx=\"195\" cy=\"115\" r=\"13\" fill=\"none\" stroke=\"#333\"/><circle cx=\"150\" cy=\"160\" r=\"3\" fill=\"none\" stroke=\"#333\"/><line x1=\"150\" y1=\"160\" x2=\"162\" y2=\"178\" stroke=\"#333\"/><circle cx=\"150\" cy=\"185\" r=\"3\" fill=\"none\" stroke=\"#333\"/><text x=\"128\" y=\"172\" font-size=\"12\">2</text><circle cx=\"240\" cy=\"105\" r=\"3\" fill=\"none\" stroke=\"#333\"/><line x1=\"240\" y1=\"105\" x2=\"252\" y2=\"123\" stroke=\"#333\"/><circle cx=\"240\" cy=\"130\" r=\"3\" fill=\"none\" stroke=\"#333\"/><text x=\"258\" y=\"118\" font-size=\"12\">3</text><circle cx=\"240\" cy=\"168\" r=\"13\" fill=\"none\" stroke=\"#333\"/></svg>"
+   }
+  },
+  {
+   "question": "At which point will the ball be moving at a greater total velocity? If the ball moves at the same velocity in both points, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. A ball's total velocity has two parts: a horizontal part that stays constant throughout the flight, and a vertical part. 2. The vertical part shrinks as the ball rises and reaches zero at the very top of the arc. 3. At point two, the top of the arc, only the horizontal part remains, so the total velocity is at its lowest there. 4. At point one, near the start of the arc, both parts are present, so the total velocity is greater. The correct answer is option one.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 140\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M70 70 Q150 10 235 75\" fill=\"none\" stroke=\"#333\" stroke-dasharray=\"5 4\"/><text x=\"92\" y=\"52\" font-size=\"12\">1</text><text x=\"140\" y=\"26\" font-size=\"12\">2</text><circle cx=\"98\" cy=\"58\" r=\"3\" fill=\"#333\"/><circle cx=\"146\" cy=\"34\" r=\"3\" fill=\"#333\"/><circle cx=\"240\" cy=\"80\" r=\"8\" fill=\"#ddd\" stroke=\"#333\"/><ellipse cx=\"45\" cy=\"85\" rx=\"14\" ry=\"30\" fill=\"#cfeef2\" stroke=\"#333\"/><line x1=\"55\" y1=\"70\" x2=\"72\" y2=\"62\" stroke=\"#333\"/></svg>"
+   }
+  },
+  {
+   "question": "Which chain should move faster in order for the tractor to turn in the arrow's direction? If both chains need to move at the same speed to make the turn, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. Seen from above, a turning tractor works like circular motion, where the track on the outer edge must cover the greater distance. 2. Track two is almost stationary because it acts as the pivot, or axis, of the turn. 3. Therefore track one, on the outer edge, must move faster for the tractor to turn in the marked direction.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 7,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3,
+        0.6,
+        1.6
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0.5,
+        1.1
+       ],
+       "size": [
+        3,
+        0.4,
+        0.5
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0.5,
+        -1.1
+       ],
+       "size": [
+        3,
+        0.4,
+        0.5
+       ]
+      }
+     ],
+     "note": "Top view of a tracked tractor facing right. Track (chain) 2 is the upper track, track 1 is the lower track. A curved arrow at the front turns upward toward the track 2 side, so track 2 is the inner pivot track and track 1 is on the outer edge of the turn and must move faster."
+    }
+   }
+  },
+  {
+   "question": "If the wheel at the top is moving in the direction of the arrow next to it, in which direction will the lower wheel turn?",
+   "choices": [
+    "1",
+    "2"
+   ],
+   "answer": 0,
+   "explanation": "1. Note that both wheels are driven by the same band. 2. Trace the band around both wheels to follow the direction of motion. 3. Conclude: following the band gives the lower wheel's direction. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 8,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        0.5,
+        0.3,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1,
+        0.4,
+        1
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "A small pulley at the top sits on a horizontal axle running left-right, with a curved rotation arrow beside it. A crossed (figure-eight) belt connects the top pulley down to a larger wheel below whose axle points toward the viewer. Two curved arrows under the lower wheel are labelled 1 on the left and 2 on the right; direction 1 is correct."
+    }
+   }
+  },
+  {
+   "question": "What would the total resistance be if a resistor was added in parallel to the following circuit?",
+   "choices": [
+    "3R",
+    "2R/3",
+    "3R/2",
+    "Remain the same"
+   ],
+   "answer": 1,
+   "explanation": "The answer is 2. We shall use this question as an excuse to clarify how total resistance is calculated in general. Series Connection: Resistors are said to be connected in series if the currents though each of the resistors are equal. For example, the same current must flow through the two resistors in the middle of the figure. If resistors R1, R2, ..., Rn are connected in series, then their total resistance Rt can be calculated using the formula Rt = R1 + R2 + ... + Rn This means we can replace the resistors with a single resistor with resistance Rt and th will not be affected.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 9,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 260 190\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M50 160 L50 30 L110 30 L110 160 L50 160\" fill=\"none\" stroke=\"#333\"/><line x1=\"40\" y1=\"90\" x2=\"60\" y2=\"90\" stroke=\"#333\"/><line x1=\"45\" y1=\"102\" x2=\"55\" y2=\"102\" stroke=\"#333\"/><rect x=\"103\" y=\"45\" width=\"14\" height=\"26\" fill=\"#eee\" stroke=\"#333\"/><text x=\"122\" y=\"62\" font-size=\"12\">R</text><rect x=\"103\" y=\"115\" width=\"14\" height=\"26\" fill=\"#eee\" stroke=\"#333\"/><text x=\"122\" y=\"132\" font-size=\"12\">R</text><path d=\"M110 30 L185 30 L185 160 L110 160\" fill=\"none\" stroke=\"#333\" stroke-dasharray=\"5 4\"/><rect x=\"178\" y=\"80\" width=\"14\" height=\"26\" fill=\"#eee\" stroke=\"#333\"/><text x=\"197\" y=\"97\" font-size=\"12\">R</text></svg>"
+   }
+  },
+  {
+   "question": "In which way is it easier to carry the large hammer? If it makes no difference then please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "In this question the hammer functions as a lever in which the fulcrum is between the load and the effort. The fulcrum is the figure's shoulder balancing the hammer; the load is the mass of the hammer's head; and the effort is the force applied by the figure's hand that is required to balance the weight. We can see that the position of the fulcrum changes between the two figures. Since the weight of the load is constant, the shorter the distance between the load and the fulcrum the smaller the torque and subsequently so is the force required to balance it. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 10,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        -2,
+        1,
+        0
+       ],
+       "size": [
+        4,
+        0.15,
+        0.15
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0.2,
+        1,
+        0
+       ],
+       "size": [
+        0.7,
+        1,
+        0.4
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        2.5,
+        1,
+        0
+       ],
+       "size": [
+        4,
+        0.15,
+        0.15
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        3.6,
+        1,
+        0
+       ],
+       "size": [
+        0.7,
+        1,
+        0.4
+       ]
+      }
+     ],
+     "note": "Two figures each carry a large hammer on the shoulder, which acts as the fulcrum of a lever; the hand applies the effort and the hammer head is the load. In figure 1 the hammer head is far from the shoulder (long load arm). In figure 2 the hammer head rests close to the shoulder (short load arm), so less force is needed — figure 2 is easier."
+    }
+   }
+  },
+  {
+   "question": "Which fan requires a stronger engine to make the blades rotate? If both fans require the same engine then please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The more blades a fan has the stronger engine it needs to make the blades rotate since the air resistance increases. Therefore the fan in fig.2 which has 6 blades requires a stronger engine than the fan in fig.1 which has only 4 blades. The correct answer is - 2.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 11,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 140\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"30\" y=\"60\" font-size=\"12\">1</text><circle cx=\"90\" cy=\"55\" r=\"38\" fill=\"#cfeef2\" stroke=\"#333\"/><path d=\"M90 55 L90 22 A33 33 0 0 1 112 38 Z M90 55 L118 68 A33 33 0 0 1 96 86 Z M90 55 L62 68 A33 33 0 0 1 68 38 Z M90 55 L76 84 A33 33 0 0 1 60 60 Z\" fill=\"#fff\" stroke=\"#333\"/><rect x=\"86\" y=\"93\" width=\"8\" height=\"18\" fill=\"#999\"/><path d=\"M70 118 L110 118 L100 111 L80 111 Z\" fill=\"#999\"/><text x=\"180\" y=\"60\" font-size=\"12\">2</text><circle cx=\"240\" cy=\"55\" r=\"38\" fill=\"#cfeef2\" stroke=\"#333\"/><path d=\"M240 55 L240 22 A33 33 0 0 1 262 32 Z M240 55 L268 42 A33 33 0 0 1 268 68 Z M240 55 L262 78 A33 33 0 0 1 240 88 Z M240 55 L218 78 A33 33 0 0 1 212 68 Z M240 55 L212 42 A33 33 0 0 1 218 32 Z M240 55 L228 24 A33 33 0 0 1 252 24 Z\" fill=\"#fff\" stroke=\"#333\"/><rect x=\"236\" y=\"93\" width=\"8\" height=\"18\" fill=\"#999\"/><path d=\"M220 118 L260 118 L250 111 L230 111 Z\" fill=\"#999\"/></svg>"
+   }
+  },
+  {
+   "question": "In which direction will the light blue wheel spin? (If it won't spin at all then please select answer option 3)",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is 2. We will mark the wheels as 1,2,3 and 4. See the picture below. Wheel 1 rotates clockwise, thus moving the band in the direction shown by the green arrows. That movement will, in turn, rotate wheel 2 counterclockwise. Since wheels 2 and 3 are connected by a band, wheel 3 will also rotate counterclockwise. Since wheels 3 and 4 are connected by a band, wheel 3 will also rotate counterclockwise",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 12,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2,
+        -1.5,
+        0
+       ],
+       "size": [
+        0.55,
+        0.3,
+        0.55
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.3,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.3,
+        0.6
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2,
+        -0.5,
+        0
+       ],
+       "size": [
+        1,
+        0.35,
+        1
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      }
+     ],
+     "note": "Four belt wheels on horizontal axles. Lower-left wheel is the driver, with a curved rotation arrow. A belt runs from it up to a larger wheel at upper left; that wheel shares an axle with a smaller wheel beside it; an open belt runs from the smaller wheel diagonally down to the large light-blue wheel at lower right. Curved arrows under the blue wheel are labelled 1 on the left and 2 on the right; direction 2 is correct."
+    }
+   }
+  },
+  {
+   "question": "Which axle will spin at a faster rate? If both are likely to spin in the same speed then please choose answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Axle one sits at the centre of the large wheel, while axle two rides along the outer edge of it. 2. In the time axle one makes its turn, axle two must travel the much greater distance around the edge of the large wheel. 3. Covering more distance in the same time means axle two spins faster. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 13,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        2.2,
+        0.5,
+        2.2
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0.9,
+        0,
+        0.4
+       ],
+       "size": [
+        1,
+        0.5,
+        1
+       ],
+       "teeth": 8
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2,
+        0,
+        0
+       ],
+       "size": [
+        2,
+        0.12,
+        0.12
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2.2,
+        0,
+        0.4
+       ],
+       "size": [
+        2.4,
+        0.12,
+        0.12
+       ],
+       "rot": [
+        0,
+        0,
+        90
+       ]
+      }
+     ],
+     "note": "A large internally-toothed wheel rotates (curved arrow at its top). Axle 1 runs through the centre of the large wheel. A smaller light-blue gear meshes inside the large wheel, offset from the centre, and axle 2 runs through the small gear and rides along the outer edge of the large wheel. Axle 2 spins faster."
+    }
+   }
+  },
+  {
+   "question": "Which of the chains can hold the sign by itself? if both chains are required then please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Identify the load: the sign's weight pulls straight down. 2. Recall what's needed: to hold it, a chain must pull with an equal force in the opposite direction. 3. Check the chains: chain 2 is positioned on the right side of the pole to provide that pull. 4. Conclude: chain 2 can hold the sign alone. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 14,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 280 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"118\" y=\"20\" width=\"8\" height=\"140\" fill=\"#ccc\" stroke=\"#333\"/><rect x=\"80\" y=\"42\" width=\"150\" height=\"7\" fill=\"#ccc\" stroke=\"#333\"/><line x1=\"122\" y1=\"20\" x2=\"92\" y2=\"42\" stroke=\"#333\"/><line x1=\"122\" y1=\"20\" x2=\"152\" y2=\"42\" stroke=\"#333\"/><text x=\"82\" y=\"16\" font-size=\"12\">1</text><text x=\"150\" y=\"16\" font-size=\"12\">2</text><line x1=\"165\" y1=\"49\" x2=\"165\" y2=\"60\" stroke=\"#333\"/><line x1=\"205\" y1=\"49\" x2=\"205\" y2=\"60\" stroke=\"#333\"/><polygon points=\"155,60 225,60 238,72 225,84 155,84\" fill=\"#cfeef2\" stroke=\"#333\"/></svg>"
+   }
+  },
+  {
+   "question": "On which board can you hang a heavier weight load? If there is no difference please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – 2. Providing that both boards are made of the same material the thickness of the board is a crucial factor in determining the weight load each board can carry. Since the weight is pulling downwards on the boards, when the board is placed in position 2 - the weight is pulling on a thicker cut of the board in comparison to position 1, and therefore position 2 can hold more weight, providing it is stable. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 15,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 320 130\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"72\" y=\"18\" font-size=\"12\">1</text><rect x=\"20\" y=\"45\" width=\"14\" height=\"55\" fill=\"#999\"/><rect x=\"120\" y=\"45\" width=\"14\" height=\"55\" fill=\"#999\"/><rect x=\"15\" y=\"38\" width=\"125\" height=\"9\" fill=\"#cfeef2\" stroke=\"#333\"/><line x1=\"78\" y1=\"47\" x2=\"78\" y2=\"62\" stroke=\"#333\"/><polygon points=\"66,62 90,62 84,84 72,84\" fill=\"#777\" stroke=\"#333\"/><text x=\"232\" y=\"18\" font-size=\"12\">2</text><rect x=\"180\" y=\"45\" width=\"14\" height=\"55\" fill=\"#999\"/><rect x=\"280\" y=\"45\" width=\"14\" height=\"55\" fill=\"#999\"/><rect x=\"175\" y=\"30\" width=\"125\" height=\"17\" fill=\"#cfeef2\" stroke=\"#333\"/><line x1=\"238\" y1=\"47\" x2=\"238\" y2=\"62\" stroke=\"#333\"/><polygon points=\"226,62 250,62 244,84 232,84\" fill=\"#777\" stroke=\"#333\"/></svg>"
+   }
+  },
+  {
+   "question": "Which of the following changes will increase the current measurement at point Y?",
+   "choices": [
+    "Increase one bulb's resistance",
+    "Reduce battery's voltage",
+    "Add bulb on separate branch",
+    "Neither option"
+   ],
+   "answer": 2,
+   "explanation": "Point Y represents the location where the total current of this parallel circuit can be measured. The total current would vary directly with the total voltage and inversely with the total resistance. In equation form, I=V/R. Decreasing the total resistance would increase the current at point Y. The total resistance can be decreased by adding another resistor* in a separate branch or by decreasing the resistance of an The correct answer is Add bulb on separate branch.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 16,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 320 150\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M35 25 L290 25 L290 80 M35 25 L35 115 L290 115\" fill=\"none\" stroke=\"#333\"/><line x1=\"25\" y1=\"62\" x2=\"45\" y2=\"62\" stroke=\"#333\"/><line x1=\"28\" y1=\"74\" x2=\"42\" y2=\"74\" stroke=\"#333\"/><text x=\"14\" y=\"58\" font-size=\"11\">+</text><text x=\"14\" y=\"88\" font-size=\"11\">-</text><path d=\"M150 25 L150 62 M105 78 L105 115 M195 25 L195 62 M150 78 L150 115 M240 25 L240 62 M195 78 L195 115\" fill=\"none\" stroke=\"#333\"/><circle cx=\"128\" cy=\"70\" r=\"13\" fill=\"none\" stroke=\"#333\"/><text x=\"146\" y=\"86\" font-size=\"12\">C</text><circle cx=\"218\" cy=\"70\" r=\"13\" fill=\"none\" stroke=\"#333\"/><text x=\"236\" y=\"86\" font-size=\"12\">B</text><path d=\"M240 78 L240 115\" fill=\"none\" stroke=\"#333\"/><circle cx=\"268\" cy=\"70\" r=\"13\" fill=\"none\" stroke=\"#333\"/><text x=\"286\" y=\"86\" font-size=\"12\">A</text><text x=\"55\" y=\"138\" font-size=\"14\">Y</text></svg>"
+   }
+  },
+  {
+   "question": "In order to prevent the train from sliding off the track, which side the rail tracks should be elevated? (If none, mark 3.)",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. The centrifugal force pushes the train outward, away from the centre of the turn. 2. To counteract that outward push, the outer rail should be raised higher. 3. So the outer rim should be elevated. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Drill 3",
+   "topic": "Drill 3",
+   "topic_n": 17,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 300 150\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M20 55 Q150 60 205 130\" fill=\"none\" stroke=\"#333\" stroke-width=\"3\"/><path d=\"M20 63 Q150 68 212 136\" fill=\"none\" stroke=\"#7ab\" stroke-width=\"5\"/><rect x=\"18\" y=\"38\" width=\"55\" height=\"14\" fill=\"#999\" stroke=\"#333\"/><rect x=\"70\" y=\"34\" width=\"26\" height=\"18\" fill=\"#777\" stroke=\"#333\"/><circle cx=\"30\" cy=\"54\" r=\"5\" fill=\"#333\"/><circle cx=\"48\" cy=\"54\" r=\"5\" fill=\"#333\"/><circle cx=\"80\" cy=\"54\" r=\"5\" fill=\"#333\"/><text x=\"168\" y=\"118\" font-size=\"12\">1</text><text x=\"212\" y=\"104\" font-size=\"12\">2</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the stools is better suited for stability on uneven ground?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "The fewer legs a stool has, the fewer its points of contact to the ground. When an object has multiple contact points with the ground, each point must be separately adjusted to assure stability. Since stool 1 has the fewest number of legs it will require the least amount of adjustments, and would thus be the most stable option. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 120\"><text x=\"40\" y=\"15\" font-size=\"11\">1</text><text x=\"115\" y=\"15\" font-size=\"11\">2</text><text x=\"190\" y=\"15\" font-size=\"11\">3</text><ellipse cx=\"40\" cy=\"35\" rx=\"28\" ry=\"9\" fill=\"#cfe\"/><line x1=\"22\" y1=\"42\" x2=\"16\" y2=\"80\" stroke=\"#333\"/><line x1=\"58\" y1=\"42\" x2=\"64\" y2=\"80\" stroke=\"#333\"/><line x1=\"40\" y1=\"44\" x2=\"40\" y2=\"82\" stroke=\"#333\"/><ellipse cx=\"115\" cy=\"35\" rx=\"28\" ry=\"9\" fill=\"#cfe\"/><line x1=\"95\" y1=\"42\" x2=\"88\" y2=\"80\" stroke=\"#333\"/><line x1=\"108\" y1=\"44\" x2=\"104\" y2=\"82\" stroke=\"#333\"/><line x1=\"122\" y1=\"44\" x2=\"126\" y2=\"82\" stroke=\"#333\"/><line x1=\"135\" y1=\"42\" x2=\"142\" y2=\"80\" stroke=\"#333\"/><ellipse cx=\"190\" cy=\"35\" rx=\"28\" ry=\"9\" fill=\"#cfe\"/><line x1=\"170\" y1=\"42\" x2=\"163\" y2=\"80\" stroke=\"#333\"/><line x1=\"180\" y1=\"44\" x2=\"176\" y2=\"82\" stroke=\"#333\"/><line x1=\"190\" y1=\"44\" x2=\"190\" y2=\"82\" stroke=\"#333\"/><line x1=\"200\" y1=\"44\" x2=\"204\" y2=\"82\" stroke=\"#333\"/><line x1=\"210\" y1=\"42\" x2=\"217\" y2=\"80\" stroke=\"#333\"/><text x=\"20\" y=\"105\" font-size=\"9\">1: 3 legs</text><text x=\"90\" y=\"105\" font-size=\"9\">2: 4 legs</text><text x=\"160\" y=\"105\" font-size=\"9\">3: 5 legs</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the cables is capable of supporting the pole on its own?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "1. Split each cable's tension into two parts: a vertical part along the pole and a horizontal part perpendicular to it. 2. Recall what supports the pole: the horizontal part does the useful work. 3. Compare the options: cable 3 wastes the least tension along the pole and keeps the most perpendicular to it. 4. Conclude: cable 3 gives the best support. The correct answer is 3.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 125\"><polygon points=\"20,20 38,20 52,100 36,100\" fill=\"#ccc\" stroke=\"#333\"/><line x1=\"38\" y1=\"35\" x2=\"95\" y2=\"35\" stroke=\"#333\"/><rect x=\"92\" y=\"25\" width=\"6\" height=\"75\" fill=\"#666\"/><line x1=\"98\" y1=\"45\" x2=\"135\" y2=\"100\" stroke=\"#333\"/><line x1=\"98\" y1=\"35\" x2=\"165\" y2=\"100\" stroke=\"#333\"/><line x1=\"98\" y1=\"30\" x2=\"195\" y2=\"100\" stroke=\"#333\"/><line x1=\"10\" y1=\"100\" x2=\"230\" y2=\"100\" stroke=\"#333\"/><text x=\"118\" y=\"85\" font-size=\"10\">1</text><text x=\"148\" y=\"85\" font-size=\"10\">2</text><text x=\"180\" y=\"85\" font-size=\"10\">3</text><text x=\"60\" y=\"115\" font-size=\"9\">Pole centre; cables 1 steepest, 3 shallowest (most horizontal)</text></svg>"
+   }
+  },
+  {
+   "question": "In which direction should the leftmost wheel turn in order to continuously spin the rightmost wheel? If both directions achieve the same result, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – 1. Should the leftmost wheel turn in a counter-clockwise direction, the center wheel will rise because it is located inside a rail. It will then lose its contact with the rightmost wheel. However, should the leftmost wheel turn clockwise, it would force the middle wheel to stay at the rail's bottom, spinning it counter-clockwise. This would then continuously spin the rightmost wheel.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 3,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2,
+        0,
+        0
+       ],
+       "size": [
+        1.6,
+        0.5,
+        1.6
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.0,
+        0.5,
+        1.0
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        1.8,
+        0,
+        0
+       ],
+       "size": [
+        1.3,
+        0.5,
+        1.3
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        1.2,
+        0
+       ],
+       "size": [
+        5,
+        0.2,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Three wheels hang side by side under a horizontal rail. Large left wheel, smaller centre wheel whose axle sits in a vertical rail/slot so it can rise, medium right wheel; all touch each other. Curved arrows under left wheel: 1 = one direction, 2 = the other. Turning left wheel direction 1 (clockwise per explanation) keeps centre wheel at bottom of its rail in contact with right wheel."
+    }
+   }
+  },
+  {
+   "question": "In what direction will the bigger wheel turn should the smaller wheel turn in the indicated direction? If the wheel will turn back and forth, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) – 3. Both wheels rotate on axles attached to a platform. Both are also connected by a small metal strip, so their movements will be affected by each other. Since the diameter of the top wheel is smaller than the bottom wheel's diameter, its rotation will prevent the bigger wheel from completing a full rotation. The bigger wheel will rotate until the strip halts its movement and changes its direction, moving back and forth endlessly.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 4,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        1.6,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.6
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        -0.8,
+        0
+       ],
+       "size": [
+        1.5,
+        0.4,
+        1.5
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        0.3,
+        0.4,
+        0
+       ],
+       "size": [
+        0.15,
+        2.2,
+        0.1
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Small wheel on top, large wheel below, both on fixed axles, joined off-centre by a vertical metal strip (connecting rod). Small wheel has a curved rotation arrow at its top right. Large wheel bottom arrows labelled 1 (left) and 2 (right). Because diameters differ, the strip stops the big wheel completing a turn, so it rocks back and forth."
+    }
+   }
+  },
+  {
+   "question": "What distance would the center of the gear move if the upper bar were to shift half a meter in the direction of the arrow?",
+   "choices": [
+    "More than half a meter",
+    "Less than half a meter",
+    "Half a meter"
+   ],
+   "answer": 1,
+   "explanation": "1. The bar moves half a metre in the direction shown. 2. The outer edge of a gear always travels farther than its centre axle, so the centre moves less than the edge does. 3. Therefore the centre of the gear moves less than half a metre. The correct answer is: less than half a metre.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 125\"><rect x=\"30\" y=\"25\" width=\"180\" height=\"14\" fill=\"#bbb\" stroke=\"#333\"/><path d=\"M40 39 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8\" fill=\"none\" stroke=\"#333\"/><path d=\"M150 32 L90 32\" stroke=\"#000\" marker-end=\"url(#a)\"/><circle cx=\"120\" cy=\"65\" r=\"20\" fill=\"#cfe\" stroke=\"#333\"/><circle cx=\"120\" cy=\"65\" r=\"3\" fill=\"#333\"/><rect x=\"25\" y=\"88\" width=\"190\" height=\"14\" fill=\"#999\" stroke=\"#333\"/><path d=\"M35 88 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8 l8-8 l8 8\" fill=\"none\" stroke=\"#333\"/><text x=\"30\" y=\"118\" font-size=\"9\">Gear between upper moving rack (arrow left) and fixed lower rack</text></svg>"
+   }
+  },
+  {
+   "question": "On which of the chains is more tension being exerted? If the tensions are identical, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – 1. The tension of the chain must oppose and cancel out the force of gravity. That is, the vertical component of the tension exerted must be equal to the gravitational force. In option 1, the vertical component is only a part of the tension exerted by the chain (as it runs in an angle relative to the vertical direction). In option 2, the vertical component is the whole tension exerted by the chain (as it runs vertically). Therefore, the chain in Option 1 must exert more force than the chain in Option 2 in order to exert the same vertical force.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 130\"><rect x=\"25\" y=\"15\" width=\"7\" height=\"95\" fill=\"#666\"/><rect x=\"32\" y=\"45\" width=\"55\" height=\"6\" fill=\"#bbb\" stroke=\"#333\"/><rect x=\"32\" y=\"85\" width=\"55\" height=\"6\" fill=\"#bbb\" stroke=\"#333\"/><line x1=\"32\" y1=\"18\" x2=\"87\" y2=\"48\" stroke=\"#000\" stroke-dasharray=\"4 2\"/><line x1=\"32\" y1=\"58\" x2=\"87\" y2=\"88\" stroke=\"#000\" stroke-dasharray=\"4 2\"/><text x=\"50\" y=\"80\" font-size=\"10\">1</text><rect x=\"145\" y=\"15\" width=\"7\" height=\"95\" fill=\"#666\"/><rect x=\"152\" y=\"45\" width=\"55\" height=\"6\" fill=\"#bbb\" stroke=\"#333\"/><rect x=\"152\" y=\"85\" width=\"55\" height=\"6\" fill=\"#bbb\" stroke=\"#333\"/><line x1=\"152\" y1=\"18\" x2=\"207\" y2=\"48\" stroke=\"#000\" stroke-dasharray=\"4 2\"/><line x1=\"207\" y1=\"48\" x2=\"207\" y2=\"91\" stroke=\"#000\" stroke-dasharray=\"4 2\"/><text x=\"175\" y=\"80\" font-size=\"10\">2</text><text x=\"20\" y=\"122\" font-size=\"9\">1: chains diagonal. 2: upper chain diagonal, lower chain vertical</text></svg>"
+   }
+  },
+  {
+   "question": "Assuming no wind is present, which illustration more accurately depicts the predicted result? If either, choose 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Water leaving a hose keeps moving in the same direction the hose is pointing. 2. Option one shows the stream curving backward against that direction, which is impossible. 3. Option two shows the water flowing forward, which is correct. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 130\"><text x=\"45\" y=\"15\" font-size=\"11\">1</text><text x=\"160\" y=\"15\" font-size=\"11\">2</text><path d=\"M55 35 Q35 20 30 35 Q45 30 50 45\" fill=\"none\" stroke=\"#39c\"/><ellipse cx=\"55\" cy=\"65\" rx=\"10\" ry=\"22\" fill=\"#cfe\" stroke=\"#333\"/><line x1=\"50\" y1=\"55\" x2=\"42\" y2=\"40\" stroke=\"#333\"/><path d=\"M60 80 Q85 95 95 80 L95 105\" fill=\"none\" stroke=\"#333\"/><path d=\"M170 35 Q185 20 195 30 Q180 30 172 45\" fill=\"none\" stroke=\"#39c\"/><ellipse cx=\"170\" cy=\"65\" rx=\"10\" ry=\"22\" fill=\"#cfe\" stroke=\"#333\"/><line x1=\"165\" y1=\"55\" x2=\"160\" y2=\"40\" stroke=\"#333\"/><path d=\"M175 80 Q200 95 210 80 L210 105\" fill=\"none\" stroke=\"#333\"/><text x=\"15\" y=\"122\" font-size=\"9\">1: spray curves backward over figure. 2: spray goes forward, same direction as hose</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the two figures will find it easier to lift the weight? (If equal, choose 3.)",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "1. Identify the motion: each figure pulls the weight straight up. 2. Recall the force needed: lifting straight up requires exactly enough force to match gravity pulling on the weight. 3. Note that this is the same for both figures. 4. Conclude: neither is easier; they need equal force. The correct answer is 3.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 8,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "box",
+       "pos": [
+        -1.5,
+        -1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.8,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1.5,
+        -1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.8,
+        0.8
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        -1.5,
+        0.2,
+        0
+       ],
+       "size": [
+        0.1,
+        1.2,
+        0.1
+       ],
+       "rot": [
+        0,
+        0,
+        15
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        1.5,
+        0.2,
+        0
+       ],
+       "size": [
+        0.1,
+        1.2,
+        0.1
+       ],
+       "rot": [
+        0,
+        0,
+        -5
+       ]
+      }
+     ],
+     "note": "Two figures labelled 1 (left) and 2 (right), each gripping a handle/rope attached to an identical weight on the ground between their feet and pulling straight up. Figure 1 leans/pulls at a slight angle, figure 2 pulls more vertically, but both lift the weight straight up with no pulley or lever."
+    }
+   }
+  },
+  {
+   "question": "Which of the axes will turn slowest?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "1. Note the setup: three wheels, each on its own axis, linked by two belts. 2. Recall the rule: the larger wheel turns more slowly, because it covers more distance per turn. 3. Compare the wheels: wheel 3 is larger than wheels 1 and 2. 4. Conclude: the largest wheel turns slowest, so wheel 3 is the slowest. The correct answer is 3.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 9,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -2.2,
+        0,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.6
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        -0.6,
+        0,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.9
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        1.6,
+        0,
+        0
+       ],
+       "size": [
+        1.7,
+        0.4,
+        1.7
+       ],
+       "rot": [
+        90,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Three belt-linked wheels left to right, increasing size: wheel 1 smallest, wheel 2 medium, wheel 3 largest. Belts run 1-to-2 (top and bottom) and 2-to-3. Curved arrows on each wheel show all turning the same (clockwise) direction. Largest wheel 3 turns slowest."
+    }
+   }
+  },
+  {
+   "question": "Which box is heavier? If both boxes have the same weight then please select answer option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "1. Recall the balance rule: the heavier the box, the farther out the small weight must sit to balance it. 2. Look at Figure 1: its small weight sits fairly close to the axis yet still balances the box, so that box must be lighter. 3. Conclude: the heavier box is in Figure 2. The correct answer is 2.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 10,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "lever",
+       "pos": [
+        -1.6,
+        0.8,
+        0
+       ],
+       "size": [
+        2.2,
+        0.12,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -2.2,
+        -0.8,
+        0
+       ],
+       "size": [
+        0.7,
+        0.5,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -1.2,
+        0.8,
+        0
+       ],
+       "size": [
+        0.25,
+        0.25,
+        0.25
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "lever",
+       "pos": [
+        1.6,
+        0.8,
+        0
+       ],
+       "size": [
+        2.2,
+        0.12,
+        0.2
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1.0,
+        -0.8,
+        0
+       ],
+       "size": [
+        0.7,
+        0.5,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        2.4,
+        0.8,
+        0
+       ],
+       "size": [
+        0.25,
+        0.25,
+        0.25
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two steelyard balances labelled 1 (left) and 2 (right). Each: horizontal beam hung from above at left, a box hanging below the left end, and a small sliding weight on the beam. In figure 1 the small weight sits close to the axis; in figure 2 it sits far out near the beam end. Farther-out weight balances the heavier box (figure 2)."
+    }
+   }
+  },
+  {
+   "question": "Which pulley setup would reduce the amount of force required to lift the load? If there is no difference then select option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – 2. A pulley is a simple machine composed of a wheel on an axle or shaft that often has a groove in it. A rope is wrapped inside the groove and over the wheel. A fixed pulley provides no mechanical advantage since it requires the same force to lift a load with a fixed pulley as it does without it. However, a fixed pulley can change the direction of the applied force; as the rope is pulled down on one end, the load is lifted by the other end. On the other hand, a movable pulley does not change the direction of the force but rat [explanation truncated in capture — see note]",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 11,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "pulley",
+       "pos": [
+        -1.6,
+        1,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        -1.6,
+        0,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        -1.6,
+        -1.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.5,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        1.6,
+        1,
+        0
+       ],
+       "size": [
+        0.5,
+        0.5,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        1.6,
+        0.3,
+        0
+       ],
+       "size": [
+        0.35,
+        0.35,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "pulley",
+       "pos": [
+        1.6,
+        -0.3,
+        0
+       ],
+       "size": [
+        0.35,
+        0.35,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "pos": [
+        1.6,
+        -1.2,
+        0
+       ],
+       "size": [
+        0.7,
+        0.5,
+        0.5
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ]
+      }
+     ],
+     "note": "Two setups under a ceiling bar, each with a figure pulling a rope diagonally down-right to lift a box. Setup 1 (left): fewer pulleys in the stack (fixed top pulley + one lower pulley). Setup 2 (right): more pulleys stacked (fixed top pulley + two lower/movable pulleys), giving more supporting rope segments and less force. Exact pulley counts are small in the capture — see note."
+    }
+   }
+  },
+  {
+   "question": "Which method allows parking more cars in a parking lot? If the number of cars you can park is equal, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "When parking as shown in option 1, there will always remain two unused triangle shaped areas (at the beginning and end of the column). This does not happen in option 2, where a complete use of space occurs. Therefore, option 2 allows parking more cars in the same area.",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 12,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 105\"><text x=\"45\" y=\"15\" font-size=\"11\">1</text><rect x=\"15\" y=\"22\" width=\"90\" height=\"4\" fill=\"#666\"/><rect x=\"25\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#fe9\" stroke=\"#333\" transform=\"rotate(30 34 49)\"/><rect x=\"55\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#cc9\" stroke=\"#333\" transform=\"rotate(30 64 49)\"/><rect x=\"85\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#ccc\" stroke=\"#333\" transform=\"rotate(30 94 49)\"/><text x=\"140\" y=\"15\" font-size=\"11\">2</text><rect x=\"130\" y=\"22\" width=\"90\" height=\"4\" fill=\"#666\"/><rect x=\"135\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#f99\" stroke=\"#333\"/><rect x=\"160\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#eef\" stroke=\"#333\"/><rect x=\"185\" y=\"30\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#ccc\" stroke=\"#333\"/><text x=\"20\" y=\"95\" font-size=\"9\">1: cars angled/diagonal. 2: cars straight/perpendicular</text></svg>",
+    "choiceFigs": [
+     "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect x=\"10\" y=\"8\" width=\"100\" height=\"4\" fill=\"#666\"/><rect x=\"20\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#fe9\" stroke=\"#333\" transform=\"rotate(30 29 35)\"/><rect x=\"50\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#cc9\" stroke=\"#333\" transform=\"rotate(30 59 35)\"/><rect x=\"80\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#ccc\" stroke=\"#333\" transform=\"rotate(30 89 35)\"/></svg>",
+     "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 120 80\"><rect x=\"10\" y=\"8\" width=\"100\" height=\"4\" fill=\"#666\"/><rect x=\"20\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#f99\" stroke=\"#333\"/><rect x=\"50\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#eef\" stroke=\"#333\"/><rect x=\"80\" y=\"16\" width=\"18\" height=\"38\" rx=\"5\" fill=\"#ccc\" stroke=\"#333\"/></svg>",
+     null
+    ]
+   }
+  },
+  {
+   "question": "Which dam is stronger? If both are equally as strong, choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "Dam 1 is stronger than dam 2 because dam 1 is concaved while 2 is convexed. Essentially, the water's pressure is aimed in the direction of radius reduction. The force of the water against the concave dam presses against the arch, compressing and strengthening the structure as it pushes into its foundation or abutments. Since dam 2 is convexed, the force of the water would weaken the structural integrity by pushing the dam away from its foundations by dispersing the force of the water's pressure. This example is similar to a bridge in which the concave area is the part that carries th [explanation truncated in capture — see note]",
+   "source": "Mechanical Reasoning — Drill 4",
+   "topic": "Drill 4",
+   "topic_n": 13,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 120\"><text x=\"55\" y=\"12\" font-size=\"11\">1</text><path d=\"M15 70 Q60 95 105 70 L105 45 Q60 65 20 40 Q15 55 15 70\" fill=\"#cb9\" stroke=\"#333\"/><path d=\"M25 38 Q60 58 105 42 L105 30 Q60 45 30 28\" fill=\"#adf\" stroke=\"#333\"/><text x=\"165\" y=\"12\" font-size=\"11\">2</text><path d=\"M130 70 Q175 95 220 70 L220 45 Q175 30 135 40 Q130 55 130 70\" fill=\"#cb9\" stroke=\"#333\"/><path d=\"M140 38 Q175 22 220 30 L220 42 Q175 32 145 30\" fill=\"#adf\" stroke=\"#333\"/><text x=\"15\" y=\"112\" font-size=\"9\">1: dam concave toward water (curves into reservoir). 2: dam convex toward water</text></svg>"
+   }
+  }
+ ]
+}

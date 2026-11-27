@@ -1,0 +1,2444 @@
+{
+ "questions": [
+  {
+   "question": "Two bicycles are shown in the diagram below. In which bicycle will it be easier to pedal while ascending a hill?",
+   "choices": [
+    "Bicycle A",
+    "Bicycle B",
+    "Both",
+    "Impossible to answer"
+   ],
+   "answer": 1,
+   "explanation": "1. Recall the idea of gear ratio, also called transmission ratio: the ratio between the wheel where force is applied and the wheel that receives it. 2. Define the terms: N-input is the number of teeth on the driver cogwheel, and N-output is the number of teeth on the driven cogwheel, giving the gear ratio: N_output / N_input 3. Read the diagram: bicycle A's driver cogwheel is bigger than bicycle B's, while the driven cogwheel is the same on both. 4. Apply the formula: since transmission ratio is inversely proportional to the driver cogwheel's size, bicycle B has the greater transmission ratio. 5. Check intuitively: one turn of bicycle A's driver cogwheel produces more turns of its driven cogwheel than on bicycle B. 6. Conclude: the correct answer is bicycle B, which is 2.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 1,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -3,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1.5,
+        0,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3.5,
+        0,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        5,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Bicycle A left, Bicycle B right. Each: pedal driver cogwheel (centre, cylinder/gear) chain-drives the small rear-wheel cogwheel; rear wheel is a cylinder. No teeth counts given, sizes relative: Bicycle A driver is larger than Bicycle B driver, driven cogwheels equal. Question asks about Bicycle A vs B — easier pedalling uphill is Bicycle B (smaller driver, greater transmission ratio)."
+    }
+   }
+  },
+  {
+   "question": "Two cyclists are pedaling along a straight road at the same pace. According to the diagram below, which cyclist is traveling faster?",
+   "choices": [
+    "Bicycle A",
+    "Bicycle b",
+    "Both",
+    "Impossible to answer"
+   ],
+   "answer": 0,
+   "explanation": "1. Recall the gear ratio: N_output / N_input 2. Read the diagram: bicycle A's driver cogwheel is bigger than bicycle B's, while the driven cogwheel is the same, so bicycle B has the greater transmission ratio. 3. Bring in angular velocity, w, to compare speeds: w_input / w_output = N_output / N_input 4. Apply the relationship: angular velocity is the inverse of transmission ratio, so a bigger driver cogwheel turns the driven cogwheel faster. 5. Check intuitively: one turn of cyclist A's driver cogwheel produces more turns of the driven cogwheel than for cyclist B. 6. Conclude: cyclist A is faster. The correct answer is 1.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 2,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -3,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1.5,
+        0,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        2,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        3.5,
+        0,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "cylinder",
+       "pos": [
+        5,
+        0,
+        0
+       ],
+       "size": [
+        1.2,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Same two bicycles as Q1: Bicycle A left with larger pedal driver cogwheel, Bicycle B right with smaller driver; driven rear cogwheels equal, chain connection driver to rear cogwheel on each. Both pedal at same pace. Question asks which cyclist travels faster — Bicycle A."
+    }
+   }
+  },
+  {
+   "question": "A target is mounted on a motorised system built of a rack and a pinion. In order to hit the bull's-eye, where does the marksman have to aim?",
+   "choices": [
+    "To the right of the target's current location",
+    "To the left of the target's current location",
+    "To the centre of the target's current location",
+    "Beneath the target's current location"
+   ],
+   "answer": 1,
+   "explanation": "1. The direction the rack, or toothed belt, moves depends on where it connects to the turning pinion, which is the cogwheel. 2. Here the pinion turns clockwise and the connection point is at the six o'clock position, the bottom of the pinion. 3. At that bottom point the motion is toward the left, so the rack and the target attached to it move to the left. 4. To hit the bull's-eye, the marksman must aim to the left of the target's starting position. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 3,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3.5,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        -1.5,
+        0
+       ],
+       "size": [
+        1.0,
+        1.0,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Pinion gear on top turns clockwise (arrow in diagram). Rack is the long thin box below it, meshing at the pinion's 6 o'clock / bottom point, so rack moves left. Target (box below rack) is mounted on the rack and moves left with it. Question asks where to aim to hit the bull's-eye — to the left of current location."
+    }
+   }
+  },
+  {
+   "question": "In which direction does the woman have to turn the handle so that the cylinder will rotate in the direction shown in the diagram below?",
+   "choices": [
+    "Counter-clockwise",
+    "Clockwise",
+    "The cylinder will not rotate",
+    "Either way"
+   ],
+   "answer": 1,
+   "explanation": "1. The woman wants to turn the cylinder counterclockwise. 2. One cogwheel shares the same axle as the cylinder, so it turns the same way as the cylinder; for that upper cogwheel to turn counterclockwise, the lower cogwheel it meshes with must turn clockwise. 3. The handle is attached to the lower cogwheel, so she must turn the handle clockwise. The correct answer is option two.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 4,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "cylinder",
+       "pos": [
+        -1,
+        1,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Upper gear shares an axle with the cylinder (cylinder object left of it) and must turn counter-clockwise as shown by the red arrow. Upper gear meshes with lower gear below it, so lower gear turns clockwise. Handle/crank is attached to the lower gear. Question asks which way the woman must turn the handle — clockwise."
+    }
+   }
+  },
+  {
+   "question": "A system of cogwheels is shown in the diagram below: An external force turns the cogwheel on the extreme left in the given direction (counter clockwise). In which direction will the first cogwheel (I) and the second cogwheel (II) turn, respectively?",
+   "choices": [
+    "Clockwise, counter clockwise",
+    "Counter clockwise, clockwise",
+    "Clockwise, clockwise",
+    "Counter clockwise, counter clockwise"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) – Clockwise, clockwise. In order to answer this question, we need to remember that when two cogwheels touch, each will turn in an opposite direction. It is advisable to mark the cogwheels turning in a counterclockwise direction with a minus sign in order to avoid confusion. Count the number of transitions between cogwheels, starting from the one on the extreme left (the direction of which is given) to the cogwheels we were asked about. There are 5 transitions. Using this approach will lead us to the conclusion that both cogwheels turn in a positive direction (clockwise). Notice that since the cogwheels we were asked about are in contact with the same cogwheel, this means they rotate in the same direction, dismissing the first two distracters as possible answers [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 5,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -3,
+        0,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0.8,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0.8,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -0.8,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2,
+        0,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Leftmost gear is driven counter-clockwise by an external force. Meshing chain left to right through intermediate gears (5 transitions) to a shared gear that contacts both target gears: red gear I below centre and small orange gear II at far right. Both I and II turn clockwise. Question asks direction of I and II respectively. No teeth counts given; sizes relative from diagram."
+    }
+   }
+  },
+  {
+   "question": "A system of cogwheels is shown in the diagram below: An external force turns the cogwheel on the extreme left in the given direction (counter clockwise). Which cogwheel will turn faster, the first one (I) or the second one (II)?",
+   "choices": [
+    "Cogwheel 1",
+    "Cogwheel 2",
+    "Both cogwheels will turn at the same speed",
+    "Impossible to answer"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - Cogwheel 2. The ratio of angular velocity is inversely proportional to the gear ratio (the bigger the driver cogwheel compared to the driven cogwheel, the faster the driven cogwheel will turn). w1 / w2 = N2 / N1 Where: wi = Angular velocity of gear i [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 6,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -3,
+        0,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0.8,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0.8,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -0.8,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2,
+        0,
+        0
+       ],
+       "size": [
+        0.4,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Same gear train as Q5: leftmost gear driven counter-clockwise, meshing left to right through intermediates to red gear I (larger, below centre) and small orange gear II (far right). II is smaller than I, so II turns faster. Question asks which of I or II turns faster — Cogwheel 2 (II). No teeth counts given; sizes relative."
+    }
+   }
+  },
+  {
+   "question": "The gray cogwheel labelled 1 is being turned at a constant speed in a counter clockwise direction as shown in the diagram. The red cogwheel has 16 teeth whilst the rest of the cogwheels have 12 teeth. Please choose the sentence which correctly describes the rotation of the red cogwheel in comparison to the gray cogwheel labeled 1.",
+   "choices": [
+    "Clockwise, faster",
+    "Clockwise, slower",
+    "Counter clockwise, faster",
+    "Counter clockwise, slower",
+    "Counter clockwise, same speed"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4. Firstly, we will examine the differences in velocity of the cogwheels. We are told that the red cogwheel is bigger (has more teeth) than cogwheel 1. The velocity ratio is inversely proportional to the number of teeth; therefore fewer teeth translate into higher speed. Thus, the red cogwheel will turn at a lower speed, since it has more teeth (16) than the initial gray cogwheel (12). Let's take a closer look at the direction of the transmissions. For convenience we shall number the cogwheels: 1 = the initial gray cogwheel, 2-5 = the following cogwheels respectively, 6 = the red cogwheel. Cogwheel 1 turns counter clockwise, therefore the cogwheel that comes in contact with [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 7,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -3,
+        -1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        -1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        1,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 16
+      }
+     ],
+     "note": "Gear 1 (grey, bottom, 12 teeth) is driven counter-clockwise at constant speed. Transmission runs in order 1 -> 2-5 (all 12 teeth, including bevel/shaft gears in the diagram) -> 6 = red cogwheel (16 teeth, top right). Red turns counter-clockwise, slower than gear 1. Question asks about the red cogwheel compared to grey cogwheel 1."
+    }
+   }
+  },
+  {
+   "question": "An engine is connected to a set of cogwheels as shown in the diagram below: The engine rotates clockwise at a speed of 100 rpm. The big cogwheels have 20 teeth and the small cogwheel has 10 teeth. What will be the direction and the angular velocity of the red cogwheel?",
+   "choices": [
+    "Counterclockwise, 50 rpm",
+    "Clockwise, 200 rpm",
+    "Counterclockwise, 100 rpm",
+    "Clockwise, 50 rpm",
+    "Counterclockwise, 200 rpm"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is 5. Firstly, we will examine the direction of rotation of the red cogwheel. The driver cogwheel rotates clockwise. The black cogwheel meshes against it and therefore rotates in the opposite direction, counterclockwise. The red cogwheel is attached to the black cogwheel via an axis of rotation and therefore rotates in the same direction, counterclockwise. In order to determine the velocity of rotation we shall examine the transmission between the grey cogwheel and the black cogwheel. The velocity ratio is inversely proportional to the teeth ratio. Since the grey cogwheel has twice the number of teeth than the black cogwheel, the velocity of the black cogwheel will be twice as fast as the grey cogwheel. In the form of equation: [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 8,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0,
+        0
+       ],
+       "size": [
+        1.0,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 20
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0.5,
+        0,
+        0
+       ],
+       "size": [
+        0.5,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 10
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1.5,
+        0,
+        0
+       ],
+       "size": [
+        1.0,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 20
+      }
+     ],
+     "note": "Engine (left, not a gear) drives the grey driver cogwheel clockwise at 100 rpm. Grey big cogwheel 20 teeth meshes with small black cogwheel 10 teeth, which turns counter-clockwise at 200 rpm. Red big cogwheel 20 teeth shares an axis with the black cogwheel, so red also turns counter-clockwise at 200 rpm. Question asks direction and angular velocity of the red cogwheel."
+    }
+   }
+  },
+  {
+   "question": "An engine rotates a worm gear as shown in the diagram below. What will be the direction and the velocity of revolution of the red worm wheel in comparison to the worm?",
+   "choices": [
+    "Clockwise, faster",
+    "Counter clockwise, faster",
+    "Clockwise, slower",
+    "Counter clockwise, slower"
+   ],
+   "answer": 2,
+   "explanation": "1. A worm gear, also called a worm drive, is made of a spiral-threaded shaft called the worm and a toothed wheel called the worm wheel that meshes into it. 2. By the left-handed screw rule, turning the worm counterclockwise draws it backward and turning it clockwise moves it forward. 3. Here the worm turns counterclockwise, which draws it back and turns the worm wheel clockwise. 4. The diagram shows a single-start worm, meaning it has just one thread, so one full turn of the worm advances the worm wheel by only one tooth, making the worm wheel turn much more slowly. 5. The correct answer is option three.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 9,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0.5,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Worm (spiral-threaded shaft, left gear object) is driven by the engine counter-clockwise. It meshes into the red worm wheel below/right of it. Single-start worm: one worm turn advances the wheel by one tooth, so the red worm wheel turns clockwise and much slower than the worm. Question asks direction and velocity of the red worm wheel compared to the worm. No teeth count given for the wheel in the stem."
+    }
+   }
+  },
+  {
+   "question": "A system of cogwheels is shown in the diagram below: The numbers in the diagram indicate the number of teeth in each cogwheel. The cogwheel with 16 teeth is rotated clockwise at a velocity of 24 rpm (indicated by an arrow). What will be the direction and the velocity of revolution of the red cogwheel in comparison to the above mentioned cogwheel?",
+   "choices": [
+    "Counter clockwise, faster",
+    "Clockwise, faster",
+    "Counter clockwise, slower",
+    "Clockwise, slower",
+    "Counter clockwise, equal"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is 1. When cogwheels are placed within a chain they rotate in the same direction. A cogwheel in contact with the exterior of the chain will rotate in an opposite direction to the chain. Thus, the red cogwheel rotates in an opposite direction to the driver cogwheel, in a counterclockwise direction. In order to compare the angular velocities we will use the gear ratio. The red cogwheel has 12 teeth whilst the driver cogwheel has 16 teeth. The inversely proportional ratio leads to \"fewer teeth, faster rotation\". Thus, the angular velocity of the red cogwheel is greater than the angular velocity of the driver cogwheel.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 10,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 16
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 16
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1.5,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3.0,
+        0.2,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Two 16-teeth cogwheels are linked inside a chain (chain shown as thin box loop between them); the upper-left 16-teeth cogwheel is the driver, rotated clockwise at 24 rpm. Cogwheels inside a chain rotate in the same direction. Red cogwheel 12 teeth contacts the exterior of the chain at lower left, so it rotates opposite to the chain/driver: counter-clockwise, and faster (12 vs 16 teeth). Question asks about the red cogwheel compared to the 16-teeth driver."
+    }
+   }
+  },
+  {
+   "question": "A system of cogwheels is shown in the diagram below: The numbers in the diagram indicate the number of teeth in each cogwheel. The cogwheel with 16 teeth is rotated clockwise at a velocity of 24 rpm (indicated by an arrow). What will be the direction and the velocity of revolution of the red cogwheel?",
+   "choices": [
+    "12 rpm",
+    "18 rpm",
+    "24 rpm",
+    "32 rpm",
+    "48 rpm"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is 4. In order to calculate the angular velocity we will use the gear ratio; the red cogwheel has 12 teeth whilst the driver cogwheel has 16 teeth. As seen in previous questions, the inversely proportional ratio leads to \"fewer teeth, faster rotation\". We stress that the fact they are connected via a chain is irrelevant - a tooth rotation of the driver wheel translates to one step of the chain, which in turn translates to a tooth rotation of the red cogwheel. Thus, the angular velocity of the red cogwheel is greater than the angular velocity of the driver cogwheel. We will use the fact that the ratio of angular velocity is inversely proportional to the ratio of teeth in order to calculate: 16/12 = angular velocity of the red cogwheel / 24 [rpm] angular velocity of the red cogwheel = 32 [rpm] Isolating the velocity of the red cogwheel, we will arrive at 32 rpm.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 11,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        1,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 16
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1.5,
+        -0.5,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3.0,
+        0.2,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Same chain system as Q10: driver cogwheel 16 teeth rotated clockwise at 24 rpm, chain (thin box) links the cogwheels, red cogwheel 12 teeth contacts the chain. Red velocity = 24 x 16/12 = 32 rpm. Question asks direction and velocity of the red cogwheel; the options shown give only rpm values, correct is 32 rpm. Diagram in this capture shows a smaller lower-right cogwheel labelled 12 in place of the second 16 — see note file flag."
+    }
+   }
+  },
+  {
+   "question": "The grey cogwheel labelled 1 is being turned at a constant speed in a counter clockwise direction as shown in the diagram. The red cogwheel has 16 teeth whilst the rest of the cogwheels have 12 teeth. Please choose the sentence which correctly describes the rotation of the red cogwheel in comparison to cogwheel 1.",
+   "choices": [
+    "Clockwise, faster",
+    "Clockwise, slower",
+    "Counter clockwise, faster",
+    "Counter clockwise, slower",
+    "Counter clockwise, same speed"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – Clockwise, slower. Firstly, we will examine the differences in the velocity of the cogwheels. We are told that the red cogwheel is bigger (has more teeth) than the initial grey cogwheel. The velocity ratio is inversely proportional to the number of teeth; therefore, fewer teeth translate into higher speed. Thus, the initial grey cogwheel will turn at a higher speed than the red one since it has fewer teeth (12) than the red cogwheel (16). Let's take a closer look at the direction of the transmissions. For convenience, we shall [number the] cogwheels: 1 = the initial grey cogwheel, 2-5 = the following cogwheels, respectively, [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 12,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        -3,
+        -1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        -1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -2,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        1,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 16
+      }
+     ],
+     "note": "Same arrangement as Q7: grey cogwheel 1 (12 teeth, bottom) driven counter-clockwise at constant speed; transmission in order 1 -> 2-5 (all 12 teeth, including bevel/shaft gears) -> red cogwheel (16 teeth, top right). In this version red turns clockwise, slower than cogwheel 1. Question asks about the red cogwheel compared to cogwheel 1."
+    }
+   }
+  },
+  {
+   "question": "The diagram shows two fixed cogwheels which can only rotate around their own axis. A rack is inserted between the two cogwheels and is moved in the direction shown by the arrow. What are the directions of movement and velocities of revolution of the cogwheels?",
+   "choices": [
+    "Same direction, same velocities",
+    "Same direction, different velocities",
+    "Different directions, same velocities",
+    "Different directions, different velocities"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - Different directions, different velocities. We will solve in two phases. First we will determine the cogwheels' direction, then their velocity. Direction When contact is made between the rack (toothed belt) and the cogwheels a conversion from a linear velocity to an angular velocity occurs. Thus, the location of the point of contact is critical. the relation between the two can be seen in the diagram below: [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 13,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3.5,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -1,
+        0
+       ],
+       "size": [
+        0.5,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Rack is the long thin box in the middle, moved to the left (arrow). Large red cogwheel above the rack contacts the rack at its bottom; small grey cogwheel below the rack contacts the rack at its top. Opposite contact points make the two cogwheels turn in different directions, and different sizes give different velocities. No teeth counts given. Question asks directions and velocities of both cogwheels."
+    }
+   }
+  },
+  {
+   "question": "Cogwheel 1 is made to rotate counterclockwise as shown. In which direction will the red cogwheel turn? (If it will not turn, mark 3.) Note: all three cogwheels situated on the shaft are fixed to the shaft.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is 3. Look at the diagram below: The red cogwheel will turn in the same direction as wheels 2 and 3. We will check what direction this is: Cogwheel 2 will turn clockwise (blue arrow) due to cogwheel 1's movement. That clockwise movement will cause cogwheel 4 to turn counterclockwise (red arrow). [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 14,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        0.5,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        0,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -1,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Cogwheel 1 (top, small) is driven counterclockwise. It meshes with cogwheel 2 (large, left on the shaft); cogwheels 2, 3 (middle on shaft) and the bevel gear below are all fixed to the same shaft, and the red cogwheel (right) is on that shaft, so red would turn the same way as 2 and 3. Bevel cogwheel 4 at the bottom opposes it, so the system locks — correct answer is 3, red will not turn. Question asks direction of the red cogwheel. No teeth counts given."
+    }
+   }
+  },
+  {
+   "question": "Cogwheel number 1 rotates counter clockwise as shown. If the red cogwheel rotates in the direction of the arrow choose option 1; if it rotates in the opposite direction choose option 2; if the red cogwheel does not move at all choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": "1. To make this easier, number the cogwheels: cogwheel one is the one shown in the diagram, cogwheel two touches it, cogwheel three touches cogwheel two at the bottom, cogwheel four touches cogwheel three and shares an axle with cogwheel five, and cogwheel five is the red one. 2. Two cogwheels that share an axle turn together, while cogwheels in direct contact reverse direction. 3. Following the direction changes through each contact point, the red cogwheel turns in the direction shown by the arrow. 4. The correct answer is option one.",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 15,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        2,
+        0
+       ],
+       "size": [
+        0.5,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        -1,
+        0,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -1,
+        0
+       ],
+       "size": [
+        0.7,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        1,
+        0,
+        0
+       ],
+       "size": [
+        0.8,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        2,
+        0,
+        0
+       ],
+       "size": [
+        0.9,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      }
+     ],
+     "note": "Cogwheel 1 (top) rotates counter-clockwise. Chain in order: 1 touches 2 (large left gear), 2 touches 3 (bevel gear at bottom), 3 touches 4 (right gear on shaft), 4 shares an axle with 5 = the red cogwheel (far right). Shared-axle gears turn together, contacting gears reverse. Red turns in the direction of its arrow. Question asks to choose 1/2/3 for the red cogwheel. No teeth counts given."
+    }
+   }
+  },
+  {
+   "question": "The diagram shows two fixed cogwheels which can only rotate around their own axis. The red cogwheel has 24 teeth and the grey cogwheel has 12 teeth. A toothed belt is inserted between the two cogwheels and is moved in the direction shown by the arrow. In which direction and velocity of revolution will the grey cogwheel rotate in comparison to the red cogwheel?",
+   "choices": [
+    "Double the velocity, opposite direction",
+    "Double the velocity, same direction",
+    "Half the velocity, same direction",
+    "Half the velocity, opposite direction"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A) – Double the velocity, opposite direction. When contact is made between the toothed belt and the cogwheels, a conversion from a linear velocity to an angular velocity occurs. Thus, the location of the point of contact is critical. We can see from the diagram that the point of contact between the red cogwheel and the toothed belt is at the lower part of the red cogwheel, a position in which the linear velocity induces an angular velocity in a clockwise direction. In contrast, the point of contact between the grey cogwheel and the toothed belt is at the upper part of the grey cogwheel, a position in which the linear velocity induces an angular velocity in a counterclockwise direction. It follows that the cogwheels rotate in opposite directions. The angular velocity can be calculated using the thumb rule: \"fewer teeth, faster veloc[ity]\" [explanation cut off at bottom of capture]",
+   "source": "Mechanical Reasoning — Cogwheels Drill",
+   "topic": "Cogwheels Drill",
+   "topic_n": 16,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        1,
+        0
+       ],
+       "size": [
+        1.0,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 24
+      },
+      {
+       "shape": "box",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        3.5,
+        0.3,
+        0.3
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 0
+      },
+      {
+       "shape": "gear",
+       "pos": [
+        0,
+        -1,
+        0
+       ],
+       "size": [
+        0.6,
+        0.4,
+        0.4
+       ],
+       "rot": [
+        0,
+        0,
+        0
+       ],
+       "teeth": 12
+      }
+     ],
+     "note": "Toothed belt is the long thin box in the middle, moved to the left (arrow). Red cogwheel 24 teeth above the belt contacts it at its lower part and turns clockwise; grey cogwheel 12 teeth below the belt contacts it at its upper part and turns counter-clockwise — opposite direction, and with half the teeth it turns at double the velocity. Question asks direction and velocity of the grey cogwheel compared to the red cogwheel."
+    }
+   }
+  },
+  {
+   "question": "Two weights are placed on a table as shown in the diagram below. If the weight on the right hand side exerts the greatest pressure on the table please choose option 1; if the weight on the left hand side exerts the greatest pressure choose option 2; if both weights exert the same pressure choose option 3.",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "Pressure (P) is defined as force (F) per unit area (A): P=F/A In this case, the force is is regarded as the mass of the weights upon the table, acted upon by gravity (10Kg). Both weights are of identical in weight (10Kg); i.e, the factor which determines which weight exerts a greater pressure is the area upon which the force is acting. In this case, the relevant area is the area of contact between each weight and the table. The area of the right hand weight: A=0.5m*0.5m=0.25m² The area of the left hand weight: A=0.5m*0.35m=0.175m² Since the contact area between the left hand weight and the table is the smaller, it follows that the pressure exerted will be the greater.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 1,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"20\" y=\"120\" width=\"260\" height=\"8\" fill=\"#999\"/><rect x=\"30\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"260\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"45\" y=\"55\" width=\"60\" height=\"65\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"58\" y=\"85\" font-size=\"13\">10 Kg</text><text x=\"40\" y=\"45\" font-size=\"10\">0.50m</text><text x=\"78\" y=\"45\" font-size=\"10\">0.35m</text><text x=\"108\" y=\"90\" font-size=\"10\">0.50m</text><rect x=\"165\" y=\"72\" width=\"95\" height=\"48\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"185\" y=\"102\" font-size=\"13\">10 Kg</text><text x=\"180\" y=\"62\" font-size=\"10\">0.50m</text><text x=\"185\" y=\"76\" font-size=\"10\">0.50m</text><text x=\"263\" y=\"105\" font-size=\"10\">0.35m</text><text x=\"45\" y=\"150\" font-size=\"10\">Left</text><text x=\"200\" y=\"150\" font-size=\"10\">Right</text></svg>"
+   }
+  },
+  {
+   "question": "Two weights are placed on a table as shown in the diagram below. Weight 1: 7Kg Weight 2: 10Kg What is the pressure ratio (P₁:P₂) exerted by the weights?",
+   "choices": [
+    "10:7",
+    "7:10",
+    "1:1",
+    "1:2"
+   ],
+   "answer": 2,
+   "explanation": "Pressure (P) is defined as force (F) per unit area (A): P=F/A In this case, the force is the mass of the weights upon the table. We can calculate the areas upon which forces 1 and 2 act: Area 1: A₁=1m*0.7m=0.7m² Area 2: A₂=1m*1m=1m² Inserting the given data into the formula: P1=F₁/A₁=7/0.7=10[kg/m²] P2=F₂/A₂=10/1=10[kg/m²] Calculating the ratio: P₁/P₂=10/10=1/1",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 2,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"20\" y=\"120\" width=\"260\" height=\"8\" fill=\"#999\"/><rect x=\"30\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"260\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"45\" y=\"70\" width=\"70\" height=\"50\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"52\" y=\"98\" font-size=\"12\">1: 7Kg</text><text x=\"38\" y=\"60\" font-size=\"10\">1m x 0.7m</text><rect x=\"165\" y=\"60\" width=\"95\" height=\"60\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"178\" y=\"95\" font-size=\"12\">2: 10Kg</text><text x=\"180\" y=\"50\" font-size=\"10\">1m x 1m</text></svg>"
+   }
+  },
+  {
+   "question": "Two weights are placed on a table as shown in the diagram below. The first weight is made of a material with a density of 10Kg per m3. The second weight is made of a material with a density of 5Kg per m³. The pressure ratio (P1:P2) of the weights equals:",
+   "choices": [
+    "10:7",
+    "7:10",
+    "1:1",
+    "1:2"
+   ],
+   "answer": 0,
+   "explanation": "In this case, the force is the mass of the weights upon the table. Area 1: A1=1m*0.7m=0.7m2 Area 2: A2=1m*1m=1m2 We will calculate the weights by multiplying Volume* Density, according to the following formula: Density=Mass/Volume (in these tests, mass=weight) Weight 1: F1=V1*ρ1=(1m*0.7m*0.5m)*10[kg/m3]=3.5Kg Weight 2: F2=V2*ρ2=(1m*1m*0.7m)*5[kg/m3]=3.5Kg Now, we will calculate the pressures upon the table caused by forces 1 and 2: Pressure 1: P1=F1/A1=3.5/0.7=5[kg/m2] Pressure 2: P2=F2/A2=3.5/1=3.5[kg/m2] Calculating the ratio using the above information: P1/P2=5/3.5=10/7",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 3,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"20\" y=\"120\" width=\"260\" height=\"8\" fill=\"#999\"/><rect x=\"30\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"260\" y=\"128\" width=\"10\" height=\"34\" fill=\"#999\"/><rect x=\"45\" y=\"70\" width=\"70\" height=\"50\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"72\" y=\"100\" font-size=\"14\">1</text><text x=\"35\" y=\"60\" font-size=\"10\">1.00m</text><text x=\"82\" y=\"60\" font-size=\"10\">0.70m</text><text x=\"48\" y=\"135\" font-size=\"10\">0.50m</text><rect x=\"165\" y=\"55\" width=\"95\" height=\"65\" fill=\"#e8e8e8\" stroke=\"#333\"/><text x=\"205\" y=\"95\" font-size=\"14\">2</text><text x=\"175\" y=\"45\" font-size=\"10\">1.00m</text><text x=\"180\" y=\"58\" font-size=\"10\">1.00m</text><text x=\"228\" y=\"135\" font-size=\"10\">0.70m</text></svg>"
+   }
+  },
+  {
+   "question": "The diagram shows two fixed cogwheels which can only rotate around their own axis. The red cogwheel has 24 teeth and the grey cogwheel has 12 teeth. A toothed belt is inserted between the two cogwheels and is moved in the direction shown by the arrow. In which direction and velocity will the grey cogwheel rotate in comparison to the red cogwheel?",
+   "choices": [
+    "Double the velocity, opposite direction",
+    "Double the velocity, same direction",
+    "Half the velocity, same direction",
+    "Half the velocity, opposite direction"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is 1. When contact is made between the toothed belt and the cogwheels a conversion from a linear velocity to an angular velocity occurs. Thus, the location of the point of contact is critical. We can see from the diagram that the point of contact between the red cogwheel and the toothed belt is at the lower part of the red cogwheel, a position in which the linear velocity induces an angular velocity in a clockwise direction. In contrast, the point of contact between the grey cogwheel and the toothed belt is at the upper part of the grey cogwheel, a position in which the linear velocity induces an angular velocity in a counter clockwise direction. It follows that the cogwheels rotate in opposite directions.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 4,
+   "fig": {
+    "type": "3d",
+    "scene": {
+     "objects": [
+      {
+       "shape": "gear",
+       "teeth": 24,
+       "color": "red",
+       "label": "red cogwheel, 24 teeth",
+       "pos": [
+        -1.2,
+        0.8,
+        0
+       ]
+      },
+      {
+       "shape": "gear",
+       "teeth": 12,
+       "color": "grey",
+       "label": "grey cogwheel, 12 teeth",
+       "pos": [
+        0.4,
+        -0.9,
+        0
+       ]
+      },
+      {
+       "shape": "box",
+       "label": "toothed belt / rack between the cogwheels, moving left",
+       "pos": [
+        0,
+        0,
+        0
+       ],
+       "size": [
+        4.5,
+        0.35,
+        0.6
+       ]
+      }
+     ],
+     "note": "belt direction and comparison asked — toothed belt moves left (arrow); red 24-tooth cogwheel contacts belt at its lower part, grey 12-tooth cogwheel contacts belt at its upper part; grey vs red direction and velocity compared"
+    }
+   }
+  },
+  {
+   "question": "A pool with a gate attached to an axis is shown in the diagram below. The weight of the gate is negligible. Is the system at equilibrium?",
+   "choices": [
+    "Yes",
+    "No",
+    "Impossible to answer"
+   ],
+   "answer": 1,
+   "explanation": "The question refers to the pressure exerted by the water on the gate. As seen in previous questions, when a mass exerts a force on a unit of area it results in a pressure upon the surface. Pressure caused solely by a stationary body of water is called Hydrostatic pressure. In this case, the force exerted upon the gate by the water's weight is perpendicular to the surface. Due to the structure (the angle) of the gate and the force exerted by the water, the gate will open and water will flow from side 2 to side 1; i.e., the system is not in a state of equilibrium since a change will take place.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 5,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"30\" y=\"25\" width=\"240\" height=\"125\" fill=\"none\" stroke=\"#333\"/><path d=\"M30 60 Q70 52 105 60 T150 58\" fill=\"none\" stroke=\"#36c\"/><polygon points=\"62,48 78,48 70,60\" fill=\"#333\"/><circle cx=\"118\" cy=\"55\" r=\"6\" fill=\"#333\"/><line x1=\"118\" y1=\"55\" x2=\"185\" y2=\"150\" stroke=\"#333\" stroke-width=\"4\"/><text x=\"88\" y=\"38\" font-size=\"10\">Axis</text><text x=\"55\" y=\"110\" font-size=\"11\">Side 2</text><text x=\"215\" y=\"110\" font-size=\"11\">Side 1</text></svg>"
+   }
+  },
+  {
+   "question": "A pool with a gate attached to an axis is shown in the diagram below. The weight of the gate is negligible. Is the system at equilibrium?",
+   "choices": [
+    "Yes",
+    "No",
+    "Cannot say"
+   ],
+   "answer": 1,
+   "explanation": "The question refers to the pressure exerted by the water on the gate. As seen in previous questions, when a mass exerts a force on a unit of area it results in a pressure upon the surface. Pressure caused solely by a stationary body of water is called Hydrostatic Pressure. The hydrostatic pressure changes in a linear fashion in accordance with the depth of the water (the pressure increases as the depth of the water increases). It can be seen in the diagram that the amount of water in side 2 is greater than in side 1 and thus exerting more force on the gate. Therefore, the gate will open and water will flow from side 2 to side 1; i.e., the system is not in a state of equilibrium.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 6,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"30\" y=\"25\" width=\"240\" height=\"125\" fill=\"none\" stroke=\"#333\"/><path d=\"M30 58 Q70 50 105 58 T148 56\" fill=\"none\" stroke=\"#36c\"/><path d=\"M150 72 Q200 64 270 72\" fill=\"none\" stroke=\"#36c\"/><polygon points=\"52,46 68,46 60,58\" fill=\"#333\"/><polygon points=\"222,60 238,60 230,72\" fill=\"#333\"/><circle cx=\"118\" cy=\"53\" r=\"6\" fill=\"#333\"/><line x1=\"118\" y1=\"53\" x2=\"185\" y2=\"150\" stroke=\"#333\" stroke-width=\"4\"/><text x=\"88\" y=\"36\" font-size=\"10\">Axis</text><text x=\"55\" y=\"115\" font-size=\"11\">Side 2</text><text x=\"215\" y=\"115\" font-size=\"11\">Side 1</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following options correctly describes the flow of water through the exit pipes?",
+   "choices": [
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – 2. Inside the container, the water is placed under hydrostatic pressure with zero velocity. When water exits the container into the open air, the pressure alleviates, as the atmospheric pressure is regarded as “zero”. The alleviated pressure (i.e., free energy) is transformed into kinetic energy, providing velocity to the water exiting the container. The higher the hydrostatic pressure gets, the more energy will be released when the water leaves the tank, and the water's velocity will be greater. The pipes in the diagram are situated at different heights. In each of the three exit pipes, the hydrostatic pressure differs on account of location. A larger amount of water above a certain point means greater hydrostatic pressure at that point. Consequently, the lower the pipe, the greater the pressure. Notice the relationship between all components mentioned above: Greater hydrostatic pressure → greater pressure differences between the inside of the container and open-air → more energy is released and transformed into kinetic energy as water exits the container → water exits with more speed (velocity). Option 2 is the only option that follows this logic.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 7,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 165\"><rect x=\"10\" y=\"30\" width=\"55\" height=\"115\" fill=\"none\" stroke=\"#333\"/><path d=\"M10 48 Q28 42 46 48 T65 46\" fill=\"none\" stroke=\"#36c\"/><text x=\"72\" y=\"60\" font-size=\"12\">1</text><rect x=\"62\" y=\"88\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M72 92 L114 92 L114 104\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"109,102 119,102 114,112\" fill=\"#69c\"/><rect x=\"62\" y=\"112\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M72 116 L114 116 L114 128\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"109,126 119,126 114,136\" fill=\"#69c\"/><rect x=\"62\" y=\"136\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M72 140 L114 140 L114 152\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"109,150 119,150 114,160\" fill=\"#69c\"/><rect x=\"115\" y=\"30\" width=\"55\" height=\"115\" fill=\"none\" stroke=\"#333\"/><path d=\"M115 48 Q133 42 151 48 T170 46\" fill=\"none\" stroke=\"#36c\"/><text x=\"177\" y=\"60\" font-size=\"12\">2</text><rect x=\"167\" y=\"88\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M177 92 L193 92 L193 104\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"188,102 198,102 193,112\" fill=\"#69c\"/><rect x=\"167\" y=\"112\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M177 116 L207 116 L207 128\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"202,126 212,126 207,136\" fill=\"#69c\"/><rect x=\"167\" y=\"136\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M177 140 L229 140 L229 152\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"224,150 234,150 229,160\" fill=\"#69c\"/><rect x=\"220\" y=\"30\" width=\"55\" height=\"115\" fill=\"none\" stroke=\"#333\"/><path d=\"M220 48 Q238 42 256 48 T275 46\" fill=\"none\" stroke=\"#36c\"/><text x=\"282\" y=\"60\" font-size=\"12\">3</text><rect x=\"272\" y=\"88\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M282 92 L300 92 L300 104\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"295,102 305,102 300,112\" fill=\"#69c\"/><rect x=\"272\" y=\"112\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M282 116 L300 116 L300 128\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"295,126 305,126 300,136\" fill=\"#69c\"/><rect x=\"272\" y=\"136\" width=\"10\" height=\"9\" fill=\"#ddd\" stroke=\"#333\"/><path d=\"M282 140 L300 140 L300 152\" fill=\"none\" stroke=\"#69c\" stroke-width=\"4\"/><polygon points=\"295,150 305,150 300,160\" fill=\"#69c\"/></svg>"
+   }
+  },
+  {
+   "question": "The three diagrams below present a system consisting of 2 interconnected containers filled up with water at different levels. In the center of the connecting tube is an elastic partition made of rubber. Which of the three following diagrams is correct?",
+   "choices": [
+    "A",
+    "B",
+    "C"
+   ],
+   "answer": 0,
+   "explanation": "In order to answer this question it is important to remember that: force = pressure*area. The area upon which the pressure acts on both sides of the partition is identical; however the pressure exerted on this area from each side of the partition is different. The level of water in each container determines the amount of pressure exerted on the partition. The amount of water is greater on the left hand side of the system. In other words, on the left hand side of the partition the mass of water pressing on the partition is greater than on the right hand side causing the partition to bend towards the right (the partition is \"facing\" the weaker force) as shown in diagram A.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 8,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 130\"><text x=\"37\" y=\"14\" font-size=\"11\">A</text><rect x=\"5\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><rect x=\"57\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><path d=\"M5 42 Q20 37 35 42\" fill=\"none\" stroke=\"#36c\"/><path d=\"M57 58 Q72 53 87 58\" fill=\"none\" stroke=\"#36c\"/><line x1=\"35\" y1=\"82\" x2=\"57\" y2=\"82\" stroke=\"#333\"/><line x1=\"35\" y1=\"95\" x2=\"57\" y2=\"95\" stroke=\"#333\"/><path d=\"M43 82 Q53 88 43 95\" fill=\"none\" stroke=\"#c33\" stroke-width=\"2\"/><text x=\"23\" y=\"122\" font-size=\"8\">Elastic Partition</text><text x=\"137\" y=\"14\" font-size=\"11\">C</text><rect x=\"105\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><rect x=\"157\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><path d=\"M105 42 Q120 37 135 42\" fill=\"none\" stroke=\"#36c\"/><path d=\"M157 58 Q172 53 187 58\" fill=\"none\" stroke=\"#36c\"/><line x1=\"135\" y1=\"82\" x2=\"157\" y2=\"82\" stroke=\"#333\"/><line x1=\"135\" y1=\"95\" x2=\"157\" y2=\"95\" stroke=\"#333\"/><line x1=\"146\" y1=\"82\" x2=\"146\" y2=\"95\" stroke=\"#c33\" stroke-width=\"2\"/><text x=\"123\" y=\"122\" font-size=\"8\">Elastic Partition</text><text x=\"237\" y=\"14\" font-size=\"11\">B</text><rect x=\"205\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><rect x=\"257\" y=\"22\" width=\"30\" height=\"85\" fill=\"none\" stroke=\"#333\"/><path d=\"M205 42 Q220 37 235 42\" fill=\"none\" stroke=\"#36c\"/><path d=\"M257 58 Q272 53 287 58\" fill=\"none\" stroke=\"#36c\"/><line x1=\"235\" y1=\"82\" x2=\"257\" y2=\"82\" stroke=\"#333\"/><line x1=\"235\" y1=\"95\" x2=\"257\" y2=\"95\" stroke=\"#333\"/><path d=\"M249 82 Q239 88 249 95\" fill=\"none\" stroke=\"#c33\" stroke-width=\"2\"/><text x=\"223\" y=\"122\" font-size=\"8\">Elastic Partition</text></svg>"
+   }
+  },
+  {
+   "question": "Danny received a bunch of colourful helium balloons for his birthday. One of the balloons was not attached properly and flew away. Assuming the temperature remains constant, what will be the volume of the balloon at a very high altitude?",
+   "choices": [
+    "Smaller",
+    "Bigger",
+    "Unchanged",
+    "Cannot say"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) – Bigger. In order to answer this question, one should know the Ideal Gas Law: PV=nRT Where P =pressure, V = volume, n = number of moles of gas (amount of gas), R = Gas constant, T = temperature. Since we know the temperature is constant, the right side of the equation will also be constant (providing the amount of gas in the balloon remains constant, meaning: PV = Const at all times. As the balloon rises, atmospheric pressure decreases since the amount of air above the balloon is reduced (similar to hydrostatic pressure). If the pressure decreases (as the balloon raises), then the volume must increase in order for P*V to remain constant.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 9
+  },
+  {
+   "question": "A canister containing oxygen at room temperature (25°C) has a pressure gauge attached. What would happen to the pressure if the canister were to be heated?",
+   "choices": [
+    "Increase",
+    "Decrease",
+    "Unchanged",
+    "Cannot say"
+   ],
+   "answer": 0,
+   "explanation": "1. This relies on the ideal gas law, which states that pressure times volume equals the amount of gas times the gas constant times the temperature. 2. Here the amount of gas stays constant and the volume of the canister is fixed. 3. When the temperature rises, the temperature side of the equation increases, so to keep the equation balanced the pressure must increase. 4. Thinking about it physically, heating the gas gives its particles more energy so they move faster, hit the canister walls more often, and this greater number of collisions shows up as a higher pressure reading. So the pressure increases.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 10,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 165\"><rect x=\"115\" y=\"55\" width=\"70\" height=\"95\" fill=\"#eef\" stroke=\"#333\"/><line x1=\"150\" y1=\"55\" x2=\"150\" y2=\"38\" stroke=\"#333\"/><circle cx=\"150\" cy=\"28\" r=\"11\" fill=\"#fff\" stroke=\"#333\"/><text x=\"146\" y=\"32\" font-size=\"10\">P</text></svg>"
+   }
+  },
+  {
+   "question": "A canister containing oxygen gas at room temperature (25°C) has a pressure gauge attached. If we connect the canister to an identical but empty canister, what would the pressure gauge show?",
+   "choices": [
+    "Pressure increase",
+    "Pressure decrease",
+    "Pressure unchanged",
+    "Cannot say"
+   ],
+   "answer": 1,
+   "explanation": "1. This relies on the ideal gas law: pressure times volume equals the amount of gas times the gas constant times the temperature. 2. The amount of gas and the temperature both stay the same, so that side of the equation is unchanged, which means pressure times volume must stay constant. 3. Connecting the second empty canister increases the total volume of the system. 4. To keep pressure times volume constant, a larger volume must be matched by a lower pressure. So the pressure decreases.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 11,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 170\"><rect x=\"25\" y=\"55\" width=\"55\" height=\"90\" fill=\"#eef\" stroke=\"#333\"/><line x1=\"52\" y1=\"55\" x2=\"52\" y2=\"40\" stroke=\"#333\"/><circle cx=\"52\" cy=\"31\" r=\"9\" fill=\"#fff\" stroke=\"#333\"/><text x=\"49\" y=\"35\" font-size=\"9\">P</text><text x=\"32\" y=\"160\" font-size=\"10\">Initial</text><polygon points=\"95,85 118,85 118,76 135,95 118,114 118,105 95,105\" fill=\"#9cf\" stroke=\"#333\"/><rect x=\"150\" y=\"55\" width=\"55\" height=\"90\" fill=\"#eef\" stroke=\"#333\"/><rect x=\"220\" y=\"55\" width=\"55\" height=\"90\" fill=\"#eef\" stroke=\"#333\"/><line x1=\"177\" y1=\"55\" x2=\"177\" y2=\"40\" stroke=\"#333\"/><circle cx=\"177\" cy=\"31\" r=\"9\" fill=\"#fff\" stroke=\"#333\"/><text x=\"174\" y=\"35\" font-size=\"9\">P</text><rect x=\"205\" y=\"112\" width=\"15\" height=\"12\" fill=\"#eef\" stroke=\"#333\"/><text x=\"185\" y=\"160\" font-size=\"10\">Final</text></svg>"
+   }
+  },
+  {
+   "question": "A canister containing oxygen gas at room temperature (25°C) has a pressure gauge attached. If we add oxygen gas to the canister what will the pressure gauge show?",
+   "choices": [
+    "Pressure increase",
+    "Pressure decrease",
+    "Pressure unchanged",
+    "Cannot say"
+   ],
+   "answer": 0,
+   "explanation": "1. This relies on the ideal gas law: pressure times volume equals the amount of gas times the gas constant times the temperature. 2. Adding oxygen increases the amount of gas, which increases that side of the equation, while the temperature stays constant. 3. The canister's volume does not change, so to keep the equation balanced the pressure must increase. The pressure gauge shows a higher reading.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 12
+  },
+  {
+   "question": "A canister containing oxygen gas at room temperature (25°C) has a pressure gauge attached. If we add oxygen gas to the canister and at the same time cool it, what will the pressure gauge show?",
+   "choices": [
+    "Pressure increase",
+    "Pressure decrease",
+    "Pressure unchanged",
+    "Cannot say"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) – Cannot say. According to the Ideal Gas Law: PV = nRT P =pressure, V = volume, n = number of moles of gas (amount of gas), R = Gas constant, T = temperature. Since the volume of the canister remains constant, a change in temperature and/or amount of gas will necessarily cause a change in the pressure in order to maintain the equation. It was given that the temperature decreases (cooling), which leads to a decrease on the right side of the equation. Together with this, it was given that the amount of gas (n) increases, which leads to an increase on the right side of the equation.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 13
+  },
+  {
+   "question": "Two identical triangles are placed inside a water tank as shown in the diagram below. The triangles are fixed in position. On which triangle will a greater force be exerted?",
+   "choices": [
+    "1",
+    "2",
+    "Equal on both",
+    "Cannot say"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B) - 2. When the triangles are immersed in water a hydrostatic pressure acts upon them. We know that hydrostatic pressure increases with depth (the deeper an object is immersed, the larger the body of water pressing on it is). In other words, the pressure exerted on the base of the tank is greater than the pressure exerted at the midpoint of the tank. Force is defined by the equation: F = P*A From the equation we can see that under constant pressure, an increase in area will be followed by an increase in force.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 14,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 165\"><rect x=\"30\" y=\"25\" width=\"240\" height=\"125\" fill=\"none\" stroke=\"#333\"/><path d=\"M30 45 Q90 37 150 45 T270 43\" fill=\"none\" stroke=\"#36c\"/><polygon points=\"222,32 238,32 230,44\" fill=\"#333\"/><polygon points=\"70,150 100,95 130,150\" fill=\"#cde\" stroke=\"#333\"/><text x=\"95\" y=\"138\" font-size=\"11\">2</text><polygon points=\"175,95 235,95 205,150\" fill=\"#cde\" stroke=\"#333\"/><text x=\"200\" y=\"115\" font-size=\"11\">1</text></svg>"
+   }
+  },
+  {
+   "question": "Two identical triangles are placed inside a water tank as shown in the diagram below. The triangles are suspended by a thread and held in a fixed position. On which triangle will the force acting be greater?",
+   "choices": [
+    "1",
+    "2",
+    "Both",
+    "Cannot say"
+   ],
+   "answer": 3,
+   "explanation": "When the triangles are immersed in water a hydrostatic pressure acts upon them. We know that hydrostatic pressure increases with depth (the amount of water pressuring increases), i.e. the pressure exerted on the base of the tank is greater than the pressure exerted at the midpoint of the tank. Force is defined by the equation: F = P*A. From the equation we can see that under constant pressure, an increase in area will be followed by an increase in force. We can see from the diagram that the triangles are position differently both in direction and height (depth). In order to calculate the forces on each triangle we need to sum the pressure exerted on each area. Since we do not have the relevant information we are unable to perform these calculations and therefore we cannot know the ratio of the forces acting on the two triangles.",
+   "source": "Mechanical Reasoning — Pressure Drill",
+   "topic": "Pressure Drill",
+   "topic_n": 15,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 165\"><rect x=\"30\" y=\"25\" width=\"240\" height=\"125\" fill=\"none\" stroke=\"#333\"/><path d=\"M30 48 Q90 40 150 48 T270 46\" fill=\"none\" stroke=\"#36c\"/><polygon points=\"222,35 238,35 230,47\" fill=\"#333\"/><path d=\"M100 25 Q94 55 100 82\" fill=\"none\" stroke=\"#333\"/><path d=\"M205 25 Q199 55 205 82\" fill=\"none\" stroke=\"#333\"/><line x1=\"55\" y1=\"95\" x2=\"255\" y2=\"95\" stroke=\"#999\" stroke-dasharray=\"3 3\"/><line x1=\"55\" y1=\"128\" x2=\"255\" y2=\"128\" stroke=\"#999\" stroke-dasharray=\"3 3\"/><polygon points=\"70,128 100,82 130,128\" fill=\"#cde\" stroke=\"#333\"/><text x=\"95\" y=\"118\" font-size=\"11\">2</text><polygon points=\"175,95 235,95 205,145\" fill=\"#cde\" stroke=\"#333\"/><text x=\"200\" y=\"115\" font-size=\"11\">1</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following is not a good electrical insulator?",
+   "choices": [
+    "Distilled water",
+    "Air",
+    "Glass",
+    "Mineral Water",
+    "Plastic"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D – Mineral Water. Besides mineral water, all the above serve as rather good insulators: Air can conduct electricity to a certain level (lightning does cross the skies), yet if it were a good conductor, we would get electrified all day long, and no battery would be able to preserve its electric charge.. Plastic and Glass are known common insulators. Pure water is water containing no dissolved substance. The ions in electrolytes conduct electricity, and not the water molecules themselves. Pure water contains no dissolved substance, hence no ions; therefore, it doesn't have the means to conduct electricity. Mineral water on the other hand, has an abundance of ions,",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 1
+  },
+  {
+   "question": "In which direction does the electric current flow in an electric circuit?",
+   "choices": [
+    "In the direction of the closest electric load.",
+    "From the positive terminal to the negative terminal.",
+    "From the negative terminal to the positive terminal.",
+    "In the opposite direction of positive-charge flow.",
+    "In the same direction of negative-charge flow."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B. Convention dictates that current flows from higher to lower potential (from the positive to the negative terminal in a circuit with a power source), regardless of which charge carriers are actually moving. In metals, where the charge carriers (electrons) are negative, current flows in the opposite direction of the electrons' movement. According to the above, option B is the correct answer. Regarding the other answer options: Option A is plainly false (nothing can be gathered about the direction of the current by knowing which electrical charge is closest). Option C is the exact opposite of option B.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 2
+  },
+  {
+   "question": "A conducting wire is connected to a cell and completes a circuit. Does a current flow in the circuit even if resistance is absent? Choose the best answer.",
+   "choices": [
+    "No. It will create an open circuit.",
+    "No. There must be some sort of resistance (load/resistors) in order for a current to flow.",
+    "Yes, and the cell will last more than it would with the presence of resistance.",
+    "Yes, and the cell will last as long as it would with the presence of resistance.",
+    "Yes, but the cell will last less than it would with the presence of resistance."
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E Electric circuits usually contain resistors, in the form of either electric loads or resistor components. Nonetheless, resistors are not a condition for a current to flow within the circuit. With the presence of a voltage source and complete circuit, current will start to flow. The implication of the absence of resistance is that there will be no opposition to the passage of electric current, which will cause a rapid exhaustion of the cell's electric potential. The consequence is that the cell's life would be shorter.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 3
+  },
+  {
+   "question": "Which of the following sentences is correct?",
+   "choices": [
+    "An anode is a type of electrode.",
+    "An electrode is a type of cathode.",
+    "An anode is a type of terminal.",
+    "A cathode is a type of anode.",
+    "A terminal is a type of electrode."
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A An anode and a cathode are both types of electrodes. An electrode is a solid electric conductor through which an electric current enters or leaves an electrolytic cell or other medium. A cathode is an electrode through which electric current flows out of a polarized electrical device. An electrode through which current flows the other way (into the device) is termed an anode.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 4
+  },
+  {
+   "question": "An engineering drawing describes a microchip. At the bottom of the drawing it is written \"Scale 3:1\". What does it indicate?",
+   "choices": [
+    "The actual size of the microchip is three times the size of the drawing.",
+    "1 cm on the drawing represents 3 cm on the component.",
+    "1 cm on the drawing represents 3 mm on the component.",
+    "3 cm on the drawing represents 1 mm on the component.",
+    "3 cm on the drawing represents 1 cm on the component."
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E. A map scale shows the ratio of the indicated distances on the map to the actual physical distance. A scale of 3:1 means that every 3 centimetres drawn represent 1cm in real. Unless indicated differently, both sides refer to the same units.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 5
+  },
+  {
+   "question": "Which of the following is certain to make lifting a load with an order-1 lever relatively easier?",
+   "choices": [
+    "Distancing the load from the fulcrum, leaving the point of applied force unchanged.",
+    "Distancing the point of applied force from the fulcrum, while the load remains in the same place.",
+    "Equally distancing the load and the point of applied force from the fulcrum.",
+    "Equally drawing the load and the point of applied force nearer to the fulcrum.",
+    "All the above."
+   ],
+   "answer": 1,
+   "explanation": "Option B is correct – Distancing the point of applied force from the fulcrum, while not changing the load's location, will create more force, causing lifting to become easier. An order-1 lever is built in a way that the fulcrum is placed between the weight and the point of applied force. In such a lever, the further the distance between the point of applied force and the fulcrum, the easier it is to lift the weight. Similarly, the further the weight is from the fulcrum, the harder it is to lift the weight. In options C and D, since both the points of applied force and load are moving the same distance, it is not certain whether it would change the amount of force needed to lift the weight. In option A, the load is distanced from the fulcrum. Hence, lifting will become harder;",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 6
+  },
+  {
+   "question": "Which of the following is true concerning a formation of springs, compared to a single spring?",
+   "choices": [
+    "Arranging several identical springs in parallel will make their tension easier.",
+    "Arranging several identical springs in parallel won't make their compression more difficult.",
+    "Arranging several identical springs in series will make their compression easier.",
+    "Arranging several identical springs in series won't make their tension easier.",
+    "All the above."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D. When springs are arranged in series, each spring is subjected to the force applied. The consequence is that it won't be easier or more difficult to either tense or compress springs in series compared to a single spring. On the contrary, when the springs are arranged in parallel the force is divided equally between the springs. The consequence is that it will be more difficult to either tense or compress springs in parallel compared to a single spring. The only answer choice, which concurs with this reasoning, is option D.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 7
+  },
+  {
+   "question": "A sealed tight cylinder is holding compressed gas. When the piston moves from position A to position B, the pressure in the Gas part of the cylinder...",
+   "choices": [
+    "is tripled",
+    "is doubled",
+    "remains the same",
+    "is halved",
+    "decreases by a third"
+   ],
+   "answer": 3,
+   "explanation": "1. The amount of gas stays the same, but its volume doubles, since two thirds of the cylinder is twice as much as one third. 2. When the amount of gas is constant, pressure is inversely proportional to volume, meaning that as volume goes up, pressure goes down. 3. Since the volume doubled, the pressure is halved. The correct answer is that the pressure is halved.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 8,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 260 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"50\" y=\"110\" width=\"60\" height=\"40\" fill=\"#bcd6f5\"/><line x1=\"80\" y1=\"10\" x2=\"80\" y2=\"110\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"70\" y1=\"10\" x2=\"90\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"10\" y=\"75\" font-size=\"11\">Air</text><text x=\"58\" y=\"100\" font-size=\"11\">2/3</text><text x=\"10\" y=\"135\" font-size=\"11\">Gas</text><text x=\"58\" y=\"128\" font-size=\"11\">1/3</text><text x=\"72\" y=\"165\" font-size=\"12\">A</text><rect x=\"160\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"160\" y=\"70\" width=\"60\" height=\"80\" fill=\"#bcd6f5\"/><line x1=\"190\" y1=\"10\" x2=\"190\" y2=\"70\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"180\" y1=\"10\" x2=\"200\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"168\" y=\"100\" font-size=\"11\">2/3</text><text x=\"168\" y=\"128\" font-size=\"11\">1/3</text><text x=\"182\" y=\"165\" font-size=\"12\">B</text></svg>"
+   }
+  },
+  {
+   "question": "A sealed tight cylinder is holding compressed gas. When the piston moves from position A to position B, the pressure in the Air part of the cylinder...",
+   "choices": [
+    "is tripled",
+    "is doubled",
+    "remains the same",
+    "is halved",
+    "decreases by a third"
+   ],
+   "answer": 1,
+   "explanation": "1. Air is also a gas, so the same rule applies. 2. The amount of gas stays the same, but its volume is halved. 3. When the amount of gas is constant, pressure is inversely proportional to volume, so halving the volume doubles the pressure. The correct answer is that the pressure is doubled.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 9,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 260 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"50\" y=\"110\" width=\"60\" height=\"40\" fill=\"#bcd6f5\"/><line x1=\"80\" y1=\"10\" x2=\"80\" y2=\"110\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"70\" y1=\"10\" x2=\"90\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"10\" y=\"75\" font-size=\"11\">Air</text><text x=\"58\" y=\"100\" font-size=\"11\">2/3</text><text x=\"10\" y=\"135\" font-size=\"11\">Gas</text><text x=\"58\" y=\"128\" font-size=\"11\">1/3</text><text x=\"72\" y=\"165\" font-size=\"12\">A</text><rect x=\"160\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"160\" y=\"70\" width=\"60\" height=\"80\" fill=\"#bcd6f5\"/><line x1=\"190\" y1=\"10\" x2=\"190\" y2=\"70\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"180\" y1=\"10\" x2=\"200\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"168\" y=\"100\" font-size=\"11\">2/3</text><text x=\"168\" y=\"128\" font-size=\"11\">1/3</text><text x=\"182\" y=\"165\" font-size=\"12\">B</text></svg>"
+   }
+  },
+  {
+   "question": "A sealed tight cylinder is completely filled with gas. When the piston moves from position A to position B, the pressure in the gas part of the cylinder...",
+   "choices": [
+    "is tripled",
+    "is doubled",
+    "remains the same",
+    "is halved",
+    "decreases by a third"
+   ],
+   "answer": 0,
+   "explanation": "1. The amount of gas stays the same, but its volume is reduced to one third of the cylinder, that is, reduced threefold. 2. When the amount of gas is constant, pressure is inversely proportional to volume. 3. Since the volume shrank to one third, the pressure becomes three times as large. The correct answer is that the pressure is tripled.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 10,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 260 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"30\" width=\"60\" height=\"120\" fill=\"#bcd6f5\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"80\" y1=\"10\" x2=\"80\" y2=\"30\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"70\" y1=\"10\" x2=\"90\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"58\" y=\"100\" font-size=\"11\">2/3</text><text x=\"58\" y=\"128\" font-size=\"11\">1/3</text><text x=\"72\" y=\"165\" font-size=\"12\">A</text><rect x=\"160\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"160\" y=\"110\" width=\"60\" height=\"40\" fill=\"#bcd6f5\"/><line x1=\"190\" y1=\"10\" x2=\"190\" y2=\"110\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"180\" y1=\"10\" x2=\"200\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"168\" y=\"100\" font-size=\"11\">2/3</text><text x=\"168\" y=\"128\" font-size=\"11\">1/3</text><text x=\"182\" y=\"165\" font-size=\"12\">B</text></svg>"
+   }
+  },
+  {
+   "question": "A sealed tight cylinder is holding compressed gas. When the piston moves from position A to position B, the pressure in the part of the cylinder which DOESN'T hold gas..",
+   "choices": [
+    "is tripled",
+    "is doubled",
+    "remains the same",
+    "is halved",
+    "decreases by a third"
+   ],
+   "answer": 2,
+   "explanation": "1. In position A, the part of the cylinder without gas is a vacuum, which is a space empty of matter. 2. Pressure only exists when some matter presses against a boundary, so in a vacuum there is no pressure at all. 3. Because there was no pressure to begin with, enlarging that empty space changes nothing; there is still no pressure. 4. In other words, the pressure stays the same. The correct answer is option three.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 11,
+   "fig": {
+    "type": "svg",
+    "svg": "<svg viewBox=\"0 0 260 170\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"50\" y=\"30\" width=\"60\" height=\"120\" fill=\"#bcd6f5\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"80\" y1=\"10\" x2=\"80\" y2=\"38\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"70\" y1=\"10\" x2=\"90\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"5\" y=\"42\" font-size=\"11\">Vacuum</text><text x=\"58\" y=\"52\" font-size=\"11\">1</text><text x=\"58\" y=\"100\" font-size=\"11\">2/3</text><text x=\"10\" y=\"135\" font-size=\"11\">Gas</text><text x=\"58\" y=\"128\" font-size=\"11\">1/3</text><text x=\"72\" y=\"165\" font-size=\"12\">A</text><rect x=\"160\" y=\"30\" width=\"60\" height=\"120\" fill=\"none\" stroke=\"#333\" stroke-width=\"2\"/><rect x=\"160\" y=\"110\" width=\"60\" height=\"40\" fill=\"#bcd6f5\"/><line x1=\"190\" y1=\"10\" x2=\"190\" y2=\"110\" stroke=\"#333\" stroke-width=\"2\"/><line x1=\"180\" y1=\"10\" x2=\"200\" y2=\"10\" stroke=\"#333\" stroke-width=\"2\"/><text x=\"168\" y=\"52\" font-size=\"11\">1</text><text x=\"168\" y=\"100\" font-size=\"11\">2/3</text><text x=\"168\" y=\"128\" font-size=\"11\">1/3</text><text x=\"182\" y=\"165\" font-size=\"12\">B</text></svg>"
+   }
+  },
+  {
+   "question": "Which of the following components restricts the electric current flow to a single direction?",
+   "choices": [
+    "Condenser",
+    "Diode",
+    "Resistor",
+    "Transducer",
+    "Switch"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B – a diode. A diode is an electrical component which is mainly used to restrict electrical flow to one direction - similar to a check valve in water flow - by having high resistance in one direction and low resistance in the other.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 12
+  },
+  {
+   "question": "Which of the following is an electrical component that can break an electrical circuit, interrupting the current or diverting it from one conductor to another?",
+   "choices": [
+    "Condenser",
+    "Diode",
+    "Resistor",
+    "Transducer",
+    "Switch"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E – a switch.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 13
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric resistance?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B – Ohm (Ω).",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 14
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric potential?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E – Volt (V).",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 15
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric power?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D – Watt (W). Watt is the electrical unit of electric power. It measures the rate of consumed energy, or specifies the rate at which electrical energy is dissipated.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 16
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric current?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A – Ampere (amp,A)",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 17
+  },
+  {
+   "question": "Which of the following is a measurement unit for electric charge?",
+   "choices": [
+    "Ampere",
+    "Ohm",
+    "Coulomb",
+    "Watt",
+    "Volt"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is E – Coulomb (C).",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 18
+  },
+  {
+   "question": "Which of the following, if increased, would not require exertion of additional force to lift an object?",
+   "choices": [
+    "Gravity",
+    "Friction",
+    "Effort",
+    "Load Mass"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C – effort. Gravity is a constant force which gives weight to objects. If it were to increase, it would be require more force to lift an object Friction is a force that resists the relative motion of two objects in contact. Increasing friction can counteract the lifting force. In regular conditions, the greater the mass of an object, the greater its weight. Since weight is defined as a force created by gravity, an increase in mass would also counteract the lifting force. The effort, on the other hand, is the force applied in order to lift the weight. An addition to the effort would make any object lifting easier.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 19
+  },
+  {
+   "question": "Which of the following indicates whether a surface is horizontal?",
+   "choices": [
+    "Screwdriver",
+    "Level",
+    "Sculpting tool",
+    "Spanner",
+    "Loom"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is B – a level.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 20
+  },
+  {
+   "question": "Which of the following is NOT utilized for holding or grabbing?",
+   "choices": [
+    "Tongs",
+    "Tweezers",
+    "Pliers",
+    "Pincer",
+    "Crowbar"
+   ],
+   "answer": 4,
+   "explanation": "The correct answer is E – a crowbar.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 21
+  },
+  {
+   "question": "Which of the following does not necessitate a power/energy source to be activated?",
+   "choices": [
+    "Wrench",
+    "Soldering iron",
+    "Pneumatic drill",
+    "Chainsaw",
+    "Electric screwdriver"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is A – a wrench.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 22
+  },
+  {
+   "question": "Which of the following meters doesn't change its reading due to pressure differences?",
+   "choices": [
+    "Thermometer",
+    "Altimeter",
+    "Manometer",
+    "Ammeter",
+    "Barometer"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D – Ammeter. This measuring instrument measures electric current. The other options measure temperature, height, pressure and air-pressure respectively. All of these, in a classic design, change their reading due to pressure changes.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 23
+  },
+  {
+   "question": "Which of the following don't have pointy heads?",
+   "choices": [
+    "Screws",
+    "Nails",
+    "Tacks",
+    "Bolts",
+    "Pins"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is D – bolts.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 24
+  },
+  {
+   "question": "Which of the following doesn't alter the effort required to lift a load?",
+   "choices": [
+    "A lever",
+    "An inclined plane",
+    "A fixed pulley",
+    "A movable pulley",
+    "Jack"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C – a fixed pulley. The advantage of a fixed pulley is that it changes the direction of the lifting force; i.e. pulling down using a fixed pulley will make the load move upwards. Yet, it doesn't alter the amount of effort needed in order to lift the load.",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 25
+  },
+  {
+   "question": "Sam drew a sketch of his apartment in a scale of 1:50. The width of the storeroom is 5cm in the sketch. What is its actual width?",
+   "choices": [
+    "0.25m",
+    "0.5m",
+    "2.5m",
+    "5m",
+    "25m"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is C – 250cm A map scale shows the ratio of the indicated distances on the map to the actual physical distance. A scale of 1:50 means that every centimeter drawn represents 50cm in real. If the width of the storeroom is 5cm in the sketch, then the actual width is 5×50 = 250cm, or 2.5m",
+   "source": "Mechanical Comprehension — Basic Concepts",
+   "topic": "Basic Concepts",
+   "topic_n": 26
+  }
+ ]
+}

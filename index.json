@@ -89,6 +89,42 @@
    "chapter": "Reasoning",
    "pie": true,
    "draw": 20
+  },
+  {
+   "file": "ff-mechanical-a.json",
+   "title": "Mechanical Concepts — Drills 1–4",
+   "note": "74 questions",
+   "category": "Firefighter",
+   "chapter": "Mechanical Concepts",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-mechanical-b.json",
+   "title": "Mechanical Concepts — Cogwheels, Pressure & Basic Concepts",
+   "note": "57 questions",
+   "category": "Firefighter",
+   "chapter": "Mechanical Concepts",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-electrical.json",
+   "title": "Electrical Concepts",
+   "note": "80 questions",
+   "category": "Firefighter",
+   "chapter": "Electrical Concepts",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-tools.json",
+   "title": "Tools",
+   "note": "38 questions",
+   "category": "Firefighter",
+   "chapter": "Scenes & Tools",
+   "pie": true,
+   "draw": 20
   }
  ]
 }
