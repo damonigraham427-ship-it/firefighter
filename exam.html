@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Firefighter Exam</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+<p><a href="exams.html">&larr; Exams</a></p>
+<h1 id="exam-title">Exam</h1>
+<p id="progress"></p>
+<section id="question-box">
+<p id="topic-bar" hidden></p>
+<div id="passage-box" class="passage" hidden></div>
+<h2 id="question-text">Loading…</h2>
+<div id="fig-box"></div>
+<p id="multi-hint" class="multi-hint" hidden></p>
+<p id="source-line"></p>
+<div id="choices"></div>
+<p id="feedback" role="status"></p>
+<button id="back-btn" type="button" hidden>&#8592; Back</button>
+<button id="flag-btn" type="button">&#9734; Needs more work</button>
+<button id="quality-btn" type="button">&#9873; Quality review</button>
+<button id="research-btn" type="button">&#128270; Further research</button>
+<button id="next-btn" hidden>Next</button>
+<p class="rail"><a href="topics.html">Topics</a> · <a href="exams.html">Exams</a></p>
+<section id="quality-panel" class="note-card" hidden>
+<h3>&#9873; Quality review &#8212; this question</h3>
+<p id="quality-q" class="np-q"></p>
+<textarea id="quality-comment" class="note-area" rows="3" placeholder="My comment on this question&#8230;"></textarea>
+<button id="quality-send" type="button">Send to Edison</button>
+<button id="quality-unmark" type="button">Remove from quality review</button>
+<button id="quality-close" type="button">Close</button>
+<p id="quality-status" role="status"></p>
+</section>
+<section id="research-panel" class="note-card" hidden>
+<h3>&#128270; Further research &#8212; this question</h3>
+<p id="research-q" class="np-q"></p>
+<textarea id="research-comment" class="note-area" rows="3" placeholder="What depth do you want from this question&#8230;"></textarea>
+<button id="research-send" type="button">Send to Edison</button>
+<button id="research-unmark" type="button">Remove from further research</button>
+<button id="research-close" type="button">Close</button>
+<p id="research-status" role="status"></p>
+</section>
+</section>
+<section id="result-box" hidden>
+<h2 id="score"></h2>
+<h3>Missed questions</h3>
+<ol id="missed-list"></ol>
+<p id="no-missed" hidden>None — perfect score.</p>
+<h3>Flagged: needs more work</h3>
+<ol id="flagged-list"></ol>
+<p id="no-flagged" hidden>None need review.</p>
+<h3>Marked for quality review</h3>
+<ol id="quality-list"></ol>
+<p id="no-quality" hidden>None marked.</p>
+<h3>Marked for further research</h3>
+<ol id="research-list"></ol>
+<p id="no-research" hidden>None marked.</p>
+<p><a href="exams.html">Back to exams</a></p>
+<button id="retry-btn">Retry</button>
+</section>
+</main>
+<script src="exam.js"></script>
+<script src="sync.js"></script>
+</body>
+</html>

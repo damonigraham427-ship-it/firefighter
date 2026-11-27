@@ -1,0 +1,1147 @@
+{
+ "questions": [
+  {
+   "passage": "In 1988 Baltic States were in open defiance of the Kremlin. On August 1989 half the adult population of the Baltics formed a human chain stretching the entire length of the three republics to protest against the fiftieth anniversary of Soviet rule. In the parliamentary elections, they gave Sajudis the power to be elected to the Supreme Soviet in Moscow allowing their voices to be heard nationwide through televised coverage. On 11 March 1990 by 124 votes to zero the Lithuanian parliament passed the Act of the Supreme Council on the Restoration of the Independent Lithuanian State.",
+   "question": "What did the entrance to Moscow's Soviet allow?",
+   "choices": [
+    "A democratic reign",
+    "Sajudis thus became president",
+    "Wide media coverage",
+    "The defeat of the kremlin"
+   ],
+   "answer": 2,
+   "explanation": "\"In the parliamentary elections, they gave Sajudis the power to be elected to the Supreme Soviet in Moscow allowing their voices to be heard nationwide through televised coverage.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Bioluminescence -- the ability of organisms to produce light on their own -- is a widespread phenomenon. Jellyfish and fireflies might be the most familiar bioluminescent creatures, but organisms from bacteria to fungi to insects and fish make their own glow through a variety of chemical processes. Researchers believe that the fungi make light in the same way that a firefly does, through a chemical mix of a luciferin compound and a luciferase. Luciferase is an enzyme that aids the interaction among luciferin, oxygen and water to produce a new compound that emits light.",
+   "question": "What organism is believed to produce light in the same manner as fungi?",
+   "choices": [
+    "Jellyfish",
+    "Moth",
+    "Firefly",
+    "Bacteria"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"Researchers believe that the fungi make light in the same way that a firefly does.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Cash on cash return is determined by dividing before-tax cash flow by the total cash invested in the property. Before-tax cash flow is income less operating expenses, less debt service (mortgage payments.) Total cash invested would include the down payment and all nonrecurring costs, such as loan fees, attorney's fees, title insurance, survey, environmental inspections, etc. Recurring costs, such as insurance premiums paid in advance, property taxes, and utility adjustments, should not be included in total cash invested.",
+   "question": "What should operating expenses be reduced from?",
+   "choices": [
+    "Mortgage payments",
+    "Property taxes",
+    "Income",
+    "Debt service"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nYou can see in the passage that: \"Before-tax cash flow is income less operating expenses, less debt service (mortgage payments.).\"\n\nNote that mortgage payments – given here as an example of debt services – and other debts should also be reduced from income, so (A) and (D) cannot be the correct answers. Property taxes, as stated in the last sentence of the passage, \"should not be included in total cash invested,\" so answer (B) is also incorrect.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "In the heart of the Bristol Bay watershed, the element that binds everything together, is water. Within this 40,000-square-mile area are nine major rivers, fed by dozens of tributaries that sometimes resemble stiff tree branches, sometimes sinuous arteries. Here are ponds so great in number and whimsical of shape they call to mind a crowded Joan Miró canvas stretching to the horizon. In more places than not, the water table lies near the surface, producing seeps and springs, continually recharging the sponge-like tundra. This is a wet place, indeed.",
+   "question": "The described landscape is paralleled to:",
+   "choices": [
+    "Classical music",
+    "A dream",
+    "A painting",
+    "A poem"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, the landscape \"call[s] to mind a crowded Joan Miró canvas\" – a painting by a famous artist.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Not only are people living longer, but so many women across the world are now in their childbearing years—1.8 billion—that the global population will keep growing for another few decades at least, even though each woman is having fewer children than she would have had a generation ago. By 2050 the total number could reach 10.5 billion, or it could stop at eight billion—the difference is about one child per woman. UN demographers consider the middle road their best estimate: They now project that the population may reach nine billion in 2045.",
+   "question": "The number 1.8 billion refers to the worlds':",
+   "choices": [
+    "current population",
+    "Sum of pregnant women",
+    "Sum of children",
+    "Sum of fertile women"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage states that \"many women across the world are now in their childbearing years—1.8 billion.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Once elephants roamed the Earth like waterless whales, plying ancient migratory routes ingrained in their prodigious memories. Now they've been backed into increasingly fragmented territories. When not being killed for their tusks or for bush meat, they are struggling against loss of habitat due to human population pressures and drought. A 1979 survey of African elephants estimated a population of about 1.3 million whereas About 500,000 remain today. In Asia an estimated 40,000 are left in the wild. And yet even as the elephant population dwindles, the number of human-elephant conflicts rises.",
+   "question": "Elephant population in Africa shrunk by:",
+   "choices": [
+    "800,000",
+    "460,000",
+    "500,000",
+    "40,000"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nAccording to the passage: \"A 1979 survey of African elephants estimated a population of about 1.3 million, whereas about 500,000 remain today\" – 1,300,000-500,000=800,000; so the population has shrunk by 800,000 elephants.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "A recent study for America's Social Science Research Council found that DVDs of \"The Dark Knight\", a Warner Bros blockbuster, were selling in Russia for the equivalent of $75 (if adjusted to take account of differences in GDP per head). In India the DVD was on sale for the equivalent of $663. These price differences affect media piracy. Legal differences are another reason. In Germany it is easy to fine somebody for downloading music illegally; in Spain it is almost impossible. A final cause – the most intangible but probably the most powerful – is cultural differences. In some countries copying is regarded broadly as theft; in others it is not.",
+   "question": "What does the text try to explain?",
+   "choices": [
+    "Differences between countries in illegal downloading rates",
+    "Differences in prices of \"The Dark Knight\"",
+    "Why downloading costs more in Asia",
+    "European policy towards downloading"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThis question is asking for the main idea of the passage. The passage mentions why downloading movies in certain countries is more or less common – DVD prices, enforcement and cultural reasons. So the passage deals mainly with differences between countries in illegal downloading rates – that is, answer (A).\n\nNote that \"rate\" in this context means \"a quantity or frequency\".\n\n(B) is incorrect as the prices of this particular DVD are only used as an example. (C) is incorrect as the price of downloading is not mentioned in the passage at all, and (D) is incorrect as the passage does not focus on this topic.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Numerous policy options have been proposed to reduce Greenhouse Gas (GHG) emissions. It is paramount for the Committee on Climate Change to recognize that for the same outcome, different methods have different costs. Clearly, prudent policy will consider strategies that provide the greatest reduction of GHGs for each dollar spent, without throwing the entire financial burden on one socioeconomic group. Climate change economics seek neither to devote so many resources to climate change when other social and economic issues are neglected, nor delay action or take inconsequential steps to create the appearance of action.",
+   "question": "What is the aim of the committee?",
+   "choices": [
+    "Reduce costs to increase GHG",
+    "Delay financial actions",
+    "Decide how to decrease GHG",
+    "Have the rich sustain the burden"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"numerous policy options have been proposed to reduce GHG emissions. It is paramount for the committee to recognize that for the same outcome, different methods have different costs.\" So the committee needs to decide what method should be used to decrease emissions.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The JCP was founded on July 15, 1922, as an underground political association. Outlawed under the Peace Preservation Law, the JCP was subjected to repression and persecution by Imperial Japan. The party was legalised in 1945. In 1949 the party won 10 percent of the vote and sent 35 representatives to the Diet. A year later the Korean War broke out and the party staged some acts of terrorism. This resulted in a loss of popular confidence. Through the end of the decade it never won more than 3 percent of the votes.",
+   "question": "What percentage of votes did JCP lose between between the first time it stood for election and the 1959 election?",
+   "choices": [
+    "Seven",
+    "Three",
+    "Four",
+    "Six"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage mentions that in the 1949 election, after it was legalised, the party won 10% of the votes, and ten years later, at the end of the next decade, it won only 3%. So the percentage of votes fell by 7%.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The brain is our most complex organ, in terms of connections and microscopic structure. It is heterogeneous, with many areas and networks differing from one another in function. And, what is more, the brain is a 'hidden entity', embedded in an envelope made of bones, the skull. Brain imaging really came to age in medicine 40 years ago, thanks to computers. The technologies of structural anatomy like computerized tomography and magnetic resonance imaging have brought about a revolution in neurology by showing the lesion and its topography.",
+   "question": "The brain is not mentioned as",
+   "choices": [
+    "heterogeneous",
+    "having microscopic structure",
+    "covered with bones",
+    "our largest organ"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nNote that this question asks what is NOT found in the passage. Reviewing the features of the brain mentioned:\n\n\"The brain is our most complex organ in terms of connections and microscopic structure. It is heterogeneous, with many areas and networks differing from one another in function. What is more, the brain is a 'hidden entity', embedded in an envelope made of bones.\"\n\nHeterogeneous (answer A), having microscopic structure (B), and embedded in bones (C) are all mentioned. Only the fact that it is our largest organ (D) isn't mentioned; so this is the correct answer.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "It takes a long time to get something like a fighter plane from conception to runway. The F-22 was conceived in the early 1980s, when the Soviet air threat was significant, as a fighter, to shoot down other high-tech supersonic fighter jets. It has since been refined to have a ground-attack role as well, But it retains its fighter-jet DNA. By contrast, the F-35 \"Joint Strike Fighter\" (tellingly) will be sold to the Marines, the Navy, and NATO allies. It's a far more flexible plane, and cheaper too.",
+   "question": "How is F-35 different from f-22?",
+   "choices": [
+    "More expensive",
+    "Only fights other jets",
+    "Was sold to the Soviets",
+    "It is a more diverse striker"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage notes that the F-35 is a \"Joint Strike Fighter\" which will be sold to the Marines, the Navy, and NATO allies\" and that it's \"a far more flexible plane\" – so it is more diverse, which is answer (D). It is not more expensive (Answer A); it is actually described as cheaper. It will also not fight only other jets (B); it will be a \"more flexible plane,\" and it was not sold to the Soviets – there is no mention of this in the passage.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Pluto and Eris, two dwarf planets, are approximately 1,450 miles (2,333 kilometers) wide. Ceres, the smallest of the confirmed dwarfs, is about 303 miles (487 kilometers) across. Because new found objects are so small and so far away, astronomers can't yet say for sure whether they are in fact spherical and therefore worthy of being named dwarf planets.",
+   "question": "In order to be named dwarf planet, an object has to be:",
+   "choices": [
+    "close enough to a larger planet",
+    "sphere shaped",
+    "circling around a larger object",
+    "big enough."
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nAccording to the passage, \"astronomers can't yet say for sure whether they are in fact spherical and therefore worthy of being named dwarf planets. Therefore, only spherical objects can be called dwarf planets.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Most East and South-East Asian countries report little or no cohabitation. The exception is Japan where, among women born in the 1970s, about 20% say they have cohabited with a sexual partner. For Japan, that is a big change. In surveys between 1987 and 2002, just 1-7% of single women said they had lived with a partner. But it is not much compared with America where, according to a 2002 Gallup poll, over half of married Americans lived together before their wedding day. In many Western societies, more cohabitation has offset a trend towards later marriage or higher rates of divorce. That has not happened in Asia.",
+   "question": "Cohabitation in Japan is:",
+   "choices": [
+    "More common than in south-east asia",
+    "More common than in the US",
+    "Not found at all",
+    "Highly forbidden"
+   ],
+   "answer": 0,
+   "explanation": "Most East and South-East Asian countries report little or no cohabitation. The exception is Japan where, among women born in the 1970s, about 20% say they have cohabited with a sexual partner.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The high price of new vehicles relative to the monthly income of consumers has meant that sales have been heavily dependent on the availability of financing. According to an estimate, around 60% to 80% of new vehicles are purchased using some form of finance. Apart from banks, the vehicle manufacturers' in-house finance companies are a key source, with captive financing in March 2009 estimated to be 25%-30% of total sales. The reduced liquidity of both banks and automotive manufacturers during the current crisis has led to a rapid reduction in European demand.",
+   "question": "What was in-house finance companies' contribution?",
+   "choices": [
+    "Inducing vehicle purchases",
+    "Reduced liquidity",
+    "Decrease in sales",
+    "Reducing prices relative to monthly incomes"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nWe need to deduce the answer for this question. We are told that up to 80% of all cars are purchased using some form of finance, and 25%-30% of all cars are sold via use of in-house financing firms. Therefore, we can see that these firms induce the purchase of vehicles – answer (A).\n\nAnswers (B) and (C) are incorrect as reduced liquidity and decrease in sales are not attributed to the financing firms. (D) is also incorrect as these firms do not reduce prices.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "A new law ensures that trafficked people are treated as victims of crime, not as illegal immigrants. They must be properly assessed and provided with safe accommodation, benefits and healthcare. There are also requirements about a breathing space for recovery and, if appropriate, witness protection in criminal proceedings. It is better to use public money for investment in victim support than for payment of compensation for official incompetence and mistreatment. This law also strengthens police co-operation to align offences and penalties so as to enhance the prospects of putting behind bars the criminals who run modern-day slave trade.",
+   "question": "Which of the following is provided to trafficking victims under the new law?",
+   "choices": [
+    "Protection in case of threatening",
+    "Money donations",
+    "Reduced payments for accommodation costs",
+    "Payment of compensations"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage states that trafficking victims are entitled, under the new law, \"if appropriate, [to] witness protection in criminal proceedings.\" So being under a witness protection program means they will be safe from threats.\n\nAnswers (B), (C) and (D) are not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Consulting actuaries work with and advise high-level executives, especially in financial services, on matters of risk management and healthcare domains. Actuaries having exhaustive knowledge of the insurance, pension, investment or employee-benefits fields, and can rise to administrative and executive positions in their companies. Actuaries with decision-making capability, progress to management positions in areas of advertising, marketing, accounting, underwriting and data processing. (Taken from Investopedia)",
+   "question": "which areas can actuaries not be promoted to?",
+   "choices": [
+    "Advertising",
+    "Insurance",
+    "Accounting",
+    "Underwriting"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe passage notes that \"actuaries ... progress to management positions in areas of advertising, marketing, accounting, underwriting and data processing.\" The only field not mentioned in this list is insurance.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The grim axiom defining today's Afghanistan, 85 percent of whose citizens are farmers, is that its economy relies on two dueling revenue streams. One flows from Western aid, in the hopes that the country will renounce the Taliban. The other flows from opium trafficking supported by the Taliban, which use the proceeds to fund attacks on Western troops. Only recently has the Afghan government seemed to take stock of the obvious: For the outside world's largesse to continue, the national economy's addiction to opium must end.",
+   "question": "What does the Afghan government seem to prefer?",
+   "choices": [
+    "Taliban revenues",
+    "Western aid",
+    "Opium trafficking",
+    "Farming"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nHere, we also need to deduce the answer; it is not explicit in the text. The beginning of the passage mentions that Afghanistan's economy relies on two revenue streams: western aid and opium trafficking. Later in the passage we are told that the Afghan government has only now realised that if they'd like one – western aid – to continue, the other - opium trafficking – must end. Therefore, they prefer western aid and would agree to end opium trafficking.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The Eastern European (EE) region has developed from a net importer to net exporter of vehicles. In 2006, there were 300,000 more vehicles produced that sold in the region and this is expected to grow to 1.1 million by 2012. Accession of the new member states to the EU led to significant investment in the EE region. In addition to new markets, the member states are advantageous in lower labour costs, skilled workforce and incentives. Their proximity to western European markets presented an opportunity for manufacturers and suppliers.",
+   "question": "What didn't help EE countries become motor exporters?",
+   "choices": [
+    "Green field labour relations",
+    "Entering the EU",
+    "Increasing the vehicle production rate",
+    "Lower-cost production"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage mentions other factors: \"Accession of the new member states to the EU led to significant investment in the EE region\" – answer (B); \"300,000 more vehicles produced that sold in the region\" – (C); and \"lower labour costs\" – (D). Green Field labour relations, (A), is the only factor not mentioned.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "To make seawater fit for human consumption its salt content of approximately 3.5% must be cut to 0.5% or less. This can be done with Distillation, which needs about 10 kilowatt-hours of energy per cubic metre of seawater processed. The energy is used to heat the brine, partially evaporating it, and to condense the resulting water vapour. Another option is to employ reverse osmosis, which uses special membranes which act as molecular sieves by passing water molecules while holding back the ions, such as sodium and chloride, which make water salty. Generating the pressure needed to do this sieving consumes about 4kWh per cubic metre of water. (The Economist, Drops to drink, Jul 19th, 2011)",
+   "question": "What is reverse osmosis' advantage over distillation?",
+   "choices": [
+    "Safety",
+    "Energy effective",
+    "Lower pollution",
+    "Healthier"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nReviewing the answers one by one: Answer (A) is safety. This is not mentioned in the text, so this answer can be eliminated. (B) is energy effective. According to the text, distillation requires 10 kilowatt-hours of energy per cubic metre of seawater. Proceeding to the section that discusses Reverse Osmosis, we see that this technique requires only 4 kilowatt-hours, so it is more efficient; therefore, (B) is the correct answer.\n\n(C), lower pollution, and (D), healthier, are also not mentioned in the text and are therefore not correct answers.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "All sorts of organisms, including plants, insects and mammals, release \"alarm pheromones\" when they sense danger; the pheromones waft through the air to warn others. Very little is known about the alarm pheromones of mammals other than that they exist. Scientists have not identified the compounds; they do not know where in the body the pheromones are produced. Nonetheless, the Lausanne scientists could collect the pheromones by simply stressing mice and sucking up the air around them.",
+   "question": "What do scientists know about alarm pheromones?",
+   "choices": [
+    "Their chemical content",
+    "Their acquisition methods",
+    "The location of their production sites",
+    "The location of their receptors"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe passage mentions that \"Lausanne scientists could collect the pheromones\" – so they do know how to acquire them.\n\nAs for the other answers, the passage states that \"scientists have not identified the compounds\" – so answer (A), their chemical content, is incorrect. It also mentions that \"they do not know where in the body the pheromones are produced\" – so (C) is also incorrect. (D), too, is incorrect – there is no information in the text about the pheromones' receptors and therefore it cannot be inferred whether scientists know it or not.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Whether type 1 or type 2, diabetes occurs when levels of glucose in the blood climb too high. The basic building block of carbohydrates, glucose, is our body's primary fuel. But before glucose can be tapped, it must be ushered into cells with the help of insulin, a hormone produced in the pancreas. When insulin concentrations are too low or when our cells resist its action, excess glucose is left floating around in the blood. The result is diabetes, a dangerous, lifelong, and costly disease.",
+   "question": "The pancreas is vital for:",
+   "choices": [
+    "cells' glucose absorption",
+    "production of dopamine",
+    "good blood flow",
+    "prevention of heart disease"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage states that \"before glucose can be tapped, it must be ushered into cells with the help of insulin, a hormone produced in the pancreas\" – so the pancreas is vital for absorption of glucose in the cells. The other answer choices are not mentioned in the passage, so cannot be correct.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Industry has voiced considerable support for a new gas emissions policy, even though it is likely to cost consumers more. However, that support may wane if the permits are auctioned rather than given away for free, which economists agree leads to a less optimal outcome. A giveaway of emissions permits would transfer income from energy consumers—among whom lower-income households would bear disproportionately large burdens—to shareholders of energy companies, who are disproportionately higher-income households. However, if permits are auctioned, the revenue can be used to offset other taxes or provide other public services.",
+   "question": "Who would benefit from giving away emissions permits?",
+   "choices": [
+    "Economists",
+    "Public services",
+    "Energy consumers",
+    "Energy companies"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage states that \"giveaway of emissions permits would transfer income from energy consumers ... to shareholders of energy companies\"; so it would be energy companies – and their shareholders - who would benefit. Answer (A) is incorrect as economists are only mentioned in the passage in connection with discussing options, not as a group that will lose or benefit from such a step. (B) is incorrect as the passage mentions that these may be of benefit only if permits are auctioned and not given away. (C) is incorrect as energy consumers, according to the passage, will lose and not benefit if permits are given away.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Corporate executives say that China is using its near monopoly on certain minerals — in particular, scarce metals vital to products like hybrid cars, cellphones and energy-efficient light bulbs — to make it difficult for foreign manufacturers of high-tech materials to build or expand factories anywhere except China. Companies that continue making their products outside the country must contend with tighter supplies and much higher prices for the materials because of steep taxes and other export controls imposed by China over the last two years.",
+   "question": "If you would manufacture hybrid cars outside China you would have to deal with:",
+   "choices": [
+    "Product ban",
+    "High inflation",
+    "Tight mineral supply",
+    "Very low Chinese export tax"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"Companies that continue making their products outside the country must contend with tighter supplies\" – that is, answer (C). The other answer choices are not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Various colors in fire are caused by the different types of fuels being burned, as well as by the level of heat the fire is exposed to. The black smoke from a fire is caused by carbon particles that are not oxidized, and instead escape from the fire in the form of smoke. This may happen when the temperature is relatively low, or when there is a large amount of carbon in the area. Carbon that does not escape is burned, and produces a yellow glow.",
+   "question": "Escape of unoxidized material can cause which of the following?",
+   "choices": [
+    "High temperatures",
+    "Low carbon amounts",
+    "Heavy fume",
+    "Yellow glow"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"The black smoke from a fire is caused by carbon particles that are not oxidized,\" so answer (C) is correct. Answers (A) and (B) are not mentioned in the passage at all, and (D), yellow glow, is referred to in relation to carbon, which does not escape.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "In a study about gambling, those who scored highest in gambling severity also showed the most activity in the midbrain area in response to near misses. This area of the brain is of interest to researchers because it is where dopamine, a neurotransmitter, is produced. Dopamine has been implicated in other addiction studies. It could be the near misses that enhance dopamine transmission in gamblers who suffer the most severe problems, the study suggests. This means it might be possible to find treatments that reduce dopamine transmission in the brain to take some of the compulsion out of gambling.",
+   "question": "What is the outcome of a near miss among gamblers?",
+   "choices": [
+    "lower activity in the forebrain",
+    "enhanced levels of dopamine",
+    "extreme happiness",
+    "numbness"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nAccording to the passage, \"Those who scored highest in gambling severity also showed the most activity in the midbrain area in response to near misses. This area of the brain is of interest to researchers because it is where dopamine ... is produced\" – that is, answer (B). The other answers are not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "A Doppler Effect is the change in frequency of a wave for an observer moving relative to the source of the wave. When the source of the wave is moving toward the observer, each successive wave crest is emitted from a position closer to the observer than the previous wave. Therefore, each wave takes slightly less time to reach the observer than the previous wave and the time between the arrival of successive wave crests at the observer lessens, causing an increase in frequency. While they are traveling, the distance between successive wave fronts is reduced.",
+   "question": "What does not happen when a wave source moves toward the observer?",
+   "choices": [
+    "Wave frequency increases.",
+    "Distance between observer and wave decreases.",
+    "Time between the arrival of one wave crest at the observer and the next decreases.",
+    "Distance between wave fronts increases."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nAccording to the passage, \"While they are traveling, the distance between successive wave fronts is reduced\" – so answer (D) is incorrect, and therefore the correct answer. The passage also mentions that when the source of the waves is moving toward the observer, \"each successive wave crest is emitted from a position closer to the observer\" – so answer (B) is mentioned in the text, and is therefore not the correct answer. The passage also states that \"the time between the arrival of successive wave crests at the observer lessens, causing an increase in frequency\" – these are answers (A) and (C), which are also true according to the passage and are therefore not the correct answers.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The Government has recognised the housing problem and is now preparing legislation that will herald the start of a new house-building drive. It intends to support the building of a total of three million new homes by 2020, which would eventually mean creating an annual house-building target of 240,000new homes a year.",
+   "question": "The number 3,000,000 refers to houses that:",
+   "choices": [
+    "Are in the country",
+    "would be built in total",
+    "would be built annually",
+    "would be torn down"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe passage notes that the new legislation \"intends to support the building of a total of three million new homes by 2020.\" Answers (A) and (D) are not mentioned in the passage, and answer (C) is incorrect as it states that 240,000 houses would be built annually, not three million.",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "There is no doubt that the Lancaster Bomber severely reduced the ability of the German war machine to function. Britain's Strategic Bombing Offensive, which was mounted with increasing intensity from 1942, meant that the Reich had to put huge resources into defending the homeland. These were resources that could have been used on the Western Front against D-Day, or even more strongly on the Eastern Front against Russia.",
+   "question": "Germany had to turn forces to:",
+   "choices": [
+    "the Russian front",
+    "the western front",
+    "defend Germany",
+    "defend Austria"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nHere, too, we the answer is stated clearly in the passage: \"the Reich had to put huge resources into defending the homeland.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "The first step to handle a cash register is programming it based on the instructions of the manufacturer. For corresponding to the different compartments, you should designate the numbers of category on the keypad. For each category, enter the certain amount of sales tax. Then, you should load the tape of cash register. After entering the price, hit the button that corresponds to the category of the products. Then, you can hit the button of subtotal. If there is any discount on the transaction, hit the button that corresponds to the amount of discounts and press the button of subtotal again.",
+   "question": "In which case will the subtotal button be pressed twice?",
+   "choices": [
+    "When tax must be added to the sum",
+    "When a purchase entitles a discount",
+    "When two category products were included",
+    "When the tape was not loaded appropriately"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe passage mentions only one scenario in which the subtotal button is pressed more than once – when there is a discount: \"Then, you can hit the subtotal button. If there is any discount on the transaction, hit the button that corresponds to the amount of discount and press the subtotal button again.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "In the first quarter of 2011 GDP grew at an annual rate of 7.8% ; in 2005-07 it managed 9-10%. The economy may still be slowing naturally, as the low interest rates and public spending that got India through the global crisis are belatedly withdrawn. At the same time, the surge in inflation that began last year and was first caused by food prices has spread more widely, causing some to doubt whether in the medium term India can really grow at the 8-10% the optimists hope for without overheating.",
+   "question": "What got India through the global crisis?",
+   "choices": [
+    "Inflation surge",
+    "GPD rates growth",
+    "Businesspeople's irritation",
+    "Public spending and low interest rates"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage states that \"low interest rates and public spending ... got India through the global crisis.\"",
+   "source": "Reading Comprehension — Basics 3",
+   "topic": "Reading Comprehension — Basics 3",
+   "topic_n": 3
+  },
+  {
+   "passage": "Though 27 countries, including Britain, France, the Soviet Union, Germany and Italy, signed a Non-Intervention pact in September 1936, the war did soon take on an international element. Despite signing the pact, the Soviet Union did provide military assistance to the Republicans, and the Nationalist rebels were similarly supported by Nazi Germany and fascist Italy. Britain and France remained theoretically neutral, though in practice Britain was more neutral to the Nationalists than it was to the Republicans.",
+   "question": "The nationalists were supported by:",
+   "choices": [
+    "Britain",
+    "Italy and Germany",
+    "Germany and the Soviet Union",
+    "France"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe passage states that \"the Nationalist rebels were similarly supported by Nazi Germany and Fascist Italy.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Hawkins was puzzled. Quasars are powered by matter that shines fiercely as it swirls into a supermassive black hole typically billions of times the mass of the sun. Their light does vary, for example as stars are ripped apart by the black hole's enormous gravity. But these flare-ups make quasars brighten and fade within a few days, not years and decades as Hawkins found.",
+   "question": "What happens to a quasar when it enters a black hole?",
+   "choices": [
+    "It's light dims",
+    "It's light brightens",
+    "It's mass changes",
+    "It becomes faster"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nAccording to the passage, \"Quasars are powered by matter that shines fiercely as it swirls into a supermassive black hole.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Students often equate the structural frame with red tape and bureaucracy, missing the important understanding that participative structures are also possible outcomes of rational thinking and organizational design efforts. By exploring the ways in which the various approaches for organizational improvement suggested connect to organizational structure and design, students can begin to see the two frames as potentially complementary, not necessarily inconsistent or adversarial.",
+   "question": "Which two frames should be seen as complementary?",
+   "choices": [
+    "Rational thinking, design",
+    "Bureaucracy, structural frame",
+    "Design, organizational structure",
+    "Bureaucracy, organizational improvement"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"By exploring the ways in which the various approaches for organizational improvement that are suggested connect to organizational structure and design, students can begin to see the two frames as potentially complementary.\" Bureaucracy is mentioned in another context, so answers (B) and (D) are incorrect; rational thinking, (A), is mentioned as part of the design structure.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "The business model for advertising is shifting from a mass marketing strategy to a market segmentation strategy in which consumers are broken down into segments with similar demographics. Advertisers are able to familiarize themselves with these consumer segments and their preferences due to new technological affordances such as click stream monitoring, polls, surveys, etc. Further, other technological advancements, such as the two way interface of the internet and the lack of supply constraints online, allow advertisers to rely on a pull strategy of marketing in which customers actively search for ads that interest them.",
+   "question": "What allows advertisers to have a better understanding of consumers?",
+   "choices": [
+    "Consumer's search for advertisements",
+    "Supply constraints",
+    "Click stream monitoring",
+    "Mass marketing strategies"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, \"Advertisers are able to familiarize themselves with these consumer segments and their preferences due to new technological affordances such as click stream monitoring.\" Answers (A) and (B) are mentioned as new marketing strategies, but not as ways for advertisers to understand their customers. Answer (D), mass marketing, is referred to in the first sentence as an old model that is not undergoing changes.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Combing rugged mountain slopes near Cusco, archaeologists are discovering thousands of previously unknown sites, shedding new light on the origins of the Inca dynasty. Gleaning clues from colonial documents, they are relocating the lost estates of Inca rulers and examining the complex upstairs-and-downstairs lives of imperial households. \"Their extraordinary ability to triumph on the battlefield and to build a civilization sent a clear message,\" says Dennis Ogburn, an archaeologist at the University of North Carolina at Charlotte. \"They were saying, 'We are the most powerful people in the world, so don't even think of messing with us.'\"",
+   "question": "What kinds of evidence have been used by the archaeologists?",
+   "choices": [
+    "Only written",
+    "Only archaeological",
+    "Archaeological and old documents",
+    "Geological"
+   ],
+   "answer": 2,
+   "explanation": "Answer (C) is the correct answer.\n\nAt the beginning of the text, it says that by discovering new sites, archaeologists are shedding new light on the Inca Dynasty. Thus, they are definitely using archaeological evidence.\nIn addition, the text says that archaeologists are using colonial documents to relocate lost estates of Inca rulers. Therefore, they also use old documents.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Earth-moving equipment mechanics are concerned with the repair of the entire machine, from replacing the tires, to checking mechanical components of such machinery. Apart from the repairing of the hydraulic systems and power shift transmission, they also repair electrical and electronic systems. Earth-moving equipment mechanics must therefore be familiar with electrical, electronic and hydraulic principles and must also have knowledge of engines and fuel systems.",
+   "question": "What do earth-movement mechanics not repair?",
+   "choices": [
+    "Optic systems",
+    "Electronic systems",
+    "Machinery",
+    "Hydraulic systems"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is D.\n\n\"Earth-moving equipment mechanics are concerned with the repair of the entire machine, from replacing the tires, to checking mechanical components of such machinery. Apart from the repairing of the hydraulic systems and power shift transmission, they also repair electrical and electronic systems.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "On Oct. 1, when the limit on federally guaranteed loans drops to $625,500 from the current level of $729,750, hundreds of buyers in the city and nearby suburbs will either have to come up with larger down payments to stay under the new limit or face the prospect of applying for jumbo loans — anything above $625,500 — which have higher interest rates.",
+   "question": "In order to buy a house, one would now have to:",
+   "choices": [
+    "Pay a new tax",
+    "Pay more for insurance",
+    "Pay larger interest rates",
+    "Pay more in advance or take a bigger loan"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage notes that \"hundreds of buyers in the city and nearby suburbs will either have to come up with larger down payments to stay under the new limit or face the prospect of applying for jumbo loans.\" The other answers are not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "In the 1990s, the La Neta computer network was established to link up Mexico's numerous non-governmental organisations. La Neta arrived in 1993 and played a key role in distributing information to Mexico and the world during the Zapatista uprising. Through this network and the wider internet government fax machines were overloaded and large marches in Mexico City were organised in ways that bypassed the state propaganda machine. Government announcements concerning Chiapas were posted on this network and rebutted and classified as propaganda before they were able to gain traction and acceptance.",
+   "question": "What did La Neta's network enable?",
+   "choices": [
+    "Organizing city marches",
+    "Manifest government propaganda",
+    "It created the Zapatista uprising",
+    "Traction and acceptance"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nAccording to the passage, \"Through this network and the wider internet, government fax machines were overloaded, and large marches in Mexico City were organised.\"\n\nAnswer (B) is incorrect as the passage states that La Neta allowed the rebuttal of government propaganda. (C) is incorrect: although, as the passage states, the network played \"a key role\" in the Zapatista uprising, La Neta did not instigate it. Answer (D) is not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "When smokers viewed a scene that included smoking, they showed greater activity in those parts of the brain involved in perception and in the co-ordination of actions—the areas known to interpret and plan hand movements—as though they, too, were about to light a cigarette. This activity also corresponded to the hand that the volunteer used when smoking. Non-smokers showed no such enhancement.",
+   "question": "Does watching smoking on screen motivate smoking?",
+   "choices": [
+    "Yes",
+    "No",
+    "Only among smokers",
+    "Cannot say"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nThe passage describes certain changes in brain activity when smoking is watched on screen. However, it makes no mention of motivation. Therefore, it is impossible to say whether watching smoking on screen motivates this habit.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Stress hormones such as adrenaline and cortisol can either facilitate or impair memory, depending on when these hormones are released. Stress hormones may affect memory by strengthening or weakening the connections between nerve cells in the brain. Drugs that mimic cell-adhesion molecules, which bridge the gaps between nerve cells, may help restore memory in people with stress-induced cognitive disorders.",
+   "question": "Adrenaline and cortisol may:",
+   "choices": [
+    "Weaken nerve connections",
+    "Mimic molecules",
+    "Be found only in humans",
+    "Create memories"
+   ],
+   "answer": 0,
+   "explanation": "\"Stress hormones may affect memory by strengthening or weakening the connections between nerve cells in the brain.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "We now know that radioactive decay accounts for half the Earth's heat. But what of the other half? Some can surely be accounted for by what is called primordial heat--heat leftover from the Earth's violent formation. But whether or not that could account for all of that remaining 20 terawatts is unknown (and some think unlikely).",
+   "question": "20 terawatts account for:",
+   "choices": [
+    "earth's heat",
+    "the galaxy's heat",
+    "50% of earth's heat",
+    "The moon's heat"
+   ],
+   "answer": 2,
+   "explanation": "\"We now know that radioactive decay accounts for half the Earth's heat. But what of the other half? Some can surely be accounted for by what is called primordial heat--heat leftover from the Earth's violent formation. But whether or not that could account for all of that remaining 20 terawatts is unknown (and some think unlikely).\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "The first bacterial genome was sequenced in 1995 — a triumph at the time, requiring 13 months of work. Today researchers can sequence the DNA that constitutes a micro-organism's genome within a few days or even, with the latest equipment, a day. (Analyzing it takes a bit longer, though.) They can simultaneously get sequences of all the microbes on a tooth or in saliva or in a sample of sewage. And the cost has dropped to about $1,000 per genome, from more than $1 million.",
+   "question": "Tracing DNA sequences nowdays is:",
+   "choices": [
+    "more expensive",
+    "a longer process",
+    "cheaper and faster",
+    "not possible"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the first sentence, sequencing the first bacterial genome took 13 months. The second sentence tells us that today it can be done \"withiin a few days or even, with the latest equipment, a day.\" So, tracing DNA sequence is definitely faster nowadays. Is it also cheaper? Yes, the last sentence in the passage notes that \"the cost has dropped to about $1,000 per genome, from more than $1 million.\"\n\nAs for the other answers, we know it is not more expensive (Answer A), it is not a longer process (B), and it is definitely possible (Answer D).",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "A wide range of formal anticipation mechanisms can be used to prepare organizations for change. These can be mapped onto a simple framework of Reveal, Reflect, Reality that exhibit the extent of sophistication. Reveal refers to techniques that are used to detect the weak signals of change and, possibly, their underlying trends; Reflect refers to those that require deeper thinking about the underlying drivers of change and its direction; Reality refers to foresight techniques that are accepted as the normal part of systematic strategizing, driving the real activities of the organization.",
+   "question": "How do Reflect and Reveal differ?",
+   "choices": [
+    "Reflect is more thorough",
+    "Reveal is in search of motives",
+    "Reflect is about formation of strategy",
+    "Reveal is in search of change"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nAccording to the passage, \"Reveal refers to techniques that are used to detect the weak signals of change.\"\n\nAnswer (A) is incorrect as thoroughness is not mentioned in the passage – Reveal and Reflect are two different parts of a mechanism. Answer (B) is incorrect as, according to the passage, although Reveal may discover trends, it is not designed to search for motives, and (C) is incorrect as strategizing is not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "In the early 18th century, American traders came to Hawaii to exploit the islands' sandalwood. In the 1830s, the sugar industry was also starting to prosper in Hawaii. In 1893, a group of American immigrants and sugar planters supported by a division of U.S. Marines have overthrown Queen Liliuokalani, the last reigning monarch of Hawaii. One year later, the republic of Hawaii was established as a U.S. protectorate.In March 1959, the U.S. government approved its statehood, and in June the Hawaiian people voted by a wide majority to accept admittance into the US.",
+   "question": "Approximately how many years passed between the first American visit to Hawaii to US admittance?",
+   "choices": [
+    "130",
+    "250",
+    "65",
+    "180"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe answer appears in two different parts of the passage. According to the first sentence, \"In the early 18th century, American traders came to Hawaii.\" So this was the first American visit. The last sentence states that \"In March 1959, the U.S. government approved its statehood\" – that is, admittance to the United States of America. We don't know the exact date of the first visit, but we know it was around 1700. So approximately 250 years passed between the first visit and Hawaii's admittance.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Eighteen months after the application is first filed, the Patent Office publishes the invention. A further payment, for an examination stage, must be made within 6 months of the publication if the inventor wants to continue, having considered the Examiner's search report. The Examiner will then consider all the details of the application and decide whether to grant a patent or not. If the patent is granted, there will be no more to pay until annual renewal fees are required from the end of the fourth year after the date of filing.",
+   "question": "When would the examiner consider the application?",
+   "choices": [
+    "After the patent is granted",
+    "After the invention is published",
+    "When renewal fees are required to be paid again",
+    "Following the examination stage payment"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nAccording to the passage, \"The Examiner will then consider all the details of the application and decide whether to grant a patent or not.\" That stage comes after: \"A further payment, for an examination stage, must be made within 6 months of the publication\" – so the application will be considered only after the examination is paid for.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "The UK government has been sending out mixed messages when it comes to domestic violence. On the one hand, the home secretary and the director of public prosecutions stress how serious this violence is and how determined they are to end it. On the other, the government is nibbling away determinedly at those services that are needed to fight this sort of violence, such as legal aid and protection for female asylum seekers who suffered domestic violence. And now it is reluctant to sign a new treaty which serves as an international legal instrument to address this type of abuse.",
+   "question": "Which prevention step against violence is not mentioned in the text?",
+   "choices": [
+    "Legal aid for domestic violence sufferers",
+    "Protection for asylum seekers",
+    "Prosecution of offenders",
+    "Signing a new treaty"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAnswers (A), (B) and (D) are all mentioned in the passage: \"... legal aid and protection for female asylum seekers who suffered domestic violence. And now it is reluctant to sign a new treaty.\" Only (C) isn't; therefore it is the correct answer.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Twice now the Federal-Reserve has engaged in large-scale asset purchasing, a process known as quantitative easing. This is meant to lower long-term interest rates, which should, in theory, stimulate economic growth in two ways.First, it should encourage more borrowing, so companies and consumers will have more money to spend. Second, lower long-term interest rates could encourage investment in riskier assets, like stocks.",
+   "question": "Borrowing would be encouraged by:",
+   "choices": [
+    "quantitative easing",
+    "higher long-term interest rates",
+    "companies",
+    "riskier assets"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage mentions that quantitative easing should encourage growth in two ways, one of them being to \"encourage more borrowing.\" A higher interest rate (Answer B) is not mentioned at all. Companies (Answer C), and riskier assets (D), are mentioned in other contexts – companies should spend more money by quantitative easing, and riskier assets should be invested in; both should be encouraged by quantitative easing, not the other way around.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "When smartphones were still young and computing tablets not yet born, some analysts predicted that the market for mobile devices would sooner or later look much like that for personal computers :There would be a clear division of labour and intellectual property between makers of hardware and software; a dominant operating system would emerge; and Apple would again become a niche player.",
+   "question": "The analysts prediction:",
+   "choices": [
+    "Complimented Apple",
+    "Forecasted Apple's failure",
+    "Forecasted Apple's success",
+    "Did not refer to Apple"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nThe analysts predicted that \"Apple would again become a niche player\" – that is, its sales would fall and it would not be a big, successful company.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "After years of study, researchers have figured out that in a patient with FFI, malformed proteins called prions attack the sufferer's thalamus, a deep brain structure, and that a damaged thalamus interferes with sleep. But they don't know why this happens, or how to stop it, or ease its brutal symptoms. Before FFI was investigated, most researchers didn't even know the thalamus had anything to do with sleep. FFI is exceedingly rare, known in only 40 families worldwide.",
+   "question": "FFI is:",
+   "choices": [
+    "A rare protein",
+    "A structure in the brain",
+    "A kind of sleeping disorder",
+    "A DNA stream"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nThe passage describes the prognosis of \"a patient with FFI\" – so we know it is a disease. The passage also notes that \"a damaged thalamus interferes with sleep\" – so we know it is a disease that affects sleep, that is, a kind of sleeping disorder (Answer C).",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "One of the most common methods used to help identify an individual from camera footage is photoanthropometry, which uses \"proportionality indices\" to compare a picture of a suspect on a police database, say, with a CCTV image. Key points on a person's face - such as the chin, edge of the nose, or centre of the top lip - are marked and the distance between them measured. Someone experienced with this technique can then judge whether the two faces match.",
+   "question": "Photoanthropometry requires:",
+   "choices": [
+    "\"proportionality indices\" and an experienced judge",
+    "only human face key points",
+    "Only someone experienced with the technique",
+    "Camera footage and a CCTV image"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage mentions that photoanthropometry uses \"proportionality indices,\" and that \"Someone experienced with this technique can then judge whether the two faces match.\" So this technique requires both \"proportionality indices\" and an experienced judge. (B) is incorrect as key point on faces is something photoanthropometry uses, but using them is not enough to recognise a person. (C) is incorrect, since besides someone who is experienced with the technique, it also requires proportionality indices; and (D) is incorrect as photoanthropometry can work with a photo from camera or CCTV source – there is no need for both.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "The Marangoni effect is the mass transfer along an interface between two fluids due to surface tension gradient. Since a liquid with a high surface tension pulls more strongly on the surrounding liquid than one with a low surface tension, the presence of a gradient in surface tension will naturally cause the liquid to flow away from regions of low surface tension. The surface tension gradient can be caused by concentration gradient or by a temperature gradient.",
+   "question": "What can happen to low surface tension liquid?",
+   "choices": [
+    "A mass reduction",
+    "Temperature increase",
+    "Displacement to high surface tension area",
+    "Concentration reduction"
+   ],
+   "answer": 2,
+   "explanation": "\"Since a liquid with a high surface tension pulls more strongly on the surrounding liquid than one with a low surface tension, the presence of a gradient in surface tension will naturally cause the liquid to flow away from regions of low surface tension.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "If a car fails a vehicle identification check because its identity cannot be confirmed, it won't be entitled to retain its original registration mark. It may be possible to register the car with DVLA if evidence of British National Type Approval in the form of a Minister's Approval Certificate can be produced. This may be obtained by applying to VOSA for an Individual Vehicle Approval (IVA). However, before doing so, you'll need to obtain an alternative vehicle identification number (VIN) from your local DVLA Office.",
+   "question": "What must first be done to receive an approval certificate?",
+   "choices": [
+    "Acquire an alternative identification number",
+    "Register at the Minister's office",
+    "Register at the DVLA",
+    "Supply evidence of BNT approval"
+   ],
+   "answer": 0,
+   "explanation": "The correct answer is (A).\n\nThe passage states that an approval certificate \"may be obtained by applying to VOSA for an Individual Vehicle Approval (IVA). However, before doing so, you'll need to obtain an alternative vehicle identification number.\" None of the other answers are mentioned in this sentence – and they are not required for issuing an approval certificate.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "To make sure you do not fall into consumer scams, ask for full contact details, including a street address, and not just a Post Office or mail box number. Resist pressure to make a decision right away, and consider asking a friend or a professional for advice. You should also take steps to cut the number of unsolicited offers you receive. If you've received a letter or other mailing, check whether it's come from a member of the DMA. If you suspect you've been had by a scam, don't let embarrassment prevent you from seeking advice or reporting it.",
+   "question": "What advice regarding scam prevention is not given for consumers?",
+   "choices": [
+    "Look for a business's full address",
+    "Contact a solicitor",
+    "Put the firm's name into an internet search engine",
+    "See if the business is a member of DMA"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAnswer (A) is mentioned in the first sentence of the passage: \"ask for full contact details, including a street address.\" (B) appears in the second sentence – you should ask a \"professional for advice.\" Later in the passage it is also mentioned that you should \"check whether it comes from a member of the DMA.\" The only answer not mentioned in the passage is (C): \"Put the firm's name into an internet search engine.\"",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "South Korean success in the field of telecommunications was aided by Government policies that linked technology development for digital devices with the introduction of telecommunications services. For this task, the Government invented a unique R&D system into which IT manufacturers and service providers coalesced for technology development and standardization. Under this institutional rubric, the Government could adroitly coordinate potentially conflicting interests between manufactures and service providers. With the benefit of close consultation with domestic manufacturers, local service providers have excelled in unveiling cutting-edge technologies.",
+   "question": "What made the prevention of potentially conflicting interests possible?",
+   "choices": [
+    "Introduction of telecommunication services",
+    "Consultation with domestic manufacturers",
+    "Developing a unique R&D system",
+    "Introduction off cutting edge technologies"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nThe passage mentions that \"the Government invented a unique R&D system, into which IT manufacturers and service providers coalesced for technology development and standardization. Under this institutional rubric, the Government could adroitly coordinate potentially conflicting interests\"; in other words, the introduction of the R&D system by the government allowed it to coordinate and avoid conflicting interests.\n\nThe other answer choices appear in the passage, but not in this context.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Different actuaries have different roles, so they either work for insurance companies or consulting firms. They may be involved with devising a new retirement program for a company or even calculating the impact of cell phone ban laws in automobile losses and determining suitable rate discounts. For instance, in property insurance, property and casualty actuaries compute the number of claims likely to result from natural catastrophes. The actuaries take into account the property's location, construction and several other factors before determining the premium.\n\n(Taken from Investopedia)",
+   "question": "What might an actuary be involved in?",
+   "choices": [
+    "Calculating earthquake casualties",
+    "Counting the number of accidents per person",
+    "Computing appropriate compensation discounts",
+    "Constructing properties"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nThe passage mentions that actuaries may be involved in \"determining suitable rate discounts\".\n\nAnswer (A) is incorrect. According to the passage, actuaries, though involved in calculating the \"number of claims likely to result from natural catastrophes\", do not calculate the exact projected number of casualties. The same goes for answer (B) – actuaries may be involved in calculating the \"impact of cell phone ban laws in automobile losses\", but they do not calculate the exact number of accidents per person. In addition, nowhere in the passage is it mentioned that actuaries are involved in constructing properties (D).",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Maintaining low interest rates is another way governments seek to stimulate the economy, generate tax revenue and reduce national debt. Low interest rates make it easy for individuals and businesses to borrow money. In turn, the borrowers spend that money on goods and services, which creates jobs and tax revenues. Low interest rates have been employed by the U.S., the EU, the UK and other nations with some degree of success. That noted, interest rates kept at or near zero for extended periods of time have not proved to be a panacea for debt-ridden governments.",
+   "question": "How can tax revenues be generated?",
+   "choices": [
+    "Creating new jobs",
+    "National debts",
+    "Low interest rates",
+    "High interest rates"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nIt is stated in the passage that \"Low interest rates make it easy for individuals and businesses to borrow money. In turn, the borrowers spend that money on goods and services, which creates jobs and tax revenues\".\n\nAs for the other answers, (A) is incorrect because, according to the passage, creating new jobs is also facilitated by low interest rates. That in itself, however, does not create tax revenue. (B) is incorrect as national debt is mentioned as being unaffected by low interest rates. Thus, it has no connection with tax revenue. (D) is incorrect as the passage talks about low interest rates generating tax revenue, and high rates are never mentioned.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "As the U.S. cotton industry developed, other countries became more dependent on cotton produced in the American South. The power of cotton allowed the Confederacy to employ cotton diplomacy as its foundation for foreign relations during the Civil War; Southerners attempted to use cotton to pressure countries such as England and France into the war on behalf of the Confederacy, perceiving cotton as the great leverage in this effort: More than three-fourths of the cotton used in the textile industries of England and France came from the American South.",
+   "question": "For Southerners, Cotton meant:",
+   "choices": [
+    "Global economic dominance",
+    "Political influence",
+    "Weapon production",
+    "Peaceful intentions"
+   ],
+   "answer": 1,
+   "explanation": "The correct answer is (B).\n\nAccording to the passage, \"The power of cotton allowed the Confederacy to employ cotton diplomacy.\" The other answers are not mentioned in the passage at all.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Studies find that commercial open source software results in high-quality products, and that despite the free-riding that is inherent in the industry, the market creates spillover benefits for both consumers and producers. In the shared features market, the high-quality firm creates additional open source features, whereas the low quality firm does not. Both firms also develop some degree of usability. The high-quality firm contributes to open source because the complementary nature of features and usability increases the value of differentiating on usability, and both firms appropriate the benefits from quality differentiation.",
+   "question": "What does a low-quality firm not do?",
+   "choices": [
+    "Develop some degree of usability",
+    "Appropriate benefits from quality differentiation",
+    "Creates additional open source features",
+    "Creates spillover benefits for consumers only."
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nThe passage clearly states that \"the high-quality firm creates additional open source features, whereas the low quality firm does not.\" Answers (A) and (B) are both incorrect as the passage states that both kinds of firms develop some degree of usability and appropriate benefits. (D) – creating spillover benefits – is mentioned as something the market does, not as something low or high quality firms do.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Dinosaurs first appear in the fossil record during the Triassic period, some 230m years ago. They do not take over, though, until the end of the Triassic, 201m years ago. That date marks one of five recognised mass extinctions in history (the end of the Cretaceous was another). In it, half the world's known species disappeared. Until now, the end of the Triassic has been blamed on massive volcanic eruptions that went on for 600,000 years.",
+   "question": "Dinosaurs existed during the Triassic period for:",
+   "choices": [
+    "230,000,000 years",
+    "600,000 years",
+    "29,000,000 years",
+    "200,400,000 years"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C).\n\nAccording to the passage, the Teriassic period existed between 201 million and 230 million years ago. Dinosaurs existed throughout it. That is, 29 million years in total.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "Just as the sun's rays can be focused by a magnifying glass to burn a piece of paper, high-intensity ultrasound waves can be concentrated to burn human tissue. The waves are harmless until they converge at the focal point, so a surgeon can operate deep inside the body without harming the surrounding tissue.\nHIFU requires no cuts to be made, and many operations don't even need an anaesthetic, so the patient can be in and out of hospital within a day",
+   "question": "How can HIFU enable early release of patients from hospital?",
+   "choices": [
+    "Ultrasound waves can be very focused.",
+    "It allows for very deep penetration into the body.",
+    "It is harmless.",
+    "No cuts are required."
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D).\n\nAccording to the last sentence in the passage: \"HIFU requires no cuts to be made, and many operations don't even need an anaesthetic, so the patient can be in and out of hospital within a day.\" Answers (A) and (B) are mentioned in the passage, but not as the reason why HIFU enables the patient to be released early. Answer (C) is incorrect, as the passage notes that \"the waves are harmless until they converge at the focal point\" – they are not always harmless.",
+   "source": "Reading Comprehension — Basics 4",
+   "topic": "Reading Comprehension — Basics 4",
+   "topic_n": 4
+  },
+  {
+   "passage": "FIRE PROTECTION AND PREVENTION\nThe employer shall be responsible for the development of a fire protection program and he shall provide all the required firefighting equipment as specified below. Access to all available firefighting equipment shall be maintained at all times. As fire hazards occur, there shall be no delay in providing the necessary equipment - fire extinguishers, small hose lines, one 55-gallon open drum of water, and a 1/2-inch diameter garden-type hose line.\nAll firefighting equipment shall be periodically inspected and maintained to ensure it is fully operational. Defective equipment shall be immediately replaced.",
+   "question": "Which one of the following would best replace 'drum' while maintaining the meaning of the passage?",
+   "choices": [
+    "Container",
+    "Package",
+    "Flask",
+    "Booth"
+   ],
+   "answer": 0,
+   "explanation": "The meaning of the word 'drum' in the context of a 'drum of water' is 'container'.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "FIRE PROTECTION AND PREVENTION\nThe employer shall be responsible for the development of a fire protection program and he shall provide all the required firefighting equipment as specified below. Access to all available firefighting equipment shall be maintained at all times. As fire hazards occur, there shall be no delay in providing the necessary equipment - fire extinguishers, small hose lines, one 55-gallon open drum of water, and a 1/2-inch diameter garden-type hose line.\nAll firefighting equipment shall be periodically inspected and maintained to ensure it is fully operational. Defective equipment shall be immediately replaced.",
+   "question": "Two types of hoses should be available in the event of a fire.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage specifies 2 types of hoses as necessary firefighting equipment: a 'small hose lines' and 'a 1/2-inch diameter garden-type hose line'.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "FIRE PROTECTION AND PREVENTION\nThe employer shall be responsible for the development of a fire protection program and he shall provide all the required firefighting equipment as specified below. Access to all available firefighting equipment shall be maintained at all times. As fire hazards occur, there shall be no delay in providing the necessary equipment - fire extinguishers, small hose lines, one 55-gallon open drum of water, and a 1/2-inch diameter garden-type hose line.\nAll firefighting equipment shall be periodically inspected and maintained to ensure it is fully operational. Defective equipment shall be immediately replaced.",
+   "question": "Firefighting equipment should be inspected once a week.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The passage states that: 'firefighting equipment shall be periodically inspected'. It does not, however, stipulate the exact period of time for regular check-ups.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "OCCUPATIONAL HEAT EXPOSURE\nWhen a person works in a hot environment, the body must get rid of excess heat to maintain a stable internal temperature. It does this mainly through circulating blood to the skin and through sweating. When the air temperature is warm, cooling of the body becomes more difficult. When this happens, the body continues to store heat, and the person begins to lose concentration and has difficulty focusing on a task. Excessive exposure to heat requires immediate medical attention.",
+   "question": "Which one of the following would best replace 'excess' while maintaining the meaning of the passage?",
+   "choices": [
+    "extraneous",
+    "unbearable",
+    "mild",
+    "dry"
+   ],
+   "answer": 0,
+   "explanation": "The meaning of the word 'excess' in the context of 'excess heat' is 'extrenuous'.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "OCCUPATIONAL HEAT EXPOSURE\nWhen a person works in a hot environment, the body must get rid of excess heat to maintain a stable internal temperature. It does this mainly through circulating blood to the skin and through sweating. When the air temperature is warm, cooling of the body becomes more difficult. When this happens, the body continues to store heat, and the person begins to lose concentration and has difficulty focusing on a task. Excessive exposure to heat requires immediate medical attention.",
+   "question": "Excessive exposure to heat is deadly.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The passage states that: 'excessive exposure to heat requires immediate medical attention'. While it's very logical to assume that leaving a situation of excessive exposure to heat, medically unattended, might result in death eventually, it isn't mentioned in the text. Moreover, the text does not provide an explicit reason for the need for immediate medical care. Since you are instructed to base your answers solely on the text, you don't have enough information to answer this question, stating that an excessive exposure to heat is deadly.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "OCCUPATIONAL HEAT EXPOSURE\nWhen a person works in a hot environment, the body must get rid of excess heat to maintain a stable internal temperature. It does this mainly through circulating blood to the skin and through sweating. When the air temperature is warm, cooling of the body becomes more difficult. When this happens, the body continues to store heat, and the person begins to lose concentration and has difficulty focusing on a task. Excessive exposure to heat requires immediate medical attention.",
+   "question": "Difficulty in cooling makes it hard to focus.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage mentions difficulty in cooling, followed by this: '...when this happens, the body continues to store heat, and the person begins to lose concentration and has difficulty focusing on a task'.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "MOLD PREVENTION IN THE WORKPLACE\nMoisture control is the key to mold control. When water leaks or spills occur indoors, a prompt response (within 24-48 hours) and thorough clean-up will prevent or limit mold growth. Mold prevention tips include repairing plumbing leaks in the building and maintaining indoor humidity below 70%.",
+   "question": "Which one of the following would best replace 'control' whilst maintaining the meaning of the passage?",
+   "choices": [
+    "Monitoring",
+    "Management",
+    "Manipulation",
+    "Mechanism"
+   ],
+   "answer": 1,
+   "explanation": "The meaning of the word 'control' in the context of 'moisture control' is 'management'.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "MOLD PREVENTION IN THE WORKPLACE\nMoisture control is the key to mold control. When water leaks or spills occur indoors, a prompt response (within 24-48 hours) and thorough clean-up will prevent or limit mold growth. Mold prevention tips include repairing plumbing leaks in the building and maintaining indoor humidity below 70%.",
+   "question": "After 48 hours wet spots will develop mold.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "Although the passage urges the cleaning of wet spots within a time frame of 48 hours, it does not clarify the time it takes for mold to develop. It might be 48 hours or it might be more (or even less). We don't have enough information.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "MOLD PREVENTION IN THE WORKPLACE\nMoisture control is the key to mold control. When water leaks or spills occur indoors, a prompt response (within 24-48 hours) and thorough clean-up will prevent or limit mold growth. Mold prevention tips include repairing plumbing leaks in the building and maintaining indoor humidity below 70%.",
+   "question": "Plumbing leaks are cause for mold growth.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "Since one of the mold preventive tips in the passage is: 'repair plumbing leaks in the building', we have sufficient information to conclude that plumbing leaks cause mold growth.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "GENERAL OCCUPATIONAL HEALTH STANDARDS - HOUSEKEEPING\nAn untidy workplace can result in unmotivated workers, reduced efficiency and severe injuries. Therefore, good housekeeping practices are essential for all workplaces. Such practices include cleaning spills on floors immediately, and allocating space close to workstations allowing storage of tools and materials that are frequently used. It is also highly recommended to train all workers in good housekeeping procedures in order to maintain tidiness on a day-to-day basis.",
+   "question": "Tools and materials, used in the workplace, should be placed in a storage room.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "Although the passage mentions that: 'work materials should be neatly stored' and that 'space close to workstations should be allocated to allow for the storage of tools and materials', this does not necessarily mean that materials and tools should be stored in a storage room. They can also be stored in a drawer, containers, etc.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "GENERAL OCCUPATIONAL HEALTH STANDARDS - HOUSEKEEPING\nAn untidy workplace can result in unmotivated workers, reduced efficiency and severe injuries. Therefore, good housekeeping practices are essential for all workplaces. Such practices include cleaning spills on floors immediately, and allocating space close to workstations allowing storage of tools and materials that are frequently used. It is also highly recommended to train all workers in good housekeeping procedures in order to maintain tidiness on a day-to-day basis.",
+   "question": "An untidy workplace can be an unsafe place.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage specifically notes that: \"An untidy workplace can result in unmotivated workers, reduced efficiency and severe injuries.\" Therefore, an untidy workplace can be a dangerous place.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WELFARE FACILITIES IN THE WORKPLACE\nA person conducting a business must ensure the provision of adequate facilities for workers, including toilets, drinking water, washing and eating facilities. These facilities must be in good working order, clean, safe and accessible. When considering how to provide and maintain facilities that are adequate and accessible, a person conducting a business must consider all relevant matters including the nature of the work being carried out at the workplace and the number and composition of the workers at the workplace.",
+   "question": "Which one of the following would best replace 'facilities' while maintaining the meaning of the passage?",
+   "choices": [
+    "toilets",
+    "skills",
+    "abilities",
+    "services"
+   ],
+   "answer": 3,
+   "explanation": "The correct answer is (D) - services. The meaning of the word 'facilities' in the passage is: 'services.'",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WELFARE FACILITIES IN THE WORKPLACE\nA person conducting a business must ensure the provision of adequate facilities for workers, including toilets, drinking water, washing and eating facilities. These facilities must be in good working order, clean, safe and accessible. When considering how to provide and maintain facilities that are adequate and accessible, a person conducting a business must consider all relevant matters including the nature of the work being carried out at the workplace and the number and composition of the workers at the workplace.",
+   "question": "Employers should provide separate toilets for men and women.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The correct answer is (C) - Not possible to say. The passage states that employers should provide necessary facilities, such as toilets; however, it does not specify whether the toilets provided should be separate for men and women. Therefore, we don't have enough information to answer this question.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WELFARE FACILITIES IN THE WORKPLACE\nA person conducting a business must ensure the provision of adequate facilities for workers, including toilets, drinking water, washing and eating facilities. These facilities must be in good working order, clean, safe and accessible. When considering how to provide and maintain facilities that are adequate and accessible, a person conducting a business must consider all relevant matters including the nature of the work being carried out at the workplace and the number and composition of the workers at the workplace.",
+   "question": "Small sized workplaces need not accommodate eating facilities.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 1,
+   "explanation": "The passage indicates a number of things to consider when dealing with workplace facilities, such as the size of the workplace and number of employees. However, it also identifies a few essential facilities that must be provided to all workers, one of them being eating facilities. So, eating facilities are a necessity in the workplace and therefore should be accommodated even by a small sized workplace.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WORKPLACE VIOLENCE\nAny act of disruptive behavior that occurs at the work site. It ranges from threats and verbal abuse to physical assaults and even homicide. It can affect and involve employees, clients, customers and visitors.\nIn order to reduce the volume of violent acts, identify the workplace risk factors in advance and establish a zero-tolerance policy toward workplace violence.",
+   "question": "Which one of the following would best replace 'affect' while maintaining the meaning of the passage?",
+   "choices": [
+    "intimidate",
+    "influence",
+    "control",
+    "impress"
+   ],
+   "answer": 1,
+   "explanation": "The meaning of the word 'affect' in its context is: influence.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WORKPLACE VIOLENCE\nAny act of disruptive behavior that occurs at the work site. It ranges from threats and verbal abuse to physical assaults and even homicide. It can affect and involve employees, clients, customers and visitors.\nIn order to reduce the volume of violent acts, identify the workplace risk factors in advance and establish a zero-tolerance policy toward workplace violence.",
+   "question": "Employers should fire workers who use violence in the workplace.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 2,
+   "explanation": "The passage states that establishing a zero-tolerance policy toward workplace violence is a means of reducing workplace violence. However, the passage does not provide an interpretation to the meaning of a 'zero-tolerance policy'. Therefore we don't have enough information to assume that the consequence of workplace violence is getting fired.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  },
+  {
+   "passage": "WORKPLACE VIOLENCE\nAny act of disruptive behavior that occurs at the work site. It ranges from threats and verbal abuse to physical assaults and even homicide. It can affect and involve employees, clients, customers and visitors.\nIn order to reduce the volume of violent acts, identify the workplace risk factors in advance and establish a zero-tolerance policy toward workplace violence.",
+   "question": "Employees should not accept violent behavior from their colleagues.",
+   "choices": [
+    "True",
+    "False",
+    "Not possible to say if the statement is true or false on the basis of the passage"
+   ],
+   "answer": 0,
+   "explanation": "The passage states that the way to reduce workplace violence is to 'establish a zero-tolerance policy toward workplace violence.' That is, both employers and employees should not accept any manifestation of violence in the workplace.",
+   "source": "Reading Comprehension — Basics 5",
+   "topic": "Reading Comprehension — Basics 5",
+   "topic_n": 5
+  }
+ ]
+}

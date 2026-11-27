@@ -1,0 +1,22 @@
+{
+ "exams": [
+  {
+   "file": "ff-rc-basics-a.json",
+   "title": "RC Basics — Sets 1–2",
+   "note": "Reading Comprehension — Basics sets 1–2",
+   "category": "Firefighter",
+   "chapter": "Reading Comprehension",
+   "pie": true,
+   "draw": 20
+  },
+  {
+   "file": "ff-rc-basics-b.json",
+   "title": "RC Basics — Sets 3–5",
+   "note": "Reading Comprehension — Basics sets 3–5",
+   "category": "Firefighter",
+   "chapter": "Reading Comprehension",
+   "pie": true,
+   "draw": 20
+  }
+ ]
+}
