@@ -276,7 +276,20 @@ const FF3D = (function () {
   }
   const active = [];
   function disposeAll() {
-    active.forEach(function (r) { r.dead = true; if (r.raf && typeof cancelAnimationFrame === 'function') cancelAnimationFrame(r.raf); });
+    // Browsers cap live WebGL contexts (~16). Cancelling the animation
+    // frame is NOT enough: each renderer must be disposed and its context
+    // force-lost, or later questions run out of contexts and only the
+    // scene note shows (live bug found Nov 27, 2026 — only Q1 rendered).
+    active.forEach(function (r) {
+      r.dead = true;
+      if (r.raf && typeof cancelAnimationFrame === 'function') cancelAnimationFrame(r.raf);
+      if (r.renderer) {
+        try { r.renderer.dispose(); } catch (e) {}
+        try { if (r.renderer.forceContextLoss) r.renderer.forceContextLoss(); } catch (e) {}
+        try { if (r.renderer.domElement && r.renderer.domElement.parentNode) r.renderer.domElement.parentNode.removeChild(r.renderer.domElement); } catch (e) {}
+        r.renderer = null;
+      }
+    });
     active.length = 0;
   }
   const DEFAULT_COLORS = { box: '#5b8def', cylinder: '#64748b', pulley: '#475569', prism: '#0ea5e9', pyramid: '#f59e0b', cone: '#f97316', sphere: '#a855f7', gear: '#78716c' };
@@ -353,7 +366,7 @@ const FF3D = (function () {
       else cam.position.set(center[0] + 6, center[1] + 4, center[2] + 9);
       if (cam.lookAt) cam.lookAt(center[0], center[1], center[2]);
       // Drag to rotate the group.
-      const rec = { dead: false, raf: 0 };
+      const rec = { dead: false, raf: 0, renderer: renderer };
       active.push(rec);
       let dragging = false, px = 0, py = 0;
       const el = renderer.domElement;
@@ -367,12 +380,12 @@ const FF3D = (function () {
         });
         ['pointerup', 'pointerleave', 'pointercancel'].forEach(function (t) { el.addEventListener(t, function () { dragging = false; }); });
       }
-      const loop = function () {
-        if (rec.dead) return;
-        renderer.render(sc, cam);
-        if (typeof requestAnimationFrame === 'function') rec.raf = requestAnimationFrame(loop);
-      };
-      loop();
+      // Render once, and again only while dragging — no perpetual
+      // animation loop competing for the GPU across six canvases.
+      const draw = function () { if (!rec.dead) renderer.render(sc, cam); };
+      draw();
+      rec.draw = draw;
+      if (el && el.addEventListener) el.addEventListener('pointermove', function () { if (dragging) draw(); });
     }).catch(function () {
       label.textContent = note ? '3D figure: ' + note : '3D figure could not be loaded.';
     });
